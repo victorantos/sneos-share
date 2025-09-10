@@ -24,19 +24,4 @@ footer: SNEOS Share © 2025
 
 ## Recent Comparisons
 
-Browse the latest AI model comparisons shared by the SNEOS community:
-
-<script setup>
-import { ref, onMounted } from 'vue'
-import { useData } from '@vuepress/client'
-
-const { site } = useData()
-const recentComparisons = ref([])
-
-onMounted(() => {
-  // This would typically fetch recent comparisons
-  // For now, we'll show a static message
-})
-</script>
-
-Visit [SNEOS.com](https://sneos.com) to create your own AI model comparisons and share them instantly.
+Browse the latest AI model comparisons shared by the SNEOS community. Visit [SNEOS.com](https://sneos.com) to create your own AI model comparisons and share them instantly.
