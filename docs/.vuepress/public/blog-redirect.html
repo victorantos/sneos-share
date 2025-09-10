@@ -112,8 +112,10 @@
             }
             
             try {
-                // Try different Azure Function URL formats
+                // Try different Azure Function URL formats using custom domain
                 const urlsToTry = [
+                    `https://serve.sneos.com/api/serve-share/${shareId}`,
+                    `https://serve.sneos.com/api/serve-share/share/${shareId}`,
                     `https://func-api-g65xq7n52soq6.azurewebsites.net/api/serve-share/${shareId}`,
                     `https://func-api-g65xq7n52soq6.azurewebsites.net/api/serve-share/share/${shareId}`
                 ];
