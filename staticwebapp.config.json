@@ -6,7 +6,7 @@
     },
     {
       "route": "/compare/*",
-      "rewrite": "/compare/index.html"
+      "rewrite": "/blog-redirect.html"
     }
   ],
   "navigationFallback": {

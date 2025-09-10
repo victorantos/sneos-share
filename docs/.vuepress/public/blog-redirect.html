@@ -90,40 +90,71 @@
     </style>
     
     <script>
-        // Handle redirecting old blog paths to the current VuePress site
+        // Get the current path and extract share ID
         const currentPath = window.location.pathname;
         const currentSearch = window.location.search;
         const currentHash = window.location.hash;
         
-        // For share.sneos.com, we want to stay on the same domain
-        // The VuePress site is served directly, so we just need to handle any legacy paths
-        let targetUrl = `${window.location.origin}${currentPath}${currentSearch}${currentHash}`;
-        
-        // Update page title based on path
-        if (currentPath.includes('/compare/')) {
-            document.title = 'AI Comparison - SNEOS Share';
-        } else if (currentPath.includes('/guides/')) {
-            document.title = 'AI Guides - SNEOS Share';
+        // Extract share ID from path like /compare/2025-09-10-what-is-tesla-robot-1108.html
+        let shareId = null;
+        const compareMatch = currentPath.match(/\/compare\/(.+?)(\.html)?$/);
+        if (compareMatch) {
+            shareId = compareMatch[1];
         }
         
-        // For share.sneos.com, we typically don't need iframe embedding since VuePress serves directly
-        // This file exists for compatibility with routing configuration
-        // Redirect to the actual content
-        if (window.location.pathname !== '/blog-redirect.html') {
-            // If we're not on the redirect page itself, redirect immediately
-            window.location.replace(targetUrl);
-        } else {
-            // If we somehow ended up on this page directly, redirect to home
-            window.location.replace('https://share.sneos.com/');
+        // Update page title based on share ID
+        if (shareId) {
+            document.title = `AI Comparison - ${shareId} - SNEOS Share`;
         }
+        
+        // Create and load iframe with instant share content from Azure Function
+        document.addEventListener('DOMContentLoaded', function() {
+            const iframe = document.getElementById('share-frame');
+            if (iframe && shareId) {
+                // Load instant share from Azure Function (serves from blob storage)
+                const instantShareUrl = `https://sneos-function.azurewebsites.net/api/serve-share/${shareId}`;
+                console.log('Loading instant share iframe with URL:', instantShareUrl);
+                iframe.src = instantShareUrl;
+            } else {
+                // No valid share ID, show error
+                handleFrameError();
+            }
+        });
+        
+        function handleFrameLoad() {
+            console.log('Instant share iframe loaded successfully');
+            setTimeout(() => {
+                const loadingContainer = document.getElementById('loadingContainer');
+                if (loadingContainer) {
+                    loadingContainer.classList.add('hidden');
+                }
+            }, 500);
+        }
+        
+        function handleFrameError() {
+            console.error('Instant share iframe failed to load');
+            const loadingContainer = document.getElementById('loadingContainer');
+            const errorContainer = document.getElementById('errorContainer');
+            if (loadingContainer) loadingContainer.style.display = 'none';
+            if (errorContainer) errorContainer.style.display = 'flex';
+        }
+        
+        // Handle iframe load timeout (if it takes too long)
+        setTimeout(() => {
+            const loadingContainer = document.getElementById('loadingContainer');
+            if (loadingContainer && !loadingContainer.classList.contains('hidden')) {
+                console.warn('Instant share iframe taking too long to load');
+                // Could show a different message or try alternative loading
+            }
+        }, 10000); // 10 second timeout
     </script>
     
 </head>
 <body>
     <div class="loading-container" id="loadingContainer">
         <div class="loading-spinner"></div>
-        <div class="loading-text">Loading SNEOS Share</div>
-        <div class="loading-subtext">AI Model Comparisons</div>
+        <div class="loading-text">Loading Instant Share</div>
+        <div class="loading-subtext">Serving from blob storage while permanent version deploys...</div>
     </div>
     
     <div class="error-container" id="errorContainer">
