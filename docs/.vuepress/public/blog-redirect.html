@@ -112,22 +112,32 @@
             }
             
             try {
-                // Since we're in blog-redirect.html, the permanent page doesn't exist yet
-                // Go directly to Azure Function for instant share
-                console.log('Loading instant share from Azure Function...');
-                const instantShareUrl = `https://func-api-g65xq7n52soq6.azurewebsites.net/api/serve-share/${shareId}`;
+                // Try different Azure Function URL formats
+                const urlsToTry = [
+                    `https://func-api-g65xq7n52soq6.azurewebsites.net/api/serve-share/${shareId}`,
+                    `https://func-api-g65xq7n52soq6.azurewebsites.net/api/serve-share/share/${shareId}`
+                ];
                 
-                const instantResponse = await fetch(instantShareUrl, { method: 'HEAD' });
-                if (instantResponse.ok) {
-                    // Got instant content, redirect to Azure Function
-                    console.log('Instant share found, redirecting to function...');
-                    window.location.replace(instantShareUrl);
-                    return;
+                for (const url of urlsToTry) {
+                    console.log(`Trying instant share URL: ${url}`);
+                    try {
+                        const response = await fetch(url, { method: 'HEAD' });
+                        if (response.ok || response.status === 302) {
+                            // Got instant content or redirect, navigate to function
+                            console.log(`Instant share found at ${url}, redirecting...`);
+                            window.location.replace(url);
+                            return;
+                        }
+                        console.log(`URL ${url} returned status: ${response.status}`);
+                    } catch (fetchError) {
+                        console.log(`Failed to fetch ${url}:`, fetchError.message);
+                        continue;
+                    }
                 }
                 
-                // Instant share doesn't exist either
-                console.log('Share not found in blob storage');
-                showError('Share not found or may have expired');
+                // None of the URLs worked
+                console.log('Share not found at any endpoint');
+                showError('Share not found or may have expired. The share may not have been created yet or may have been removed.');
                 
             } catch (error) {
                 console.error('Error loading share:', error);
