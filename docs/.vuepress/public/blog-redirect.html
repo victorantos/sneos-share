@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SNEOS Share - AI Model Comparisons</title>
+    <meta name="description" content="Share and compare AI model responses. See how different AI models respond to the same prompts." />
+    <link rel="canonical" href="https://share.sneos.com/" />
+    
+    <!-- Open Graph / SEO Meta Tags -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://share.sneos.com/" />
+    <meta property="og:title" content="SNEOS Share - AI Model Comparisons" />
+    <meta property="og:description" content="Share and compare AI model responses. See how different AI models respond to the same prompts." />
+    <meta property="og:site_name" content="SNEOS Share" />
+    
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow: hidden;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        }
+        
+        .loading-container {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            z-index: 1000;
+            transition: opacity 0.5s ease-out;
+        }
+        
+        .loading-container.hidden {
+            opacity: 0;
+            pointer-events: none;
+        }
+        
+        .loading-spinner {
+            width: 50px;
+            height: 50px;
+            border: 4px solid rgba(255, 255, 255, 0.3);
+            border-radius: 50%;
+            border-top-color: white;
+            animation: spin 1s ease-in-out infinite;
+            margin-bottom: 20px;
+        }
+        
+        .loading-text {
+            color: white;
+            font-size: 1.2em;
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+        
+        .loading-subtext {
+            color: rgba(255, 255, 255, 0.8);
+            font-size: 0.9em;
+        }
+        
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+        
+        #share-frame {
+            width: 100%;
+            height: 100vh;
+            border: none;
+            display: block;
+        }
+        
+        .error-container {
+            display: none;
+            padding: 40px;
+            text-align: center;
+            background: #f8f9fa;
+            height: 100vh;
+            box-sizing: border-box;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+    </style>
+    
+    <script>
+        // Handle redirecting old blog paths to the current VuePress site
+        const currentPath = window.location.pathname;
+        const currentSearch = window.location.search;
+        const currentHash = window.location.hash;
+        
+        // For share.sneos.com, we want to stay on the same domain
+        // The VuePress site is served directly, so we just need to handle any legacy paths
+        let targetUrl = `${window.location.origin}${currentPath}${currentSearch}${currentHash}`;
+        
+        // Update page title based on path
+        if (currentPath.includes('/compare/')) {
+            document.title = 'AI Comparison - SNEOS Share';
+        } else if (currentPath.includes('/guides/')) {
+            document.title = 'AI Guides - SNEOS Share';
+        }
+        
+        // For share.sneos.com, we typically don't need iframe embedding since VuePress serves directly
+        // This file exists for compatibility with routing configuration
+        // Redirect to the actual content
+        if (window.location.pathname !== '/blog-redirect.html') {
+            // If we're not on the redirect page itself, redirect immediately
+            window.location.replace(targetUrl);
+        } else {
+            // If we somehow ended up on this page directly, redirect to home
+            window.location.replace('https://share.sneos.com/');
+        }
+    </script>
+    
+</head>
+<body>
+    <div class="loading-container" id="loadingContainer">
+        <div class="loading-spinner"></div>
+        <div class="loading-text">Loading SNEOS Share</div>
+        <div class="loading-subtext">AI Model Comparisons</div>
+    </div>
+    
+    <div class="error-container" id="errorContainer">
+        <div style="font-size: 4em; color: #dc3545; margin-bottom: 20px;">⚠️</div>
+        <div style="font-size: 1.5em; font-weight: 600; color: #212529; margin-bottom: 10px;">Unable to Load Share Content</div>
+        <div style="color: #6c757d; margin-bottom: 20px;">There was a problem loading the share content. Please try again.</div>
+        <button onclick="location.reload()" style="background: #007bff; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; font-size: 1em;">Retry</button>
+    </div>
+    
+    <noscript>
+        <meta http-equiv="refresh" content="0; url=https://share.sneos.com/">
+    </noscript>
+</body>
+</html>
