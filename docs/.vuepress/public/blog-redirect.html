@@ -112,7 +112,7 @@
             const iframe = document.getElementById('share-frame');
             if (iframe && shareId) {
                 // Load instant share from Azure Function (serves from blob storage)
-                const instantShareUrl = `https://sneos-function.azurewebsites.net/api/serve-share/${shareId}`;
+                const instantShareUrl = `https://func-api-g65xq7n52soq6.azurewebsites.net/api/serve-share/${shareId}`;
                 console.log('Loading instant share iframe with URL:', instantShareUrl);
                 iframe.src = instantShareUrl;
             } else {
