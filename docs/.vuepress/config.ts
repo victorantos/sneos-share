@@ -1,5 +1,5 @@
 import { defineUserConfig } from "vuepress";
-import { defaultTheme } from '@vuepress/theme-default'
+import theme from "./theme.js";
 
 export default defineUserConfig({
   base: "/",
@@ -9,21 +9,5 @@ export default defineUserConfig({
   title: "SNEOS Share - AI Model Comparisons",
   description: "Share and compare AI model responses. See how different AI models respond to the same prompts.",
 
-  theme: defaultTheme({
-    // Basic theme configuration
-    navbar: [
-      {
-        text: 'Home',
-        link: '/',
-      },
-      {
-        text: 'Comparisons',
-        link: '/compare/',
-      },
-      {
-        text: 'Create Your Own',
-        link: 'https://sneos.com',
-      },
-    ],
-  }),
+  theme,
 });

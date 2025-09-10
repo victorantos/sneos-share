@@ -1,3 +1,2 @@
-# Temporarily disable VuePress build to test static deployment
-# [build]
-# command = "npm ci && npm run docs:build"
+[build]
+command = "npm ci && npm run docs:build"
