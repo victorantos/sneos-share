@@ -13,12 +13,8 @@ export default defineUserConfig({
 
   shouldPrefetch: false,
   
-  // Enable syntax highlighting
-  markdown: {
-    code: {
-      lineNumbers: false,
-    },
-  },
+  // Note: markdown.code is deprecated in VuePress v2
+  // Use @vuepress/plugin-prismjs or @vuepress/plugin-shiki instead
   
   plugins: [
     // Explicitly disable sitemap plugin to fix build errors
