@@ -23,3 +23,5 @@ npm run docs:build
 
 ## Deployment
 Automatically deployed to Azure Static Web Apps on push to main branch.
+
+Built with VuePress 2.0.0-rc.13 + Theme Hope 2.0.0-rc.48 (matching AngJobs configuration).

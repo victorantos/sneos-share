@@ -40,6 +40,9 @@ export default hopeTheme({
   },
 
   plugins: {
+    // Disable problematic plugins
+    sitemap: false,
+    seo: false,
     mdEnhance: {
       codetabs: true,
       container: true,
