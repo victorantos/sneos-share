@@ -1,0 +1,120 @@
+// Code block styling for VuePress Hope theme
+// Following official documentation: https://theme-hope.vuejs.press/guide/markdown/code/fence.html
+
+// Basic code block variables
+$code-bg-color: #f6f8fa;
+$code-color: #24292f;
+
+// Code block container
+div[class*="language-"] {
+  background: $code-bg-color !important;
+  border-radius: 8px !important;
+  border: 1px solid #e1e4e8 !important;
+  margin: 1rem 0 !important;
+  
+  pre {
+    background: transparent !important;
+    padding: 1rem !important;
+    overflow-x: auto !important;
+    color: $code-color !important;
+    
+    code {
+      background: none !important;
+      padding: 0 !important;
+      font-family: 'SFMono-Regular', 'Monaco', 'Inconsolata', 'Roboto Mono', monospace !important;
+      font-size: 0.875rem !important;
+      line-height: 1.45 !important;
+      color: inherit !important;
+      border: none !important;
+    }
+  }
+}
+
+// Inline code
+code:not(pre code) {
+  background: $code-bg-color !important;
+  border-radius: 4px !important;
+  padding: 0.2em 0.4em !important;
+  font-family: 'SFMono-Regular', 'Monaco', 'Inconsolata', 'Roboto Mono', monospace !important;
+  font-size: 0.875rem !important;
+  color: $code-color !important;
+  border: 1px solid #e1e4e8 !important;
+}
+
+// Dark mode
+@media (prefers-color-scheme: dark) {
+  $code-bg-color-dark: #161b22;
+  $code-color-dark: #e6edf3;
+  
+  div[class*="language-"] {
+    background: $code-bg-color-dark !important;
+    border-color: #30363d !important;
+    
+    pre {
+      color: $code-color-dark !important;
+    }
+  }
+  
+  code:not(pre code) {
+    background: $code-bg-color-dark !important;
+    color: $code-color-dark !important;
+    border-color: #30363d !important;
+  }
+}
+
+// Clean layout specific overrides for better specificity
+.clean-layout {
+  div[class*="language-"] {
+    background: $code-bg-color !important;
+    border-radius: 8px !important;
+    border: 1px solid #e1e4e8 !important;
+    margin: 1rem 0 !important;
+    
+    pre {
+      background: transparent !important;
+      padding: 1rem !important;
+      overflow-x: auto !important;
+      color: $code-color !important;
+      
+      code {
+        background: none !important;
+        padding: 0 !important;
+        font-family: 'SFMono-Regular', 'Monaco', 'Inconsolata', 'Roboto Mono', monospace !important;
+        font-size: 0.875rem !important;
+        line-height: 1.45 !important;
+        color: inherit !important;
+        border: none !important;
+      }
+    }
+  }
+  
+  code:not(pre code) {
+    background: $code-bg-color !important;
+    border-radius: 4px !important;
+    padding: 0.2em 0.4em !important;
+    font-family: 'SFMono-Regular', 'Monaco', 'Inconsolata', 'Roboto Mono', monospace !important;
+    font-size: 0.875rem !important;
+    color: $code-color !important;
+    border: 1px solid #e1e4e8 !important;
+  }
+}
+
+// Dark mode for clean layout
+@media (prefers-color-scheme: dark) {
+  .clean-layout {
+    div[class*="language-"] {
+      background: #161b22 !important;
+      border-color: #30363d !important;
+      
+      pre {
+        color: #e6edf3 !important;
+      }
+    }
+    
+    code:not(pre code) {
+      background: #161b22 !important;
+      color: #e6edf3 !important;
+      border-color: #30363d !important;
+    }
+  }
+}

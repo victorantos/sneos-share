@@ -1,0 +1,16 @@
+{
+  "routes": [
+    {
+      "route": "/compare/*",
+      "rewrite": "/compare/index.html"
+    }
+  ],
+  "navigationFallback": {
+    "rewrite": "/index.html",
+    "exclude": ["/assets/*", "/css/*", "/js/*", "/*.png", "/*.jpg", "/*.svg"]
+  },
+  "mimeTypes": {
+    ".json": "application/json",
+    ".md": "text/markdown"
+  }
+}

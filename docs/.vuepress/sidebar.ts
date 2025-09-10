@@ -1,0 +1,66 @@
+import { sidebar } from "vuepress-theme-hope";
+
+export default sidebar({
+  "/compare/": [
+    "",
+    "chatgpt-vs-claude",
+    "gemini-vs-gpt4",
+    "all-comparisons",
+    {
+      text: "Model Categories",
+      icon: "layer-group",
+      children: [
+        "large-language-models",
+        "code-models", 
+        "image-models",
+        "multimodal-models",
+      ],
+    },
+  ],
+  
+  "/guides/": [
+    "",
+    "choosing-right-ai-model",
+    "ai-model-pricing",
+    "performance-benchmarks",
+    {
+      text: "Advanced Guides",
+      icon: "graduation-cap",
+      children: [
+        "fine-tuning-guide",
+        "prompt-engineering",
+        "model-deployment",
+      ],
+    },
+  ],
+  
+  "/research/": [
+    "",
+    "q1-2025-ai-performance",
+    "evaluation-methods",
+    {
+      text: "Research Papers",
+      icon: "file-alt",
+      children: [
+        "latest-papers",
+        "benchmark-studies",
+        "industry-reports",
+      ],
+    },
+  ],
+  
+  "/tools/": [
+    "",
+    "comparison-calculator", 
+    "cost-calculator",
+    {
+      text: "Interactive Tools",
+      icon: "calculator",
+      children: [
+        "model-picker",
+        "performance-analyzer",
+        "roi-calculator",
+      ],
+    },
+  ],
+});
