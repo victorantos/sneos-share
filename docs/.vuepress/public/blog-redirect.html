@@ -137,7 +137,7 @@
                 
                 // None of the URLs worked
                 console.log('Share not found at any endpoint');
-                showError('Share not found or may have expired. The share may not have been created yet or may have been removed.');
+                showError('Instant share not available yet. This may be due to: 1) Share is still being processed, 2) Azure Functions deployment pending, or 3) Share expired. Please try refreshing in a few minutes.');
                 
             } catch (error) {
                 console.error('Error loading share:', error);
