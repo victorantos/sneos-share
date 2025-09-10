@@ -16,10 +16,7 @@ export default defineUserConfig({
   // Note: markdown.code is deprecated in VuePress v2
   // Use @vuepress/plugin-prismjs or @vuepress/plugin-shiki instead
   
-  plugins: [
-    // Explicitly disable sitemap plugin to fix build errors
-    ["@vuepress/plugin-sitemap", false],
-  ],
+  // Plugins configuration simplified for better compatibility
   
   head: [
     // SEO and meta tags

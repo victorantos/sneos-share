@@ -1,2 +1,2 @@
 [build]
-command = "npm run docs:build"
+command = "npm ci && npm run docs:build"
