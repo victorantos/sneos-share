@@ -112,23 +112,12 @@
             }
             
             try {
-                // First, try to check if permanent VuePress page exists
-                const permanentUrl = `${window.location.origin}/compare/${shareId}.html`;
-                console.log('Checking for permanent page:', permanentUrl);
-                
-                const permanentResponse = await fetch(permanentUrl, { method: 'HEAD' });
-                if (permanentResponse.ok) {
-                    // Permanent page exists, redirect to it
-                    console.log('Permanent page found, redirecting...');
-                    window.location.replace(permanentUrl);
-                    return;
-                }
-                
-                // Permanent page doesn't exist, try Azure Function for instant share
-                console.log('Permanent page not found, trying instant share...');
+                // Since we're in blog-redirect.html, the permanent page doesn't exist yet
+                // Go directly to Azure Function for instant share
+                console.log('Loading instant share from Azure Function...');
                 const instantShareUrl = `https://func-api-g65xq7n52soq6.azurewebsites.net/api/serve-share/${shareId}`;
                 
-                const instantResponse = await fetch(instantShareUrl);
+                const instantResponse = await fetch(instantShareUrl, { method: 'HEAD' });
                 if (instantResponse.ok) {
                     // Got instant content, redirect to Azure Function
                     console.log('Instant share found, redirecting to function...');
@@ -136,8 +125,8 @@
                     return;
                 }
                 
-                // Neither permanent nor instant version exists
-                console.log('Share not found in either location');
+                // Instant share doesn't exist either
+                console.log('Share not found in blob storage');
                 showError('Share not found or may have expired');
                 
             } catch (error) {
