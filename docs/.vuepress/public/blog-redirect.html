@@ -112,7 +112,7 @@
             }
             
             // Directly redirect to the Azure Function - it now handles blob content properly
-            const functionUrl = `https://func-api-g65xq7n52soq6.azurewebsites.net/api/serve-share/${shareId}`;
+            const functionUrl = `https://serve.sneos.com/api/serve-share/${shareId}`;
             console.log(`Redirecting to Azure Function: ${functionUrl}`);
             window.location.replace(functionUrl);
         }
