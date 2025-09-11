@@ -111,10 +111,30 @@
                 return;
             }
             
-            // Directly redirect to the Azure Function - it now handles blob content properly
-            const functionUrl = `https://serve.sneos.com/api/serve-share/${shareId}`;
-            console.log(`Redirecting to Azure Function: ${functionUrl}`);
-            window.location.replace(functionUrl);
+            try {
+                // Load content from serve API and display it inline
+                const functionUrl = `https://serve.sneos.com/api/serve-share/${shareId}`;
+                console.log(`Loading share content from: ${functionUrl}`);
+                
+                const response = await fetch(functionUrl);
+                if (response.ok) {
+                    const htmlContent = await response.text();
+                    
+                    // Replace the entire page content with the share content
+                    document.open();
+                    document.write(htmlContent);
+                    document.close();
+                    
+                    // Update the URL to show clean share.sneos.com URL in browser
+                    window.history.replaceState({}, '', `/compare/${shareId}.html`);
+                } else {
+                    console.error(`Failed to load share: ${response.status}`);
+                    showError(`Share not found (${response.status}). This link may have expired or be invalid.`);
+                }
+            } catch (error) {
+                console.error('Error loading share:', error);
+                showError('Failed to load share content. Please check your internet connection and try again.');
+            }
         }
         
         function showError(message) {
