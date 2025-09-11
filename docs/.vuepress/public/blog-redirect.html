@@ -111,40 +111,10 @@
                 return;
             }
             
-            try {
-                // Try different Azure Function URL formats using custom domain
-                const urlsToTry = [
-                    `https://serve.sneos.com/api/serve-share/${shareId}`,
-                    `https://serve.sneos.com/api/serve-share/share/${shareId}`,
-                    `https://func-api-g65xq7n52soq6.azurewebsites.net/api/serve-share/${shareId}`,
-                    `https://func-api-g65xq7n52soq6.azurewebsites.net/api/serve-share/share/${shareId}`
-                ];
-                
-                for (const url of urlsToTry) {
-                    console.log(`Trying instant share URL: ${url}`);
-                    try {
-                        const response = await fetch(url, { method: 'HEAD' });
-                        if (response.ok || response.status === 302) {
-                            // Got instant content or redirect, navigate to function
-                            console.log(`Instant share found at ${url}, redirecting...`);
-                            window.location.replace(url);
-                            return;
-                        }
-                        console.log(`URL ${url} returned status: ${response.status}`);
-                    } catch (fetchError) {
-                        console.log(`Failed to fetch ${url}:`, fetchError.message);
-                        continue;
-                    }
-                }
-                
-                // None of the URLs worked
-                console.log('Share not found at any endpoint');
-                showError('Instant share not available yet. This may be due to: 1) Share is still being processed, 2) Azure Functions deployment pending, or 3) Share expired. Please try refreshing in a few minutes.');
-                
-            } catch (error) {
-                console.error('Error loading share:', error);
-                showError('Error loading share content');
-            }
+            // Directly redirect to the Azure Function - it now handles blob content properly
+            const functionUrl = `https://func-api-g65xq7n52soq6.azurewebsites.net/api/serve-share/${shareId}`;
+            console.log(`Redirecting to Azure Function: ${functionUrl}`);
+            window.location.replace(functionUrl);
         }
         
         function showError(message) {
