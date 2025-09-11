@@ -1,16 +1,6 @@
 {
-  "routes": [
-    {
-      "route": "/blog/*",
-      "rewrite": "/blog-redirect.html"
-    },
-    {
-      "route": "/compare/*",
-      "rewrite": "/blog-redirect.html"
-    }
-  ],
   "navigationFallback": {
-    "rewrite": "/index.html",
+    "rewrite": "/blog-redirect.html",
     "exclude": ["/assets/*", "/css/*", "/js/*", "/*.png", "/*.jpg", "/*.svg", "/blog-redirect.html"]
   },
   "mimeTypes": {

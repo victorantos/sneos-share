@@ -112,9 +112,11 @@
             }
             
             try {
+                console.log(`Loading share: ${shareId}`);
+                
                 // Load content from serve API and display it inline
                 const functionUrl = `https://serve.sneos.com/api/serve-share/${shareId}`;
-                console.log(`Loading share content from: ${functionUrl}`);
+                console.log(`Fetching from serve API: ${functionUrl}`);
                 
                 const response = await fetch(functionUrl);
                 if (response.ok) {
@@ -125,8 +127,7 @@
                     document.write(htmlContent);
                     document.close();
                     
-                    // Update the URL to show clean share.sneos.com URL in browser
-                    window.history.replaceState({}, '', `/compare/${shareId}.html`);
+                    console.log('Share content loaded successfully');
                 } else {
                     console.error(`Failed to load share: ${response.status}`);
                     showError(`Share not found (${response.status}). This link may have expired or be invalid.`);
