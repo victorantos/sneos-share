@@ -29,14 +29,14 @@ export default defineUserConfig({
     // SEO and meta tags
     ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1.0' }],
     ['meta', { name: 'keywords', content: 'AI models, AI comparison, ChatGPT vs Claude, Gemini, AI tools, machine learning, artificial intelligence, model evaluation' }],
-    ['meta', { name: 'author', content: 'SNEOS Team' }],
+    ['meta', { name: 'author', content: 'SNEOS Team and Friends' }],
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:title', content: 'SNEOS Blog - AI Model Comparison Platform' }],
+    ['meta', { property: 'og:title', content: 'SNEOS Share - AI Model Comparison Platform' }],
     ['meta', { property: 'og:description', content: 'Compare AI models and discover the best AI tools for your needs' }],
-    ['meta', { property: 'og:url', content: 'https://sneos.com/blog' }],
+    ['meta', { property: 'og:url', content: 'https://share.sneos.com/' }],
     ['meta', { property: 'og:image', content: 'https://sneos.com/blog/og-image.png' }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
-    ['meta', { name: 'twitter:title', content: 'SNEOS Blog - AI Model Comparison Platform' }],
+    ['meta', { name: 'twitter:title', content: 'SNEOS Share - AI Model Comparison Platform' }],
     ['meta', { name: 'twitter:description', content: 'Compare AI models and discover the best AI tools for your needs' }],
     ['meta', { name: 'twitter:image', content: 'https://sneos.com/blog/twitter-image.png' }],
     
@@ -46,14 +46,14 @@ export default defineUserConfig({
     ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' }],
     ['link', { rel: 'manifest', href: '/site.webmanifest' }],
     
-    // Structured data for AI blog
+    // Structured data for AI share
     ['script', {
       type: 'application/ld+json'
     }, JSON.stringify({
       "@context": "https://schema.org",
       "@type": "WebSite",
-      "name": "SNEOS Blog",
-      "url": "https://sneos.com/blog",
+      "name": "SNEOS Share",
+      "url": "https://share.sneos.com/",
       "description": "AI model comparison platform with guides, research, and tools",
       "publisher": {
         "@type": "Organization",
@@ -62,14 +62,14 @@ export default defineUserConfig({
       },
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://sneos.com/blog/search?q={search_term_string}",
+        "target": "https://share.sneos.com/search?q={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     })],
     
     // Analytics
     ['script', {
-      'data-goatcounter': 'https://sneos-blog.goatcounter.com/count',
+      'data-goatcounter': 'https://share-sneos.goatcounter.com/count',
       async: true,
       src: '//gc.zgo.at/count.js'
     }]
