@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Loading Share - SNEOS</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f8f9fa;
+        }
+        
+        .loading-container {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+        
+        .loading-spinner {
+            width: 50px;
+            height: 50px;
+            border: 4px solid rgba(255, 255, 255, 0.3);
+            border-radius: 50%;
+            border-top-color: white;
+            animation: spin 1s linear infinite;
+        }
+        
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+        
+        .loading-text {
+            color: white;
+            margin-top: 20px;
+            font-size: 1.2em;
+        }
+        
+        .error-container {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: white;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            padding: 20px;
+            text-align: center;
+        }
+        
+        .error-container h1 {
+            color: #e53e3e;
+        }
+        
+        .error-container a {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 12px 24px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            text-decoration: none;
+            border-radius: 6px;
+        }
+    </style>
+</head>
+<body>
+    <div class="loading-container" id="loadingContainer">
+        <div class="loading-spinner"></div>
+        <div class="loading-text">Loading share content...</div>
+    </div>
+    
+    <div class="error-container" id="errorContainer">
+        <h1>Share Not Found</h1>
+        <p id="errorMessage">This share may have expired or the link may be incorrect.</p>
+        <a href="https://sneos.com">Go to SNEOS</a>
+    </div>
+    
+    <script>
+        // Check if this is a share URL
+        const path = window.location.pathname;
+        const isShareUrl = path.includes('/compare/') && path !== '/compare/';
+        
+        if (isShareUrl) {
+            // Extract share ID
+            const match = path.match(/\/compare\/(.+?)(\.html)?$/);
+            if (match) {
+                const shareId = match[1];
+                
+                // Redirect directly to the Azure Function URL
+                const functionUrl = `https://func-api-g65xq7n52soq6.azurewebsites.net/api/serve-share/${shareId}`;
+                
+                // Replace current page with the share content
+                window.location.replace(functionUrl);
+            } else {
+                showError('Invalid share URL');
+            }
+        } else {
+            // Not a share URL, show regular 404
+            showError('Page not found');
+        }
+        
+        function showError(message) {
+            document.getElementById('loadingContainer').style.display = 'none';
+            document.getElementById('errorContainer').style.display = 'flex';
+            document.getElementById('errorMessage').textContent = message;
+        }
+        
+        // Timeout fallback
+        setTimeout(() => {
+            const loadingContainer = document.getElementById('loadingContainer');
+            if (loadingContainer && window.getComputedStyle(loadingContainer).display !== 'none') {
+                showError('Loading timeout - please try refreshing the page');
+            }
+        }, 5000);
+    </script>
+</body>
+</html>
