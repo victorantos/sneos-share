@@ -1,34 +1,35 @@
 ---
-title: "AI Model Comparison"
-description: "AI model comparison recovered from blob storage"
+title: "2025-09-11-best-washing-machine-for-home-in-europe-2656"
+description: "AI model comparison: "
 date: 2025-09-11
 category: comparison
 layout: Clean
 tags:
+  - ChatGPT
+  - Grok  
+  - Gemini
   - AI Comparison
   - Recovered
 author: SNEOS Community
 head:
   - - meta
     - name: description
-      content: "Recovered AI model comparison: AI Model Comparison"
+      content: "AI model comparison: "
 ---
 
-# AI Model Comparison
+# 2025-09-11-best-washing-machine-for-home-in-europe-2656
 
-**Published**: 2025-09-11  
-**Share ID**: 2025-09-11-best-washing-machine-for-home-in-europe-2656  
-**Status**: Recovered from blob storage
+**Published**: 2025-09-11
+**Models Compared**: ChatGPT, Grok, Gemini
 
-## About This Recovery
-
-This share was recovered from blob storage during a batch recovery process. The original interactive content is preserved and available at the link below.
-
-**View Original Share**: [https://share.sneos.com/compare/2025-09-11-best-washing-machine-for-home-in-europe-2656.html](https://share.sneos.com/compare/2025-09-11-best-washing-machine-for-home-in-europe-2656.html)
-
-## Why Was This Recovered?
-
-During development, some shares were successfully stored in blob storage for instant access but failed to commit to GitHub due to API rate limiting. This recovery process ensures all shares have permanent styled versions.
+<ChatComparison
+  title="2025-09-11-best-washing-machine-for-home-in-europe-2656"
+  prompt=""
+  :responses='{
+    "ChatGPT": "",
+    "Grok": "",
+    "Gemini": ""
+  }' />
 
 ---
 
