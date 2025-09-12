@@ -1,34 +1,35 @@
 ---
-title: "AI Model Comparison"
-description: "AI model comparison recovered from blob storage"
+title: "2025-09-10-what-is-tesla-robot-1108"
+description: "AI model comparison: "
 date: 2025-09-10
 category: comparison
 layout: Clean
 tags:
+  - ChatGPT
+  - Grok  
+  - Gemini
   - AI Comparison
   - Recovered
 author: SNEOS Community
 head:
   - - meta
     - name: description
-      content: "Recovered AI model comparison: AI Model Comparison"
+      content: "AI model comparison: "
 ---
 
-# AI Model Comparison
+# 2025-09-10-what-is-tesla-robot-1108
 
-**Published**: 2025-09-10  
-**Share ID**: 2025-09-10-what-is-tesla-robot-1108  
-**Status**: Recovered from blob storage
+**Published**: 2025-09-10
+**Models Compared**: ChatGPT, Grok, Gemini
 
-## About This Recovery
-
-This share was recovered from blob storage during a batch recovery process. The original interactive content is preserved and available at the link below.
-
-**View Original Share**: [https://share.sneos.com/compare/2025-09-10-what-is-tesla-robot-1108.html](https://share.sneos.com/compare/2025-09-10-what-is-tesla-robot-1108.html)
-
-## Why Was This Recovered?
-
-During development, some shares were successfully stored in blob storage for instant access but failed to commit to GitHub due to API rate limiting. This recovery process ensures all shares have permanent styled versions.
+<ChatComparison
+  title="2025-09-10-what-is-tesla-robot-1108"
+  prompt=""
+  :responses='{
+    "ChatGPT": "The Tesla Robot, also known as Tesla Bot or Optimus, is a humanoid robot project developed by Tesla, Inc. It is designed to perform tasks that are repetitive, dangerous, or boring for humans. The robot is intended to be about 5 feet 8 inches tall, weigh around 125 pounds, and be capable of carrying out various manual labor tasks. It incorporates Tesla's advanced technologies in artificial intelligence, neural networks, and robotics. Tesla aims for the robot to assist in manufacturing, household chores, and potentially other applications in the future. The project was first announced by Elon Musk in 2021.",
+    "Grok": "",
+    "Gemini": ""
+  }' />
 
 ---
 
