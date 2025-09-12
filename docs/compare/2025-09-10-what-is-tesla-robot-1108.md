@@ -1,34 +1,33 @@
 ---
-title: "2025-09-10-what-is-tesla-robot-1108"
-description: "AI model comparison: "
+title: "What is Tesla robot"
+description: "AI model comparison: what is Tesla robot"
 date: 2025-09-10
 category: comparison
 layout: Clean
 tags:
   - ChatGPT
-  - Grok  
+  - Claude
   - Gemini
   - AI Comparison
-  - Recovered
 author: SNEOS Community
 head:
   - - meta
     - name: description
-      content: "AI model comparison: "
+      content: "AI model comparison: what is Tesla robot"
 ---
 
-# 2025-09-10-what-is-tesla-robot-1108
+# What is Tesla robot
 
-**Published**: 2025-09-10
-**Models Compared**: ChatGPT, Grok, Gemini
+**Published**: October 10, 2025
+**Models Compared**: ChatGPT, Claude, Gemini
 
 <ChatComparison
-  title="2025-09-10-what-is-tesla-robot-1108"
-  prompt=""
+  title="What is Tesla robot"
+  prompt="what is Tesla robot"
   :responses='{
-    "ChatGPT": "The Tesla Robot, also known as Tesla Bot or Optimus, is a humanoid robot project developed by Tesla, Inc. It is designed to perform tasks that are repetitive, dangerous, or boring for humans. The robot is intended to be about 5 feet 8 inches tall, weigh around 125 pounds, and be capable of carrying out various manual labor tasks. It incorporates Tesla's advanced technologies in artificial intelligence, neural networks, and robotics. Tesla aims for the robot to assist in manufacturing, household chores, and potentially other applications in the future. The project was first announced by Elon Musk in 2021.",
-    "Grok": "",
-    "Gemini": ""
+    "ChatGPT": "The Tesla Robot, also known as Tesla Bot or Optimus, is a humanoid robot project developed by Tesla, Inc. It is designed to perform tasks that are repetitive, dangerous, or boring for humans. The robot is intended to be about 5 feet 8 inches tall, weigh around 125 pounds, and be capable of carrying out various manual labor tasks. It incorporates Tesla\\'s advanced technologies in artificial intelligence, neural networks, and robotics. Tesla aims for the robot to assist in manufacturing, household chores, and potentially other applications in the future. The project was first announced by Elon Musk in 2021.",
+    "Claude": "Tesla\\'s robot is called **Optimus** (also known as Tesla Bot). It\\'s a humanoid robot that Tesla is developing with the goal of creating a general-purpose robotic assistant.\\n\\n## Key Features:\\n- **Height**: About 5\\'8\\\" (173 cm)\\n- **Weight**: Approximately 125 lbs (57 kg)\\n- **Design**: Bipedal humanoid form with human-like proportions\\n- **AI Integration**: Uses Tesla\\'s neural network technology and AI systems",
+    "Gemini": "The Tesla robot, also known as Optimus, is a general-purpose, bipedal humanoid robot under development by Tesla, Inc.. It was announced on August 19, 2021, during Tesla\\'s AI Day event. A prototype was showcased in 2022. Tesla CEO Elon Musk believes that Optimus has the potential to be more significant than Tesla\\'s vehicle business.\\n\\nHere\\'s what is known about the Tesla Robot:\\n*   **Capabilities**: Optimus is designed to perform unsafe, repetitive, or boring tasks. Tesla is developing software stacks to enable the robot to balance, navigate, perceive, and interact with the physical world.\\n*   **Hardware**: The robot is planned to be 5 ft 8 in (173 cm) tall and weigh 125 lb (57 kg). It will have a screen where its head is for displaying useful information. The hands of the Generation 2 Optimus had 11 degrees of freedom.\\n*   **AI System**: Optimus will be controlled by the same AI system used in Tesla\\'s advanced driver-assistance system. It will utilize cameras and the full self-driving computer.\\n*   **Timeline**: Elon Musk estimated the robot would be available for purchase for around US$30,000. Production is scheduled to start in 2026.\\n*   **Recent Developments**: In March 2025, Musk announced that an Optimus robot would be sent to Mars in 2026 onboard a SpaceX Starship rocket. A next-generation Optimus robot with a built-in voice assistant, Grok, was shown in a recent video."
   }' />
 
 ---
