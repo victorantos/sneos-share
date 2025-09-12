@@ -9,5 +9,16 @@ export default defineUserConfig({
   title: "SNEOS Share - AI Model Comparisons",
   description: "Share and compare AI model responses. See how different AI models respond to the same prompts.",
 
+  head: [
+    [
+      'script',
+      {
+        'data-goatcounter': 'https://share-sneos.goatcounter.com/count',
+        async: true,
+        src: '//gc.zgo.at/count.js'
+      }
+    ]
+  ],
+
   theme,
 });
