@@ -3,6 +3,7 @@ title: "best washing machine for home in Europe"
 description: "AI model comparison: best washing machine for home in Europe..."
 date: 2025-09-11
 category: comparison
+layout: Clean
 tags:
   - Grok
   - Claude
