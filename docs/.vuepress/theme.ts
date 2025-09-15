@@ -41,9 +41,32 @@ export default hopeTheme({
 
   plugins: {
     sitemap: {
-      changefreq: "weekly",
-      priority: 0.7,
       excludePaths: ["/404.html"],
+      modifyTimeGetter: (page) => {
+        // Compare index page changes frequently (when new comparisons are added)
+        if (page.path === '/compare/' || page.path === '/compare/index.html') {
+          return new Date().toISOString();
+        }
+        // Individual comparison pages don't change after creation
+        // Use git time or fallback to a static date
+        return page.git?.updatedTime || page.frontmatter?.date || new Date('2025-01-01').toISOString();
+      },
+      changefreqGetter: (page) => {
+        // Homepage and compare index change frequently
+        if (page.path === '/' || page.path === '/compare/' || page.path === '/compare/index.html') {
+          return 'daily';
+        }
+        // Individual comparison pages rarely change after creation
+        return 'yearly';
+      },
+      priorityGetter: (page) => {
+        // Homepage has highest priority
+        if (page.path === '/') return 1.0;
+        // Compare index is important for discovering new content
+        if (page.path === '/compare/' || page.path === '/compare/index.html') return 0.9;
+        // Individual comparisons have standard priority
+        return 0.6;
+      },
     },
     seo: {
       ogp: (ogp) => ({
