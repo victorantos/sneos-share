@@ -40,12 +40,28 @@ export default hopeTheme({
   },
 
   plugins: {
-    // Disable problematic plugins
-    sitemap: false,
-    seo: false,
+    sitemap: {
+      changefreq: "weekly",
+      priority: 0.7,
+      excludePaths: ["/404.html"],
+    },
+    seo: {
+      ogp: (ogp) => ({
+        ...ogp,
+        "og:site_name": "SNEOS Share - AI Model Comparisons",
+      }),
+      jsonLd: (jsonLd) => ({
+        ...jsonLd,
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "SNEOS Share",
+        "description": "Share and compare AI model responses",
+        "url": "https://share.sneos.com",
+      }),
+    },
     mdEnhance: {
       codetabs: true,
-      container: true,
+      hint: true,
     },
   },
 });
