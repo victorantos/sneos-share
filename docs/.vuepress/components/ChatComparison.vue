@@ -158,6 +158,20 @@ export default {
   margin: 0 0 1rem 0;
   font-size: 1.5rem;
   font-weight: 600;
+  line-height: 1.3;
+}
+
+/* Larger title on desktop for better visibility */
+@media (min-width: 1024px) {
+  .comparison-header h3 {
+    font-size: 1.75rem;
+  }
+}
+
+@media (min-width: 1440px) {
+  .comparison-header h3 {
+    font-size: 2rem;
+  }
 }
 
 .comparison-meta {
@@ -179,7 +193,16 @@ export default {
 .prompt-text {
   font-size: 0.95rem;
   opacity: 0.95;
-  line-height: 1.4;
+  line-height: 1.5;
+  max-width: 100%;
+}
+
+/* Better prompt display on larger screens */
+@media (min-width: 1024px) {
+  .prompt-text {
+    font-size: 1rem;
+    line-height: 1.6;
+  }
 }
 
 .chat-windows-grid {
