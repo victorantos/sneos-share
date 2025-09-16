@@ -107,8 +107,10 @@ export default {
           const langClass = language ? ` class="language-${language}"` : '';
           return `<div${langClass}><pre><code>${this.escapeHtml(code.trim())}</code></pre></div>`;
         })
-        // Handle inline code (single backticks) 
+        // Handle inline code (single backticks)
         .replace(/`([^`]+)`/g, '<code>$1</code>')
+        // Handle markdown links [text](url)
+        .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener noreferrer">$1</a>')
         // Handle bold text
         .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
         // Handle italic text
