@@ -4,7 +4,22 @@
       <h3>{{ title }}</h3>
       <div class="comparison-meta">
         <span class="prompt-badge">Prompt</span>
-        <span class="prompt-text">{{ prompt }}</span>
+        <div class="prompt-container">
+          <div
+            class="prompt-text"
+            :class="{ 'prompt-collapsed': isHeaderCollapsed }"
+            ref="headerPrompt"
+          >
+            {{ prompt }}
+          </div>
+          <button
+            v-if="shouldShowHeaderToggle"
+            @click="toggleHeader"
+            class="expand-toggle"
+          >
+            {{ isHeaderCollapsed ? 'Show more' : 'Show less' }}
+          </button>
+        </div>
       </div>
     </div>
     
@@ -26,9 +41,20 @@
         <div class="chat-messages">
           <!-- User Message -->
           <div class="message user-message">
-            <div class="message-content">
+            <div
+              class="message-content"
+              :class="{ 'message-collapsed': isChatCollapsed }"
+              ref="chatPrompt"
+            >
               {{ prompt }}
             </div>
+            <button
+              v-if="shouldShowChatToggle"
+              @click="toggleChat"
+              class="chat-expand-toggle"
+            >
+              {{ isChatCollapsed ? 'Show more' : 'Show less' }}
+            </button>
           </div>
           
           <!-- AI Response -->
@@ -74,7 +100,74 @@ export default {
       default: () => new Date().toLocaleTimeString()
     }
   },
+  data() {
+    return {
+      isHeaderCollapsed: false,
+      isChatCollapsed: false,
+      shouldShowHeaderToggle: false,
+      shouldShowChatToggle: false,
+      isDesktop: false,
+      isMobile: false
+    }
+  },
+  mounted() {
+    this.checkScreenSize();
+    this.checkPromptLength();
+    window.addEventListener('resize', this.handleResize);
+  },
+  beforeUnmount() {
+    window.removeEventListener('resize', this.handleResize);
+  },
   methods: {
+    checkScreenSize() {
+      this.isDesktop = window.innerWidth >= 1024;
+      this.isMobile = window.innerWidth <= 768;
+    },
+
+    handleResize() {
+      this.checkScreenSize();
+      this.checkPromptLength();
+    },
+
+    checkPromptLength() {
+      // Check if header prompt should be collapsible
+      const sentences = this.prompt.match(/[.!?]+/g) || [];
+      let headerSentenceLimit;
+
+      if (this.isMobile) {
+        headerSentenceLimit = 2; // More aggressive on mobile
+      } else if (this.isDesktop) {
+        headerSentenceLimit = 3; // Original desktop requirement
+      } else {
+        headerSentenceLimit = 2.5; // Tablet - between mobile and desktop
+      }
+
+      this.shouldShowHeaderToggle = sentences.length > headerSentenceLimit;
+
+      // Check if chat prompt should be collapsible with device-specific line estimation
+      const charsPerLine = this.isMobile ? 30 : (this.isDesktop ? 60 : 45); // Mobile: 30, Desktop: 60, Tablet: 45
+      const chatLineLimit = this.isMobile ? 3 : 5; // Mobile: 3 lines, Desktop/Tablet: 5 lines
+
+      const estimatedLines = Math.ceil(this.prompt.length / charsPerLine) + (this.prompt.match(/\n/g) || []).length;
+      this.shouldShowChatToggle = estimatedLines > chatLineLimit;
+
+      // Auto-collapse if conditions are met
+      if (this.shouldShowHeaderToggle) {
+        this.isHeaderCollapsed = true;
+      }
+      if (this.shouldShowChatToggle) {
+        this.isChatCollapsed = true;
+      }
+    },
+
+    toggleHeader() {
+      this.isHeaderCollapsed = !this.isHeaderCollapsed;
+    },
+
+    toggleChat() {
+      this.isChatCollapsed = !this.isChatCollapsed;
+    },
+
     formatModelName(model) {
       const modelNames = {
         'ChatGPT': 'ChatGPT',
@@ -360,6 +453,67 @@ export default {
   text-decoration: underline;
 }
 
+/* Collapsible prompt styles */
+.prompt-container {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  flex: 1;
+}
+
+.prompt-text.prompt-collapsed {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.expand-toggle {
+  background: rgba(255, 255, 255, 0.15);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  color: white;
+  padding: 0.25rem 0.75rem;
+  border-radius: 16px;
+  font-size: 0.75rem;
+  font-weight: 500;
+  cursor: pointer;
+  align-self: flex-start;
+  transition: all 0.2s ease;
+}
+
+.expand-toggle:hover {
+  background: rgba(255, 255, 255, 0.25);
+  border-color: rgba(255, 255, 255, 0.5);
+}
+
+.user-message .message-content.message-collapsed {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.chat-expand-toggle {
+  background: #e2e8f0;
+  border: 1px solid #cbd5e0;
+  color: #4a5568;
+  padding: 0.25rem 0.75rem;
+  border-radius: 12px;
+  font-size: 0.75rem;
+  font-weight: 500;
+  cursor: pointer;
+  margin-top: 0.5rem;
+  align-self: flex-end;
+  transition: all 0.2s ease;
+}
+
+.chat-expand-toggle:hover {
+  background: #cbd5e0;
+  border-color: #a0aec0;
+}
+
 /* Mobile responsiveness */
 @media (max-width: 768px) {
   .chat-windows-grid {
@@ -390,15 +544,32 @@ export default {
   .comparison-header {
     padding: 1rem;
   }
-  
+
   .chat-messages {
     padding: 0.75rem;
   }
-  
+
   .user-message .message-content,
   .ai-message .message-content {
     max-width: 95%;
     font-size: 0.9rem;
+  }
+
+  /* Mobile-specific toggle button improvements */
+  .expand-toggle,
+  .chat-expand-toggle {
+    min-height: 44px; /* Better touch target */
+    padding: 0.5rem 1rem;
+    font-size: 0.875rem;
+    margin-top: 0.75rem;
+  }
+
+  .prompt-text.prompt-collapsed {
+    -webkit-line-clamp: 1; /* Even more aggressive truncation on small mobile */
+  }
+
+  .user-message .message-content.message-collapsed {
+    -webkit-line-clamp: 2; /* Reduce from 3 to 2 lines on small mobile */
   }
 }
 </style>
