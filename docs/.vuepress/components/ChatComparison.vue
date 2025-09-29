@@ -257,11 +257,11 @@ export default {
       // 5. Handle blockquotes
       formatted = formatted.replace(/^>\s+(.+)$/gm, '<blockquote>$1</blockquote>');
 
-      // 6. Handle unordered lists (*, -, +)
-      formatted = formatted.replace(/^[\*\-\+]\s+(.+)$/gm, '<li>$1</li>');
+      // 6. Handle unordered lists (*, -, +) with optional indentation
+      formatted = formatted.replace(/^(\s*)[\*\-\+]\s+(.+)$/gm, '<li>$2</li>');
 
-      // 7. Handle ordered lists
-      formatted = formatted.replace(/^\d+\.\s+(.+)$/gm, '<li>$1</li>');
+      // 7. Handle ordered lists with optional indentation
+      formatted = formatted.replace(/^(\s*)\d+\.\s+(.+)$/gm, '<li>$2</li>');
 
       // 8. Wrap consecutive list items
       formatted = formatted.replace(/(<li>.*<\/li>\n?)+/g, (match) => {
