@@ -193,24 +193,116 @@ export default {
     },
     
     formatResponse(response) {
-      // Enhanced markdown-to-HTML conversion with proper code block handling
-      return response
-        // Handle code blocks first (triple backticks)
-        .replace(/```(\w*)\n([\s\S]*?)```/g, (match, language, code) => {
-          const langClass = language ? ` class="language-${language}"` : '';
-          return `<div${langClass}><pre><code>${this.escapeHtml(code.trim())}</code></pre></div>`;
-        })
-        // Handle inline code (single backticks)
-        .replace(/`([^`]+)`/g, '<code>$1</code>')
-        // Handle markdown links [text](url)
-        .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener noreferrer">$1</a>')
-        // Handle bold text
-        .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
-        // Handle italic text
-        .replace(/\*(.*?)\*/g, '<em>$1</em>')
-        // Handle paragraphs and line breaks
-        .replace(/\n\n/g, '</p><p>')
-        .replace(/\n/g, '<br>');
+      // Comprehensive markdown-to-HTML conversion
+      let formatted = response;
+
+      // Store code blocks and tables temporarily to protect them from other replacements
+      const codeBlocks = [];
+      const tables = [];
+
+      // 1. Extract and store code blocks
+      formatted = formatted.replace(/```(\w*)\n([\s\S]*?)```/g, (match, language, code) => {
+        const langClass = language ? ` class="language-${language}"` : '';
+        const placeholder = `§§§CODE_BLOCK_${codeBlocks.length}§§§`;
+        codeBlocks.push(`<div${langClass}><pre><code>${this.escapeHtml(code.trim())}</code></pre></div>`);
+        return placeholder;
+      });
+
+      // 2. Extract and store tables
+      formatted = formatted.replace(/(\|[^\n]+\|)\n(\|[\s\-:|]+\|)\n((?:\|[^\n]+\|\n?)+)/g, (match, header, separator, rows) => {
+        // Helper function to format markdown in table cells
+        const formatCell = (cell) => {
+          let formatted = cell.trim();
+          // Handle bold
+          formatted = formatted.replace(/\*\*([^\*]+?)\*\*/g, '<strong>$1</strong>');
+          formatted = formatted.replace(/__([^_]+?)__/g, '<strong>$1</strong>');
+          // Handle italic
+          formatted = formatted.replace(/(?<!\*)\*([^\*]+?)\*(?!\*)/g, '<em>$1</em>');
+          formatted = formatted.replace(/(?<!_)_([^_]+?)_(?!_)/g, '<em>$1</em>');
+          // Handle inline code
+          formatted = formatted.replace(/`([^`]+)`/g, '<code>$1</code>');
+          // Handle links
+          formatted = formatted.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener noreferrer">$1</a>');
+          return formatted;
+        };
+
+        const headerCells = header.split('|').filter(cell => cell.trim()).map(cell =>
+          formatCell(cell)
+        ).join('</th><th>');
+
+        const rowsHtml = rows.trim().split('\n').map(row => {
+          const cells = row.split('|').filter(cell => cell.trim()).map(cell =>
+            formatCell(cell)
+          ).join('</td><td>');
+          return `<tr><td>${cells}</td></tr>`;
+        }).join('');
+
+        const placeholder = `§§§TABLE_${tables.length}§§§`;
+        tables.push(`<table class="markdown-table"><thead><tr><th>${headerCells}</th></tr></thead><tbody>${rowsHtml}</tbody></table>`);
+        return placeholder;
+      });
+
+      // 3. Handle markdown headers (h1-h6) - must be done before other replacements
+      formatted = formatted.replace(/^######\s+(.+?)$/gm, '<h6>$1</h6>');
+      formatted = formatted.replace(/^#####\s+(.+?)$/gm, '<h5>$1</h5>');
+      formatted = formatted.replace(/^####\s+(.+?)$/gm, '<h4>$1</h4>');
+      formatted = formatted.replace(/^###\s+(.+?)$/gm, '<h3>$1</h3>');
+      formatted = formatted.replace(/^##\s+(.+?)$/gm, '<h2>$1</h2>');
+      formatted = formatted.replace(/^#\s+(.+?)$/gm, '<h1>$1</h1>');
+
+      // 4. Handle horizontal rules
+      formatted = formatted.replace(/^---$/gm, '<hr>');
+      formatted = formatted.replace(/^\*\*\*$/gm, '<hr>');
+
+      // 5. Handle blockquotes
+      formatted = formatted.replace(/^>\s+(.+)$/gm, '<blockquote>$1</blockquote>');
+
+      // 6. Handle unordered lists (*, -, +)
+      formatted = formatted.replace(/^[\*\-\+]\s+(.+)$/gm, '<li>$1</li>');
+
+      // 7. Handle ordered lists
+      formatted = formatted.replace(/^\d+\.\s+(.+)$/gm, '<li>$1</li>');
+
+      // 8. Wrap consecutive list items
+      formatted = formatted.replace(/(<li>.*<\/li>\n?)+/g, (match) => {
+        return `<ul>${match}</ul>`;
+      });
+
+      // 9. Handle inline code (single backticks) - before bold/italic to avoid conflicts
+      formatted = formatted.replace(/`([^`]+)`/g, '<code>$1</code>');
+
+      // 10. Handle markdown links [text](url)
+      formatted = formatted.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener noreferrer">$1</a>');
+
+      // 11. Handle bold text (** or __) - use [^\*\n]+ to avoid matching across asterisks and newlines
+      formatted = formatted.replace(/\*\*([^\*\n]+?)\*\*/g, '<strong>$1</strong>');
+      formatted = formatted.replace(/__([^_\n]+?)__/g, '<strong>$1</strong>');
+
+      // 12. Handle italic text (* or _) - must be after bold, avoid matching bold markers
+      formatted = formatted.replace(/(?<!\*)\*([^\*\n]+?)\*(?!\*)/g, '<em>$1</em>');
+      formatted = formatted.replace(/(?<!_)_([^_\n]+?)_(?!_)/g, '<em>$1</em>');
+
+      // 13. Handle strikethrough
+      formatted = formatted.replace(/~~(.+?)~~/g, '<del>$1</del>');
+
+      // 14. Restore code blocks and tables BEFORE line break processing
+      codeBlocks.forEach((block, i) => {
+        formatted = formatted.replace(`§§§CODE_BLOCK_${i}§§§`, block);
+      });
+      tables.forEach((table, i) => {
+        formatted = formatted.replace(`§§§TABLE_${i}§§§`, table);
+      });
+
+      // 15. Handle line breaks and paragraphs
+      formatted = formatted.replace(/\n\n+/g, '</p><p>');
+      formatted = formatted.replace(/\n/g, '<br>');
+
+      // 16. Wrap in paragraph tags
+      if (!formatted.startsWith('<')) {
+        formatted = '<p>' + formatted + '</p>';
+      }
+
+      return formatted;
     },
     
     escapeHtml(text) {
@@ -302,9 +394,29 @@ export default {
 
 .chat-windows-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   gap: 0;
   background: #f8fafc;
+}
+
+/* 2 columns by default on medium screens */
+@media (min-width: 768px) {
+  .chat-windows-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* 3 columns on extra wide screens when there are 3 models */
+@media (min-width: 1400px) {
+  .chat-windows-grid {
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  }
+}
+
+/* Mobile: single column */
+@media (max-width: 767px) {
+  .chat-windows-grid {
+    grid-template-columns: 1fr;
+  }
 }
 
 .chat-window {
@@ -493,6 +605,130 @@ export default {
   -webkit-box-orient: vertical;
   overflow: hidden;
   text-overflow: ellipsis;
+}
+
+/* Markdown table styles */
+.ai-message .message-content :deep(.markdown-table) {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  font-size: 0.875rem;
+  background: white;
+  border: 1px solid #e2e8f0;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.ai-message .message-content :deep(.markdown-table thead) {
+  background: #f7fafc;
+}
+
+.ai-message .message-content :deep(.markdown-table th) {
+  padding: 0.75rem;
+  text-align: left;
+  font-weight: 600;
+  color: #2d3748;
+  border-bottom: 2px solid #e2e8f0;
+}
+
+.ai-message .message-content :deep(.markdown-table td) {
+  padding: 0.75rem;
+  border-bottom: 1px solid #e2e8f0;
+  color: #4a5568;
+}
+
+.ai-message .message-content :deep(.markdown-table tbody tr:last-child td) {
+  border-bottom: none;
+}
+
+.ai-message .message-content :deep(.markdown-table tbody tr:hover) {
+  background: #f7fafc;
+}
+
+/* Markdown header styles */
+.ai-message .message-content :deep(h1),
+.ai-message .message-content :deep(h2),
+.ai-message .message-content :deep(h3),
+.ai-message .message-content :deep(h4),
+.ai-message .message-content :deep(h5),
+.ai-message .message-content :deep(h6) {
+  margin: 1.5rem 0 0.75rem 0;
+  font-weight: 600;
+  line-height: 1.3;
+  color: #2d3748;
+}
+
+.ai-message .message-content :deep(h1) {
+  font-size: 1.75rem;
+  border-bottom: 2px solid #e2e8f0;
+  padding-bottom: 0.5rem;
+}
+
+.ai-message .message-content :deep(h2) {
+  font-size: 1.5rem;
+  border-bottom: 1px solid #e2e8f0;
+  padding-bottom: 0.4rem;
+}
+
+.ai-message .message-content :deep(h3) {
+  font-size: 1.25rem;
+}
+
+.ai-message .message-content :deep(h4) {
+  font-size: 1.1rem;
+}
+
+.ai-message .message-content :deep(h5) {
+  font-size: 1rem;
+}
+
+.ai-message .message-content :deep(h6) {
+  font-size: 0.95rem;
+  color: #4a5568;
+}
+
+/* Markdown list styles */
+.ai-message .message-content :deep(ul),
+.ai-message .message-content :deep(ol) {
+  margin: 1rem 0;
+  padding-left: 2rem;
+}
+
+.ai-message .message-content :deep(li) {
+  margin: 0.5rem 0;
+  line-height: 1.6;
+  color: #4a5568;
+}
+
+.ai-message .message-content :deep(ul) {
+  list-style-type: disc;
+}
+
+.ai-message .message-content :deep(ol) {
+  list-style-type: decimal;
+}
+
+/* Markdown blockquote styles */
+.ai-message .message-content :deep(blockquote) {
+  margin: 1rem 0;
+  padding: 0.75rem 1rem;
+  border-left: 4px solid #4299e1;
+  background: #f7fafc;
+  color: #4a5568;
+  font-style: italic;
+}
+
+/* Markdown horizontal rule styles */
+.ai-message .message-content :deep(hr) {
+  margin: 2rem 0;
+  border: none;
+  border-top: 2px solid #e2e8f0;
+}
+
+/* Markdown strikethrough styles */
+.ai-message .message-content :deep(del) {
+  color: #718096;
+  text-decoration: line-through;
 }
 
 .chat-expand-toggle {
