@@ -4,10 +4,13 @@ import theme from "./theme.js";
 export default defineUserConfig({
   base: "/",
   dest: "dist",
-  
+
   lang: "en-US",
   title: "SNEOS Share - AI Model Comparisons",
   description: "Share and compare AI model responses. See how different AI models respond to the same prompts.",
+
+  // Disable excessive prefetching to reduce initial page load
+  shouldPrefetch: false,
 
   head: [
     // Open Graph meta tags
