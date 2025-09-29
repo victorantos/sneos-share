@@ -5,7 +5,7 @@ date: 2025-09-29
 category: comparison
 layout: Clean
 tags:
-    - Grok
+  - Grok
   - Mistral
   - AI Comparison
 author: SNEOS Community

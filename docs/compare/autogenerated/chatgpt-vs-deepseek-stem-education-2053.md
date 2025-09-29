@@ -6,7 +6,7 @@ category: comparison
 layout: Clean
 tags:
   - ChatGPT
-    - DeepSeek
+  - DeepSeek
   - AI Comparison
 author: SNEOS Community
 head:

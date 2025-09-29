@@ -5,7 +5,7 @@ date: 2025-09-29
 category: comparison
 layout: Clean
 tags:
-    - DeepSeek
+  - DeepSeek
   - Mistral
   - AI Comparison
 author: SNEOS Community

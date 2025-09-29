@@ -6,7 +6,7 @@ category: comparison
 layout: Clean
 tags:
   - ChatGPT
-    - Gemini
+  - Gemini
   - AI Comparison
 author: SNEOS Community
 head:

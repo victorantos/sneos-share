@@ -6,7 +6,7 @@ category: comparison
 layout: Clean
 tags:
   - ChatGPT
-    - Grok
+  - Grok
   - AI Comparison
 author: SNEOS Community
 head:

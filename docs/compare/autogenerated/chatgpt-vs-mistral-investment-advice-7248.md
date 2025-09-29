@@ -6,7 +6,7 @@ category: comparison
 layout: Clean
 tags:
   - ChatGPT
-    - Mistral
+  - Mistral
   - AI Comparison
 author: SNEOS Community
 head:
