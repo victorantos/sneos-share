@@ -32,7 +32,7 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "Share AI Model Comparisons • SNEOS Share © 2025",
+  footer: "Share AI Model Comparisons • Share Sneos © 2025",
   displayFooter: true,
 
   metaLocales: {
@@ -71,13 +71,13 @@ export default hopeTheme({
     seo: {
       ogp: (ogp) => ({
         ...ogp,
-        "og:site_name": "SNEOS Share - AI Model Comparisons",
+        "og:site_name": "Share Sneos",
       }),
       jsonLd: (jsonLd) => ({
         ...jsonLd,
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "name": "SNEOS Share",
+        "name": "Share Sneos",
         "description": "Share and compare AI model responses",
         "url": "https://share.sneos.com",
       }),
