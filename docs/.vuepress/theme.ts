@@ -1,4 +1,5 @@
 import { hopeTheme } from "vuepress-theme-hope";
+import sidebar from "./sidebar.js";
 
 export default hopeTheme({
   hostname: "https://share.sneos.com",
@@ -21,16 +22,7 @@ export default hopeTheme({
   ],
 
   // sidebar
-  sidebar: [
-    "/",
-    {
-      text: "Comparisons",
-      icon: "lightbulb",
-      prefix: "/compare/",
-      link: "/compare/",
-      children: "structure",
-    },
-  ],
+  sidebar,
 
   footer: "Share AI Model Comparisons • SNEOS Share © 2025",
   displayFooter: true,
