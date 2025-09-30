@@ -202,8 +202,9 @@ export default {
 
       // 1. Extract and store code blocks
       formatted = formatted.replace(/```(\w*)\n([\s\S]*?)```/g, (match, language, code) => {
+        const index = codeBlocks.length;
         const langClass = language ? ` class="language-${language}"` : '';
-        const placeholder = `§§§CODE_BLOCK_${codeBlocks.length}§§§`;
+        const placeholder = `§§§CODEBLOCK${index}§§§`;
         codeBlocks.push(`<div${langClass}><pre><code>${this.escapeHtml(code.trim())}</code></pre></div>`);
         return placeholder;
       });
@@ -237,7 +238,8 @@ export default {
           return `<tr><td>${cells}</td></tr>`;
         }).join('');
 
-        const placeholder = `§§§TABLE_${tables.length}§§§`;
+        const index = tables.length;
+        const placeholder = `§§§TABLE${index}§§§`;
         tables.push(`<table class="markdown-table"><thead><tr><th>${headerCells}</th></tr></thead><tbody>${rowsHtml}</tbody></table>`);
         return placeholder;
       });
@@ -287,10 +289,10 @@ export default {
 
       // 14. Restore code blocks and tables BEFORE line break processing
       codeBlocks.forEach((block, i) => {
-        formatted = formatted.replace(`§§§CODE_BLOCK_${i}§§§`, block);
+        formatted = formatted.replace(`§§§CODEBLOCK${i}§§§`, block);
       });
       tables.forEach((table, i) => {
-        formatted = formatted.replace(`§§§TABLE_${i}§§§`, table);
+        formatted = formatted.replace(`§§§TABLE${i}§§§`, table);
       });
 
       // 15. Handle line breaks and paragraphs
