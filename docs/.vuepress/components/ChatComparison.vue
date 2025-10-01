@@ -454,7 +454,7 @@ export default {
 }
 
 .header-grok {
-  background: linear-gradient(135deg, #1da1f2, #1991da);
+  background: linear-gradient(135deg, #2d3436, #636e72);
 }
 
 .header-deepseek {
