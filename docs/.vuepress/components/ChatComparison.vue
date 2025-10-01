@@ -810,4 +810,134 @@ export default {
     -webkit-line-clamp: 2; /* Reduce from 3 to 2 lines on small mobile */
   }
 }
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .chat-comparison-container {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  }
+
+  .chat-windows-grid {
+    background: #1e293b;
+  }
+
+  .chat-window {
+    background: #0f172a;
+    border-right-color: #334155;
+  }
+
+  .chat-header {
+    border-bottom-color: #334155;
+  }
+
+  .user-message .message-content {
+    background: #334155;
+    color: #f1f5f9;
+  }
+
+  .ai-message .message-content {
+    background: #1e293b;
+    color: #e2e8f0;
+    border-left-color: #60a5fa;
+  }
+
+  .ai-message .message-content :deep(code) {
+    background: #334155;
+    color: #f1f5f9;
+  }
+
+  .ai-message .message-content :deep(h1),
+  .ai-message .message-content :deep(h2),
+  .ai-message .message-content :deep(h3),
+  .ai-message .message-content :deep(h4),
+  .ai-message .message-content :deep(h5),
+  .ai-message .message-content :deep(h6) {
+    color: #f1f5f9;
+  }
+
+  .ai-message .message-content :deep(h1) {
+    border-bottom-color: #334155;
+  }
+
+  .ai-message .message-content :deep(h2) {
+    border-bottom-color: #334155;
+  }
+
+  .ai-message .message-content :deep(h6) {
+    color: #cbd5e1;
+  }
+
+  .ai-message .message-content :deep(li) {
+    color: #cbd5e1;
+  }
+
+  .ai-message .message-content :deep(blockquote) {
+    border-left-color: #60a5fa;
+    background: #1e293b;
+    color: #cbd5e1;
+  }
+
+  .ai-message .message-content :deep(hr) {
+    border-top-color: #334155;
+  }
+
+  .ai-message .message-content :deep(del) {
+    color: #94a3b8;
+  }
+
+  .ai-message .message-content :deep(.markdown-table) {
+    background: #1e293b;
+    border-color: #334155;
+  }
+
+  .ai-message .message-content :deep(.markdown-table thead) {
+    background: #0f172a;
+  }
+
+  .ai-message .message-content :deep(.markdown-table th) {
+    color: #f1f5f9;
+    border-bottom-color: #334155;
+  }
+
+  .ai-message .message-content :deep(.markdown-table td) {
+    border-bottom-color: #334155;
+    color: #cbd5e1;
+  }
+
+  .ai-message .message-content :deep(.markdown-table tbody tr:hover) {
+    background: #334155;
+  }
+
+  .message-time {
+    color: #94a3b8;
+  }
+
+  .comparison-footer {
+    background: #1e293b;
+    border-top-color: #334155;
+  }
+
+  .try-sneos p {
+    color: #cbd5e1;
+  }
+
+  .try-sneos a {
+    color: #60a5fa;
+  }
+
+  .try-sneos a:hover {
+    color: #93c5fd;
+  }
+
+  .chat-expand-toggle {
+    background: #334155;
+    border-color: #475569;
+    color: #cbd5e1;
+  }
+
+  .chat-expand-toggle:hover {
+    background: #475569;
+    border-color: #64748b;
+  }
+}
 </style>
