@@ -23,19 +23,43 @@
       </div>
     </div>
     
-    <div class="chat-windows-grid">
-      <div 
-        v-for="(response, model) in responses" 
-        :key="model"
-        class="chat-window"
-      >
-        <!-- Chat Window Header -->
-        <div class="chat-header" :class="`header-${model.toLowerCase()}`">
-          <div class="model-info">
-            <span class="model-name">{{ formatModelName(model) }}</span>
-            <span class="model-badge">{{ getModelBadge(model) }}</span>
-          </div>
+    <div class="chat-windows-container">
+      <!-- Collapsed Sidebar Strips -->
+      <div class="collapsed-sidebar" v-if="hiddenModels.length > 0">
+        <div
+          v-for="model in hiddenModels"
+          :key="`collapsed-${model}`"
+          class="collapsed-strip"
+          :class="`collapsed-strip-${model.toLowerCase()}`"
+          @click="toggleModelVisibility(model)"
+          :title="`Restore ${formatModelName(model)}`"
+        >
+          <span class="collapsed-text">{{ formatModelName(model) }}</span>
+          <span class="restore-icon">↗</span>
         </div>
+      </div>
+
+      <!-- Chat Windows Grid -->
+      <div class="chat-windows-grid">
+        <template v-for="(response, model) in responses" :key="model">
+          <div
+            v-if="!isModelHidden(model)"
+            class="chat-window"
+          >
+          <!-- Chat Window Header -->
+          <div class="chat-header" :class="`header-${model.toLowerCase()}`">
+            <div class="model-info">
+              <span class="model-name">{{ formatModelName(model) }}</span>
+              <span class="model-badge">{{ getModelBadge(model) }}</span>
+            </div>
+            <button
+              class="minimize-button"
+              @click="toggleModelVisibility(model)"
+              :title="`Hide ${formatModelName(model)}`"
+            >
+              ⊟
+            </button>
+          </div>
         
         <!-- Chat Messages -->
         <div class="chat-messages">
@@ -66,9 +90,11 @@
             </div>
           </div>
         </div>
+        </div>
+        </template>
       </div>
     </div>
-    
+
     <div class="comparison-footer">
       <div class="try-sneos">
         <p>💡 <strong>Try this comparison yourself:</strong> 
@@ -107,12 +133,14 @@ export default {
       shouldShowHeaderToggle: false,
       shouldShowChatToggle: false,
       isDesktop: false,
-      isMobile: false
+      isMobile: false,
+      hiddenModels: []
     }
   },
   mounted() {
     this.checkScreenSize();
     this.checkPromptLength();
+    this.loadHiddenModels();
     window.addEventListener('resize', this.handleResize);
   },
   beforeUnmount() {
@@ -320,10 +348,47 @@ export default {
     getSneosLink() {
       const encodedPrompt = encodeURIComponent(this.prompt);
       // Use localhost for development, production URL for production
-      const baseUrl = process.env.NODE_ENV === 'development' 
-        ? 'http://localhost:5193' 
+      const baseUrl = process.env.NODE_ENV === 'development'
+        ? 'http://localhost:5193'
         : 'https://sneos.com';
       return `${baseUrl}?prompt=${encodedPrompt}`;
+    },
+
+    toggleModelVisibility(model) {
+      const index = this.hiddenModels.indexOf(model);
+      if (index > -1) {
+        this.hiddenModels.splice(index, 1);
+      } else {
+        this.hiddenModels.push(model);
+      }
+      this.saveHiddenModels();
+    },
+
+    isModelHidden(model) {
+      return this.hiddenModels.includes(model);
+    },
+
+    loadHiddenModels() {
+      if (typeof window !== 'undefined' && window.sessionStorage) {
+        try {
+          const saved = sessionStorage.getItem('hiddenModels');
+          if (saved) {
+            this.hiddenModels = JSON.parse(saved);
+          }
+        } catch (e) {
+          console.error('Failed to load hidden models:', e);
+        }
+      }
+    },
+
+    saveHiddenModels() {
+      if (typeof window !== 'undefined' && window.sessionStorage) {
+        try {
+          sessionStorage.setItem('hiddenModels', JSON.stringify(this.hiddenModels));
+        } catch (e) {
+          console.error('Failed to save hidden models:', e);
+        }
+      }
     }
   }
 }
@@ -398,6 +463,9 @@ export default {
   display: grid;
   gap: 0;
   background: #f8fafc;
+  flex: 1;
+  transition: grid-template-columns 0.3s ease;
+  grid-template-columns: 1fr;
 }
 
 /* 2 columns by default on medium screens */
@@ -410,7 +478,7 @@ export default {
 /* 3 columns on extra wide screens when there are 3 models */
 @media (min-width: 1400px) {
   .chat-windows-grid {
-    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    grid-template-columns: repeat(3, 1fr);
   }
 }
 
@@ -427,6 +495,8 @@ export default {
   display: flex;
   flex-direction: column;
   min-height: 400px;
+  min-width: 0;
+  overflow: hidden;
 }
 
 .chat-window:last-child {
@@ -516,6 +586,9 @@ export default {
   border-radius: 18px 18px 18px 4px;
   border-left: 3px solid #4299e1;
   line-height: 1.6;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  word-break: break-word;
 }
 
 /* Provider-specific border colors */
@@ -777,7 +850,142 @@ export default {
   border-color: #a0aec0;
 }
 
+/* Chat Windows Container with Sidebar */
+.chat-windows-container {
+  display: flex;
+  position: relative;
+}
+
+.collapsed-sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  min-width: 50px;
+  background: #f8fafc;
+  border-right: 1px solid #e2e8f0;
+}
+
+.collapsed-strip {
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  padding: 1rem 0.5rem;
+  cursor: pointer;
+  color: white;
+  font-weight: 600;
+  font-size: 0.875rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  transition: all 0.3s ease;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  position: relative;
+  overflow: hidden;
+}
+
+.collapsed-strip:hover {
+  min-width: 60px;
+  filter: brightness(1.1);
+}
+
+.collapsed-strip-chatgpt {
+  background: linear-gradient(180deg, #10a37f, #1a7f64);
+}
+
+.collapsed-strip-claude {
+  background: linear-gradient(180deg, #cc785c, #d4915c);
+}
+
+.collapsed-strip-gemini {
+  background: linear-gradient(180deg, #4285f4, #34a853);
+}
+
+.collapsed-strip-grok {
+  background: linear-gradient(180deg, #2d3436, #636e72);
+}
+
+.collapsed-strip-deepseek {
+  background: linear-gradient(180deg, #6366f1, #8b5cf6);
+}
+
+.collapsed-strip-mistral {
+  background: linear-gradient(180deg, #ff6b6b, #ee5a52);
+}
+
+.collapsed-text {
+  flex: 1;
+  text-align: center;
+}
+
+.restore-icon {
+  font-size: 1rem;
+  opacity: 0.8;
+}
+
+.minimize-button {
+  background: rgba(255, 255, 255, 0.2);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  color: white;
+  width: 28px;
+  height: 28px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 1.2rem;
+  line-height: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+  padding: 0;
+}
+
+.minimize-button:hover {
+  background: rgba(255, 255, 255, 0.3);
+  transform: scale(1.05);
+}
+
 /* Mobile responsiveness */
+@media (max-width: 768px) {
+  .chat-windows-container {
+    flex-direction: column;
+  }
+
+  .collapsed-sidebar {
+    flex-direction: row;
+    min-width: auto;
+    min-height: 50px;
+    border-right: none;
+    border-bottom: 1px solid #e2e8f0;
+  }
+
+  .collapsed-strip {
+    writing-mode: horizontal-tb;
+    text-orientation: initial;
+    padding: 0.5rem 1rem;
+    flex: 1;
+    border-bottom: none;
+    border-right: 1px solid rgba(255, 255, 255, 0.2);
+  }
+
+  .collapsed-strip:last-child {
+    border-right: none;
+  }
+
+  .collapsed-strip:hover {
+    min-width: auto;
+  }
+
+  .collapsed-text {
+    display: inline;
+  }
+
+  .restore-icon {
+    display: inline;
+    margin-left: 0.25rem;
+  }
+}
+
+/* Additional mobile responsiveness */
 @media (max-width: 768px) {
   .chat-windows-grid {
     grid-template-columns: 1fr;
@@ -988,6 +1196,25 @@ export default {
   .chat-expand-toggle:hover {
     background: #475569;
     border-color: #64748b;
+  }
+
+  .collapsed-sidebar {
+    background: #1e293b;
+    border-right-color: #334155;
+  }
+
+  .collapsed-strip {
+    border-bottom-color: rgba(255, 255, 255, 0.15);
+  }
+
+  @media (max-width: 768px) {
+    .collapsed-sidebar {
+      border-bottom-color: #334155;
+    }
+
+    .collapsed-strip {
+      border-right-color: rgba(255, 255, 255, 0.15);
+    }
   }
 }
 </style>
