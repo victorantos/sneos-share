@@ -58,7 +58,7 @@
           </div>
           
           <!-- AI Response -->
-          <div class="message ai-message">
+          <div class="message ai-message" :class="`ai-message-${model.toLowerCase()}`">
             <div class="message-content" v-html="formatResponse(response)">
             </div>
             <div class="message-time">
@@ -518,6 +518,31 @@ export default {
   line-height: 1.6;
 }
 
+/* Provider-specific border colors */
+.ai-message-chatgpt .message-content {
+  border-left-color: #10a37f;
+}
+
+.ai-message-claude .message-content {
+  border-left-color: #cc785c;
+}
+
+.ai-message-gemini .message-content {
+  border-left-color: #4285f4;
+}
+
+.ai-message-grok .message-content {
+  border-left-color: #2d3436;
+}
+
+.ai-message-deepseek .message-content {
+  border-left-color: #6366f1;
+}
+
+.ai-message-mistral .message-content {
+  border-left-color: #ff6b6b;
+}
+
 .ai-message .message-content :deep(p) {
   margin: 0.5rem 0;
 }
@@ -839,6 +864,31 @@ export default {
     background: #1e293b;
     color: #e2e8f0;
     border-left-color: #60a5fa;
+  }
+
+  /* Provider-specific border colors for dark mode */
+  .ai-message-chatgpt .message-content {
+    border-left-color: #10a37f;
+  }
+
+  .ai-message-claude .message-content {
+    border-left-color: #d4915c;
+  }
+
+  .ai-message-gemini .message-content {
+    border-left-color: #4285f4;
+  }
+
+  .ai-message-grok .message-content {
+    border-left-color: #636e72;
+  }
+
+  .ai-message-deepseek .message-content {
+    border-left-color: #8b5cf6;
+  }
+
+  .ai-message-mistral .message-content {
+    border-left-color: #ff6b6b;
   }
 
   .ai-message .message-content :deep(code) {
