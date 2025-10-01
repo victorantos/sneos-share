@@ -28,7 +28,10 @@
       <aside class="sidebar">
         <div class="sidebar-content">
           <h3 class="sidebar-title">Categories</h3>
-          <nav class="category-nav">
+          <div v-if="categories.length === 0" class="no-categories">
+            Loading categories...
+          </div>
+          <nav class="category-nav" v-else>
             <div v-for="category in categories" :key="category.id" class="category-group">
               <button
                 @click="toggleCategory(category.id)"
@@ -37,9 +40,11 @@
               >
                 <span class="category-icon">{{ category.icon }}</span>
                 <span class="category-name">{{ category.name }}</span>
+                <span class="category-count">({{ getCategoryTotal(category) }})</span>
                 <span class="category-toggle">{{ expandedCategories[category.id] ? '▼' : '▶' }}</span>
               </button>
               <div v-if="expandedCategories[category.id]" class="category-items">
+                <!-- Direct items in category -->
                 <a
                   v-for="item in category.items"
                   :key="item.path"
@@ -48,6 +53,28 @@
                 >
                   {{ item.title }}
                 </a>
+                <!-- Subcategories -->
+                <div v-for="subcategory in category.subcategories" :key="subcategory.id" class="subcategory-group">
+                  <button
+                    @click="toggleSubcategory(category.id, subcategory.id)"
+                    class="subcategory-link"
+                    :class="{ expanded: expandedSubcategories[category.id + '-' + subcategory.id] }"
+                  >
+                    <span class="subcategory-name">{{ subcategory.name }}</span>
+                    <span class="subcategory-count">({{ subcategory.items.length }})</span>
+                    <span class="subcategory-toggle">{{ expandedSubcategories[category.id + '-' + subcategory.id] ? '▼' : '▶' }}</span>
+                  </button>
+                  <div v-if="expandedSubcategories[category.id + '-' + subcategory.id]" class="subcategory-items">
+                    <a
+                      v-for="item in subcategory.items"
+                      :key="item.path"
+                      :href="item.path"
+                      class="subcategory-item"
+                    >
+                      {{ item.title }}
+                    </a>
+                  </div>
+                </div>
               </div>
             </div>
           </nav>
@@ -81,41 +108,17 @@
     <!-- Footer -->
     <footer class="footer">
       <div class="footer-content">
-        <div class="footer-section">
+        <div class="footer-brand">
           <h4>SNEOS</h4>
-          <ul>
-            <li><a href="https://sneos.com">Home</a></li>
-            <li><a href="https://sneos.com/about">About</a></li>
-            <li><a href="https://sneos.com/contact">Contact</a></li>
-          </ul>
         </div>
-        <div class="footer-section">
-          <h4>AI Tools</h4>
-          <ul>
-            <li><a href="/compare/">AI Comparison</a></li>
-            <li><a href="https://share.sneos.com">Share Platform</a></li>
-            <li><a href="https://sneos.com/tools">AI Tools</a></li>
-          </ul>
-        </div>
-        <div class="footer-section">
-          <h4>Resources</h4>
-          <ul>
-            <li><a href="https://sneos.com/blog">Blog</a></li>
-            <li><a href="https://sneos.com/docs">Documentation</a></li>
-            <li><a href="https://sneos.com/api">API</a></li>
-          </ul>
-        </div>
-        <div class="footer-section">
-          <h4>Connect</h4>
-          <ul>
-            <li><a href="https://twitter.com/sneos">Twitter</a></li>
-            <li><a href="https://github.com/sneos">GitHub</a></li>
-            <li><a href="https://linkedin.com/company/sneos">LinkedIn</a></li>
-          </ul>
+        <div class="footer-links">
+          <a href="https://sneos.com">Home</a>
+          <a href="https://sneos.com">Sneos.com</a>
+          <a href="https://sneos.com/blog">Blog</a>
         </div>
       </div>
       <div class="footer-bottom">
-        <p>&copy; {{ currentYear }} SNEOS. All rights reserved. | Powered by AI Automation</p>
+        <p>&copy; {{ currentYear }} SNEOS. All rights reserved.</p>
       </div>
     </footer>
   </div>
@@ -127,7 +130,8 @@ export default {
   data() {
     return {
       isDarkMode: false,
-      expandedCategories: {}
+      expandedCategories: {},
+      expandedSubcategories: {}
     };
   },
   computed: {
@@ -135,88 +139,123 @@ export default {
       return new Date().getFullYear();
     },
     totalPosts() {
-      // This would be dynamically calculated based on the actual content
-      return this.$page.frontmatter.totalPosts || 120;
+      if (this.$page.frontmatter.totalPosts) return this.$page.frontmatter.totalPosts;
+      return this.categories.reduce((sum, cat) => {
+        const directItems = cat.items?.length || 0;
+        const subcategoryItems = cat.subcategories?.reduce((subSum, sub) => subSum + (sub.items?.length || 0), 0) || 0;
+        return sum + directItems + subcategoryItems;
+      }, 0);
     },
     totalCategories() {
-      return this.$page.frontmatter.totalCategories || 8;
+      return this.$page.frontmatter.totalCategories || this.categories.length;
     },
     lastUpdated() {
-      return this.$page.frontmatter.lastUpdated || new Date().toLocaleDateString();
+      return this.$page.frontmatter.lastUpdatedDate || new Date().toLocaleDateString();
     },
     categories() {
-      // Get all pages and organize by category
+      // Get all pages in autogenerated directory
       const pages = (this.$site?.pages || []).filter(page =>
-        page.path.includes('/autogenerated/') &&
+        page.path.startsWith('/autogenerated/') &&
         page.path !== '/autogenerated/' &&
-        !page.path.includes('/autogenerated/index')
+        !page.path.endsWith('/autogenerated/index.html')
       );
 
       const categoryMap = {};
 
-      // Dynamically extract categories from paths
+      // Organize pages by category
       pages.forEach(page => {
-        const pathParts = page.path.split('/').filter(p => p);
-        // Path structure: autogenerated/category/subcategory/...
-        if (pathParts.length >= 2 && pathParts[0] === 'autogenerated') {
-          const categorySlug = pathParts[1];
+        const pathParts = page.path.replace(/^\/autogenerated\//, '').split('/').filter(p => p);
 
-          // Create category if it doesn't exist
+        if (pathParts.length >= 1) {
+          const categorySlug = pathParts[0];
+
           if (!categoryMap[categorySlug]) {
-            // Convert slug to readable name
             const categoryName = categorySlug
               .split('-')
               .map(word => word.charAt(0).toUpperCase() + word.slice(1))
               .join(' ');
 
-            // Assign icons based on category name
             let icon = '📝';
-            if (categoryName.toLowerCase().includes('finance')) icon = '💰';
-            else if (categoryName.toLowerCase().includes('law')) icon = '⚖️';
-            else if (categoryName.toLowerCase().includes('education')) icon = '🎓';
-            else if (categoryName.toLowerCase().includes('tech')) icon = '💻';
-            else if (categoryName.toLowerCase().includes('ai')) icon = '🤖';
-            else if (categoryName.toLowerCase().includes('health')) icon = '🏥';
-            else if (categoryName.toLowerCase().includes('science')) icon = '🔬';
-            else if (categoryName.toLowerCase().includes('art')) icon = '🎨';
-            else if (categoryName.toLowerCase().includes('design')) icon = '✨';
-            else if (categoryName.toLowerCase().includes('business')) icon = '💼';
-            else if (categoryName.toLowerCase().includes('marketing')) icon = '📈';
-            else if (categoryName.toLowerCase().includes('environment')) icon = '🌱';
-            else if (categoryName.toLowerCase().includes('food')) icon = '🍳';
-            else if (categoryName.toLowerCase().includes('travel')) icon = '✈️';
-            else if (categoryName.toLowerCase().includes('sport') || categoryName.toLowerCase().includes('fitness')) icon = '⚽';
-            else if (categoryName.toLowerCase().includes('fashion')) icon = '👗';
-            else if (categoryName.toLowerCase().includes('crypto')) icon = '₿';
-            else if (categoryName.toLowerCase().includes('security')) icon = '🔒';
-            else if (categoryName.toLowerCase().includes('data')) icon = '📊';
-            else if (categoryName.toLowerCase().includes('automotive')) icon = '🚗';
-            else if (categoryName.toLowerCase().includes('real estate')) icon = '🏠';
-            else if (categoryName.toLowerCase().includes('gaming')) icon = '🎮';
-            else if (categoryName.toLowerCase().includes('music')) icon = '🎵';
-            else if (categoryName.toLowerCase().includes('pet')) icon = '🐾';
-            else if (categoryName.toLowerCase().includes('parent')) icon = '👶';
+            const lowerName = categoryName.toLowerCase();
+            if (lowerName.includes('finance') || lowerName.includes('investment')) icon = '💰';
+            else if (lowerName.includes('law') || lowerName.includes('legal')) icon = '⚖️';
+            else if (lowerName.includes('education') || lowerName.includes('learning')) icon = '🎓';
+            else if (lowerName.includes('tech') || lowerName.includes('programming')) icon = '💻';
+            else if (lowerName.includes('ai') || lowerName.includes('comparison')) icon = '🤖';
+            else if (lowerName.includes('health') || lowerName.includes('medical') || lowerName.includes('wellness')) icon = '🏥';
+            else if (lowerName.includes('science') || lowerName.includes('research')) icon = '🔬';
+            else if (lowerName.includes('art') || lowerName.includes('creative')) icon = '🎨';
+            else if (lowerName.includes('design')) icon = '✨';
+            else if (lowerName.includes('business') || lowerName.includes('entrepreneur')) icon = '💼';
+            else if (lowerName.includes('marketing') || lowerName.includes('seo')) icon = '📈';
+            else if (lowerName.includes('environment') || lowerName.includes('sustainability')) icon = '🌱';
+            else if (lowerName.includes('food') || lowerName.includes('cooking')) icon = '🍳';
+            else if (lowerName.includes('travel')) icon = '✈️';
+            else if (lowerName.includes('sport') || lowerName.includes('fitness')) icon = '⚽';
+            else if (lowerName.includes('fashion') || lowerName.includes('beauty')) icon = '👗';
+            else if (lowerName.includes('crypto') || lowerName.includes('blockchain')) icon = '₿';
+            else if (lowerName.includes('security') || lowerName.includes('privacy')) icon = '🔒';
+            else if (lowerName.includes('data') || lowerName.includes('analytics')) icon = '📊';
+            else if (lowerName.includes('automotive') || lowerName.includes('vehicle')) icon = '🚗';
+            else if (lowerName.includes('real estate') || lowerName.includes('property')) icon = '🏠';
+            else if (lowerName.includes('gaming') || lowerName.includes('esport')) icon = '🎮';
+            else if (lowerName.includes('music')) icon = '🎵';
+            else if (lowerName.includes('pet')) icon = '🐾';
+            else if (lowerName.includes('parent') || lowerName.includes('child')) icon = '👶';
+            else if (lowerName.includes('home') || lowerName.includes('diy')) icon = '🏡';
+            else if (lowerName.includes('personal') || lowerName.includes('productivity')) icon = '📋';
 
             categoryMap[categorySlug] = {
               id: categorySlug,
               name: categoryName,
               icon: icon,
-              items: []
+              items: [],
+              subcategories: {}
             };
           }
 
-          // Add page to category
-          categoryMap[categorySlug].items.push({
-            title: page.title,
-            path: page.path
-          });
+          // Add subcategory if exists
+          if (pathParts.length >= 2) {
+            const subcategorySlug = pathParts[1];
+
+            if (!categoryMap[categorySlug].subcategories[subcategorySlug]) {
+              const subcategoryName = subcategorySlug
+                .split('-')
+                .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+                .join(' ');
+
+              categoryMap[categorySlug].subcategories[subcategorySlug] = {
+                id: subcategorySlug,
+                name: subcategoryName,
+                items: []
+              };
+            }
+
+            categoryMap[categorySlug].subcategories[subcategorySlug].items.push({
+              title: page.title || page.path.split('/').pop().replace('.html', ''),
+              path: page.path
+            });
+          } else {
+            categoryMap[categorySlug].items.push({
+              title: page.title || page.path.split('/').pop().replace('.html', ''),
+              path: page.path
+            });
+          }
         }
       });
 
-      // Return categories sorted by item count
+      // Convert to array and sort
       return Object.values(categoryMap)
-        .filter(cat => cat.items.length > 0)
-        .sort((a, b) => b.items.length - a.items.length);
+        .filter(cat => cat.items.length > 0 || Object.keys(cat.subcategories).length > 0)
+        .sort((a, b) => {
+          const aTotal = a.items.length + Object.values(a.subcategories).reduce((sum, sub) => sum + sub.items.length, 0);
+          const bTotal = b.items.length + Object.values(b.subcategories).reduce((sum, sub) => sum + sub.items.length, 0);
+          return bTotal - aTotal;
+        })
+        .map(cat => ({
+          ...cat,
+          subcategories: Object.values(cat.subcategories).sort((a, b) => b.items.length - a.items.length)
+        }));
     }
   },
   mounted() {
@@ -236,11 +275,26 @@ export default {
         this.applyTheme();
       }
     });
+
+    // Debug: Log categories to console
+    console.log('Categories loaded:', this.categories);
+    console.log('Total pages:', this.$site?.pages?.length);
+    console.log('Autogenerated pages:', this.$site?.pages?.filter(p => p.path.startsWith('/autogenerated/')).length);
   },
   methods: {
+    getCategoryTotal(category) {
+      const directItems = category.items?.length || 0;
+      const subcategoryItems = category.subcategories?.reduce((sum, sub) => sum + (sub.items?.length || 0), 0) || 0;
+      return directItems + subcategoryItems;
+    },
     toggleCategory(categoryId) {
       this.expandedCategories[categoryId] = !this.expandedCategories[categoryId];
-      this.$forceUpdate(); // Force update to reflect changes
+      this.$forceUpdate();
+    },
+    toggleSubcategory(categoryId, subcategoryId) {
+      const key = categoryId + '-' + subcategoryId;
+      this.expandedSubcategories[key] = !this.expandedSubcategories[key];
+      this.$forceUpdate();
     },
     scrollToCategory(categoryId) {
       const element = document.getElementById(categoryId);
@@ -502,6 +556,85 @@ export default {
   padding-left: 16px;
 }
 
+.category-count {
+  font-size: 11px;
+  color: var(--text-muted);
+  margin-left: 4px;
+}
+
+.subcategory-group {
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+
+.subcategory-link {
+  width: 100%;
+  text-align: left;
+  background: none;
+  border: none;
+  color: var(--text-secondary);
+  padding: 8px 12px;
+  border-radius: 6px;
+  transition: all 0.2s ease;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  cursor: pointer;
+  font-size: 13px;
+  margin-left: 10px;
+}
+
+.subcategory-link:hover {
+  background: var(--bg-tertiary);
+  color: var(--accent-primary);
+}
+
+.subcategory-link.expanded {
+  background: var(--bg-tertiary);
+  color: var(--accent-primary);
+}
+
+.subcategory-name {
+  flex: 1;
+}
+
+.subcategory-count {
+  font-size: 10px;
+  color: var(--text-muted);
+}
+
+.subcategory-toggle {
+  flex-shrink: 0;
+  font-size: 9px;
+  transition: transform 0.3s ease;
+}
+
+.subcategory-items {
+  padding-left: 20px;
+  margin-top: 2px;
+  margin-bottom: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.subcategory-item {
+  text-decoration: none;
+  color: var(--text-muted);
+  padding: 5px 10px;
+  border-radius: 4px;
+  font-size: 12px;
+  transition: all 0.2s ease;
+  display: block;
+}
+
+.subcategory-item:hover {
+  background: var(--bg-tertiary);
+  color: var(--accent-primary);
+  padding-left: 14px;
+}
+
 .sidebar-stats {
   background: var(--bg-tertiary);
   padding: 20px;
@@ -535,6 +668,13 @@ export default {
   transition: color 0.3s ease;
 }
 
+.no-categories {
+  padding: 20px;
+  text-align: center;
+  color: var(--text-muted);
+  font-style: italic;
+}
+
 /* Content Styles */
 .content {
   flex: 1;
@@ -556,46 +696,49 @@ export default {
 .footer-content {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 40px 20px 20px;
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 30px;
+  padding: 30px 20px 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
 }
 
-.footer-section h4 {
-  margin-bottom: 15px;
+.footer-brand h4 {
+  margin: 0;
   color: var(--footer-text);
-  font-size: 16px;
+  font-size: 18px;
+  font-weight: 600;
   transition: color 0.3s ease;
 }
 
-.footer-section ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
+.footer-links {
+  display: flex;
+  gap: 25px;
+  align-items: center;
 }
 
-.footer-section li {
-  margin-bottom: 8px;
-}
-
-.footer-section a {
+.footer-links a {
   color: var(--footer-link);
   text-decoration: none;
   transition: color 0.3s ease;
+  font-size: 14px;
 }
 
-.footer-section a:hover {
+.footer-links a:hover {
   color: var(--footer-text);
 }
 
 .footer-bottom {
   border-top: 1px solid var(--border-color);
-  padding: 20px;
+  padding: 15px 20px;
   text-align: center;
   color: var(--text-muted);
-  font-size: 14px;
+  font-size: 13px;
   transition: border-color 0.3s ease, color 0.3s ease;
+}
+
+.footer-bottom p {
+  margin: 0;
 }
 
 /* Responsive Design */
@@ -623,15 +766,21 @@ export default {
   }
 
   .footer-content {
-    grid-template-columns: repeat(2, 1fr);
-    gap: 20px;
-    padding: 30px 15px 15px;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    padding: 20px 15px 10px;
+  }
+
+  .footer-links {
+    gap: 15px;
   }
 }
 
 @media (max-width: 480px) {
-  .footer-content {
-    grid-template-columns: 1fr;
+  .footer-links {
+    flex-direction: column;
+    gap: 10px;
   }
 }
 </style>
