@@ -1,5 +1,5 @@
 ---
-title: "Claude vs Gemini vs Mistral: State Financial Regulation"
+title: "state money transmitter licenses"
 description: "AI model comparison: state money transmitter licenses..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs Gemini vs Mistral: State Financial Regulation"
+  title="state money transmitter licenses"
   prompt="state money transmitter licenses"
   :responses='{
     "Claude": "Money transmitter licenses (MTLs) are state-level licenses required for businesses that transmit money or monetary value on behalf of others. Here\u0027s an overview:\n\n## What Requires a License\n- Money transfer services (Western Union, etc.)\n- Payment processors\n- Cryptocurrency exchanges and services\n- Prepaid card programs\n- Digital wallets (PayPal, Venmo, etc.)\n- Check cashing services\n- Foreign exchange services\n\n## State-by-State Requirements\nEach state has its own requirements, but generally include:\n\n### Common Requirements\n- **Application fees**: $500 - $5,000\u002B\n- **Surety bonds**: $10,000 - $2 million\u002B\n- **Net worth requirements**: $25,000 - $5 million\u002B\n- **Background checks** for principals/owners\n- **Financial statements** and audits\n- **Business plans** and compliance programs\n- **Physical presence** requirements in some states\n\n### Notable State Variations\n- **New York**: BitLicense for crypto activities\n- **Texas**: Stricter requirements, higher bonds\n- **Montana**: Among the most permissive\n- **California**: Comprehensive regulatory framework\n\n## Exemptions\nSome states exempt certain activities:\n- Banks and credit unions\n- Government agencies\n- Small dollar amounts (varies by state)\n- Certain business-to-business transactions\n\n## Ongoing Compliance\n- Annual renewals and fees\n- Regular financial reporting\n- Maintaining bonds and net worth\n- Record keeping requirements\n- Consumer protection measures\n\nWould you like specific information about requirements in particular states?",

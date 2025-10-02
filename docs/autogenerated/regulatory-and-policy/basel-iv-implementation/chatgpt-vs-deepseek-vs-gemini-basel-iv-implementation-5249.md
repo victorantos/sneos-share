@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Basel IV Implementation"
+title: "basel iv timeline"
 description: "AI model comparison: basel iv timeline..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Basel IV Implementation"
+  title="basel iv timeline"
   prompt="basel iv timeline"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

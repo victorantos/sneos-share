@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Mistral: Operational Resilience"
+title: "critical services identification"
 description: "AI model comparison: critical services identification..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Mistral: Operational Resilience"
+  title="critical services identification"
   prompt="critical services identification"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

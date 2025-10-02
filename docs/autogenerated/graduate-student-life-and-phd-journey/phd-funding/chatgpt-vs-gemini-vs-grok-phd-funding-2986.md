@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Grok: PhD Funding"
+title: "PhD funding sources - fellowships, grants, assistantships"
 description: "AI model comparison: PhD funding sources - fellowships, grants, assistantships..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Grok: PhD Funding"
+  title="PhD funding sources - fellowships, grants, assistantships"
   prompt="PhD funding sources - fellowships, grants, assistantships"
   :responses='{
     "ChatGPT": "PhD funding typically comes from several key sources including fellowships, grants, and assistantships. Here\u2019s an overview of each:\n\n### 1. Fellowships\n- **Description:** Fellowships are merit-based awards that provide financial support for PhD students, often without work requirements.\n- **Types:**\n  - **External Fellowships:** Provided by government agencies (e.g., NSF Graduate Research Fellowship in the U.S.), private foundations, or professional organizations.\n  - **Internal Fellowships:** Offered by universities or departments to their students.\n- **Benefits:** Usually cover tuition and provide a stipend for living expenses. Often considered prestigious.\n- **Examples:** \n  - National Science Foundation (NSF) Graduate Research Fellowship\n  - Ford Foundation Fellowship\n  - Hertz Fellowship\n  - University-specific fellowships\n\n### 2. Grants\n- **Description:** Grants are funds provided typically to faculty or research projects, which may be used to support PhD students working on related research.\n- **Source:** Government bodies (e.g., National Institutes of Health, Department of Energy), private foundations, corporations.\n- **How it works:** Faculty members apply for grants to conduct research; part of the grant budget might be allocated for PhD student stipends, tuition, and research costs.\n- **Benefit:** Funding linked to specific research projects or areas.\n\n### 3. Assistantships\n- **Teaching Assistantship (TA):**\n  - Responsibilities: Assisting in teaching undergraduate courses, grading, holding office hours, leading discussion sections or labs.\n- **Research Assistantship (RA):**\n  - Responsibilities: Conducting research related to a faculty member\u2019s project.\n- **Benefits:** Provide a stipend and usually cover tuition or fees. These positions may require a certain number of work hours per week.\n- **Paid by:** The university, often from departmental funds or faculty grants.\n\n---\n\n### Additional Tips:\n- **Combination of funding:** Some students combine fellowships and assistantships, e.g., use fellowship for stipend and assistantship for tuition waiver.\n- **Application timing:** Fellowships often require advance application (sometimes before admission).\n- **Departmental financial aid:** Check department websites for specific funding opportunities.\n- **External scholarships:** Consider professional societies in your field for scholarships/fellowships.\n\nIf you want, I can help find specific funding opportunities relevant to your field or location!",

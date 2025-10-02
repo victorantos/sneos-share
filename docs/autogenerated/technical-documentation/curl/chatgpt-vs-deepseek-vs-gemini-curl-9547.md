@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Curl"
+title: "curl command examples beginners"
 description: "AI model comparison: curl command examples beginners..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Curl"
+  title="curl command examples beginners"
   prompt="curl command examples beginners"
   :responses='{
     "ChatGPT": "Sure! Here are some simple \u0060curl\u0060 command examples for beginners to help you get started with making HTTP requests from the command line:\n\n1. **Fetch a Webpage (HTTP GET Request)**\n\u0060\u0060\u0060bash\ncurl https://www.example.com\n\u0060\u0060\u0060\nThis command downloads and displays the HTML content of the webpage.\n\n2. **Save the Output to a File**\n\u0060\u0060\u0060bash\ncurl -o example.html https://www.example.com\n\u0060\u0060\u0060\nThe \u0060-o\u0060 option saves the output to \u0060example.html\u0060 instead of displaying it.\n\n3. **Follow Redirects**\n\u0060\u0060\u0060bash\ncurl -L http://example.com\n\u0060\u0060\u0060\nSometimes URLs redirect to other URLs. The \u0060-L\u0060 flag tells \u0060curl\u0060 to follow these redirects.\n\n4. **Show Response Headers**\n\u0060\u0060\u0060bash\ncurl -I https://www.example.com\n\u0060\u0060\u0060\nThe \u0060-I\u0060 option fetches and displays only the HTTP headers (not the body).\n\n5. **Send a POST Request with Data**\n\u0060\u0060\u0060bash\ncurl -X POST -d \u0022name=John\u0026age=30\u0022 https://httpbin.org/post\n\u0060\u0060\u0060\nThis sends form data (\u0060name\u0060 and \u0060age\u0060) via POST.\n\n6. **Send JSON Data in a POST Request**\n\u0060\u0060\u0060bash\ncurl -X POST -H \u0022Content-Type: application/json\u0022 -d \u0027{\u0022name\u0022:\u0022John\u0022,\u0022age\u0022:30}\u0027 https://httpbin.org/post\n\u0060\u0060\u0060\nSet header to JSON and send JSON data.\n\n7. **Pass Authentication Credentials**\n\u0060\u0060\u0060bash\ncurl -u username:password https://example.com/protected\n\u0060\u0060\u0060\nUse \u0060-u\u0060 for basic HTTP authentication.\n\n8. **Download a File**\n\u0060\u0060\u0060bash\ncurl -O https://example.com/file.zip\n\u0060\u0060\u0060\n\u0060-O\u0060 saves the file with its original name.\n\n9. **Verbose Output (Detailed Request and Response)**\n\u0060\u0060\u0060bash\ncurl -v https://www.example.com\n\u0060\u0060\u0060\nUseful for debugging HTTP requests.\n\n10. **Send a Custom Header**\n\u0060\u0060\u0060bash\ncurl -H \u0022X-Custom-Header: value\u0022 https://www.example.com\n\u0060\u0060\u0060\n\n---\n\nIf you want explanation on any particular example or more advanced usage, just let me know!",

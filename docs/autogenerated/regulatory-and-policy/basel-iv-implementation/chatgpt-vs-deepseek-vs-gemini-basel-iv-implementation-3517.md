@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Basel IV Implementation"
+title: "market risk frtb"
 description: "AI model comparison: market risk frtb..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Basel IV Implementation"
+  title="market risk frtb"
   prompt="market risk frtb"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

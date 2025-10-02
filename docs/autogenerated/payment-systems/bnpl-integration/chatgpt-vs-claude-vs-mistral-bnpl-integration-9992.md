@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Mistral: BNPL Integration"
+title: "buy now pay later for banks"
 description: "AI model comparison: buy now pay later for banks..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Mistral: BNPL Integration"
+  title="buy now pay later for banks"
   prompt="buy now pay later for banks"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

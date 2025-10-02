@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Grok: Cross-Border KYC"
+title: "kyc utility platforms"
 description: "AI model comparison: kyc utility platforms..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Grok: Cross-Border KYC"
+  title="kyc utility platforms"
   prompt="kyc utility platforms"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

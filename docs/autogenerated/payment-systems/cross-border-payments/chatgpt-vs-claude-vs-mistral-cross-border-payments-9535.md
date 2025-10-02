@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Mistral: Cross-Border Payments"
+title: "swift alternative payment rails"
 description: "AI model comparison: swift alternative payment rails..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Mistral: Cross-Border Payments"
+  title="swift alternative payment rails"
   prompt="swift alternative payment rails"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

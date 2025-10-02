@@ -1,5 +1,5 @@
 ---
-title: "Claude vs DeepSeek vs Grok: School Choice"
+title: "Choose best school for child - public vs private vs homeschool"
 description: "AI model comparison: Choose best school for child - public vs private vs homeschool..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs DeepSeek vs Grok: School Choice"
+  title="Choose best school for child - public vs private vs homeschool"
   prompt="Choose best school for child - public vs private vs homeschool"
   :responses='{
     "Claude": "Here\u0027s a framework to help you evaluate the best educational option for your child:\n\n## Key Factors to Consider\n\n**Your Child\u0027s Needs**\n- Learning style (visual, auditory, hands-on)\n- Social personality (thrives in groups vs. smaller settings)\n- Special needs or gifted requirements\n- Academic strengths and challenges\n\n**Family Circumstances**\n- Budget and financial priorities\n- Parent availability and teaching confidence\n- Work schedules and flexibility\n- Family values and educational philosophy\n\n## Comparing Options\n\n### Public School\n**Pros:** Free, diverse student body, certified teachers, extracurriculars, special services\n**Cons:** Large class sizes, less individual attention, standardized curriculum\n\n### Private School\n**Pros:** Smaller classes, specialized programs, more resources, selective environment\n**Cons:** Expensive, may lack diversity, limited availability\n\n### Homeschooling\n**Pros:** Customized pace/curriculum, flexible schedule, one-on-one attention\n**Cons:** Requires significant parent time, limited social interaction, parent must handle all subjects\n\n## Making Your Decision\n\n1. **Visit/research** local options in each category\n2. **Talk to your child** about their preferences and comfort level\n3. **Consider a trial period** if possible\n4. **Remember** you can change paths if needed\n\nThe \u0022best\u0022 choice varies greatly by family. What specific concerns or priorities do you have for your child\u0027s education?",

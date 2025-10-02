@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Mistral: Digital Wallet Setup"
+title: "digital wallet fees comparison"
 description: "AI model comparison: digital wallet fees comparison..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Mistral: Digital Wallet Setup"
+  title="digital wallet fees comparison"
   prompt="digital wallet fees comparison"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

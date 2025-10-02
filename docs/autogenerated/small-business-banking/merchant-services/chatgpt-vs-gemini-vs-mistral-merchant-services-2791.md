@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: Merchant Services"
+title: "chargeback prevention strategies"
 description: "AI model comparison: chargeback prevention strategies..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: Merchant Services"
+  title="chargeback prevention strategies"
   prompt="chargeback prevention strategies"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

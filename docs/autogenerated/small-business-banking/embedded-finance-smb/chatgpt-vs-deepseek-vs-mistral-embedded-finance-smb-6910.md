@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Mistral: Embedded Finance SMB"
+title: "invoicing with payments"
 description: "AI model comparison: invoicing with payments..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Mistral: Embedded Finance SMB"
+  title="invoicing with payments"
   prompt="invoicing with payments"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

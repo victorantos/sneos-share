@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Gemini: Payment Orchestration"
+title: "enterprise payment infrastructure"
 description: "AI model comparison: enterprise payment infrastructure..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Gemini: Payment Orchestration"
+  title="enterprise payment infrastructure"
   prompt="enterprise payment infrastructure"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: Standups"
+title: "async standup meeting format"
 description: "AI model comparison: async standup meeting format..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: Standups"
+  title="async standup meeting format"
   prompt="async standup meeting format"
   :responses='{
     "ChatGPT": "Certainly! Here\u2019s a simple and effective format for an **async standup meeting** \u2014 a daily status update done asynchronously, often via chat or collaboration tools like Slack, Microsoft Teams, or project management software.\n\n---\n\n### Async Standup Meeting Format\n\n**Purpose:**  \nTo keep the team aligned on progress, blockers, and plans without needing to gather everyone at the same time.\n\n---\n\n#### Suggested Template (to be filled out by each team member)\n\n1. **What did I accomplish yesterday?**  \n   *(Brief summary of completed tasks or progress)*\n\n2. **What am I working on today?**  \n   *(Priorities or goals for the current day)*\n\n3. **Are there any blockers or issues?**  \n   *(Anything preventing progress or needing help)*\n\n4. *(Optional)* **Additional notes or announcements**  \n   *(Relevant info for the team, resources needed, etc.)*\n\n---\n\n### Example Message\n\n\u0060\u0060\u0060\n**Name:** Alice\n\n1. What did I accomplish yesterday?  \n- Completed the user authentication module.  \n- Reviewed PRs for the frontend team.\n\n2. What am I working on today?  \n- Start integrating the payment API.  \n- Write unit tests for the auth module.\n\n3. Are there any blockers or issues?  \n- Waiting for API credentials from the vendor.\n\n4. Additional notes:  \n- Reminder: sprint planning meeting tomorrow at 10 AM.\n\u0060\u0060\u0060\n\n---\n\n### Best Practices\n\n- **Set a deadline:** Ensure updates are posted by a certain time each day (e.g., before 10 AM).\n- **Use a dedicated channel or thread:** Keep all async standup updates organized.\n- **Prompt collaboration:** Team members can comment or follow up on blockers directly in the thread.\n- **Keep it concise:** Focus on key updates to respect everyone\u2019s time.\n\n---\n\nWould you like a sample template for a specific tool or platform?",

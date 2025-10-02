@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs DeepSeek: Fair Lending Algorithm"
+title: "disparate impact testing"
 description: "AI model comparison: disparate impact testing..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs DeepSeek: Fair Lending Algorithm"
+  title="disparate impact testing"
   prompt="disparate impact testing"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

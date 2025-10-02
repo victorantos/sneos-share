@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Grok: Car Maintenance"
+title: "Car maintenance schedule - prevent expensive repairs"
 description: "AI model comparison: Car maintenance schedule - prevent expensive repairs..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Grok: Car Maintenance"
+  title="Car maintenance schedule - prevent expensive repairs"
   prompt="Car maintenance schedule - prevent expensive repairs"
   :responses='{
     "ChatGPT": "Certainly! Regular car maintenance is key to preventing expensive repairs and extending the life of your vehicle. Here\u0027s a general car maintenance schedule to follow:\n\n### Every 3,000 to 5,000 miles (or every 3 to 6 months)\n- **Change engine oil and oil filter:** Keeps your engine lubricated and running smoothly.\n- **Check fluid levels:** Brake fluid, coolant, power steering fluid, windshield washer fluid.\n- **Inspect tires:** Check tire pressure and tread depth; rotate tires if needed.\n- **Check lights:** Headlights, brake lights, turn signals, and interior lights.\n\n### Every 15,000 miles (or about once a year)\n- **Replace air filter:** Ensures clean air for engine efficiency.\n- **Inspect brakes:** Pads, rotors, and brake lines.\n- **Inspect battery and cables:** Check for corrosion and secure connections.\n- **Inspect belts and hoses:** Look for cracks, fraying, or leaks.\n\n### Every 30,000 miles\n- **Replace fuel filter:** Maintains fuel system efficiency.\n- **Flush coolant system:** Prevents overheating and corrosion.\n- **Inspect suspension and steering components:** Check for wear and tear.\n\n### Every 60,000 miles\n- **Replace spark plugs:** Ensures efficient combustion.\n- **Inspect timing belt/chain:** Replace as recommended by manufacturer (some timing belts require replacement around this interval).\n- **Inspect transmission fluid:** Change if necessary.\n\n### Every 100,000 miles\n- **Replace timing belt (if not done at 60,000 miles):**\n- **Inspect and possibly replace water pump:** Often replaced with timing belt.\n- **Inspect major engine components:** As per manufacturer recommendations.\n\n### Additional Tips\n- **Follow the manufacturer\u2019s manual:** Every vehicle is different; always check your car\u2019s specific maintenance schedule.\n- **Address issues promptly:** Unusual noises, dashboard warning lights, or changes in performance should be checked immediately.\n- **Keep records:** Maintain a log of all maintenance and repairs for future reference and resale value.\n\nKeeping up with this maintenance schedule can save you money by preventing breakdowns and costly repairs. If you\u0027re unsure about any procedures, consult a trusted mechanic.",

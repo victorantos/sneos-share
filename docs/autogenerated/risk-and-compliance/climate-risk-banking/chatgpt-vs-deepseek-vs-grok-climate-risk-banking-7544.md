@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Grok: Climate Risk Banking"
+title: "tcfd implementation guide banks"
 description: "AI model comparison: tcfd implementation guide banks..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Grok: Climate Risk Banking"
+  title="tcfd implementation guide banks"
   prompt="tcfd implementation guide banks"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

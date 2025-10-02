@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Mistral: Legal Project Management"
+title: "litigation milestone tracking"
 description: "AI model comparison: litigation milestone tracking..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Mistral: Legal Project Management"
+  title="litigation milestone tracking"
   prompt="litigation milestone tracking"
   :responses='{
     "ChatGPT": "Litigation milestone tracking involves monitoring and managing key dates, tasks, and events throughout the lifecycle of a legal case. This helps legal teams stay organized, meet deadlines, and ensure that critical steps in the litigation process are completed on time.\n\n### Key Components of Litigation Milestone Tracking\n\n1. **Case Initiation:**\n   - Complaint filing\n   - Summons issuance\n   - Service of process deadlines\n\n2. **Pleadings:**\n   - Answer due date\n   - Motions to dismiss\n   - Amendments to pleadings\n\n3. **Discovery:**\n   - Initial disclosures\n   - Written interrogatories\n   - Document requests\n   - Depositions\n   - Expert witness disclosures and reports\n\n4. **Pre-Trial Motions and Hearings:**\n   - Motions for summary judgment\n   - Daubert motions\n   - Other dispositive motions\n   - Pre-trial conferences\n\n5. **Trial Preparation:**\n   - Jury instructions\n   - Exhibit lists\n   - Witness lists\n   - Pre-trial briefs\n\n6. **Trial:**\n   - Jury selection\n   - Trial start and end dates\n\n7. **Post-Trial:**\n   - Post-trial motions\n   - Appeals filing deadlines\n   - Enforcement of judgment\n\n### Tools for Litigation Milestone Tracking\n\n- **Legal Practice Management Software:** \n  - Clio, MyCase, PracticePanther\n- **Case Management Systems:**\n  - Relativity, LexisNexis CaseMap\n- **Calendar and Reminder Tools:**\n  - Outlook, Google Calendar integrated with case management\n- **Spreadsheet Trackers:**\n  - Customized Excel or Google Sheets with milestone dates and status\n\n### Sample Litigation Milestone Tracker Template (Simplified)\n\n| Milestone                  | Due Date      | Responsible Party | Status      | Notes                  |\n|----------------------------|---------------|-------------------|-------------|------------------------|\n| Complaint Filed            | 01/10/2024    | Plaintiff Attorney| Completed   | Filed with court clerk |\n| Answer Due                | 02/10/2024    | Defendant Attorney| Pending     |                        |\n| Initial Disclosures       | 03/01/2024    | Both Parties      | In Progress | Scheduled for 02/28    |\n| Discovery Close           | 06/01/2024    | Both Parties      | Pending     |                        |\n| Summary Judgment Motion   | 07/01/2024    | Defendant Attorney| Not Started |                        |\n| Trial Date                | 09/15/2024    | Court             | Scheduled   |                        |\n\n---\n\nIf you need help setting up a specific tracker or want recommendations on software tools, feel free to ask!",

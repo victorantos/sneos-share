@@ -1,5 +1,5 @@
 ---
-title: "Claude vs Grok vs Mistral: Wedding Photography"
+title: "Wedding photography business - pricing and client management"
 description: "AI model comparison: Wedding photography business - pricing and client management..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs Grok vs Mistral: Wedding Photography"
+  title="Wedding photography business - pricing and client management"
   prompt="Wedding photography business - pricing and client management"
   :responses='{
     "Claude": "I\u0027ll help you understand the key aspects of running a successful wedding photography business, focusing on pricing strategies and client management.\n\n## Pricing Strategies\n\n### **Market Research \u0026 Positioning**\n- Research local competitors\u0027 pricing\n- Identify your target market (budget, mid-range, luxury)\n- Consider your experience level and portfolio quality\n- Factor in your unique style and value proposition\n\n### **Pricing Models**\n1. **Package-based pricing** (most common)\n   - Basic, Standard, Premium tiers\n   - Include different hours, deliverables, add-ons\n   \n2. **\u00C0 la carte pricing**\n   - Base session fee \u002B individual services\n   - More flexibility but can be complex\n\n3. **Value-based pricing**\n   - Price based on the value you provide\n   - Focus on experience and final product quality\n\n### **Cost Considerations**\n- Equipment and maintenance\n- Insurance and business licenses\n- Travel and accommodation\n- Editing time (often 3-5x shooting time)\n- Marketing and website costs\n- Second shooter fees\n- Storage and backup solutions\n\n## Client Management\n\n### **Initial Consultation**\n- Qualify leads early\n- Understand their vision and expectations\n- Present your portfolio and process\n- Discuss timeline and logistics\n- Build rapport and trust\n\n### **Communication Systems**\n- Use CRM software (HoneyBook, Tave, Studio Ninja)\n- Set clear communication boundaries\n- Respond promptly to inquiries\n- Send regular updates throughout the process\n\n### **Contract Essentials**\n- Detailed service descriptions\n- Payment schedule and terms\n- Cancellation and rescheduling policies\n- Image usage rights\n- Timeline for delivery\n- Weather contingency plans\n\n### **Workflow Management**\n- Pre-wedding questionnaire\n- Timeline planning assistance\n- Shot list coordination\n- Post-wedding follow-up system\n- Delivery and review process\n\n## Best Practices\n\n### **Client Experience**\n- Create a memorable booking experience\n- Provide planning resources and guides\n- Offer engagement sessions to build comfort\n- Be professional but personable\n- Exceed expectations in small ways\n\n### **Business Operations**\n- Maintain consistent branding\n- Develop standardized processes\n- Track expenses and profit margins\n- Plan for seasonal fluctuations\n- Build referral relationships with vendors\n\nWould you like me to dive deeper into any specific aspect, such as pricing calculations, contract templates, or client communication strategies?",

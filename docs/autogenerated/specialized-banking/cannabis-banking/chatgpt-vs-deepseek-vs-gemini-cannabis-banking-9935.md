@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Cannabis Banking"
+title: "cannabis credit card processing"
 description: "AI model comparison: cannabis credit card processing..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Cannabis Banking"
+  title="cannabis credit card processing"
   prompt="cannabis credit card processing"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

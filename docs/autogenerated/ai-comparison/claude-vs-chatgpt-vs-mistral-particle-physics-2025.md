@@ -1,5 +1,5 @@
 ---
-title: "Claude vs ChatGPT vs Mistral: Particle Physics Comparison 2025"
+title: "Beyond the Higgs boson - next big physics discoveries"
 description: "AI model comparison: Beyond the Higgs boson - next big physics discoveries..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs ChatGPT vs Mistral: Particle Physics Comparison 2025"
+  title="Beyond the Higgs boson - next big physics discoveries"
   prompt="Beyond the Higgs boson - next big physics discoveries"
   :responses='{
     "Claude": "The search for physics beyond the Higgs boson is driving some of the most ambitious scientific endeavors of our time. Here are the major frontiers:\n\n## Dark Matter Direct Detection\n**What we\u0027re looking for**: The mysterious substance comprising ~27% of the universe\n**Current efforts**: Underground detectors like LUX-ZEPLIN and XENON are becoming incredibly sensitive\n**Potential breakthrough**: Detecting the first confirmed interaction between dark matter and ordinary matter\n\n## Gravitational Wave Astronomy\n**Recent success**: LIGO\u0027s detection opened an entirely new observational window\n**Next steps**: \n- Space-based detectors like LISA (launching ~2030s)\n- Detection of primordial gravitational waves from cosmic inflation\n- Possible discovery of new physics through wave signatures\n\n## Neutrino Mysteries\n**Key questions**: \n- What is their actual mass?\n- Are they their own antiparticles?\n- Do they violate CP symmetry?\n**Major experiments**: DUNE, Hyper-Kamiokande, and neutrinoless double-beta decay searches\n\n## Quantum Gravity \u0026 Extra Dimensions\n**Challenges**: Unifying quantum mechanics with general relativity\n**Approaches**: String theory, loop quantum gravity\n**Potential evidence**: Mini black holes at particle accelerators, deviations in gravity at small scales\n\n## Next-Generation Particle Physics\n**Beyond the Standard Model searches**:\n- Supersymmetric particles\n- Axions (dark matter candidates)\n- New forces and interactions\n**Future colliders**: Plans for more powerful machines than the LHC\n\nThe next major discovery could revolutionize our understanding of reality itself.",

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: D&O Liability"
+title: "independent director responsibilities"
 description: "AI model comparison: independent director responsibilities..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: D&amp;O Liability"
+  title="independent director responsibilities"
   prompt="independent director responsibilities"
   :responses='{
     "ChatGPT": "Independent directors play a crucial role in corporate governance by providing unbiased oversight and ensuring that the interests of all stakeholders, including shareholders, are protected. Their key responsibilities typically include:\n\n1. **Governance Oversight**  \n   - Ensure the company adheres to legal and regulatory requirements.  \n   - Monitor the effectiveness of the board and its committees.  \n   - Promote ethical standards and corporate social responsibility.\n\n2. **Strategic Guidance**  \n   - Provide independent input on the company\u2019s strategy and business plans.  \n   - Challenge and constructively question management decisions.  \n   - Approve significant corporate policies and major investments.\n\n3. **Risk Management and Compliance**  \n   - Oversee risk management frameworks and internal controls.  \n   - Ensure compliance with applicable laws, regulations, and internal policies.  \n   - Monitor financial reporting and audit processes.\n\n4. **Performance Monitoring**  \n   - Evaluate the performance of the CEO and senior management.  \n   - Ensure appropriate succession planning for key executives.  \n   - Review remuneration policies to align executive compensation with company performance.\n\n5. **Protect Stakeholder Interests**  \n   - Balance the interests of shareholders, employees, customers, and other stakeholders.  \n   - Address conflicts of interest with impartiality.  \n   - Safeguard minority shareholders\u2019 rights.\n\n6. **Attendance and Participation**  \n   - Attend board and committee meetings regularly.  \n   - Prepare diligently and actively participate in discussions.  \n   - Bring an independent perspective free from management influence.\n\nOverall, independent directors are expected to act with integrity, objectivity, and diligence to enhance transparency, accountability, and long-term value creation.",

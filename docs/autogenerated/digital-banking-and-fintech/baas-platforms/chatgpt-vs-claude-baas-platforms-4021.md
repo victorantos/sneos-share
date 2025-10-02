@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude: BaaS Platforms"
+title: "white label banking solutions"
 description: "AI model comparison: white label banking solutions..."
 date: 2025-10-02
 category: comparison
@@ -16,7 +16,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude: BaaS Platforms"
+  title="white label banking solutions"
   prompt="white label banking solutions"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

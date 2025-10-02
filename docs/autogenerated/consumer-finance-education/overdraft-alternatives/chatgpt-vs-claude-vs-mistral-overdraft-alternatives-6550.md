@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Mistral: Overdraft Alternatives"
+title: "overdraft line of credit"
 description: "AI model comparison: overdraft line of credit..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Mistral: Overdraft Alternatives"
+  title="overdraft line of credit"
   prompt="overdraft line of credit"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

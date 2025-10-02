@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Grok: Digital Nomad Banking"
+title: "international money transfer apps"
 description: "AI model comparison: international money transfer apps..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Grok: Digital Nomad Banking"
+  title="international money transfer apps"
   prompt="international money transfer apps"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

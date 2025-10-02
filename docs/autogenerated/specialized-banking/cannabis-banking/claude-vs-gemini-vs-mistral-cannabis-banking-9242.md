@@ -1,5 +1,5 @@
 ---
-title: "Claude vs Gemini vs Mistral: Cannabis Banking"
+title: "marijuana business bank accounts"
 description: "AI model comparison: marijuana business bank accounts..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs Gemini vs Mistral: Cannabis Banking"
+  title="marijuana business bank accounts"
   prompt="marijuana business bank accounts"
   :responses='{
     "Claude": "Banks and marijuana businesses face unique challenges due to federal regulations. Here\u0027s what you should know:\n\n## Current Banking Landscape\n\n**Limited Options:**\n- Most major banks avoid marijuana businesses due to federal compliance concerns\n- Some state-chartered banks and credit unions do serve cannabis companies\n- Specialty financial institutions are emerging in legal states\n\n## Key Challenges\n\n**Regulatory Issues:**\n- Marijuana remains federally illegal, creating compliance risks for banks\n- Banks must file Suspicious Activity Reports (SARs) for cannabis transactions\n- Extensive due diligence and monitoring requirements\n\n**Practical Difficulties:**\n- Higher fees and minimum balance requirements\n- Limited services (often basic checking only)\n- Potential account closures with little notice\n\n## Solutions for Cannabis Businesses\n\n**Banking Options:**\n- Research local/regional banks in cannabis-legal states\n- Consider credit unions with cannabis programs\n- Look into cannabis-focused financial services\n- Maintain relationships with compliant CPAs and attorneys\n\n**Best Practices:**\n- Ensure full compliance with state regulations\n- Maintain detailed financial records\n- Be transparent about business operations\n- Consider backup banking relationships\n\n## Resources\n\n- Check with your state\u0027s cannabis regulatory agency\n- Consult cannabis business attorneys\n- Join industry associations for referrals\n- Work with experienced cannabis accountants\n\nWould you like information about any specific aspect of cannabis banking?",

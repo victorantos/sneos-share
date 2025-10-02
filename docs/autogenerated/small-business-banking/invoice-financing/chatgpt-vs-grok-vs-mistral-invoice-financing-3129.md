@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Grok vs Mistral: Invoice Financing"
+title: "invoice financing automation"
 description: "AI model comparison: invoice financing automation..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Grok vs Mistral: Invoice Financing"
+  title="invoice financing automation"
   prompt="invoice financing automation"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

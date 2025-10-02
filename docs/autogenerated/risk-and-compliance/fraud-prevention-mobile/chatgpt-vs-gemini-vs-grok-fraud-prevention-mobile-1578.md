@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Grok: Fraud Prevention Mobile"
+title: "fraud prevention best practices"
 description: "AI model comparison: fraud prevention best practices..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Grok: Fraud Prevention Mobile"
+  title="fraud prevention best practices"
   prompt="fraud prevention best practices"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

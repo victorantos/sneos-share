@@ -1,5 +1,5 @@
 ---
-title: "Claude vs Gemini vs Mistral: Drainage"
+title: "apartment garden drainage solutions"
 description: "AI model comparison: apartment garden drainage solutions..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs Gemini vs Mistral: Drainage"
+  title="apartment garden drainage solutions"
   prompt="apartment garden drainage solutions"
   :responses='{
     "Claude": "Here are effective drainage solutions for apartment gardens:\n\n## **Container Gardens**\n- **Drainage holes**: Ensure all pots have adequate holes in the bottom\n- **Saucers with gaps**: Use pot feet or risers to lift containers above saucers\n- **Layered drainage**: Add gravel, perlite, or broken pottery at pot bottom\n- **Well-draining soil mix**: Use potting mix with perlite, vermiculite, or coarse sand\n\n## **Balcony/Patio Solutions**\n- **Raised planters**: Elevate containers on blocks or plant stands\n- **Drainage mats**: Place under containers to protect surfaces\n- **French drains**: For larger balcony gardens, install simple gravel channels\n- **Sloped surfaces**: Ensure slight tilt away from building walls\n\n## **Indoor Gardens**\n- **Double-pot system**: Plant in inner pot with holes, place in decorative outer pot\n- **Humidity trays**: Gravel-filled trays that catch excess water\n- **Self-watering systems**: Containers with built-in water reservoirs\n- **Moisture meters**: Monitor soil wetness to prevent overwatering\n\n## **Vertical Gardens**\n- **Cascading drainage**: Upper planters drain into lower ones\n- **Wall-mounted systems**: Include built-in drainage channels\n- **Pocket planters**: Choose designs with drainage holes and backing protection\n\n## **Quick Fixes**\n- Drill additional holes in containers\n- Add activated charcoal to prevent water stagnation\n- Use lightweight, fast-draining potting mixes\n- Install simple gutters for water collection\n\nWould you like specific advice for your particular apartment garden setup?",

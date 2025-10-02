@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Payment Orchestration"
+title: "multi processor strategy"
 description: "AI model comparison: multi processor strategy..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Payment Orchestration"
+  title="multi processor strategy"
   prompt="multi processor strategy"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

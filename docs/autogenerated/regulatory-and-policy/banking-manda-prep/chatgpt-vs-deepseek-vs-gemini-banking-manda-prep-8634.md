@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Banking M&A Prep"
+title: "regulatory filing requirements"
 description: "AI model comparison: regulatory filing requirements..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Banking M&amp;A Prep"
+  title="regulatory filing requirements"
   prompt="regulatory filing requirements"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

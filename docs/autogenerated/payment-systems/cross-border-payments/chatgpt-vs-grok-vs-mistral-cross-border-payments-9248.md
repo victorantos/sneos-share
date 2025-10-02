@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Grok vs Mistral: Cross-Border Payments"
+title: "cross border payment optimization"
 description: "AI model comparison: cross border payment optimization..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Grok vs Mistral: Cross-Border Payments"
+  title="cross border payment optimization"
   prompt="cross border payment optimization"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

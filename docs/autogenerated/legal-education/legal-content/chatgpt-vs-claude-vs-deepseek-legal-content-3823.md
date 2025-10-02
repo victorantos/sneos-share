@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs DeepSeek: Legal Content"
+title: "legal podcast equipment"
 description: "AI model comparison: legal podcast equipment..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs DeepSeek: Legal Content"
+  title="legal podcast equipment"
   prompt="legal podcast equipment"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

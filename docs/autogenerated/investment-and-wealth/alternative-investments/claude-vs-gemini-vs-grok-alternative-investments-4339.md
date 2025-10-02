@@ -1,5 +1,5 @@
 ---
-title: "Claude vs Gemini vs Grok: Alternative Investments"
+title: "private equity for accredited investors"
 description: "AI model comparison: private equity for accredited investors..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs Gemini vs Grok: Alternative Investments"
+  title="private equity for accredited investors"
   prompt="private equity for accredited investors"
   :responses='{
     "Claude": "Private equity investing for accredited investors offers access to exclusive investment opportunities, but comes with important considerations:\n\n## **What is Private Equity?**\n- Investment in private companies or buyouts of public companies\n- Active management approach to improve company operations and value\n- Typically 5-10\u002B year investment horizons\n- Higher potential returns than public markets, but with greater risk and illiquidity\n\n## **Accredited Investor Requirements**\nTo invest, you must meet SEC criteria:\n- **Income**: $200k\u002B annually (individual) or $300k\u002B (joint) for 2\u002B years\n- **Net Worth**: $1M\u002B excluding primary residence\n- **Professional**: Hold Series 7, 65, or 82 licenses\n\n## **Access Methods**\n\n**Direct Investment:**\n- Minimum investments often $250k-$1M\u002B\n- Direct relationship with PE firms\n- Co-investment opportunities\n\n**Fund of Funds:**\n- Lower minimums ($25k-$100k)\n- Diversification across multiple PE funds\n- Additional layer of fees\n\n**Interval Funds:**\n- More liquid PE exposure\n- Lower minimums\n- Periodic redemption opportunities\n\n## **Key Considerations**\n\n**Pros:**\n- Potential for higher returns\n- Portfolio diversification\n- Access to expert management\n\n**Cons:**\n- High fees (2% management \u002B 20% carried interest typical)\n- Long lock-up periods\n- Limited liquidity\n- High minimum investments\n- Complex tax reporting\n\n## **Due Diligence Essentials**\n- Fund manager track record\n- Investment strategy and focus\n- Fee structure\n- Exit strategy timeline\n- Risk factors and past performance\n\nWould you like me to elaborate on any specific aspect of PE investing?",

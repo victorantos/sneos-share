@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Grok: Micro-Investing Apps"
+title: "low minimum investment apps"
 description: "AI model comparison: low minimum investment apps..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Grok: Micro-Investing Apps"
+  title="low minimum investment apps"
   prompt="low minimum investment apps"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

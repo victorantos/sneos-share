@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini: Academic Publishing"
+title: "academic citations for practitioners"
 description: "AI model comparison: academic citations for practitioners..."
 date: 2025-10-01
 category: comparison
@@ -16,7 +16,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini: Academic Publishing"
+  title="academic citations for practitioners"
   prompt="academic citations for practitioners"
   :responses='{
     "ChatGPT": "Certainly! Here are some academic citations related to the role and practice of practitioners in various fields. If you have a specific discipline or topic in mind (e.g., healthcare, education, social work), please let me know so I can tailor the citations accordingly.\n\n### General citations on practitioners and practice\n\n1. Sch\u00F6n, D. A. (1983). *The Reflective Practitioner: How Professionals Think in Action*. Basic Books.  \n   - A foundational work exploring how practitioners reflect on their experience and improve their practice.\n\n2. Eraut, M. (1994). *Developing Professional Knowledge and Competence*. Routledge.  \n   - Discusses how practitioners develop knowledge and skills through experience and continuing professional development.\n\n3. Lave, J., \u0026 Wenger, E. (1991). *Situated Learning: Legitimate Peripheral Participation*. Cambridge University Press.  \n   - Examines how practitioners learn within communities of practice.\n\n4. Boud, D., Keogh, R., \u0026 Walker, D. (1985). *Reflection: Turning Experience into Learning*. Routledge.  \n   - Analyzes reflection as a critical process for practitioners to learn from their experiences.\n\n### Healthcare practitioners\n\n1. Benner, P. (1984). *From Novice to Expert: Excellence and Power in Clinical Nursing Practice*. Addison-Wesley.  \n   - A seminal study on how nurses develop skills and expertise over time.\n\n2. Epstein, R. M., \u0026 Hundert, E. M. (2002). Defining and assessing professional competence. *JAMA*, 287(2), 226-235. https://doi.org/10.1001/jama.287.2.226  \n   - Discusses how competence in healthcare practitioners can be conceptualized and evaluated.\n\n3. Greenhalgh, T. (2014). *How to Implement Evidence-Based Healthcare*. Wiley-Blackwell.  \n   - Guidance for healthcare practitioners on applying evidence to practice.\n\n### Educational practitioners\n\n1. Hattie, J. (2009). *Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement*. Routledge.  \n   - Key insights into teaching practices that work, based on research synthesis.\n\n2. Darling-Hammond, L., \u0026 Bransford, J. (Eds.). (2005). *Preparing Teachers for a Changing World: What Teachers Should Learn and Be Able to Do*. Jossey-Bass.  \n   - Explores the knowledge and skills educational practitioners need.\n\n---\n\nIf you want formatted references in APA, MLA, or another style, or citations in a specific field, feel free to ask!",

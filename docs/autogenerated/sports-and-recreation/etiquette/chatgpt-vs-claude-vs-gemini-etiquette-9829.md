@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Gemini: Etiquette"
+title: "pickleball court etiquette guide"
 description: "AI model comparison: pickleball court etiquette guide..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Gemini: Etiquette"
+  title="pickleball court etiquette guide"
   prompt="pickleball court etiquette guide"
   :responses='{
     "ChatGPT": "Sure! Here\u0027s a comprehensive **Pickleball Court Etiquette Guide** to help players enjoy the game respectfully and fairly.\n\n---\n\n## Pickleball Court Etiquette Guide\n\n### 1. **Respect Court Time**\n- **Limit Play Time:** If others are waiting, limit your play to a few games or a set time to allow everyone a turn.\n- **Join or Wait:** When waiting, stay near the court to be ready when it\u2019s your turn, but don\u2019t crowd the playing area.\n\n### 2. **Call Your Shots Honestly**\n- Make calls honestly and clearly on your side of the net.\n- If unsure about a ball in or out, give the benefit of the doubt to your opponent.\n- Discuss any disputed calls calmly and politely.\n\n### 3. **Keep Pace of Play**\n- Be ready to serve when it\u2019s your turn.\n- Avoid unnecessary delays between points.\n- Keep warm-up rallies brief before starting a game.\n\n### 4. **Use Proper Serve and Scoring**\n- Follow the official pickleball rules for serving and scoring.\n- Announce the score before each serve to avoid confusion.\n\n### 5. **Share the Court**\n- If singles players join a doubles game, communicate about sharing or rotating fairly.\n- Avoid monopolizing the courts during busy times.\n\n### 6. **Respect Your Opponents and Partners**\n- Stay positive and encouraging, win or lose.\n- Avoid trash talk or distracting behaviors.\n- Shake hands or tap paddles after matches to show good sportsmanship.\n\n### 7. **Keep the Court Clean**\n- Pick up balls, trash, and belongings.\n- Avoid food or drinks near the court if it might cause damage or mess.\n\n### 8. **Safety First**\n- Allow space to avoid collisions.\n- Announce returning balls to players on adjacent courts.\n- Wear proper footwear and appropriate attire.\n\n### 9. **Use Equipment Properly**\n- Handle nets, paddles, and balls with care.\n- Don\u2019t tamper with court setup or net height.\n\n### 10. **Follow Local Court Rules**\n- Adhere to facility-specific rules and hours.\n- Respect posted guidelines and attendants\u2019 instructions.\n\n---\n\nFollowing these etiquette guidelines ensures a fun, friendly, and fair pickleball experience for everyone. Enjoy the game!",

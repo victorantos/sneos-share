@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Crypto Custody Banks"
+title: "cold storage solutions banks"
 description: "AI model comparison: cold storage solutions banks..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Crypto Custody Banks"
+  title="cold storage solutions banks"
   prompt="cold storage solutions banks"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

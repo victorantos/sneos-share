@@ -1,5 +1,5 @@
 ---
-title: "Claude vs DeepSeek vs Mistral: Trauma Recovery"
+title: "Trauma recovery - healing from past emotional wounds"
 description: "AI model comparison: Trauma recovery - healing from past emotional wounds..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs DeepSeek vs Mistral: Trauma Recovery"
+  title="Trauma recovery - healing from past emotional wounds"
   prompt="Trauma recovery - healing from past emotional wounds"
   :responses='{
     "Claude": "# Trauma Recovery: A Path to Healing\n\nHealing from emotional wounds is a deeply personal journey that requires patience, self-compassion, and often professional support. Here\u0027s a framework for understanding and approaching trauma recovery:\n\n## Understanding Trauma\u0027s Impact\n\n**Common effects:**\n- Hypervigilance or emotional numbing\n- Difficulty trusting others or yourself\n- Intrusive memories or avoidance\n- Physical symptoms (sleep issues, tension, fatigue)\n- Relationship challenges\n\n## Key Principles of Healing\n\n### 1. **Safety First**\n- Create physical and emotional safety\n- Establish stable routines and environments\n- Learn grounding techniques for overwhelming moments\n\n### 2. **Process with Support**\n- Consider therapy (EMDR, trauma-focused CBT, somatic therapy)\n- Join support groups when ready\n- Lean on trusted friends/family appropriately\n\n### 3. **Reconnect with Your Body**\n- Gentle movement (yoga, walking, stretching)\n- Breathwork and mindfulness practices\n- Notice physical sensations without judgment\n\n### 4. **Rebuild Your Narrative**\n- Journal about your experiences\n- Separate past from present\n- Recognize your resilience and growth\n\n## Practical Healing Tools\n\n**Daily practices:**\n- Grounding exercises (5-4-3-2-1 technique)\n- Self-compassion practices\n- Setting healthy boundaries\n- Engaging in meaningful activities\n\n**Professional options:**\n- Individual therapy\n- Group therapy\n- Specialized trauma treatments\n- Medication when appropriate\n\n## Remember\n\nHealing isn\u0027t linear\u2014expect ups and downs. You deserve support, and recovery is possible with time and the right resources.\n\nWhat aspect of trauma recovery feels most relevant to your current situation?",

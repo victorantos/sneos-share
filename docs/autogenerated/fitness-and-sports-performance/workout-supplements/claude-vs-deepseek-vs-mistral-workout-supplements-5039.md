@@ -1,5 +1,5 @@
 ---
-title: "Claude vs DeepSeek vs Mistral: Workout Supplements"
+title: "Best workout supplements - what works and what's waste of money"
 description: "AI model comparison: Best workout supplements - what works and what's waste of money..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs DeepSeek vs Mistral: Workout Supplements"
+  title="Best workout supplements - what works and what's waste of money"
   prompt="Best workout supplements - what works and what's waste of money"
   :responses='{
     "Claude": "Here\u0027s a breakdown of workout supplements based on scientific evidence:\n\n## **Worth Your Money (Strong Evidence)**\n\n**Creatine Monohydrate**\n- Best bang for buck supplement\n- Improves power, strength, and muscle mass\n- 3-5g daily, timing doesn\u0027t matter\n- ~$0.10-0.20 per day\n\n**Caffeine**\n- Enhances endurance, focus, and perceived effort\n- 100-400mg pre-workout (avoid if sensitive)\n- Coffee works just as well as pills\n\n**Whey Protein**\n- Only if you struggle to hit protein targets from food\n- Convenient, not magical\n- Aim for 0.7-1g protein per lb body weight total\n\n## **Possibly Helpful (Moderate Evidence)**\n\n**Citrulline Malate**\n- May improve endurance and reduce soreness\n- 6-8g pre-workout\n- More research needed\n\n**Beta-Alanine**\n- Can help with high-rep training\n- Causes harmless tingling sensation\n- 3-5g daily\n\n## **Likely Waste of Money**\n\n- BCAAs (if eating adequate protein)\n- Fat burners (mostly caffeine \u002B marketing)\n- Testosterone boosters (unless clinically deficient)\n- Most proprietary blends with \u0022secret formulas\u0022\n- Detox/cleanse products\n\n## **Bottom Line**\nFocus on consistent training, adequate sleep, and proper nutrition first. Most supplements are vastly overhyped. Creatine is the only one that\u0027s both cheap and reliably effective for most people.\n\nWhat specific goals are you training for? That might help narrow down what\u0027s actually useful for you.",

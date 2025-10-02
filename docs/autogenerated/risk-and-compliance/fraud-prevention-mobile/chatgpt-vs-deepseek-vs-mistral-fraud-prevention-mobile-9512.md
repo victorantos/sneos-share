@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Mistral: Fraud Prevention Mobile"
+title: "mobile banking fraud prevention"
 description: "AI model comparison: mobile banking fraud prevention..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Mistral: Fraud Prevention Mobile"
+  title="mobile banking fraud prevention"
   prompt="mobile banking fraud prevention"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs DeepSeek: Climate Risk Banking"
+title: "sustainable finance strategy"
 description: "AI model comparison: sustainable finance strategy..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs DeepSeek: Climate Risk Banking"
+  title="sustainable finance strategy"
   prompt="sustainable finance strategy"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Mistral: Micro-Investing Apps"
+title: "automated investing for beginners"
 description: "AI model comparison: automated investing for beginners..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Mistral: Micro-Investing Apps"
+  title="automated investing for beginners"
   prompt="automated investing for beginners"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

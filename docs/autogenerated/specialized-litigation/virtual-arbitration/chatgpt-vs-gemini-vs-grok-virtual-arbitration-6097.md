@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Grok: Virtual Arbitration"
+title: "video hearing best practices"
 description: "AI model comparison: video hearing best practices..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Grok: Virtual Arbitration"
+  title="video hearing best practices"
   prompt="video hearing best practices"
   :responses='{
     "ChatGPT": "Certainly! Here are some best practices for conducting a video hearing to ensure it runs smoothly and professionally:\n\n### Before the Hearing\n1. **Test Technology in Advance**\n   - Verify your internet connection is stable.\n   - Test your video and audio equipment.\n   - Familiarize yourself with the video conferencing platform features (mute/unmute, screen sharing, chat, raise hand).\n\n2. **Prepare Your Environment**\n   - Choose a quiet, well-lit space with a neutral background.\n   - Minimize distractions and background noise.\n   - Inform others in your location about the hearing to avoid interruptions.\n\n3. **Organize Documents**\n   - Have all relevant documents and evidence ready and easily accessible.\n   - Prepare digital copies for screen-sharing if necessary.\n\n4. **Dress Professionally**\n   - Wear appropriate attire as you would in an in-person hearing.\n\n### During the Hearing\n1. **Join Early**\n   - Log in a few minutes early to resolve any technical issues.\n\n2. **Mute When Not Speaking**\n   - Keep your microphone muted until you need to speak to avoid background noise.\n\n3. **Clear Communication**\n   - Speak slowly and clearly.\n   - Identify yourself before speaking, especially if multiple participants are involved.\n\n4. **Maintain Eye Contact**\n   - Look at the camera to simulate eye contact with participants.\n\n5. **Follow Protocols**\n   - Adhere to the hearing\u2019s procedures and respect the moderator or judge.\n\n6. **Use Screen Sharing Wisely**\n   - Share documents or evidence only when appropriate and have them prepared beforehand.\n\n7. **Take Notes**\n   - Keep notes during the hearing to remember key points or questions.\n\n### After the Hearing\n1. **Confirm Next Steps**\n   - Clarify any follow-up actions or deadlines.\n\n2. **Technical Wrap-Up**\n   - Save any recordings or digital materials as needed.\n\n3. **Provide Feedback**\n   - Share any technical or procedural issues encountered to improve future hearings.\n\n---\n\nIf you would like, I can also provide a checklist or tips tailored to a specific type of video hearing (legal, administrative, mediation, etc.).",

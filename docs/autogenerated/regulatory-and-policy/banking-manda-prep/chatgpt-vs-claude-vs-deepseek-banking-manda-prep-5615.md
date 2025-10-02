@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs DeepSeek: Banking M&A Prep"
+title: "bank merger synergies"
 description: "AI model comparison: bank merger synergies..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs DeepSeek: Banking M&amp;A Prep"
+  title="bank merger synergies"
   prompt="bank merger synergies"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

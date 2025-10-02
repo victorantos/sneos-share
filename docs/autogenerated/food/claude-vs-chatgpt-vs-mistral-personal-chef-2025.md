@@ -1,5 +1,5 @@
 ---
-title: "Claude vs ChatGPT vs Mistral: Personal Chef Comparison 2025"
+title: "Personal chef business - cook for wealthy clients"
 description: "AI model comparison: Personal chef business - cook for wealthy clients..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs ChatGPT vs Mistral: Personal Chef Comparison 2025"
+  title="Personal chef business - cook for wealthy clients"
   prompt="Personal chef business - cook for wealthy clients"
   :responses='{
     "Claude": "Starting a personal chef business for wealthy clients can be quite lucrative. Here\u0027s a strategic overview:\n\n## Business Foundation\n- **Legal structure**: LLC or corporation for liability protection\n- **Insurance**: General liability, professional liability, food-borne illness coverage\n- **Certifications**: Food safety, allergen awareness, wine pairing (optional)\n- **Licensing**: Business license, food handler\u0027s permit (varies by location)\n\n## Services to Offer\n- **Meal prep \u0026 planning** - Weekly batch cooking\n- **In-home dinner parties** - Multi-course experiences\n- **Daily meal service** - Fresh daily cooking\n- **Special dietary needs** - Keto, paleo, medical restrictions\n- **Event catering** - Intimate gatherings\n- **Cooking instruction** - Teaching clients/family\n\n## Target Market\n- **High-net-worth individuals** ($1M\u002B income)\n- **Busy executives** - No time to cook\n- **Health-conscious clients** - Want quality, custom nutrition\n- **Empty nesters** - Downsizing but want quality meals\n- **Families with dietary restrictions**\n\n## Pricing Strategy\n- **Hourly rates**: $50-150\u002B depending on market/experience\n- **Package deals**: Weekly/monthly retainers\n- **Premium pricing**: Justify with quality, convenience, customization\n\n## Marketing Approach\n- **Referral network**: Build relationships with house managers, concierges\n- **Social media**: Instagram showcasing dishes\n- **Professional networking**: Country clubs, upscale gyms, medical practices\n\nWould you like me to dive deeper into any specific aspect, like pricing models or client acquisition strategies?",

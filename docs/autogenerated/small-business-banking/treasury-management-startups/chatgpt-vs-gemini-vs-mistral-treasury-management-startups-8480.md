@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: Treasury Management Startups"
+title: "liquidity forecasting tools"
 description: "AI model comparison: liquidity forecasting tools..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: Treasury Management Startups"
+  title="liquidity forecasting tools"
   prompt="liquidity forecasting tools"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

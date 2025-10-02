@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Mistral: Plagiarism Avoidance"
+title: "Avoid plagiarism in academic writing - proper citation and paraphrasing"
 description: "AI model comparison: Avoid plagiarism in academic writing - proper citation and paraphrasing..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Mistral: Plagiarism Avoidance"
+  title="Avoid plagiarism in academic writing - proper citation and paraphrasing"
   prompt="Avoid plagiarism in academic writing - proper citation and paraphrasing"
   :responses='{
     "ChatGPT": "Avoiding plagiarism in academic writing is essential to maintain integrity and give credit to original authors. Two key strategies are proper citation and effective paraphrasing. Here\u2019s how to apply them:\n\n### 1. Proper Citation\n- **Identify the source:** Whenever you use ideas, quotes, data, or any content from another author, acknowledge the source.\n- **Use the correct citation style:** Follow the required style guide (APA, MLA, Chicago, Harvard, etc.) for in-text citations and reference lists.\n- **Include all necessary details:** Author(s), title, publication year, publisher, page numbers (if applicable), and DOI or URL for online sources.\n- **Quote accurately:** Use quotation marks for direct quotes and provide a citation immediately after.\n\n### 2. Effective Paraphrasing\n- **Understand the original text:** Read the source carefully until you grasp the full meaning.\n- **Rewrite in your own words:** Express the idea using different vocabulary and sentence structure without changing the meaning.\n- **Avoid simply changing a few words:** Merely swapping synonyms or rearranging words is insufficient and may still count as plagiarism.\n- **Cite the source:** Even when paraphrased, the original author deserves credit.\n- **Combine paraphrasing with summarizing:** For longer passages, condense the main points in your own words.\n\n### Additional Tips\n- **Use plagiarism detection tools:** Check your work to ensure originality.\n- **Keep track of sources:** Organize research notes clearly linking ideas to their references.\n- **When in doubt, cite:** It is better to over-cite than under-cite.\n\n### Example\n\nOriginal text:\n\u003E \u201CAcademic integrity is a fundamental value that underpins the trustworthiness of scholarly work\u201D (Smith, 2020, p. 15).\n\nParaphrased example:\nSmith (2020) emphasizes that honesty in academic research is crucial for ensuring the reliability of scholarly outputs.\n\n---\n\nBy consistently applying proper citation and authentic paraphrasing, you can effectively avoid plagiarism in your academic writing.",

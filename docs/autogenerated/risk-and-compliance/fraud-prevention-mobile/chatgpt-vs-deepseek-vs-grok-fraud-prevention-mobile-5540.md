@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Grok: Fraud Prevention Mobile"
+title: "synthetic identity fraud"
 description: "AI model comparison: synthetic identity fraud..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Grok: Fraud Prevention Mobile"
+  title="synthetic identity fraud"
   prompt="synthetic identity fraud"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

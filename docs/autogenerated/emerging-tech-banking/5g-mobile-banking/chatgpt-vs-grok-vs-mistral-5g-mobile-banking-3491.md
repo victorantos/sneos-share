@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Grok vs Mistral: 5G Mobile Banking"
+title: "low latency banking applications"
 description: "AI model comparison: low latency banking applications..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Grok vs Mistral: 5G Mobile Banking"
+  title="low latency banking applications"
   prompt="low latency banking applications"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

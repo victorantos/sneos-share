@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs DeepSeek: Quantum Computing Finance"
+title: "quantum portfolio optimization"
 description: "AI model comparison: quantum portfolio optimization..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs DeepSeek: Quantum Computing Finance"
+  title="quantum portfolio optimization"
   prompt="quantum portfolio optimization"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Grok: Veterinary Care"
+title: "Common pet health problems - when to see vet"
 description: "AI model comparison: Common pet health problems - when to see vet..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Grok: Veterinary Care"
+  title="Common pet health problems - when to see vet"
   prompt="Common pet health problems - when to see vet"
   :responses='{
     "ChatGPT": "Common Pet Health Problems \u2013 When to See a Vet\n\nPets can experience various health issues, some minor and others more serious. Knowing when to seek veterinary care is important to ensure your pet stays healthy and happy. Here are some common health problems in pets and guidelines on when to visit the vet:\n\n1. Vomiting and Diarrhea\n- When to worry: If your pet vomits repeatedly, has diarrhea for more than 24 hours, shows signs of dehydration, lethargy, or blood in vomit/stool.\n- Action: See the vet if symptoms persist beyond a day or worsen quickly.\n\n2. Changes in Appetite or Weight\n- When to worry: Sudden loss of appetite, rapid weight loss or gain, or difficulty eating.\n- Action: Schedule a vet visit to identify underlying causes like infections, dental issues, or chronic disease.\n\n3. Coughing, Sneezing, or Difficulty Breathing\n- When to worry: Persistent coughing or sneezing, wheezing, labored breathing, or blue gums.\n- Action: Immediate veterinary attention is necessary as it may indicate respiratory infections or other serious conditions.\n\n4. Skin Problems\n- When to worry: Excessive scratching, hair loss, sores, lumps, redness, or unusual odors.\n- Action: See the vet for proper diagnosis and treatment of allergies, infections, or parasites.\n\n5. Changes in Urination or Defecation\n- When to worry: Straining, blood in urine or stool, increased frequency, or accidents in the house.\n- Action: Prompt veterinary evaluation is needed to rule out urinary tract infections or gastrointestinal problems.\n\n6. Lethargy or Behavioral Changes\n- When to worry: Sudden weakness, disorientation, aggression, or hiding.\n- Action: Consult your vet to address possible underlying health issues.\n\n7. Eye or Ear Problems\n- When to worry: Redness, discharge, swelling, scratching at eyes or ears, head shaking.\n- Action: Veterinary care is important to prevent infections or damage.\n\n8. Injuries or Pain\n- When to worry: Limping, swelling, sensitivity to touch, wounds that bleed excessively.\n- Action: Immediate or prompt vet visit depending on severity.\n\n9. Seizures or Collapse\n- When to worry: Any seizure activity or collapse.\n- Action: Emergency veterinary care is urgently needed.\n\nWhen in Doubt\nIf you are ever unsure about your pet\u2019s symptoms or health, it is best to consult your veterinarian promptly. Early diagnosis and treatment can prevent many problems from becoming serious.\n\nRegular check-ups and vaccinations also help maintain your pet\u2019s health and catch issues early. Always keep your vet\u2019s contact information handy for emergencies.",

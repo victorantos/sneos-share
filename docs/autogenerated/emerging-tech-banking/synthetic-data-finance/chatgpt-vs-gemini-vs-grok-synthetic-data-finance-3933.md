@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Grok: Synthetic Data Finance"
+title: "synthetic data compliance"
 description: "AI model comparison: synthetic data compliance..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Grok: Synthetic Data Finance"
+  title="synthetic data compliance"
   prompt="synthetic data compliance"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Grok: Robo-Advisor White Label"
+title: "investment proposal generation"
 description: "AI model comparison: investment proposal generation..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Grok: Robo-Advisor White Label"
+  title="investment proposal generation"
   prompt="investment proposal generation"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

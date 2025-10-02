@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: Recruiting AI"
+title: "simple ai tools for recruiters"
 description: "AI model comparison: simple ai tools for recruiters..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: Recruiting AI"
+  title="simple ai tools for recruiters"
   prompt="simple ai tools for recruiters"
   :responses='{
     "ChatGPT": "Certainly! Here are some simple AI tools that recruiters can use to streamline their hiring process:\n\n1. **Chatbots for Candidate Screening**\n   - **Example:** Mya, Olivia\n   - These AI-powered chatbots can conduct initial candidate screenings by asking basic qualification questions, freeing up recruiters\u2019 time.\n\n2. **Resume Parsing Tools**\n   - **Example:** Resume.io, Sovren\n   - These tools automatically extract key information from resumes and organize it into searchable databases.\n\n3. **Candidate Matching Platforms**\n   - **Example:** HireVue, Pymetrics\n   - These platforms use AI to match candidate skills and experience against job requirements to highlight top candidates.\n\n4. **Automated Interview Scheduling**\n   - **Example:** Calendly, GoodTime\n   - These tools use AI to coordinate calendars, making it easy to schedule interviews without back-and-forth emails.\n\n5. **AI-Powered Job Description Writers**\n   - **Example:** Textio\n   - Helps write inclusive and effective job descriptions by analyzing language and suggesting improvements.\n\n6. **Background Check Automation**\n   - **Example:** Checkr, Sterling\n   - AI tools that speed up background checks and verify candidate information efficiently.\n\nThese tools help recruiters save time, reduce bias, and improve the overall hiring experience. If you want recommendations tailored to specific needs, feel free to ask!",

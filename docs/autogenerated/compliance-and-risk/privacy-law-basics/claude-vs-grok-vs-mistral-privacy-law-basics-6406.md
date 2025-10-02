@@ -1,5 +1,5 @@
 ---
-title: "Claude vs Grok vs Mistral: Privacy Law Basics"
+title: "privacy law state comparison"
 description: "AI model comparison: privacy law state comparison..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs Grok vs Mistral: Privacy Law Basics"
+  title="privacy law state comparison"
   prompt="privacy law state comparison"
   :responses='{
     "Claude": "Here\u0027s a comparison of key state privacy laws in the US:\n\n## **Comprehensive Privacy Laws**\n\n### **California (CCPA/CPRA)**\n- **Coverage**: Businesses with $25M\u002B revenue, 100K\u002B consumers, or 50%\u002B revenue from selling personal info\n- **Rights**: Access, deletion, correction, portability, opt-out of sale/sharing\n- **Enforcement**: California Privacy Protection Agency \u002B private right of action for breaches\n- **Effective**: 2020 (CCPA), 2023 (CPRA)\n\n### **Virginia (VCDPA)**\n- **Coverage**: Businesses processing 100K\u002B consumers or 25K\u002B consumers for sale\n- **Rights**: Access, correction, deletion, portability, opt-out\n- **Enforcement**: Attorney General only (no private right of action)\n- **Effective**: 2023\n\n### **Colorado (CPA)**\n- **Coverage**: Similar to Virginia\n- **Rights**: Similar to Virginia, plus opt-out of profiling\n- **Enforcement**: Attorney General only\n- **Effective**: 2023\n\n### **Connecticut (CTDPA)**\n- **Coverage**: Similar to Virginia/Colorado\n- **Rights**: Similar framework to Virginia/Colorado\n- **Enforcement**: Attorney General only\n- **Effective**: 2023\n\n## **Sector-Specific Laws**\n\n### **Illinois (BIPA)**\n- **Focus**: Biometric data protection\n- **Requirements**: Consent before collection, retention limits\n- **Enforcement**: Strong private right of action with statutory damages\n\n### **New York (SHIELD Act)**\n- **Focus**: Data breach notification and security\n- **Coverage**: Any business with NY residents\u0027 data\n- **Requirements**: Reasonable security measures, breach notification\n\n## **Key Differences**\n\n| State | Private Lawsuits | Revenue Threshold | Sensitive Data Focus |\n|-------|-----------------|-------------------|---------------------|\n| California | Yes (limited) | $25M | Yes |\n| Virginia | No | None | Yes |\n| Colorado | No | None | Yes |\n| Connecticut | No | None | Yes |\n| Illinois | Yes (BIPA) | None | Biometric only |\n\n## **Emerging Laws**\n- **Utah**: Effective 2024\n- **Iowa**: Effective 2025\n- **Indiana, Tennessee, Montana**: Various effective dates\n\nWould you like me to elaborate on any specific state\u0027s law or particular aspects like enforcement mechanisms or compliance requirements?",

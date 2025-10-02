@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Grok vs Claude: Logo Design Comparison 2025"
+title: "Logo design business - create memorable brands for clients"
 description: "AI model comparison: Logo design business - create memorable brands for clients..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Grok vs Claude: Logo Design Comparison 2025"
+  title="Logo design business - create memorable brands for clients"
   prompt="Logo design business - create memorable brands for clients"
   :responses='{
     "ChatGPT": "Sure! Here\u2019s a concise and professional business description and tagline for your logo design business:\n\n---\n\n**Business Name:** MemoraLogo Design\n\n**Tagline:** Creating Memorable Brands That Last\n\n**Description:**  \nAt MemoraLogo Design, we specialize in crafting unique and impactful logos that capture the essence of your brand. Our creative process blends innovative design with strategic thinking to deliver memorable brand identities that resonate with your audience and set you apart from the competition. Whether you\u2019re a startup or an established business, we help you tell your story through a logo that truly represents who you are.\n\n---\n\nWould you like help with a business plan, website content, or social media posts for your logo design business?",

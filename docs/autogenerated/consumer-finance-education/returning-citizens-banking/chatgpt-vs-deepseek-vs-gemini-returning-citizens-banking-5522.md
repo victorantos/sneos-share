@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Returning Citizens Banking"
+title: "financial reintegration post incarceration"
 description: "AI model comparison: financial reintegration post incarceration..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Returning Citizens Banking"
+  title="financial reintegration post incarceration"
   prompt="financial reintegration post incarceration"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

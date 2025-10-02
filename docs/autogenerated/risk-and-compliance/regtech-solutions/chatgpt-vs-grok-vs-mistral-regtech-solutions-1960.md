@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Grok vs Mistral: RegTech Solutions"
+title: "compliance monitoring tools"
 description: "AI model comparison: compliance monitoring tools..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Grok vs Mistral: RegTech Solutions"
+  title="compliance monitoring tools"
   prompt="compliance monitoring tools"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

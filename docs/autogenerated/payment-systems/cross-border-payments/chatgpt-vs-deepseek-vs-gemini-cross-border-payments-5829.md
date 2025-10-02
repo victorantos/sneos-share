@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Cross-Border Payments"
+title: "remittance corridor optimization"
 description: "AI model comparison: remittance corridor optimization..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Cross-Border Payments"
+  title="remittance corridor optimization"
   prompt="remittance corridor optimization"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

@@ -1,5 +1,5 @@
 ---
-title: "Claude vs Gemini vs Mistral: Video Production"
+title: "Video production process - pre-production to post-production"
 description: "AI model comparison: Video production process - pre-production to post-production..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs Gemini vs Mistral: Video Production"
+  title="Video production process - pre-production to post-production"
   prompt="Video production process - pre-production to post-production"
   :responses='{
     "Claude": "# Video Production Process: Pre-Production to Post-Production\n\n## **PRE-PRODUCTION** \uD83D\uDCCB\n\n### 1. Concept Development\n- **Brainstorming and ideation**\n- **Script writing and storyboarding**\n- **Define target audience and goals**\n- **Research and reference gathering**\n\n### 2. Planning Phase\n- **Budget planning and allocation**\n- **Timeline and schedule creation**\n- **Location scouting and permits**\n- **Casting (if needed)**\n- **Equipment list and rental**\n\n### 3. Pre-Production Meeting\n- **Shot list creation**\n- **Call sheets preparation**\n- **Risk assessment and backup plans**\n- **Final script review and approvals**\n\n---\n\n## **PRODUCTION** \uD83C\uDFAC\n\n### 1. Setup and Preparation\n- **Equipment setup and testing**\n- **Lighting design and setup**\n- **Audio equipment check**\n- **Camera positioning and framing**\n\n### 2. Filming/Recording\n- **Multiple takes and angles**\n- **Continuity monitoring**\n- **Audio recording and monitoring**\n- **B-roll and supplementary footage**\n\n### 3. Quality Control\n- **Playback review between takes**\n- **Technical checks (exposure, focus, audio)**\n- **Backup and data management**\n- **Wrap and equipment breakdown**\n\n---\n\n## **POST-PRODUCTION** \u2702\uFE0F\n\n### 1. Assembly Phase\n- **File organization and backup**\n- **Rough cut editing**\n- **Sequence assembly**\n- **Initial review and feedback**\n\n### 2. Fine-Tuning\n- **Color correction and grading**\n- **Audio editing and mixing**\n- **Visual effects and graphics**\n- **Transitions and pacing refinement**\n\n### 3. Finishing\n- **Final cut approval**\n- **Format delivery preparation**\n- **Quality assurance testing**\n- **Distribution and delivery**\n\n---\n\n## **Key Success Factors** \uD83C\uDFAF\n\n- **Clear communication throughout all phases**\n- **Detailed planning prevents production issues**\n- **Regular backups and file management**\n- **Flexibility to adapt when challenges arise**\n- **Quality control at each stage**\n\nWould you like me to elaborate on any specific phase or aspect of the video production process?",

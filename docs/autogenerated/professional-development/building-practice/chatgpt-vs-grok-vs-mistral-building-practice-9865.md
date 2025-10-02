@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Grok vs Mistral: Building Practice"
+title: "legal speaking engagements"
 description: "AI model comparison: legal speaking engagements..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Grok vs Mistral: Building Practice"
+  title="legal speaking engagements"
   prompt="legal speaking engagements"
   :responses='{
     "ChatGPT": "Could you please provide more details about what you mean by \u0022legal speaking engagements\u0022? Are you looking for:\n\n- Opportunities to speak at legal conferences or events?\n- Information on the legal requirements or regulations for speaking engagements?\n- How to get paid for legal speaking engagements?\n- Sample contracts or agreements for legal speakers?\n- Something else related to legal speaking engagements?\n\nWith a bit more context, I can give you targeted information or advice!",

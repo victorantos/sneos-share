@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Grok: Crypto Custody Banks"
+title: "crypto compliance banking"
 description: "AI model comparison: crypto compliance banking..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Grok: Crypto Custody Banks"
+  title="crypto compliance banking"
   prompt="crypto compliance banking"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

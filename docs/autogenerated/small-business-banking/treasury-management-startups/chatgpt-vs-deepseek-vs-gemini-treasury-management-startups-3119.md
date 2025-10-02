@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Treasury Management Startups"
+title: "foreign exchange management startups"
 description: "AI model comparison: foreign exchange management startups..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Treasury Management Startups"
+  title="foreign exchange management startups"
   prompt="foreign exchange management startups"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

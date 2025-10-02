@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: Gen Alpha Banking"
+title: "savings goals for kids"
 description: "AI model comparison: savings goals for kids..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: Gen Alpha Banking"
+  title="savings goals for kids"
   prompt="savings goals for kids"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

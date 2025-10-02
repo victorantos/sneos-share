@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Digital Nomad Banking"
+title: "tax considerations digital nomads"
 description: "AI model comparison: tax considerations digital nomads..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Digital Nomad Banking"
+  title="tax considerations digital nomads"
   prompt="tax considerations digital nomads"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

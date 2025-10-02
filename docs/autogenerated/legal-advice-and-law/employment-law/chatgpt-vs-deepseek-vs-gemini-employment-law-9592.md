@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Employment Law"
+title: "Employment law basics - know your workplace rights"
 description: "AI model comparison: Employment law basics - know your workplace rights..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Employment Law"
+  title="Employment law basics - know your workplace rights"
   prompt="Employment law basics - know your workplace rights"
   :responses='{
     "ChatGPT": "Certainly! Here is a basic overview of employment law and your workplace rights:\n\n### Employment Law Basics: Know Your Workplace Rights\n\n1. **Right to Non-Discrimination**\n   - Employers cannot discriminate based on race, gender, age, religion, national origin, disability, sexual orientation, or other protected characteristics.\n   - This applies to hiring, firing, promotions, and all other terms and conditions of employment.\n\n2. **Right to Fair Pay**\n   - Employees are entitled to at least the minimum wage set by federal or state law.\n   - Overtime pay (typically time and a half) is owed for hours worked over 40 in a workweek under the Fair Labor Standards Act (FLSA).\n\n3. **Right to a Safe Workplace**\n   - Employers must provide a workplace free from recognized hazards.\n   - Occupational Safety and Health Administration (OSHA) standards apply to maintain health and safety.\n\n4. **Right to Privacy**\n   - Employees have some privacy rights at work, but these can be limited depending on the situation.\n   - Employer monitoring may be legal, but certain privacy protections exist.\n\n5. **Right to Family and Medical Leave**\n   - Under the Family and Medical Leave Act (FMLA), eligible employees can take up to 12 weeks of unpaid, job-protected leave for certain family and medical reasons.\n\n6. **Right to Unionize and Collective Bargaining**\n   - Employees have the right to form or join labor unions and engage in collective bargaining.\n   - Employers cannot retaliate against employees for union activities.\n\n7. **Right to Protection from Retaliation**\n   - Employees are protected from retaliation for reporting illegal activities, workplace safety issues, discrimination, or harassment.\n\n8. **Work Hours and Breaks**\n   - While federal law does not require paid breaks, many states do.\n   - Rest and meal breaks vary based on state laws.\n\n9. **Employment Contracts and At-Will Employment**\n   - Most U.S. employees are \u0022at-will,\u0022 meaning either party can end the employment at any time without cause.\n   - Some employees have contracts that override at-will status.\n\n### What to Do If Your Rights Are Violated?\n\n- Document the issue carefully (dates, times, communications).\n- Report the issue internally (HR or management).\n- File a complaint with the Equal Employment Opportunity Commission (EEOC) or relevant state agency.\n- Consult with an employment law attorney if necessary.\n\n---\n\nIf you have a more specific question or situation, feel free to ask!",

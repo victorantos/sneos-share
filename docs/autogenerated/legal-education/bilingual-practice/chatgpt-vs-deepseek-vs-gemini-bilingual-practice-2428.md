@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Bilingual Practice"
+title: "serving diverse communities legal"
 description: "AI model comparison: serving diverse communities legal..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Bilingual Practice"
+  title="serving diverse communities legal"
   prompt="serving diverse communities legal"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Grok vs Mistral: Women in Banking"
+title: "executive sponsorship women"
 description: "AI model comparison: executive sponsorship women..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Grok vs Mistral: Women in Banking"
+  title="executive sponsorship women"
   prompt="executive sponsorship women"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

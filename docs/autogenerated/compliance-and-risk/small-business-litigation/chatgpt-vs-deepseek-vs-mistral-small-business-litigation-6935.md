@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Mistral: Small Business Litigation"
+title: "contract review for small business"
 description: "AI model comparison: contract review for small business..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Mistral: Small Business Litigation"
+  title="contract review for small business"
   prompt="contract review for small business"
   :responses='{
     "ChatGPT": "Certainly! Here\u2019s a general guide for reviewing a contract for a small business. If you want, you can also share the contract (or key parts of it) and I can help analyze it specifically.\n\n### Key Points to Consider in a Small Business Contract Review:\n\n1. **Parties Involved**\n   - Ensure all parties are correctly named with full legal names.\n   - Confirm their roles and responsibilities are clearly defined.\n\n2. **Scope of Work / Services**\n   - Clearly specify what goods or services will be provided.\n   - Include deadlines, milestones, or deliverables as appropriate.\n\n3. **Payment Terms**\n   - Check the payment amount, currency, and method.\n   - Look for due dates, late payment penalties, or deposits.\n   - Clarify any reimbursements or additional expenses terms.\n\n4. **Duration and Termination**\n   - Note the contract start and end date.\n   - Understand how the contract can be terminated by either party.\n   - Look for penalties or notice periods required for termination.\n\n5. **Confidentiality and Non-Disclosure**\n   - See if there is a clause protecting sensitive business information.\n   - Understand your obligations about confidentiality.\n\n6. **Liability and Indemnity**\n   - Identify who is responsible for damages or losses.\n   - Check any limitation of liability clauses.\n\n7. **Dispute Resolution**\n   - Look for how disputes will be handled (mediation, arbitration, litigation).\n   - Identify the applicable law/jurisdiction.\n\n8. **Intellectual Property**\n   - Clarify ownership of IP created under the contract.\n   - Note any licenses granted or restrictions.\n\n9. **Warranties and Representations**\n   - Review any guarantees provided by either party.\n   - Understand the scope and duration of warranties.\n\n10. **Insurance Requirements**\n    - Check if insurance coverage is required and what types.\n\n11. **Amendments**\n    - Note the process required to modify the contract.\n\n12. **Compliance**\n    - Ensure compliance with applicable laws and regulations.\n\n---\n\n### Tips for Small Business Owners:\n- **Use plain language** so you understand all terms.\n- **Avoid vague terms** like \u201Creasonable efforts\u201D without clarification.\n- **Get legal advice** if terms are confusing or if large money or liability is involved.\n- **Keep copies** of signed contracts and related communications.\n\n---\n\nIf you have a specific contract you want me to help review or summarize, please share the relevant sections or text!",

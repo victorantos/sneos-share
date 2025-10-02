@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Gemini: Voice Banking AI"
+title: "voice authentication banking"
 description: "AI model comparison: voice authentication banking..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Gemini: Voice Banking AI"
+  title="voice authentication banking"
   prompt="voice authentication banking"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

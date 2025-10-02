@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Gemini: Overdraft Alternatives"
+title: "float free banking"
 description: "AI model comparison: float free banking..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Gemini: Overdraft Alternatives"
+  title="float free banking"
   prompt="float free banking"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

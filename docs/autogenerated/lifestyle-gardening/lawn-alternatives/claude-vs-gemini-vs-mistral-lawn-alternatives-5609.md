@@ -1,5 +1,5 @@
 ---
-title: "Claude vs Gemini vs Mistral: Lawn Alternatives"
+title: "no mow lawn alternatives"
 description: "AI model comparison: no mow lawn alternatives..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs Gemini vs Mistral: Lawn Alternatives"
+  title="no mow lawn alternatives"
   prompt="no mow lawn alternatives"
   :responses='{
     "Claude": "Here are some great alternatives to traditional mowed grass lawns:\n\n## Ground Covers\n- **Creeping thyme** - fragrant, drought-tolerant, attracts pollinators\n- **Moss** - thrives in shade, requires minimal maintenance\n- **Clover** - fixes nitrogen, stays green, soft underfoot\n- **Creeping phlox** - colorful spring blooms\n- **Sedum varieties** - succulent groundcover, very low water needs\n\n## Native Plant Options\n- **Native wildflower meadows** - support local wildlife, seasonal interest\n- **Prairie grasses** - deep roots, drought-resistant\n- **Native ferns** - excellent for shaded areas\n- **Regional native plants** - adapted to your specific climate\n\n## Hardscaping\n- **Gravel or stone gardens** - minimal maintenance, modern look\n- **Mulched beds** - suppress weeds, retain moisture\n- **Permeable pavers** - functional and attractive\n- **Decomposed granite** - natural appearance, compacts well\n\n## Edible Landscapes\n- **Herb gardens** - fragrant and useful\n- **Vegetable beds** - productive use of space\n- **Berry bushes** - low maintenance, food production\n- **Fruit trees** with understory plantings\n\n## Mixed Approaches\n- **Reduce lawn size** gradually, keeping small functional areas\n- **Create \u0022rooms\u0022** with different groundcovers for different uses\n- **Combine hardscaping with plants** for varied texture and function\n\nThe best choice depends on your climate, soil, intended use, and maintenance preferences. What\u0027s your location and primary goals?",

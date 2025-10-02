@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Gemini: Business Credit Building"
+title: "business credit reporting agencies"
 description: "AI model comparison: business credit reporting agencies..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Gemini: Business Credit Building"
+  title="business credit reporting agencies"
   prompt="business credit reporting agencies"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

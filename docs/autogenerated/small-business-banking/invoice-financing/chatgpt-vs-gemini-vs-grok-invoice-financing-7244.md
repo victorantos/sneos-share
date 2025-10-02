@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Grok: Invoice Financing"
+title: "reverse factoring solutions"
 description: "AI model comparison: reverse factoring solutions..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Grok: Invoice Financing"
+  title="reverse factoring solutions"
   prompt="reverse factoring solutions"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

@@ -1,5 +1,5 @@
 ---
-title: "Claude vs Gemini vs Mistral: Rewilding"
+title: "rewilding small garden spaces"
 description: "AI model comparison: rewilding small garden spaces..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs Gemini vs Mistral: Rewilding"
+  title="rewilding small garden spaces"
   prompt="rewilding small garden spaces"
   :responses='{
     "Claude": "Rewilding small garden spaces is a wonderful way to support local ecosystems! Here are practical approaches for creating wild habitats in compact areas:\n\n## Start Small, Think Native\n- **Replace lawn patches** with native wildflower meadows\n- **Choose indigenous plants** that support local wildlife\n- **Create layers** - ground cover, shrubs, small trees if space allows\n- **Let some areas grow wild** - reduced mowing creates habitat\n\n## Water Features\n- **Small pond or water dish** for drinking and bathing\n- **Rain garden** to collect runoff naturally\n- **Bird bath** with shallow, textured surfaces\n\n## Wildlife-Friendly Elements\n- **Log piles** for insects, amphibians, and small mammals\n- **Rock piles** for reptiles and beneficial insects\n- **Native berry bushes** for food sources\n- **Seed heads left standing** through winter\n\n## Vertical Rewilding\n- **Green walls** with native climbing plants\n- **Tiered planters** to maximize growing space\n- **Hanging planters** with trailing native species\n\n## Reduce Maintenance\n- **Minimize chemical use** - no pesticides or synthetic fertilizers\n- **Compost on-site** to build soil naturally\n- **Embrace \u0022messiness\u0022** - leaf litter and natural debris provide habitat\n\n## Connect with Neighbors\n- **Coordinate plantings** to create wildlife corridors\n- **Share resources** and native plants\n- **Remove barriers** like solid fences where possible\n\nStart with one small area and expand gradually. Even a few square feet can make a meaningful difference for local wildlife!",

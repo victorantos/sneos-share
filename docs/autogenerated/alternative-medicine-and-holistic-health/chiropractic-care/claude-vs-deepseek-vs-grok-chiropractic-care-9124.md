@@ -1,5 +1,5 @@
 ---
-title: "Claude vs DeepSeek vs Grok: Chiropractic Care"
+title: "Chiropractic care - benefits for back and neck pain"
 description: "AI model comparison: Chiropractic care - benefits for back and neck pain..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs DeepSeek vs Grok: Chiropractic Care"
+  title="Chiropractic care - benefits for back and neck pain"
   prompt="Chiropractic care - benefits for back and neck pain"
   :responses='{
     "Claude": "# Chiropractic Care for Back and Neck Pain\n\n## What is Chiropractic Care?\nChiropractic care focuses on diagnosing and treating musculoskeletal disorders, particularly those affecting the spine. Chiropractors use hands-on spinal manipulation and other treatments to properly align the body\u0027s musculoskeletal structure.\n\n## Evidence-Based Benefits\n\n### **For Lower Back Pain:**\n- **Strong evidence** for short-term pain relief in acute and subacute lower back pain\n- May reduce pain intensity and improve function\n- Can decrease reliance on pain medications\n- Comparable effectiveness to other conservative treatments like physical therapy\n\n### **For Neck Pain:**\n- **Moderate evidence** supporting treatment of mechanical neck pain\n- May help with tension headaches originating from neck issues\n- Can improve range of motion and reduce stiffness\n\n## Common Treatment Methods\n- **Spinal manipulation** (adjustments)\n- **Mobilization** techniques\n- **Soft tissue therapy**\n- **Exercise recommendations**\n- **Lifestyle and ergonomic advice**\n\n## Important Considerations\n\n### **Best Suited For:**\n- Mechanical back/neck pain\n- Recent onset pain (acute/subacute)\n- Pain without neurological symptoms\n- As part of a multimodal treatment approach\n\n### **When to Be Cautious:**\n- Severe osteoporosis\n- Spinal instability\n- Certain medications (blood thinners)\n- Severe neurological symptoms\n\n## Realistic Expectations\n- Benefits are typically **short to moderate-term**\n- Most effective when combined with exercise and lifestyle changes\n- Individual results vary significantly\n- May require multiple sessions for optimal benefit\n\n**Always consult with your healthcare provider** to determine if chiropractic care is appropriate for your specific condition.",

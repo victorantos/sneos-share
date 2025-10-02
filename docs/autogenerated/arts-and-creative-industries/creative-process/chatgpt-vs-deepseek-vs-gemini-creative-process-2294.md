@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Creative Process"
+title: "Enhance creative process - overcome blocks and generate ideas"
 description: "AI model comparison: Enhance creative process - overcome blocks and generate ideas..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Creative Process"
+  title="Enhance creative process - overcome blocks and generate ideas"
   prompt="Enhance creative process - overcome blocks and generate ideas"
   :responses='{
     "ChatGPT": "Certainly! Here are some effective strategies to enhance your creative process, overcome blocks, and generate fresh ideas:\n\n### 1. Change Your Environment\n- **Switch locations:** Move to a different room, go outdoors, or visit a caf\u00E9.\n- **Declutter:** A clean and organized space can clear your mind.\n- **Add inspiring elements:** Surround yourself with art, plants, or objects that spark creativity.\n\n### 2. Practice Free Writing or Brainstorming\n- Set a timer for 5-10 minutes and write down everything that comes to mind without judgment.\n- Use mind maps to visually connect ideas.\n- List crazy or wild ideas without censoring them.\n\n### 3. Take Breaks and Rest\n- Step away from the project to refresh your mind.\n- Engage in a different activity like walking, exercising, or listening to music.\n- Practice mindfulness or meditation to reduce stress and open your mind.\n\n### 4. Use Creative Exercises\n- **SCAMPER Technique:** Substitute, Combine, Adapt, Modify, Put to another use, Eliminate, Reverse.\n- **Role-playing:** Imagine how a different person or character would approach the problem.\n- **Random input:** Pick a random word or image and find ways to relate it to your project.\n\n### 5. Collaborate and Seek Feedback\n- Discuss your ideas with friends or colleagues to gain new perspectives.\n- Join creative groups or communities.\n- Accept constructive criticism without discouragement.\n\n### 6. Limit Your Options\n- Sometimes constraints can boost creativity by forcing you to think more deeply.\n- Set specific goals or limitations on your work.\n\n### 7. Maintain a Creative Routine\n- Establish regular time blocks dedicated to creative work.\n- Keep a journal or idea notebook handy to capture thoughts anytime.\n\n### 8. Stay Curious and Keep Learning\n- Read books, watch documentaries, or explore topics outside your usual interests.\n- Attend workshops or take online courses related to your field.\n\n---\n\nIf you\u2019d like, I can provide specific prompts or exercises tailored to your creative field\u2014just let me know!",

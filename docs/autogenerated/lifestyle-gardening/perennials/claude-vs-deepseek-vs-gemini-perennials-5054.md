@@ -1,5 +1,5 @@
 ---
-title: "Claude vs DeepSeek vs Gemini: Perennials"
+title: "low maintenance perennial garden"
 description: "AI model comparison: low maintenance perennial garden..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs DeepSeek vs Gemini: Perennials"
+  title="low maintenance perennial garden"
   prompt="low maintenance perennial garden"
   :responses='{
     "Claude": "Here\u0027s a guide to creating a beautiful, low-maintenance perennial garden:\n\n## Best Low-Maintenance Perennials\n\n**Easy Care Champions:**\n- **Daylilies** - drought tolerant, long blooming season\n- **Black-eyed Susan** - self-seeding, attracts pollinators  \n- **Sedum** - succulent, requires minimal water\n- **Hostas** - thrives in shade, beautiful foliage\n- **Coneflowers** - drought resistant, great for cutting\n- **Ornamental grasses** - adds texture, winter interest\n\n## Design Principles\n\n**Ground Coverage:**\n- Plant densely to suppress weeds naturally\n- Use spreading perennials like creeping phlox or ajuga\n- Add 2-3 inches of mulch between plants\n\n**Grouping Strategy:**\n- Plant in masses of 3-5 of the same variety\n- Group plants with similar water/sun needs\n- Create layers: tall in back, short in front\n\n## Maintenance-Reducing Tips\n\n**Smart Plant Selection:**\n- Choose native or adapted varieties\n- Pick disease-resistant cultivars\n- Avoid plants that require frequent division\n\n**Watering Wisdom:**\n- Install drip irrigation or soaker hoses\n- Choose drought-tolerant plants after establishment\n- Water deeply but less frequently\n\n**Seasonal Care:**\n- Leave ornamental grasses and seed heads for winter interest\n- Cut back in early spring instead of fall\n- Divide overcrowded plants every 3-4 years\n\nWould you like specific recommendations based on your climate zone or garden conditions?",

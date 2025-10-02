@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: RegTech Solutions"
+title: "transaction monitoring systems"
 description: "AI model comparison: transaction monitoring systems..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: RegTech Solutions"
+  title="transaction monitoring systems"
   prompt="transaction monitoring systems"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

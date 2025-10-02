@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Mistral: CBDC Preparation"
+title: "programmable money banking"
 description: "AI model comparison: programmable money banking..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Mistral: CBDC Preparation"
+  title="programmable money banking"
   prompt="programmable money banking"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

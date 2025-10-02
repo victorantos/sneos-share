@@ -1,5 +1,5 @@
 ---
-title: "Claude vs DeepSeek vs Gemini: Expert Witness"
+title: "expert witness report review"
 description: "AI model comparison: expert witness report review..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs DeepSeek vs Gemini: Expert Witness"
+  title="expert witness report review"
   prompt="expert witness report review"
   :responses='{
     "Claude": "I\u0027d be happy to help you review an expert witness report. To provide the most useful analysis, I\u0027ll need you to share the report or specific sections you\u0027d like me to examine.\n\nWhen reviewing an expert witness report, I typically focus on these key areas:\n\n## **Content \u0026 Methodology**\n- Clarity and completeness of opinions\n- Soundness of methodology and analysis\n- Adequacy of data/evidence reviewed\n- Logical flow from facts to conclusions\n\n## **Credibility \u0026 Qualifications**\n- Expert\u0027s relevant experience and credentials\n- Potential bias or conflicts of interest\n- Consistency with established standards in the field\n\n## **Legal Compliance**\n- Adherence to applicable rules (Daubert, Frye, etc.)\n- Proper disclosure requirements\n- Appropriate scope within expert\u0027s expertise\n\n## **Presentation \u0026 Persuasiveness**\n- Clear communication of complex concepts\n- Effective use of supporting materials\n- Anticipation of opposing arguments\n\nPlease share the report (with any sensitive information redacted as needed) or let me know:\n- What type of case this involves\n- Specific areas of concern you have\n- Whether this is your expert\u0027s report or the opposing party\u0027s\n- Any particular weaknesses you want me to identify\n\nWhat would you like me to focus on?",

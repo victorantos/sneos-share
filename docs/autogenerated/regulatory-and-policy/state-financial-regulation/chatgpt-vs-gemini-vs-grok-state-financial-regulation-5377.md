@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Grok: State Financial Regulation"
+title: "state specific disclosures"
 description: "AI model comparison: state specific disclosures..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Grok: State Financial Regulation"
+  title="state specific disclosures"
   prompt="state specific disclosures"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

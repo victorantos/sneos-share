@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Section 1071 Compliance"
+title: "minority owned business reporting"
 description: "AI model comparison: minority owned business reporting..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Section 1071 Compliance"
+  title="minority owned business reporting"
   prompt="minority owned business reporting"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Grok vs Claude: Social Media Comparison 2025"
+title: "Viral tweet/post writing challenge - engagement prediction"
 description: "AI model comparison: Viral tweet/post writing challenge - engagement prediction..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Grok vs Claude: Social Media Comparison 2025"
+  title="Viral tweet/post writing challenge - engagement prediction"
   prompt="Viral tweet/post writing challenge - engagement prediction"
   :responses='{
     "ChatGPT": "Sure! To help you best, could you please provide the tweet or post content you want to analyze for engagement prediction? Alternatively, if you want me to create some viral tweet ideas or guide you on how to craft one for maximum engagement, just let me know!",

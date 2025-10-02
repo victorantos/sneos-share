@@ -1,5 +1,5 @@
 ---
-title: "Claude vs Gemini vs Mistral: Solar Incentives"
+title: "solar incentives by state 2025"
 description: "AI model comparison: solar incentives by state 2025..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs Gemini vs Mistral: Solar Incentives"
+  title="solar incentives by state 2025"
   prompt="solar incentives by state 2025"
   :responses='{
     "Claude": "Here\u0027s an overview of major solar incentives by state for 2025. Note that incentive programs can change frequently, so always verify current details with state agencies and utilities:\n\n## States with Strong Solar Incentives\n\n**California**\n- Net metering (NEM 3.0 for new installations)\n- Self-Generation Incentive Program (SGIP) for battery storage\n- Property tax exemption for solar systems\n- Various utility rebates\n\n**New York**\n- NY-Sun incentive program\n- Net metering\n- Property tax exemption (20 years)\n- Accelerated depreciation for businesses\n\n**Massachusetts**\n- SMART program (Solar Massachusetts Renewable Target)\n- Net metering\n- Property tax exemption\n- Sales tax exemption\n\n**New Jersey**\n- Successor Solar Incentive (SuSI) program\n- Net metering\n- Property tax exemption\n- Sales tax exemption\n\n**Connecticut**\n- Residential Solar Investment Program (RSIP)\n- Net metering\n- Property tax exemption\n\n## Federal Incentives (Available Nationwide)\n- 30% Federal Solar Investment Tax Credit (ITC) through 2032\n- USDA Rural Energy for America Program (REAP)\n\n## Key Considerations\n- Many states offer net metering policies\n- Utility-specific rebates vary significantly\n- Some programs have caps or may end when funding is exhausted\n- Installation requirements and eligibility criteria vary\n\nWould you like detailed information about specific states or types of incentives?",

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Grok: Employment Compliance"
+title: "leave law compliance fmla"
 description: "AI model comparison: leave law compliance fmla..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Grok: Employment Compliance"
+  title="leave law compliance fmla"
   prompt="leave law compliance fmla"
   :responses='{
     "ChatGPT": "The Family and Medical Leave Act (FMLA) is a U.S. federal law that requires covered employers to provide eligible employees with unpaid, job-protected leave for specified family and medical reasons. Compliance with FMLA is important for both employers and employees to ensure rights are protected.\n\nHere is a summary of key points about FMLA compliance:\n\n### Who is Covered?\n- Employers: Private-sector employers with 50 or more employees, public agencies, and public or private elementary or secondary schools.\n- Employees: Must have worked for the employer for at least 12 months, have at least 1,250 hours of service over the previous 12 months, and work at a location with at least 50 employees within 75 miles.\n\n### Eligible Reasons for Leave\n- Birth and care of a newborn child.\n- Placement of a child for adoption or foster care.\n- To care for an immediate family member (spouse, child, or parent) with a serious health condition.\n- The employee\u2019s own serious health condition.\n- Certain military family leave entitlements.\n\n### Employee Rights\n- Up to 12 workweeks of unpaid leave in a 12-month period.\n- Continuation of group health insurance coverage under the same terms and conditions.\n- Restoration to the same or an equivalent job upon return.\n\n### Employer Responsibilities\n- Post FMLA information prominently in the workplace.\n- Notify employees of their FMLA eligibility within 5 business days of the leave request.\n- Provide a written notice of rights and responsibilities.\n- Maintain employee benefits during leave.\n- Reinstate the employee to the same or an equivalent position after leave.\n- Maintain confidentiality of medical information.\n\n### Compliance Tips\n- Keep thorough records of FMLA leave requests and approvals.\n- Train managers and HR personnel on FMLA requirements.\n- Use consistent procedures in handling leave requests.\n- Consult legal counsel for complex situations or disputes.\n\nIf you are an employee seeking leave, notify your employer as soon as possible and provide the required certification forms. If you are an employer, ensure your policies align with FMLA and communicate clearly with employees.\n\nIf you need specific information or assistance with a particular FMLA compliance issue, please let me know!",

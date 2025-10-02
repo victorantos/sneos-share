@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Grok: Law School Teaching"
+title: "legal writing instruction"
 description: "AI model comparison: legal writing instruction..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Grok: Law School Teaching"
+  title="legal writing instruction"
   prompt="legal writing instruction"
   :responses='{
     "ChatGPT": "Certainly! Here are some key principles and tips for effective legal writing:\n\n### 1. Understand Your Purpose and Audience\n- Identify who will read your writing (judges, lawyers, clients).\n- Know the goal: persuade, inform, explain, or summarize.\n\n### 2. Be Clear and Concise\n- Use plain language where possible.\n- Avoid unnecessary jargon and complex words.\n- Write short sentences and paragraphs.\n\n### 3. Organize Your Writing Logically\n- Use a clear structure: introduction, body, conclusion.\n- For legal documents, often follow the IRAC format (Issue, Rule, Application, Conclusion).\n\n### 4. Use Proper Legal Citation\n- Follow the Bluebook or relevant jurisdictional citation rules.\n- Cite statutes, cases, and secondary sources accurately.\n\n### 5. Be Objective and Professional\n- Avoid emotional language and personal opinions.\n- Maintain a respectful and neutral tone.\n\n### 6. Edit and Proofread\n- Check for grammatical errors, typos, and formatting consistency.\n- Ensure all citations are correct and complete.\n\n### 7. Develop Strong Arguments\n- Support claims with relevant legal authority.\n- Anticipate counterarguments and address them.\n\n---\n\n### Example: IRAC Format\n\n**Issue:** What is the legal issue being addressed?\n\n**Rule:** What law or precedent applies?\n\n**Application:** How does the rule apply to the facts?\n\n**Conclusion:** What is the result based on the application?\n\n---\n\nIf you provide a specific type of legal writing (e.g., memo, brief, contract), I can offer more tailored guidance.",

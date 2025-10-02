@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: State Financial Regulation"
+title: "preemption analysis state federal"
 description: "AI model comparison: preemption analysis state federal..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: State Financial Regulation"
+  title="preemption analysis state federal"
   prompt="preemption analysis state federal"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

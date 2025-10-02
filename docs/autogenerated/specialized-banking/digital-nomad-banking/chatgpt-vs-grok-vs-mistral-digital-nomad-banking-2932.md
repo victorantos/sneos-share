@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Grok vs Mistral: Digital Nomad Banking"
+title: "expat banking solutions"
 description: "AI model comparison: expat banking solutions..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Grok vs Mistral: Digital Nomad Banking"
+  title="expat banking solutions"
   prompt="expat banking solutions"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs DeepSeek: Credit Repair Specific"
+title: "student loan credit impact"
 description: "AI model comparison: student loan credit impact..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs DeepSeek: Credit Repair Specific"
+  title="student loan credit impact"
   prompt="student loan credit impact"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

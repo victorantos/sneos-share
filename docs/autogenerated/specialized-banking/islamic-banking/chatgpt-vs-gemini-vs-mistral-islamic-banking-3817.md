@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: Islamic Banking"
+title: "islamic banking principles"
 description: "AI model comparison: islamic banking principles..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: Islamic Banking"
+  title="islamic banking principles"
   prompt="islamic banking principles"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

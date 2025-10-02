@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Mistral: Microgreens"
+title: "indoor microgreens setup guide"
 description: "AI model comparison: indoor microgreens setup guide..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Mistral: Microgreens"
+  title="indoor microgreens setup guide"
   prompt="indoor microgreens setup guide"
   :responses='{
     "ChatGPT": "Certainly! Here\u2019s a step-by-step guide to setting up an indoor microgreens growing system:\n\n### Indoor Microgreens Setup Guide\n\n#### What You Need:\n1. **Seeds:** Choose microgreens seeds such as radish, broccoli, sunflower, pea shoots, arugula, basil, or mustard.\n2. **Growing Trays:** Shallow trays with drainage holes or seedling trays.\n3. **Growing Medium:** Use seed-starting soil mix, coconut coir, or hydroponic mats.\n4. **Light Source:** Natural sunlight or grow lights (LED or fluorescent).\n5. **Watering Spray Bottle:** For gentle watering.\n6. **Plastic Domes (optional):** To maintain humidity during germination.\n7. **pH Test Kit (optional):** Ideal pH for most microgreens is 6.0-7.0.\n\n---\n\n### Step 1: Prepare the Growing Trays\n- Fill your trays with 1-2 inches of your chosen growing medium.\n- Level and gently firm the soil surface.\n- Moisten the soil evenly but avoid waterlogging.\n\n### Step 2: Sow the Seeds\n- Evenly sprinkle seeds over the surface. Microgreen seeds are usually sown pretty thick since they\u2019re harvested young.\n- Lightly press seeds into the soil to ensure good contact but do not bury them.\n- Depending on the seed type, lightly cover with a thin layer of soil or leave uncovered.\n\n### Step 3: Cover and Germinate\n- Cover trays with a clear dome or plastic wrap to maintain humidity.\n- Place trays in a warm, dark place for 2-4 days for germination.\n- Check daily and mist the soil if it dries out; avoid overwatering.\n\n### Step 4: Provide Light\n- Once seeds have sprouted, remove the cover.\n- Move trays to a bright window or place under grow lights for 12-16 hours a day.\n- Keep lights 12-18 inches above the microgreens to prevent legginess.\n\n### Step 5: Water Properly\n- Mist microgreens daily or water from the bottom to keep soil moist.\n- Avoid waterlogging to prevent mold growth.\n\n### Step 6: Harvest\n- Microgreens are typically ready to harvest in 7-21 days once they have developed their first true leaves.\n- Use scissors to cut microgreens just above soil level.\n- Rinse gently and dry with paper towels or a salad spinner.\n\n### Step 7: Clean and Repeat\n- Clean your trays thoroughly after each harvest to prevent disease.\n- Start the next batch of microgreens!\n\n---\n\n### Tips for Success:\n- Maintain good air circulation to avoid mold.\n- Use clean, sterilized trays and tools.\n- Experiment with different seed varieties for flavor and nutrition.\n- Monitor moisture carefully\u2014soil should be damp but not soggy.\n- Consider using organic seeds for best health benefits.\n\n---\n\nIf you need recommendations on best seeds for beginners or details on lighting setups, feel free to ask!",

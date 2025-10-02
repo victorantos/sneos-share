@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Credit Repair Specific"
+title: "rapid rescore mortgage"
 description: "AI model comparison: rapid rescore mortgage..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Credit Repair Specific"
+  title="rapid rescore mortgage"
   prompt="rapid rescore mortgage"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

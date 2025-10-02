@@ -1,5 +1,5 @@
 ---
-title: "Claude vs DeepSeek vs Mistral: Seed Bombs"
+title: "wildflower seed bomb recipes"
 description: "AI model comparison: wildflower seed bomb recipes..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs DeepSeek vs Mistral: Seed Bombs"
+  title="wildflower seed bomb recipes"
   prompt="wildflower seed bomb recipes"
   :responses='{
     "Claude": "# DIY Wildflower Seed Bomb Recipes\n\nSeed bombs are a fun, eco-friendly way to spread wildflowers in suitable areas. Here are several effective recipes:\n\n## Basic Clay Recipe\n**Ingredients:**\n- 5 parts red clay powder\n- 3 parts compost or potting soil\n- 1 part native wildflower seeds\n- Water (as needed)\n\n**Instructions:**\n1. Mix dry ingredients in a bowl\n2. Gradually add water until mixture holds together\n3. Roll into walnut-sized balls\n4. Let dry for 24-48 hours\n\n## Paper Pulp Version\n**Ingredients:**\n- Shredded newspaper or paper towels\n- Native wildflower seeds\n- Compost\n- Water\n\n**Instructions:**\n1. Soak paper in water for 2 hours\n2. Blend into pulp\n3. Mix with equal parts compost and seeds\n4. Form balls and air dry\n\n## No-Clay Recipe\n**Ingredients:**\n- 3 parts potting soil\n- 1 part flour\n- 1 part wildflower seeds\n- Water\n\n**Instructions:**\n1. Mix dry ingredients\n2. Add water slowly until moldable\n3. Shape into balls\n4. Dry completely before use\n\n## Important Tips\n\n- **Use native species** appropriate for your region\n- **Get permission** before throwing on private property\n- **Best timing**: Fall or early spring planting\n- **Choose appropriate locations**: Disturbed soil, vacant lots, roadside areas (where legal)\n- **Storage**: Keep dried seed bombs in a cool, dry place\n\n## Recommended Native Wildflower Mixes\n- **Eastern US**: Black-eyed Susan, Purple Coneflower, Wild Bergamot\n- **Western US**: California Poppy, Lupine, Indian Paintbrush\n- **General**: Cosmos, Zinnias, Sunflowers (though these aren\u0027t native everywhere)\n\nWould you like specific native plant recommendations for your region?",

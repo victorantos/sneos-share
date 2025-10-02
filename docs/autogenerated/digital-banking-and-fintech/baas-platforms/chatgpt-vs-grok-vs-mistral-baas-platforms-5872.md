@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Grok vs Mistral: BaaS Platforms"
+title: "fintech licensing shortcuts"
 description: "AI model comparison: fintech licensing shortcuts..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Grok vs Mistral: BaaS Platforms"
+  title="fintech licensing shortcuts"
   prompt="fintech licensing shortcuts"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Mistral: 5G Mobile Banking"
+title: "enhanced mobile services 5g"
 description: "AI model comparison: enhanced mobile services 5g..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Mistral: 5G Mobile Banking"
+  title="enhanced mobile services 5g"
   prompt="enhanced mobile services 5g"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

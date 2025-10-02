@@ -1,5 +1,5 @@
 ---
-title: "Claude vs Gemini vs Grok: Herb Layout"
+title: "balcony herb garden layout"
 description: "AI model comparison: balcony herb garden layout..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs Gemini vs Grok: Herb Layout"
+  title="balcony herb garden layout"
   prompt="balcony herb garden layout"
   :responses='{
     "Claude": "Here\u0027s a practical balcony herb garden layout guide:\n\n## **Space Assessment**\n- **Sunlight**: Note which areas get 6\u002B hours (full sun) vs 3-6 hours (partial sun)\n- **Wind exposure**: Identify sheltered spots for delicate herbs\n- **Weight limits**: Check balcony capacity before adding containers\n\n## **Layout Options**\n\n### **Tiered Vertical Setup**\n\u0060\u0060\u0060\nBack: Tall herbs (rosemary, sage) in large pots\nMiddle: Medium herbs (basil, oregano) on plant stands\nFront: Low herbs (thyme, chives) in small containers\nHanging: Trailing herbs (mint, parsley) in hanging baskets\n\u0060\u0060\u0060\n\n### **Corner Garden**\n- Use corner space efficiently with triangular planters\n- Place tallest plants at the corner point\n- Graduate heights moving outward\n\n### **Rail Planters**\n- Mount narrow planters along balcony railing\n- Perfect for: basil, cilantro, parsley, chives\n- Saves floor space\n\n## **Recommended Herb Placement**\n\n**Full Sun Areas:**\n- Rosemary, thyme, oregano, sage, lavender\n\n**Partial Sun Areas:**\n- Basil, cilantro, parsley, chives, mint\n\n**Shaded Spots:**\n- Mint, parsley, chervil\n\n## **Container Tips**\n- **Minimum depths**: 6-8\u0022 for most herbs, 12\u0022\u002B for rosemary/sage\n- **Drainage**: Essential - drill holes if needed\n- **Grouping**: Plant similar water needs together\n\nWould you like specific recommendations based on your balcony size or sun exposure?",

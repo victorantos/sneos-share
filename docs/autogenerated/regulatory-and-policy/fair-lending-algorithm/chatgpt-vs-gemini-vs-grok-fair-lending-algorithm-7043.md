@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Grok: Fair Lending Algorithm"
+title: "ai governance framework lending"
 description: "AI model comparison: ai governance framework lending..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Grok: Fair Lending Algorithm"
+  title="ai governance framework lending"
   prompt="ai governance framework lending"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

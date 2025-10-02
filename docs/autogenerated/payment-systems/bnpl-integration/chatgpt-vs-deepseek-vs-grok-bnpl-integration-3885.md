@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Grok: BNPL Integration"
+title: "bnpl compliance requirements"
 description: "AI model comparison: bnpl compliance requirements..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Grok: BNPL Integration"
+  title="bnpl compliance requirements"
   prompt="bnpl compliance requirements"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

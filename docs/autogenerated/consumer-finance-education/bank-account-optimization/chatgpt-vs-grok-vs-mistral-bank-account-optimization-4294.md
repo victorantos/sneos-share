@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Grok vs Mistral: Bank Account Optimization"
+title: "fdic insurance maximization"
 description: "AI model comparison: fdic insurance maximization..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Grok vs Mistral: Bank Account Optimization"
+  title="fdic insurance maximization"
   prompt="fdic insurance maximization"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

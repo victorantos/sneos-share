@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Grok: Synthetic Data Finance"
+title: "fraud detection synthetic data"
 description: "AI model comparison: fraud detection synthetic data..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Grok: Synthetic Data Finance"
+  title="fraud detection synthetic data"
   prompt="fraud detection synthetic data"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

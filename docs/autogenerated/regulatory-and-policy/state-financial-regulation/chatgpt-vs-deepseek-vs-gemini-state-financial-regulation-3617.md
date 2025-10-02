@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: State Financial Regulation"
+title: "california banking regulations"
 description: "AI model comparison: california banking regulations..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: State Financial Regulation"
+  title="california banking regulations"
   prompt="california banking regulations"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

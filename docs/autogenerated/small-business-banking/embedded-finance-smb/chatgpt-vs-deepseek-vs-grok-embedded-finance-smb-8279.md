@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Grok: Embedded Finance SMB"
+title: "smb financial operating system"
 description: "AI model comparison: smb financial operating system..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Grok: Embedded Finance SMB"
+  title="smb financial operating system"
   prompt="smb financial operating system"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

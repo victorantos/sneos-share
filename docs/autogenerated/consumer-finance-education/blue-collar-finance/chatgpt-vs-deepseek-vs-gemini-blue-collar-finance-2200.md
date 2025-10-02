@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Blue Collar Finance"
+title: "seasonal worker banking"
 description: "AI model comparison: seasonal worker banking..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Blue Collar Finance"
+  title="seasonal worker banking"
   prompt="seasonal worker banking"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Mistral: Robo-Advisor White Label"
+title: "automated investment platform"
 description: "AI model comparison: automated investment platform..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Mistral: Robo-Advisor White Label"
+  title="automated investment platform"
   prompt="automated investment platform"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

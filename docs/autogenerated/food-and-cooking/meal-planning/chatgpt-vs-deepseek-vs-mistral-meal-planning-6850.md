@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Mistral: Meal Planning"
+title: "Meal planning for busy families - healthy dinners in 30 minutes"
 description: "AI model comparison: Meal planning for busy families - healthy dinners in 30 minutes..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Mistral: Meal Planning"
+  title="Meal planning for busy families - healthy dinners in 30 minutes"
   prompt="Meal planning for busy families - healthy dinners in 30 minutes"
   :responses='{
     "ChatGPT": "Certainly! Here are some healthy and delicious dinner ideas that busy families can prepare in 30 minutes or less:\n\n### 1. **Chicken Stir-Fry with Vegetables**\n- **Ingredients**: Chicken breast strips, bell peppers, broccoli, snap peas, carrots, soy sauce, garlic, ginger, olive oil.\n- **Method**: Saut\u00E9 garlic and ginger in olive oil, add chicken strips and cook until browned. Toss in chopped vegetables and stir-fry for 5\u20137 minutes. Add soy sauce and cook another 2 minutes. Serve over brown rice or quinoa.\n- **Tip**: Use pre-cut veggies or frozen stir-fry mix to save time.\n\n### 2. **Sheet Pan Salmon and Veggies**\n- **Ingredients**: Salmon fillets, asparagus, cherry tomatoes, olive oil, lemon, garlic, salt, pepper.\n- **Method**: Preheat oven to 400\u00B0F (200\u00B0C). Place salmon and veggies on a baking sheet, drizzle with olive oil, lemon juice, and season. Roast for 15\u201320 minutes.\n- **Tip**: Serve with quick-cooking couscous or a side salad.\n\n### 3. **Black Bean and Sweet Potato Tacos**\n- **Ingredients**: Canned black beans, diced sweet potatoes, tortillas, avocado, salsa, cumin, chili powder.\n- **Method**: Saut\u00E9 diced sweet potatoes with spices until tender (about 10 minutes). Warm black beans and tortillas. Assemble tacos with sweet potatoes, beans, avocado slices, and salsa.\n- **Tip**: Add shredded cheese or Greek yogurt as toppings.\n\n### 4. **Whole Wheat Pasta with Spinach and Cherry Tomatoes**\n- **Ingredients**: Whole wheat pasta, fresh spinach, cherry tomatoes, garlic, olive oil, parmesan cheese.\n- **Method**: Cook pasta according to package. Saut\u00E9 garlic in olive oil, add cherry tomatoes and cook until soft, then add spinach until wilted. Toss pasta with veggies and top with parmesan.\n- **Tip**: Add grilled chicken or beans for extra protein.\n\n### 5. **Turkey Lettuce Wraps**\n- **Ingredients**: Ground turkey, water chestnuts, soy sauce, ginger, garlic, green onions, large lettuce leaves.\n- **Method**: Saut\u00E9 ground turkey with garlic, ginger, and chopped water chestnuts. Stir in soy sauce and green onions. Spoon mixture into lettuce leaves.\n- **Tip**: Serve with a side of brown rice or quinoa.\n\n### General Tips for Quick Healthy Dinners:\n- **Prep in advance**: Chop vegetables or marinate proteins ahead of time.\n- **One-pan or One-pot meals**: Reduce cleanup and cooking time.\n- **Use shortcuts**: Like pre-washed greens, canned beans, or frozen veggies.\n- **Limit complicated recipes**: Stick to simple, nutrient-dense meals.\n\nWould you like me to provide a shopping list or printable meal plan?",

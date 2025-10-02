@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Mistral: Abstract Writing"
+title: "Write compelling research abstract - capture attention in 250 words"
 description: "AI model comparison: Write compelling research abstract - capture attention in 250 words..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Mistral: Abstract Writing"
+  title="Write compelling research abstract - capture attention in 250 words"
   prompt="Write compelling research abstract - capture attention in 250 words"
   :responses='{
     "ChatGPT": "Title: Unlocking the Potential of Artificial Intelligence in Personalized Healthcare: A Paradigm Shift Towards Precision Medicine\n\nAbstract:\nThe convergence of artificial intelligence (AI) and healthcare heralds a transformative era in personalized medicine, promising unprecedented improvements in diagnosis, treatment, and patient outcomes. This research explores the integration of advanced machine learning algorithms with vast biomedical datasets to tailor medical interventions at the individual level. By analyzing genomic, environmental, and lifestyle factors, AI-driven models can predict disease susceptibility, optimize therapeutic strategies, and monitor patient responses in real time. Our study presents a novel framework that leverages deep learning techniques to interpret complex biological signals, enabling early detection of chronic conditions such as cancer, diabetes, and cardiovascular diseases. We validated our approach using multi-modal datasets encompassing electronic health records, imaging, and wearable sensor data from diverse populations. Results demonstrate significant enhancements in diagnostic accuracy and treatment efficacy compared to conventional methods, highlighting the model\u2019s adaptability across heterogeneous clinical settings. Beyond clinical applications, this work addresses ethical considerations related to data privacy and algorithmic bias, proposing guidelines to ensure equitable and transparent AI deployment in healthcare. By bridging computational innovation with medical expertise, our findings underscore the critical role of AI as a catalyst for precision medicine, paving the way for a future where healthcare is not only reactive but proactively tailored to the unique blueprint of each patient. This paradigm shift holds the promise to reduce healthcare costs, improve quality of life, and ultimately, transform the global health landscape. Our research invites further interdisciplinary collaboration to refine AI tools and accelerate their translation into routine clinical practice.",

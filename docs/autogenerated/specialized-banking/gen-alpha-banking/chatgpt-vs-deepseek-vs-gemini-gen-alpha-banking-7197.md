@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Gen Alpha Banking"
+title: "financial literacy apps kids"
 description: "AI model comparison: financial literacy apps kids..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Gen Alpha Banking"
+  title="financial literacy apps kids"
   prompt="financial literacy apps kids"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

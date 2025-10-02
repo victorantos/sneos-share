@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: Prairie Garden"
+title: "prairie garden maintenance schedule"
 description: "AI model comparison: prairie garden maintenance schedule..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: Prairie Garden"
+  title="prairie garden maintenance schedule"
   prompt="prairie garden maintenance schedule"
   :responses='{
     "ChatGPT": "Certainly! Here\u0027s a general maintenance schedule for a prairie garden to help keep it healthy and thriving throughout the year:\n\n### Prairie Garden Maintenance Schedule\n\n#### Early Spring (February - March)\n- Remove any dead plant material and debris from the previous growing season.\n- Conduct any necessary pruning of shrubs or woody plants.\n- Prepare soil if planting new seeds or plugs.\n- Start seeds indoors or order seeds for the season.\n\n#### Late Spring (April - May)\n- Plant seeds or plugs of prairie species (grasses and wildflowers).\n- Water newly planted areas regularly to help establish roots.\n- Mulch bare soil areas to retain moisture and suppress weeds.\n- Begin monitoring for pests and diseases.\n\n#### Summer (June - August)\n- Water during dry spells, especially newly established plants.\n- Conduct weeding regularly to prevent invasive species from taking over.\n- Monitor plant health and treat pests/diseases if needed.\n- Deadhead flowers if you want to prolong blooming.\n- Avoid heavy foot traffic to minimize soil compaction.\n\n#### Fall (September - November)\n- Allow native plants to go to seed; this helps with natural reseeding and wildlife food.\n- Conduct a controlled burn or mow the prairie if appropriate for your region (check local regulations). This helps manage invasive species and encourages healthy new growth.\n- Rake or mow dead plant material as needed.\n- Plant any fall-sown seeds.\n\n#### Winter (December - January)\n- Leave standing prairie stalks to provide habitat and winter interest.\n- Plan next year\u2019s garden maintenance, noting areas that may need attention.\n- Perform any necessary soil tests and amendments.\n\n---\n\n### Additional Tips\n- Keep a journal or log to track planting dates, bloom times, and maintenance activities.\n- Choose native species adapted to your local climate for best results.\n- Regularly monitor for invasive species and remove them promptly.\n- Consider incorporating beneficial insects and pollinator-friendly plants.\n\nIf you have any specific plants or local conditions in mind, I can tailor the schedule further.",

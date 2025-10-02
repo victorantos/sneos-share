@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Business Credit Building"
+title: "building business credit without personal guarantee"
 description: "AI model comparison: building business credit without personal guarantee..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Business Credit Building"
+  title="building business credit without personal guarantee"
   prompt="building business credit without personal guarantee"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

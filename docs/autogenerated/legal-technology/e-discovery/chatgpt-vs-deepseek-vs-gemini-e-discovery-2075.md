@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: E-Discovery"
+title: "reducing ediscovery data volumes"
 description: "AI model comparison: reducing ediscovery data volumes..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: E-Discovery"
+  title="reducing ediscovery data volumes"
   prompt="reducing ediscovery data volumes"
   :responses='{
     "ChatGPT": "Reducing eDiscovery data volumes is critical for minimizing legal costs, improving review efficiency, and ensuring faster case resolution. Here are some effective strategies to reduce eDiscovery data volumes:\n\n### 1. **Implement Early Case Assessment (ECA)**\n- Use ECA tools to quickly analyze and filter data before full processing.\n- Identify relevant data early and exclude non-responsive documents.\n\n### 2. **Apply Targeted Data Collection**\n- Avoid collecting entire data repositories; instead, collect data from specific custodians, time frames, or topics.\n- Use custodian interviews and questionnaires to focus data collection.\n\n### 3. **Use Data Filtering and Deduplication**\n- Apply date, keyword, and file type filters at the collection stage.\n- Deduplicate data to remove identical copies of documents.\n\n### 4. **Leverage Technology-Assisted Review (TAR)**\n- Use machine learning and AI to prioritize documents, reducing the volume requiring human review.\n- TAR can significantly cut down the number of documents reviewed manually.\n\n### 5. **Exclude Irrelevant Data Types**\n- Exclude system files, benign file types (e.g., executables), and known irrelevant data (e.g., personal files).\n- Filter out large media files unless relevant.\n\n### 6. **Implement Effective Data Retention and Deletion Policies**\n- Enforce policies to delete unnecessary data before litigation arises.\n- Regularly cleanse email archives and shared drives.\n\n### 7. **Use Selective Preservation**\n- Preserve only data relevant to the litigation or investigation.\n- Avoid over-preserving broad datasets.\n\n### 8. **Collaborate with IT and Legal Teams**\n- Close coordination ensures proper data identification, preservation, and collection procedures.\n- Helps avoid over-collection.\n\n### 9. **Continuous Data Hygiene**\n- Maintain regular data management practices to prevent data sprawl.\n- Archive or delete outdated data as part of routine operations.\n\n---\n\n### Summary\nReducing eDiscovery data volumes involves a combination of targeted collection, early assessment, use of advanced analytics, and good data governance. Employing these best practices helps streamline the eDiscovery process and control costs.\n\nIf you want, I can also provide specific tools or workflow examples. Would that be helpful?",

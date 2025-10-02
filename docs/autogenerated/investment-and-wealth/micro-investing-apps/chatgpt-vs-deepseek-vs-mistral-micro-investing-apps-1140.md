@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Mistral: Micro-Investing Apps"
+title: "passive investing apps"
 description: "AI model comparison: passive investing apps..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Mistral: Micro-Investing Apps"
+  title="passive investing apps"
   prompt="passive investing apps"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

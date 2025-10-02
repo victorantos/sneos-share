@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Grok vs Mistral: Blue Collar Finance"
+title: "apprenticeship financial planning"
 description: "AI model comparison: apprenticeship financial planning..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Grok vs Mistral: Blue Collar Finance"
+  title="apprenticeship financial planning"
   prompt="apprenticeship financial planning"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

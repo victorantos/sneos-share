@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Gemini: CLE Development"
+title: "cle partnership opportunities"
 description: "AI model comparison: cle partnership opportunities..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Gemini: CLE Development"
+  title="cle partnership opportunities"
   prompt="cle partnership opportunities"
   :responses='{
     "ChatGPT": "Could you please provide more context or specify the industry or type of partnership opportunities you are interested in for \u0022cle\u0022? For example, are you referring to CLE as Continuing Legal Education, a specific company or organization named CLE, or something else? This will help me provide more accurate and relevant information.",

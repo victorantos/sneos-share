@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: Banking M&A Prep"
+title: "banking merger acquisition preparation"
 description: "AI model comparison: banking merger acquisition preparation..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: Banking M&amp;A Prep"
+  title="banking merger acquisition preparation"
   prompt="banking merger acquisition preparation"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

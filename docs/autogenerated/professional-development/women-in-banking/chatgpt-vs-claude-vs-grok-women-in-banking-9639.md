@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Grok: Women in Banking"
+title: "women fintech entrepreneurs"
 description: "AI model comparison: women fintech entrepreneurs..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Grok: Women in Banking"
+  title="women fintech entrepreneurs"
   prompt="women fintech entrepreneurs"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

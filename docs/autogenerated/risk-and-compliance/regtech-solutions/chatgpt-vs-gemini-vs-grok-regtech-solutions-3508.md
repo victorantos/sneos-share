@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Grok: RegTech Solutions"
+title: "regtech for small banks"
 description: "AI model comparison: regtech for small banks..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Grok: RegTech Solutions"
+  title="regtech for small banks"
   prompt="regtech for small banks"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

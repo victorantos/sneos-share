@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Mistral: BaaS Platforms"
+title: "marketplace embedded payments"
 description: "AI model comparison: marketplace embedded payments..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Mistral: BaaS Platforms"
+  title="marketplace embedded payments"
   prompt="marketplace embedded payments"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

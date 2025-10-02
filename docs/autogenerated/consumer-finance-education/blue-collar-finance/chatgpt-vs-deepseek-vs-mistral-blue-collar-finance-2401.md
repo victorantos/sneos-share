@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Mistral: Blue Collar Finance"
+title: "union member banking"
 description: "AI model comparison: union member banking..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Mistral: Blue Collar Finance"
+  title="union member banking"
   prompt="union member banking"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: Blue Collar Finance"
+title: "overtime income management"
 description: "AI model comparison: overtime income management..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: Blue Collar Finance"
+  title="overtime income management"
   prompt="overtime income management"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

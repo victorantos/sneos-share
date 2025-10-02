@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: Cannabis Banking"
+title: "280e tax planning cannabis"
 description: "AI model comparison: 280e tax planning cannabis..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: Cannabis Banking"
+  title="280e tax planning cannabis"
   prompt="280e tax planning cannabis"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

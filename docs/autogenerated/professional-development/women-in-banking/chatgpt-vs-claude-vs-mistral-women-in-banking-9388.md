@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Mistral: Women in Banking"
+title: "mentorship programs women banking"
 description: "AI model comparison: mentorship programs women banking..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Mistral: Women in Banking"
+  title="mentorship programs women banking"
   prompt="mentorship programs women banking"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

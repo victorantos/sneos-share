@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: Virtual Arbitration"
+title: "arbitration recording policies"
 description: "AI model comparison: arbitration recording policies..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: Virtual Arbitration"
+  title="arbitration recording policies"
   prompt="arbitration recording policies"
   :responses='{
     "ChatGPT": "Arbitration recording policies refer to the rules and guidelines governing the recording of arbitration proceedings. These policies can vary depending on the arbitration institution, jurisdiction, and parties involved. Below is an overview of common aspects of arbitration recording policies:\n\n### 1. General Principle\n- Arbitration is a private dispute resolution process, and the confidentiality of proceedings is often emphasized.\n- Recording arbitration hearings (audio, video, or transcripts) is typically not allowed unless all parties and the arbitrator(s) agree.\n\n### 2. Common Policies on Recording\n- **No Recording Without Consent:** Most arbitration rules prohibit recording proceedings without the explicit consent of all parties and the arbitrator.\n- **Arbitrator\u2019s Discretion:** The arbitrator may allow or deny recording requests based on fairness, confidentiality, and relevance.\n- **Use of Official Transcripts:** Some arbitration institutions offer official stenographic transcripts prepared by a court reporter instead of allowing self-recording.\n- **Confidentiality:** Any recordings or transcripts made are often subject to confidentiality agreements to protect sensitive information.\n\n### 3. Institutional Rules Examples\n- **American Arbitration Association (AAA):** The AAA rules generally do not allow recording unless all parties agree and the arbitrator permits it. Official transcripts can be ordered.\n- **International Chamber of Commerce (ICC):** ICC Arbitration Rules typically do not provide for recordings unless agreed by the parties and arbitrator.\n- **JAMS:** Similar policies requiring consent for recordings and generally use transcripts prepared by a court reporter.\n\n### 4. Jurisdictional Considerations\n- Some jurisdictions may have laws or court orders affecting recording policies.\n- Local laws may require or forbid recordings in arbitration settings.\n\n### 5. Best Practices\n- Parties who want recordings should request permission well in advance.\n- Use professional court reporters or transcription services if a record is desired.\n- Ensure compliance with confidentiality and data protection standards.\n\n---\n\nIf you need information on a specific jurisdiction or arbitration institution\u2019s recording policies, please let me know!",

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Gemini: Dog Training"
+title: "Dog training basics - teach obedience and good behavior"
 description: "AI model comparison: Dog training basics - teach obedience and good behavior..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Gemini: Dog Training"
+  title="Dog training basics - teach obedience and good behavior"
   prompt="Dog training basics - teach obedience and good behavior"
   :responses='{
     "ChatGPT": "Certainly! Here are some dog training basics to help teach your dog obedience and good behavior:\n\n### 1. Establish a Positive Relationship\n- **Bond with your dog:** Spend quality time together.\n- **Use positive reinforcement:** Reward good behavior with treats, praise, and affection.\n\n### 2. Set Clear Rules and Consistency\n- **Be consistent:** Use the same commands and rules.\n- **Everyone in the household should follow the rules:** Avoid confusing the dog.\n\n### 3. Basic Commands to Teach\n- **Sit:** Hold a treat above the dog\u2019s head and move it back; when the dog sits, reward immediately.\n- **Stay:** Use a hand signal and say \u201Cstay.\u201D Step back slowly and reward if the dog remains.\n- **Come:** Use a leash at first. Call the dog enthusiastically and reward upon arrival.\n- **Down:** Guide the dog into a lying position using a treat.\n- **Leave it:** Teach the dog to ignore or drop something.\n\n### 4. Training Tips\n- **Short sessions:** Keep training sessions 5-10 minutes long.\n- **Be patient and calm:** Avoid punishment or yelling.\n- **Train regularly:** Daily practice is best.\n- **Use clear commands:** Simple words like \u201Csit,\u201D \u201Ccome,\u201D \u201Cno.\u201D\n- **Socialize your dog:** Expose to different environments, people, and other dogs.\n\n### 5. Addressing Bad Behavior\n- **Redirect:** Gently guide the dog to a desired behavior.\n- **Ignore negative behavior:** Don\u2019t reward whining or barking.\n- **Provide exercise:** A tired dog behaves better.\n- **Use time-outs:** Briefly remove the dog from the situation if needed.\n\n### 6. Consider Professional Help\n- For persistent behavior problems or advanced training, consult a professional dog trainer.\n\nBy following these basics with patience and consistency, your dog will learn good manners and obedience, making life enjoyable for both of you!",

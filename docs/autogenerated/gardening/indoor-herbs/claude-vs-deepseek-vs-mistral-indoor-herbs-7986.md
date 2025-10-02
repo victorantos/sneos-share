@@ -1,5 +1,5 @@
 ---
-title: "Claude vs DeepSeek vs Mistral: Indoor Herbs"
+title: "indoor herb garden renters"
 description: "AI model comparison: indoor herb garden renters..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs DeepSeek vs Mistral: Indoor Herbs"
+  title="indoor herb garden renters"
   prompt="indoor herb garden renters"
   :responses='{
     "Claude": "Here\u0027s a comprehensive guide for renters who want to create an indoor herb garden:\n\n## **Renter-Friendly Setup Options**\n\n### **Container Gardening**\n- Use portable pots, planters, and containers\n- Easily moveable when you relocate\n- No permanent modifications to the space\n- Try tiered plant stands or rolling carts\n\n### **Window Solutions**\n- Suction cup hanging planters\n- Tension rod herb gardens\n- Window sill containers\n- No drilling or permanent hardware needed\n\n### **Vertical Growing**\n- Over-the-door hanging organizers\n- Freestanding plant towers\n- Wall-mounted systems with removable adhesive hooks\n- Ladder-style plant stands\n\n## **Best Herbs for Beginners**\n- **Basil** - fast-growing, loves warmth\n- **Mint** - very hardy, spreads easily\n- **Parsley** - tolerates lower light\n- **Chives** - perennial, easy care\n- **Cilantro** - quick harvest\n- **Oregano** - drought-tolerant\n\n## **Lighting Solutions**\n- **LED grow lights** on adjustable stands\n- **Clip-on grow lights** for individual plants\n- South-facing windows (if available)\n- Rotate plants regularly for even growth\n\n## **Space-Saving Tips**\n- Use vertical space efficiently\n- Choose compact or dwarf varieties\n- Harvest frequently to keep plants small\n- Consider hanging planters\n\nWould you like specific product recommendations or advice for any particular herbs?",

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Grok: D&O Liability"
+title: "duty of loyalty board members"
 description: "AI model comparison: duty of loyalty board members..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Grok: D&amp;O Liability"
+  title="duty of loyalty board members"
   prompt="duty of loyalty board members"
   :responses='{
     "ChatGPT": "The duty of loyalty is a fundamental responsibility of board members in organizations, particularly in corporations and nonprofit entities. It requires board members to act in the best interests of the organization without personal conflict of interest or self-dealing. Here are the key points of the duty of loyalty for board members:\n\n1. **Act in Good Faith and with Fidelity**: Board members must act honestly and faithfully in the organization\u2019s best interests.\n\n2. **Avoid Conflicts of Interest**: They should avoid situations where their personal interests conflict with those of the organization. If a conflict arises, it must be fully disclosed.\n\n3. **No Self-Dealing**: Board members cannot use their position to gain personal advantages, such as benefiting financially from contracts or decisions involving the organization unless fully disclosed and approved appropriately.\n\n4. **Confidentiality**: They must keep sensitive organizational information confidential and not use it for personal gain.\n\n5. **Fair Dealing**: Decisions should be made impartially and fairly, prioritizing the welfare of the organization and its stakeholders.\n\n6. **Disclosure Requirements**: If a conflict of interest exists, it must be disclosed to the board, and affected members should usually recuse themselves from related decisions.\n\nThe duty of loyalty ensures that board members prioritize the organization\u2019s interests above their own and maintain trust in their governance role. Failure to uphold this duty can result in legal and ethical consequences.",

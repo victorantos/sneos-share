@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Grok: Bilingual Practice"
+title: "cultural competency legal practice"
 description: "AI model comparison: cultural competency legal practice..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Grok: Bilingual Practice"
+  title="cultural competency legal practice"
   prompt="cultural competency legal practice"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

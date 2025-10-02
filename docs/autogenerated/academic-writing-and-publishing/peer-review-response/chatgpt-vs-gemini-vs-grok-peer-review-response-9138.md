@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Grok: Peer Review Response"
+title: "Respond to peer review comments - address criticisms professionally"
 description: "AI model comparison: Respond to peer review comments - address criticisms professionally..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Grok: Peer Review Response"
+  title="Respond to peer review comments - address criticisms professionally"
   prompt="Respond to peer review comments - address criticisms professionally"
   :responses='{
     "ChatGPT": "Certainly! Please provide the peer review comments you would like me to help you respond to.",

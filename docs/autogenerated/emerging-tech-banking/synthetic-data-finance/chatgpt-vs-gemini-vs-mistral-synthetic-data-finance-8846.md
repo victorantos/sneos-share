@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: Synthetic Data Finance"
+title: "data privacy synthetic methods"
 description: "AI model comparison: data privacy synthetic methods..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: Synthetic Data Finance"
+  title="data privacy synthetic methods"
   prompt="data privacy synthetic methods"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

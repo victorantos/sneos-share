@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Gemini: Instant Pot Recipes"
+title: "Instant Pot recipes - quick and easy pressure cooker meals"
 description: "AI model comparison: Instant Pot recipes - quick and easy pressure cooker meals..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Gemini: Instant Pot Recipes"
+  title="Instant Pot recipes - quick and easy pressure cooker meals"
   prompt="Instant Pot recipes - quick and easy pressure cooker meals"
   :responses='{
     "ChatGPT": "Sure! Here are some quick and easy Instant Pot recipes for delicious meals you can make in no time:\n\n### 1. Instant Pot Chicken Alfredo Pasta  \n**Ingredients:**  \n- 1 lb boneless, skinless chicken breasts, cut into bite-sized pieces  \n- 3 cups chicken broth  \n- 12 oz fettuccine pasta, broken in half  \n- 1 cup heavy cream  \n- 1 cup grated Parmesan cheese  \n- 3 cloves garlic, minced  \n- Salt and pepper to taste  \n- 2 tbsp olive oil  \n\n**Instructions:**  \n1. Set Instant Pot to saut\u00E9 mode, add olive oil and garlic, saut\u00E9 for 1 minute.  \n2. Add chicken pieces, salt, and pepper; saut\u00E9 until lightly browned (about 3-4 minutes).  \n3. Add chicken broth and pasta, making sure pasta is submerged.  \n4. Seal the lid and cook on high pressure for 6 minutes.  \n5. Quick release the pressure.  \n6. Stir in heavy cream and Parmesan cheese until creamy.  \n7. Serve immediately garnished with parsley if desired.\n\n---\n\n### 2. Instant Pot Beef Chili  \n**Ingredients:**  \n- 1 lb ground beef  \n- 1 can (15 oz) kidney beans, drained and rinsed  \n- 1 can (14.5 oz) diced tomatoes  \n- 1 small onion, chopped  \n- 2 cloves garlic, minced  \n- 1 cup beef broth  \n- 2 tbsp chili powder  \n- 1 tsp cumin  \n- Salt and pepper to taste  \n\n**Instructions:**  \n1. Set Instant Pot to saut\u00E9 mode. Brown ground beef with onion and garlic until beef is no longer pink. Drain excess fat.  \n2. Add chili powder, cumin, salt, pepper, beef broth, tomatoes, and beans. Stir well.  \n3. Seal lid, cook on high pressure for 15 minutes.  \n4. Let pressure release naturally for 10 minutes, then quick release.  \n5. Serve with shredded cheese, sour cream, and chopped green onions.\n\n---\n\n### 3. Instant Pot Lentil Soup  \n**Ingredients:**  \n- 1 cup lentils  \n- 4 cups vegetable broth  \n- 1 carrot, chopped  \n- 1 celery stalk, chopped  \n- 1 onion, chopped  \n- 3 cloves garlic, minced  \n- 1 tsp cumin  \n- 1/2 tsp smoked paprika  \n- Salt and pepper to taste  \n- 1 tbsp olive oil  \n\n**Instructions:**  \n1. Set Instant Pot to saut\u00E9 and heat olive oil. Add garlic, onion, carrot, and celery; saut\u00E9 for 3-4 minutes.  \n2. Add lentils, broth, cumin, paprika, salt, and pepper. Stir.  \n3. Seal lid, cook on high pressure for 15 minutes.  \n4. Quick release pressure.  \n5. Adjust seasoning and serve warm.\n\n---\n\nWould you like recipes for vegetarian meals, desserts, or something else?",

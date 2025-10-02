@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Mistral: Healthy Boundaries"
+title: "Set healthy boundaries - protect mental health in relationships"
 description: "AI model comparison: Set healthy boundaries - protect mental health in relationships..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Mistral: Healthy Boundaries"
+  title="Set healthy boundaries - protect mental health in relationships"
   prompt="Set healthy boundaries - protect mental health in relationships"
   :responses='{
     "ChatGPT": "Setting healthy boundaries is essential for protecting your mental health in relationships. Here are some practical steps to help you establish and maintain those boundaries:\n\n1. **Understand Your Needs and Limits**  \n   Reflect on what you are comfortable with emotionally, physically, and mentally. Knowing your limits helps you communicate clearly what is acceptable and what is not.\n\n2. **Communicate Clearly and Assertively**  \n   Express your boundaries honestly and respectfully. Use \u201CI\u201D statements, such as \u201CI feel overwhelmed when\u2026\u201D to focus on your feelings rather than blaming others.\n\n3. **Be Consistent**  \n   Consistency reinforces your boundaries. If you let small infractions slide, it can send mixed signals about what is acceptable.\n\n4. **Learn to Say No**  \n   Saying no is a key part of maintaining boundaries. You don\u2019t have to give lengthy explanations; a simple \u201CI\u2019m unable to do that\u201D is sufficient.\n\n5. **Recognize and Respect Others\u2019 Boundaries**  \n   Healthy relationships involve mutual respect. Pay attention to others\u2019 boundaries and show respect for them.\n\n6. **Take Time for Self-Care**  \n   Prioritize activities that nurture your mental health. Taking time for yourself helps you recharge and remain resilient.\n\n7. **Seek Support When Needed**  \n   If you find setting or maintaining boundaries challenging, consider talking to a trusted friend, counselor, or therapist for guidance.\n\n8. **Be Prepared for Resistance**  \n   Setting boundaries may cause discomfort or pushback from others initially. Stay firm and remind yourself that protecting your mental health is important.\n\nRemember, healthy boundaries create a foundation for respect and understanding, fostering stronger, more supportive relationships.",

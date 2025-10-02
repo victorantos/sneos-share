@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Grok vs Mistral: Operational Resilience"
+title: "third party risk management"
 description: "AI model comparison: third party risk management..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Grok vs Mistral: Operational Resilience"
+  title="third party risk management"
   prompt="third party risk management"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Mistral: Legal Design"
+title: "human centered legal research"
 description: "AI model comparison: human centered legal research..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Mistral: Legal Design"
+  title="human centered legal research"
   prompt="human centered legal research"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Grok vs Mistral: Senior Tech"
+title: "simple technology for elderly parents"
 description: "AI model comparison: simple technology for elderly parents..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Grok vs Mistral: Senior Tech"
+  title="simple technology for elderly parents"
   prompt="simple technology for elderly parents"
   :responses='{
     "ChatGPT": "Certainly! Here are some simple and user-friendly technologies that are great for elderly parents:\n\n1. **Smartphones with Simplified Interfaces**  \n   - Phones like the Jitterbug Smart or seniors-friendly modes on Android/iPhone make calling, texting, and using apps easier with larger icons and simplified menus.\n\n2. **Tablets with Easy Setup**  \n   - Tablets such as the iPad or Amazon Fire can be set up with simplified home screens, large fonts, and essential apps for video calls, reading, and games.\n\n3. **Medication Reminder Devices**  \n   - Automatic pill dispensers or apps that send medication reminders help ensure they take their meds on time.\n\n4. **Voice Assistants**  \n   - Devices like Amazon Echo (Alexa) or Google Nest allow voice commands to set reminders, make calls, listen to music, hear news, or control smart home devices without using hands.\n\n5. **Large Button Phones**  \n   - Cordless phones or mobiles with big buttons and clear displays for easy dialing.\n\n6. **Simple Remote Controls**  \n   - Universal remote controls designed with fewer buttons and easy labels for TV and other home devices.\n\n7. **Emergency Alert Devices**  \n   - Wearable devices with emergency buttons that alert family members or emergency services if help is needed.\n\nIf you want, I can help you pick specific devices based on their needs and your budget!",

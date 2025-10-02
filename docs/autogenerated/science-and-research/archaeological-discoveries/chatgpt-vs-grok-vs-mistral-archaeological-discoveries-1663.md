@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Grok vs Mistral: Archaeological Discoveries"
+title: "Archaeological discoveries 2025 - recent finds and insights"
 description: "AI model comparison: Archaeological discoveries 2025 - recent finds and insights..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Grok vs Mistral: Archaeological Discoveries"
+  title="Archaeological discoveries 2025 - recent finds and insights"
   prompt="Archaeological discoveries 2025 - recent finds and insights"
   :responses='{
     "ChatGPT": "As of 2025, several notable archaeological discoveries and insights have emerged, shedding new light on ancient civilizations and historical events. Here are some of the most significant recent finds:\n\n1. **Ancient City Unearthed in Turkey**  \nArchaeologists uncovered a remarkably well-preserved city dating back to the Bronze Age near the ancient site of Troy. The city features intact city walls, pottery, and tools that suggest a complex urban society with extensive trade networks.\n\n2. **Early Human Remains in East Africa**  \nNew fossil discoveries in East Africa, dating back over 300,000 years, provide crucial evidence regarding early Homo sapiens. These fossils exhibit a blend of archaic and modern traits, offering fresh insights into human evolution and migration patterns.\n\n3. **Viking Settlement in North America**  \nExcavations in Newfoundland, Canada, revealed a Viking outpost containing artifacts such as iron nails, a forge, and Norse-style tools. This discovery supports theories that Vikings explored deeper into North America long before Columbus.\n\n4. **Ancient Mayan Glyphs Deciphered**  \nBreakthroughs in decoding Mayan inscriptions have provided new understandings of their calendar systems, political history, and religious practices. Newly translated glyphs from recently discovered stelae reveal details about previously unknown Mayan rulers.\n\n5. **Underground Roman Amphitheater in Italy**  \nA subterranean Roman amphitheater was excavated beneath a modern town in southern Italy. The site includes seating areas, passageways, and remnants of stage machinery, indicating sophisticated entertainment infrastructure.\n\n6. **Prehistoric Cave Paintings in Southeast Asia**  \nDating back over 40,000 years, newly found cave paintings in Indonesia depict scenes of hunting and symbolic animals. These paintings are among the oldest known examples of symbolic art, highlighting early cognitive abilities.\n\n7. **Lost Library of Alexandria Fragments Found**  \nFragments believed to be from texts of the ancient Library of Alexandria were discovered in Egypt. These papyrus pieces offer a glimpse into the knowledge preserved in the legendary library before its destruction.\n\nThese discoveries continue to enhance our understanding of human history, culture, and ancient technologies. For ongoing updates, archaeology journals and news outlets regularly provide detailed reports on new sites and findings.",

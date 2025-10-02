@@ -1,5 +1,5 @@
 ---
-title: "Claude vs DeepSeek vs Mistral: Vertical Garden"
+title: "vertical garden renter friendly"
 description: "AI model comparison: vertical garden renter friendly..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs DeepSeek vs Mistral: Vertical Garden"
+  title="vertical garden renter friendly"
   prompt="vertical garden renter friendly"
   :responses='{
     "Claude": "Here are some great renter-friendly vertical garden ideas that won\u0027t damage walls or require permanent installations:\n\n## **Freestanding Options**\n- **Ladder planters** - Wooden or metal ladders with shelves for pots\n- **Tiered plant stands** - Multi-level stands that lean against walls\n- **Trellis planters** - Portable trellises with built-in planters at the base\n- **Tower gardens** - Self-contained vertical growing systems\n\n## **Removable Wall Solutions**\n- **Over-the-door organizers** - Shoe organizers repurposed for small plants\n- **Command strip hanging planters** - Use heavy-duty strips for lightweight pots\n- **Tension rod systems** - Floor-to-ceiling rods with hanging baskets\n- **Magnetic planters** - For metal surfaces like refrigerators\n\n## **DIY Budget-Friendly Ideas**\n- **Pallet gardens** - Lean pallets against walls with fabric pockets\n- **Hanging macrame planters** - Suspend from ceiling hooks\n- **PVC pipe systems** - Create modular vertical growing tubes\n- **Repurposed items** - Gutters, bottles, or cans mounted on removable boards\n\n## **Best Plants for Renters**\n- Pothos, spider plants, herbs, succulents, cherry tomatoes, lettuce, strawberries\n\n## **Pro Tips**\n- Use drip trays to protect floors\n- Choose lightweight containers\n- Start small and expand gradually\n- Consider self-watering systems for easier maintenance\n\nWould you like specific instructions for any of these options?",

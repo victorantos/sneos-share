@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Grok vs Mistral: Guinea Pigs"
+title: "guinea pig cage setup small space"
 description: "AI model comparison: guinea pig cage setup small space..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Grok vs Mistral: Guinea Pigs"
+  title="guinea pig cage setup small space"
   prompt="guinea pig cage setup small space"
   :responses='{
     "ChatGPT": "Setting up a guinea pig cage in a small space is definitely possible with some thoughtful planning. Here are tips and a step-by-step guide to create a comfortable and functional environment for your guinea pig:\n\n### 1. Choose the Right Cage\n- **Minimum Size:** Aim for at least 7.5 square feet of floor space for one guinea pig (e.g., 30\u0022 x 36\u0022) or more if possible. Bigger is always better, but small spaces can work with smart design.\n- **Vertical Space:** Guinea pigs don\u2019t climb much, so focus on maximizing floor area rather than height.\n- **DIY Options:** Consider using a C\u0026C (Cubes and Coroplast) cage, which is customizable and efficient for small areas.\n\n### 2. Location\n- Place the cage in a quiet, draft-free area with indirect natural light.\n- Avoid places with temperature extremes (not near heaters or air conditioners).\n- Ensure easy access for cleaning and interaction.\n\n### 3. Cage Setup Essentials\n- **Bedding:** Use soft, absorbent bedding like paper-based or fleece liners (fleece is reusable and saves space since less bedding is needed).\n- **Hideouts:** Provide at least one hideout or small shelter for the guinea pig to feel secure. Opt for compact hideouts to save space.\n- **Food and Water:** \n   - Use a sturdy ceramic bowl for pellets and veggies.\n   - A water bottle that attaches to the side saves floor space.\n- **Toys and Chews:** Include chew toys to keep teeth healthy, but keep them minimal to avoid clutter.\n\n### 4. Optimize Space\n- **Multi-level Platforms?** Not necessary for guinea pigs, but a small, low ramp can create a bit more exploration space.\n- **Use Vertical Sides:** Attach water bottles or hay racks on cage sides to free up floor space.\n- **Keep it Tidy:** Regular cleaning keeps the small space comfortable and odor-free.\n\n### 5. Example Small Setup\n- Cage: 30\u0022 x 30\u0022 C\u0026C cage with coroplast bottom\n- Bedding: Fleece liner with absorbent layers underneath\n- Hideout: Small wooden or plastic hut in a corner\n- Food bowl and water bottle attached on opposite sides\n- Hay rack mounted on the cage wall\n\n### Additional Tips\n- Guinea pigs are social animals, so if space allows, keep at least two together; otherwise, ensure plenty of daily social interaction.\n- Rotate toys and change layout occasionally to keep your pet engaged.\n- Provide daily floor time outside the cage for exercise and mental stimulation.\n\n---\n\nIf you want, I can also suggest specific products or provide a sketch for your setup!",

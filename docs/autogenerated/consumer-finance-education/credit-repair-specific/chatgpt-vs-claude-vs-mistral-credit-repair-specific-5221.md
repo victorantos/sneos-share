@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Mistral: Credit Repair Specific"
+title: "medical debt credit repair"
 description: "AI model comparison: medical debt credit repair..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Mistral: Credit Repair Specific"
+  title="medical debt credit repair"
   prompt="medical debt credit repair"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

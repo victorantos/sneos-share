@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Mistral: Fitness"
+title: "pickleball fitness benefits seniors"
 description: "AI model comparison: pickleball fitness benefits seniors..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Mistral: Fitness"
+  title="pickleball fitness benefits seniors"
   prompt="pickleball fitness benefits seniors"
   :responses='{
     "ChatGPT": "Pickleball offers numerous fitness benefits for seniors, making it an excellent choice for staying active and healthy. Here are some key benefits:\n\n1. **Cardiovascular Health**: Playing pickleball increases heart rate, which helps improve cardiovascular endurance and overall heart health.\n\n2. **Low Impact Exercise**: The game involves gentle movements that are easier on the joints compared to high-impact sports, making it suitable for seniors with arthritis or joint concerns.\n\n3. **Improved Balance and Coordination**: The quick changes in direction and hand-eye coordination required help enhance balance and reduce the risk of falls.\n\n4. **Strength Building**: Swinging the paddle and moving around the court can help strengthen muscles, particularly in the arms, legs, and core.\n\n5. **Social Interaction**: Playing in doubles or groups provides social engagement, which can improve mental well-being and reduce feelings of isolation.\n\n6. **Mental Stimulation**: Strategy and quick decision-making required in the game help keep the mind sharp.\n\n7. **Flexibility and Mobility**: Reaching for shots and moving around can help maintain or improve joint flexibility and overall mobility.\n\nOverall, pickleball is a fun, accessible way for seniors to stay physically active while enjoying social interaction and mental stimulation.",

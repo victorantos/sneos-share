@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs DeepSeek: Financial Literacy Comparison 2025"
+title: "Teaching kids financial literacy - age-appropriate money lessons"
 description: "AI model comparison: Teaching kids financial literacy - age-appropriate money lessons..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs DeepSeek: Financial Literacy Comparison 2025"
+  title="Teaching kids financial literacy - age-appropriate money lessons"
   prompt="Teaching kids financial literacy - age-appropriate money lessons"
   :responses='{
     "ChatGPT": "Teaching kids financial literacy is a valuable skill that sets them up for a lifetime of smart money management. Here are some age-appropriate money lessons for different age groups:\n\n**Ages 3-5: Introduction to Money Basics**\n- Teach them to recognize coins and bills.\n- Explain the concept of money as a tool to buy things.\n- Use play money during pretend shopping games.\n- Introduce simple choices like \u201CDo you want to buy the toy or save your money?\u201D\n\n**Ages 6-8: Understanding Earning, Saving, and Spending**\n- Introduce the concept of earning money through chores or small tasks.\n- Use a clear jar or piggy bank to save money and watch it grow.\n- Discuss needs vs. wants to help prioritize spending.\n- Set small saving goals (e.g., save for a toy).\n\n**Ages 9-11: Budgeting and Making Decisions**\n- Teach them to create a simple budget for their allowance or earnings.\n- Explain how to divide money into categories: saving, spending, and giving.\n- Introduce comparison shopping to find the best value.\n- Discuss the importance of delayed gratification.\n\n**Ages 12-14: Banking and Responsible Spending**\n- Introduce the concept of bank accounts, debit cards, and how banks work.\n- Teach how to track spending with a simple ledger or app.\n- Discuss smart spending habits and avoiding impulse buying.\n- Encourage setting longer-term savings goals.\n\n**Ages 15-18: Advanced Financial Skills**\n- Teach about credit, interest, and loans.\n- Introduce how to read and understand bank statements.\n- Discuss budgeting for larger expenses like college or a car.\n- Educate on investing basics and the power of compound interest.\n- Encourage part-time jobs or internships for earning experience and income.\n\n**General Tips for All Ages**\n- Lead by example with your own money habits.\n- Use everyday situations to discuss money (shopping, bills, saving).\n- Make learning fun with games, apps, and books about money.\n- Encourage questions and open conversations about finances.\n\nWould you like me to suggest specific activities or resources for any age group?",

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Mistral: Attic"
+title: "attic insulation roi calculator"
 description: "AI model comparison: attic insulation roi calculator..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Mistral: Attic"
+  title="attic insulation roi calculator"
   prompt="attic insulation roi calculator"
   :responses='{
     "ChatGPT": "Sure! Here\u2019s a simple Attic Insulation ROI (Return on Investment) Calculator you can use to estimate the financial benefit of insulating your attic.\n\n---\n\n### Attic Insulation ROI Calculator\n\n**Step 1: Gather Your Data**\n\n1. **Current annual energy cost for heating/cooling (in $):**  \n2. **Estimated percentage energy savings from attic insulation (%):**  \n3. **Cost of attic insulation project (in $):**  \n4. **Expected lifespan of insulation (in years):**\n\n---\n\n**Step 2: Calculate Annual Savings**\n\n\\[\n\\text{Annual Savings} = \\text{Current Annual Energy Cost} \\times \\left(\\frac{\\text{Percentage Energy Savings}}{100}\\right)\n\\]\n\n---\n\n**Step 3: Calculate Payback Period**\n\n\\[\n\\text{Payback Period (years)} = \\frac{\\text{Cost of Attic Insulation}}{\\text{Annual Savings}}\n\\]\n\n---\n\n**Step 4: Calculate ROI**\n\n\\[\n\\text{ROI over lifespan} = \\frac{\\text{Total Savings over lifespan} - \\text{Cost}}{\\text{Cost}} \\times 100\n\\]\n\nWhere:  \n\\[\n\\text{Total Savings over lifespan} = \\text{Annual Savings} \\times \\text{Lifespan}\n\\]\n\n---\n\n### Example Calculation\n\n- Current annual energy cost: $1,200  \n- Estimated savings from insulation: 20%  \n- Cost of insulation: $3,000  \n- Lifespan: 20 years\n\n**Annual Savings:**  \n1200 \u00D7 0.20 = $240\n\n**Payback Period:**  \n3000 \u00F7 240 = 12.5 years\n\n**Total Savings over lifespan:**  \n240 \u00D7 20 = $4,800\n\n**ROI:**  \n(4800 - 3000) \u00F7 3000 \u00D7 100 = 60%\n\n---\n\nIf you provide your numbers, I can calculate it for you! Or if you want a spreadsheet or interactive tool, I can help design one too.",

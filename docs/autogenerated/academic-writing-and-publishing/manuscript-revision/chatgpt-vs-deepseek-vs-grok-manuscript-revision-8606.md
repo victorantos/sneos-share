@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Grok: Manuscript Revision"
+title: "Revise manuscript for resubmission - systematic improvement strategies"
 description: "AI model comparison: Revise manuscript for resubmission - systematic improvement strategies..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Grok: Manuscript Revision"
+  title="Revise manuscript for resubmission - systematic improvement strategies"
   prompt="Revise manuscript for resubmission - systematic improvement strategies"
   :responses='{
     "ChatGPT": "Certainly! Here\u0027s a structured approach to revising your manuscript for resubmission based on systematic improvement strategies:\n\n1. **Analyze Reviewer Comments Thoroughly**  \n   - Carefully read and categorize all reviewer feedback (major, minor, stylistic).  \n   - Ensure you fully understand each point before proceeding.\n\n2. **Create a Revision Plan**  \n   - Prioritize revisions based on the significance of issues raised.  \n   - Set clear objectives and timelines for completing each revision.\n\n3. **Strengthen Content and Argumentation**  \n   - Clarify ambiguous sections and improve logical flow.  \n   - Address all major criticisms directly with data, explanations, or additional analyses.  \n   - Incorporate relevant recent literature to update the context if needed.\n\n4. **Enhance Methodology and Data Presentation**  \n   - Provide more detailed explanation of methods or justify your choices if questioned.  \n   - Include additional data or analyses if requested.  \n   - Refine tables and figures for clarity and impact.\n\n5. **Improve Writing Quality**  \n   - Simplify complex sentences and remove redundancy.  \n   - Check for grammar, spelling, and formatting errors.  \n   - Use professional editing tools or peer feedback to polish language.\n\n6. **Update Abstract and Conclusion**  \n   - Ensure they accurately reflect the revised manuscript content and key findings.  \n   - Highlight improvements and the significance of your work.\n\n7. **Prepare a Detailed Response Letter**  \n   - Address each reviewer comment point-by-point.  \n   - Clearly describe what changes were made or provide justified reasons if a comment was not addressed.  \n   - Maintain a respectful and professional tone.\n\n8. **Final Checks Before Resubmission**  \n   - Verify that all submission guidelines are met.  \n   - Confirm that all supplementary materials are included and formatted correctly.  \n   - Conduct a final read-through or ask a colleague to review.\n\n---\n\nIf you provide the manuscript and reviewer comments, I can help tailor this strategy specifically to your case or assist in rewriting specific sections.",

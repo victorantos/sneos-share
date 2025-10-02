@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Grok: State Financial Regulation"
+title: "ccpa financial services"
 description: "AI model comparison: ccpa financial services..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Grok: State Financial Regulation"
+  title="ccpa financial services"
   prompt="ccpa financial services"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

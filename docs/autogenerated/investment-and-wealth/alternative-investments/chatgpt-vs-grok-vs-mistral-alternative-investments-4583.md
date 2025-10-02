@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Grok vs Mistral: Alternative Investments"
+title: "alternative investment due diligence"
 description: "AI model comparison: alternative investment due diligence..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Grok vs Mistral: Alternative Investments"
+  title="alternative investment due diligence"
   prompt="alternative investment due diligence"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

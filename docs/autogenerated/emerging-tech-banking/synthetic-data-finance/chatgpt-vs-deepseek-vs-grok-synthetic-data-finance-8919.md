@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Grok: Synthetic Data Finance"
+title: "credit model training synthetic"
 description: "AI model comparison: credit model training synthetic..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Grok: Synthetic Data Finance"
+  title="credit model training synthetic"
   prompt="credit model training synthetic"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

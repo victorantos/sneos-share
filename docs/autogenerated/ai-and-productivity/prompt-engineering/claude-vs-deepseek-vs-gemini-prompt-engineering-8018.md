@@ -1,5 +1,5 @@
 ---
-title: "Claude vs DeepSeek vs Gemini: Prompt Engineering"
+title: "best prompts for sales teams"
 description: "AI model comparison: best prompts for sales teams..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs DeepSeek vs Gemini: Prompt Engineering"
+  title="best prompts for sales teams"
   prompt="best prompts for sales teams"
   :responses='{
     "Claude": "Here are some of the most effective prompts for sales teams, organized by category:\n\n## **Discovery \u0026 Research Prompts**\n\n**\u0022What keeps [prospect\u0027s role] up at night?\u0022**\n- Forces focus on real pain points rather than product features\n\n**\u0022If nothing changes, what happens to their business in 12 months?\u0022**\n- Uncovers urgency and consequences of inaction\n\n**\u0022What would success look like for them?\u0022**\n- Identifies specific, measurable outcomes they value\n\n## **Prospecting Prompts**\n\n**\u0022Why would they take my call?\u0022**\n- Ensures you lead with value, not your agenda\n\n**\u0022What\u0027s changed in their world recently?\u0022**\n- Finds relevant, timely conversation starters\n\n**\u0022Who else would care about this problem?\u0022**\n- Expands your network within the account\n\n## **Objection Handling Prompts**\n\n**\u0022What would have to be true for this to make sense?\u0022**\n- Uncovers the real criteria for moving forward\n\n**\u0022Help me understand what\u0027s behind that concern\u0022**\n- Gets to the root of objections rather than surface-level pushback\n\n**\u0022What would you do if you were in my position?\u0022**\n- Creates empathy and collaborative problem-solving\n\n## **Closing Prompts**\n\n**\u0022What questions do you have that would prevent you from moving forward?\u0022**\n- Surfaces final concerns proactively\n\n**\u0022On a scale of 1-10, how confident are you this will solve your problem?\u0022**\n- Gauges true commitment and identifies remaining doubts\n\n**\u0022What does your decision-making process look like from here?\u0022**\n- Maps out next steps and timeline realistically\n\n## **Self-Reflection Prompts**\n\n**\u0022What assumptions am I making about this prospect?\u0022**\n- Challenges biases and encourages deeper discovery\n\n**\u0022What would my best customer say about this situation?\u0022**\n- Leverages successful case study thinking\n\n**\u0022If I lost this deal, what would be the most likely reason?\u0022**\n- Identifies and addresses vulnerabilities early\n\nThese prompts work because they shift focus from selling to understanding, from talking to listening, and from assuming to discovering.",

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Grok: Real-Time Payments"
+title: "liquidity management real time"
 description: "AI model comparison: liquidity management real time..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Grok: Real-Time Payments"
+  title="liquidity management real time"
   prompt="liquidity management real time"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

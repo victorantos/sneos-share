@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Grok: Banking M&A Prep"
+title: "cultural integration bank merger"
 description: "AI model comparison: cultural integration bank merger..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Grok: Banking M&amp;A Prep"
+  title="cultural integration bank merger"
   prompt="cultural integration bank merger"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

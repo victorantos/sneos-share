@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: Merchant Services"
+title: "payment security compliance"
 description: "AI model comparison: payment security compliance..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: Merchant Services"
+  title="payment security compliance"
   prompt="payment security compliance"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

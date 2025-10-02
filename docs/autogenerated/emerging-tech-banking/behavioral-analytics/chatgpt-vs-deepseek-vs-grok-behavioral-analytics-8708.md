@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Grok: Behavioral Analytics"
+title: "financial wellness scoring"
 description: "AI model comparison: financial wellness scoring..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Grok: Behavioral Analytics"
+  title="financial wellness scoring"
   prompt="financial wellness scoring"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Fraud Prevention Mobile"
+title: "account takeover prevention"
 description: "AI model comparison: account takeover prevention..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Fraud Prevention Mobile"
+  title="account takeover prevention"
   prompt="account takeover prevention"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

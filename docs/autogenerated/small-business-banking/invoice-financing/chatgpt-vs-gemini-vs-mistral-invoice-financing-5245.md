@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: Invoice Financing"
+title: "dynamic discounting platforms"
 description: "AI model comparison: dynamic discounting platforms..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: Invoice Financing"
+  title="dynamic discounting platforms"
   prompt="dynamic discounting platforms"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

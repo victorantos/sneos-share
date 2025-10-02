@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: State Financial Regulation"
+title: "multi state licensing strategy"
 description: "AI model comparison: multi state licensing strategy..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: State Financial Regulation"
+  title="multi state licensing strategy"
   prompt="multi state licensing strategy"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

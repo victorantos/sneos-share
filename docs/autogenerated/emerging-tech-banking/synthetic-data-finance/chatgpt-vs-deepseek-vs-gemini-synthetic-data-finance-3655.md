@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Synthetic Data Finance"
+title: "synthetic data financial modeling"
 description: "AI model comparison: synthetic data financial modeling..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Synthetic Data Finance"
+  title="synthetic data financial modeling"
   prompt="synthetic data financial modeling"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: Credit Union Digital"
+title: "digital onboarding credit unions"
 description: "AI model comparison: digital onboarding credit unions..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: Credit Union Digital"
+  title="digital onboarding credit unions"
   prompt="digital onboarding credit unions"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

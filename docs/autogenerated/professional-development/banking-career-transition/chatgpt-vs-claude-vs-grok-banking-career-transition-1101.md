@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Grok: Banking Career Transition"
+title: "data analytics banking career"
 description: "AI model comparison: data analytics banking career..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Grok: Banking Career Transition"
+  title="data analytics banking career"
   prompt="data analytics banking career"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

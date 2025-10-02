@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Grok: Banking Career Transition"
+title: "traditional to digital banking career"
 description: "AI model comparison: traditional to digital banking career..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Grok: Banking Career Transition"
+  title="traditional to digital banking career"
   prompt="traditional to digital banking career"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

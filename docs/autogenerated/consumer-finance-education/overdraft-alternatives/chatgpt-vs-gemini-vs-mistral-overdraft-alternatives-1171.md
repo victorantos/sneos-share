@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: Overdraft Alternatives"
+title: "low balance alerts"
 description: "AI model comparison: low balance alerts..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: Overdraft Alternatives"
+  title="low balance alerts"
   prompt="low balance alerts"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Grok: Basel IV Implementation"
+title: "capital requirement strategies"
 description: "AI model comparison: capital requirement strategies..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Grok: Basel IV Implementation"
+  title="capital requirement strategies"
   prompt="capital requirement strategies"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

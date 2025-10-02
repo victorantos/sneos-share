@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Grok: Remote Work Finance"
+title: "hybrid banking workplace"
 description: "AI model comparison: hybrid banking workplace..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Grok: Remote Work Finance"
+  title="hybrid banking workplace"
   prompt="hybrid banking workplace"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

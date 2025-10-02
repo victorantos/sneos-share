@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Grok: DNA Discovery"
+title: "DNA structure discovery - Watson, Crick, Franklin, Wilkins"
 description: "AI model comparison: DNA structure discovery - Watson, Crick, Franklin, Wilkins..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Grok: DNA Discovery"
+  title="DNA structure discovery - Watson, Crick, Franklin, Wilkins"
   prompt="DNA structure discovery - Watson, Crick, Franklin, Wilkins"
   :responses='{
     "ChatGPT": "The discovery of the DNA structure is a landmark achievement in the field of molecular biology. It primarily involved the contributions of James Watson, Francis Crick, Rosalind Franklin, and Maurice Wilkins.\n\n### Key Contributors and Their Roles:\n\n1. **James Watson and Francis Crick:**\n   - In 1953, Watson and Crick proposed the double helix model of DNA.\n   - They used existing data, including X-ray diffraction images, to develop a 3D model showing DNA as two strands twisted around each other.\n   - Their model explained how genetic information is stored and replicated.\n\n2. **Rosalind Franklin:**\n   - Franklin was an expert in X-ray crystallography.\n   - She produced high-quality X-ray diffraction images of DNA, most notably Photograph 51.\n   - Her work provided critical evidence of the helical structure and dimensions of DNA.\n   - Unfortunately, her contribution was not fully recognized during her lifetime.\n\n3. **Maurice Wilkins:**\n   - Wilkins was Franklin\u0027s colleague at King\u2019s College London.\n   - He also worked with X-ray diffraction of DNA and shared Franklin\u2019s data with Watson and Crick (with some controversy).\n   - Wilkins\u0027 work helped corroborate the helical structure of DNA.\n\n### Timeline Summary:\n- Early 1950s: Franklin and Wilkins gather X-ray diffraction images.\n- 1953: Watson and Crick build the double helix model.\n- 1962: Watson, Crick, and Wilkins receive the Nobel Prize in Physiology or Medicine for their work on DNA. Franklin had passed away in 1958 and was not eligible for the Nobel (which is not awarded posthumously).\n\n### Importance:\n- The double helix model explained DNA replication and genetic encoding.\n- It laid the foundation for modern genetics and biotechnology.\n\nIf you want, I can provide more detailed information on any of these scientists or the discovery process!",

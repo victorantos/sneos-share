@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Mistral: Robo-Advisor White Label"
+title: "algorithm investment strategies"
 description: "AI model comparison: algorithm investment strategies..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Mistral: Robo-Advisor White Label"
+  title="algorithm investment strategies"
   prompt="algorithm investment strategies"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

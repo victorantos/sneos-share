@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Grok: Neobank Comparison"
+title: "immigrant friendly digital banks"
 description: "AI model comparison: immigrant friendly digital banks..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Grok: Neobank Comparison"
+  title="immigrant friendly digital banks"
   prompt="immigrant friendly digital banks"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

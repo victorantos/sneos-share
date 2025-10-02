@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Gemini: Banking Certifications"
+title: "cfa vs caia comparison"
 description: "AI model comparison: cfa vs caia comparison..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Gemini: Banking Certifications"
+  title="cfa vs caia comparison"
   prompt="cfa vs caia comparison"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

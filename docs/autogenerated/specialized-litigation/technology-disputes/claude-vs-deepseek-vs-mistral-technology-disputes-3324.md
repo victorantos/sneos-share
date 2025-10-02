@@ -1,5 +1,5 @@
 ---
-title: "Claude vs DeepSeek vs Mistral: Technology Disputes"
+title: "cryptocurrency litigation basics"
 description: "AI model comparison: cryptocurrency litigation basics..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs DeepSeek vs Mistral: Technology Disputes"
+  title="cryptocurrency litigation basics"
   prompt="cryptocurrency litigation basics"
   :responses='{
     "Claude": "# Cryptocurrency Litigation Basics\n\n## Common Types of Crypto Litigation\n\n### **Regulatory Enforcement**\n- SEC securities violations (unregistered offerings, fraud)\n- CFTC commodity trading violations\n- Anti-money laundering (AML) violations\n- Tax evasion and reporting failures\n\n### **Civil Disputes**\n- Investor fraud and misrepresentation\n- Exchange hacks and security breaches\n- Contract disputes (smart contracts, ICOs)\n- Employment disputes in crypto companies\n- Intellectual property disputes\n\n### **Criminal Cases**\n- Money laundering and terrorism financing\n- Market manipulation\n- Ponzi schemes and fraudulent projects\n- Ransomware and cybercrime\n\n## Key Legal Challenges\n\n### **Jurisdictional Issues**\n- Cross-border transactions and regulatory conflicts\n- Determining proper venue for disputes\n- Service of process difficulties\n\n### **Asset Recovery**\n- Tracing cryptocurrency transactions\n- Freezing and seizing digital assets\n- Recovering assets from exchanges or wallets\n\n### **Evidence Collection**\n- Blockchain forensics and analysis\n- Preserving digital evidence\n- Expert witness requirements\n\n## Regulatory Landscape\n\n### **Federal Agencies**\n- **SEC**: Securities regulation\n- **CFTC**: Commodities oversight  \n- **FinCEN**: AML compliance\n- **IRS**: Tax enforcement\n- **DOJ**: Criminal prosecution\n\n### **Key Legal Questions**\n- When is a cryptocurrency a security?\n- Regulatory classification of different tokens\n- Smart contract legal enforceability\n\n## Litigation Strategies\n\n### **For Plaintiffs**\n- Document blockchain transactions thoroughly\n- Engage forensic cryptocurrency experts\n- Consider class action possibilities\n- Address jurisdictional challenges early\n\n### **For Defendants**\n- Challenge regulatory jurisdiction\n- Argue decentralization and lack of control\n- Raise statute of limitations defenses\n- Contest asset freezing orders\n\n## Special Considerations\n\n- **Technical expertise** required for legal teams\n- **Rapidly evolving** regulatory environment\n- **High-stakes** nature of many disputes\n- **International coordination** often necessary\n\n*This overview covers general concepts. Cryptocurrency law is complex and rapidly evolving - always consult qualified legal counsel for specific situations.*",

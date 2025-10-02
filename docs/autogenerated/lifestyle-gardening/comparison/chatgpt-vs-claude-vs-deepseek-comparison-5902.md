@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs DeepSeek: Comparison"
+title: "chaos garden vs traditional garden"
 description: "AI model comparison: chaos garden vs traditional garden..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs DeepSeek: Comparison"
+  title="chaos garden vs traditional garden"
   prompt="chaos garden vs traditional garden"
   :responses='{
     "ChatGPT": "Certainly! Here\u2019s a comparison between a **chaos garden** and a **traditional garden**:\n\n| Aspect               | Chaos Garden                                  | Traditional Garden                            |\n|----------------------|----------------------------------------------|----------------------------------------------|\n| **Design Approach**  | Organic, wild, and natural; embraces randomness and irregularity | Structured, planned, and orderly; often symmetrical and carefully arranged |\n| **Plant Selection**  | Native plants, wildflowers, and a mix of species that encourage biodiversity | Selected plants based on aesthetics, often non-native or ornamental species |\n| **Maintenance**      | Low maintenance; minimal intervention to allow natural growth and processes | Regular maintenance including pruning, weeding, watering, and fertilizing |\n| **Purpose**          | Promote ecological balance, support wildlife, and foster natural beauty | Primarily aesthetic appeal, recreational use, and controlled environment |\n| **Visual Style**     | Untamed, diverse, and somewhat unpredictable | Manicured, uniform, and predictable |\n| **Ecological Impact**| Supports biodiversity, attracts pollinators, and enhances soil health | Can sometimes reduce biodiversity if overly controlled or reliant on pesticides |\n| **Examples**         | Meadows, native wildflower patches, naturalized areas | Formal flower beds, lawns, shaped shrubs, and hedges |\n\n### Summary:\n- **Chaos gardens** prioritize ecological health and natural processes, encouraging a more spontaneous and wild growth pattern.\n- **Traditional gardens** focus on aesthetic control, order, and often human-centric design principles.\n\nIf you want, I can provide tips on how to create either type or combine elements of both!",

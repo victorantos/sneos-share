@@ -1,5 +1,5 @@
 ---
-title: "Claude vs DeepSeek vs Grok: Side Hustle Ideas Comparison 2025"
+title: "Side hustles that became million-dollar businesses"
 description: "AI model comparison: Side hustles that became million-dollar businesses..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs DeepSeek vs Grok: Side Hustle Ideas Comparison 2025"
+  title="Side hustles that became million-dollar businesses"
   prompt="Side hustles that became million-dollar businesses"
   :responses='{
     "Claude": "Here are some inspiring examples of side hustles that grew into million-dollar businesses:\n\n## Tech \u0026 Digital\n\n**Twitter** - Started as a side project by Jack Dorsey while working at a podcasting company\n- Now worth billions\n\n**Instagram** - Kevin Systrom built it as a weekend project while working at Foursquare\n- Sold to Facebook for $1 billion\n\n**Craigslist** - Craig Newmark started it as an email list for San Francisco events\n- Generates hundreds of millions in revenue\n\n## E-commerce \u0026 Retail\n\n**Under Armour** - Kevin Plank started selling moisture-wicking shirts from his grandmother\u0027s basement\n- Now a multi-billion dollar company\n\n**Spanx** - Sara Blakely cut the feet off pantyhose and turned it into a shapewear empire\n- Built with $5,000, now worth over $1 billion\n\n**Warby Parker** - Four friends started selling glasses online as a side project\n- Valued at $3\u002B billion\n\n## Content \u0026 Media\n\n**Mashable** - Pete Cashmore started this tech blog from his bedroom in Scotland at age 19\n- Sold for millions\n\n**Huffington Post** - Arianna Huffington\u0027s side project\n- Sold to AOL for $315 million\n\n## Service-Based\n\n**1-800-GOT-JUNK** - Brian Scudamore started with a $700 truck\n- Built a franchise worth over $100 million\n\n**The key patterns**: Most started small, solved real problems, and founders reinvested profits back into growth rather than taking large salaries early on.",

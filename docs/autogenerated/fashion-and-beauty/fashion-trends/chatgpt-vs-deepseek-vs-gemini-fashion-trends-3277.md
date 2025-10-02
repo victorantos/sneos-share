@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Fashion Trends"
+title: "Fashion trends 2025 - what's in and what's out"
 description: "AI model comparison: Fashion trends 2025 - what's in and what's out..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Fashion Trends"
+  title="Fashion trends 2025 - what's in and what's out"
   prompt="Fashion trends 2025 - what's in and what's out"
   :responses='{
     "ChatGPT": "Certainly! Here\u2019s a snapshot of fashion trends for 2025, highlighting what\u2019s in and what\u2019s out:\n\n**What\u2019s In for 2025:**\n\n1. **Sustainable and Eco-Friendly Fashion:**  \n   Continued emphasis on sustainability with eco-friendly materials, upcycled clothing, and brands focusing on ethical production.\n\n2. **Tech-Integrated Clothing:**  \n   Wearable tech and smart fabrics that monitor health, change color, or adapt to temperature.\n\n3. **Bold Colors and Prints:**  \n   Vibrant colors, including neons and rich jewel tones, along with dynamic prints like abstract art, digital-inspired patterns, and bold florals.\n\n4. **Gender-Neutral Fashion:**  \n   More unisex collections focusing on versatility and fluid silhouettes.\n\n5. **90s and Early 2000s Revival:**  \n   A refreshed take on Y2K fashion with updated cuts, such as baggy trousers, crop tops, and chunky sneakers.\n\n6. **Maximalism:**  \n   Layering, mixed textures, statement accessories, and extravagant designs replacing minimalism for a while.\n\n7. **Retro Futurism:**  \n   Metallics, holographic fabrics, and futuristic silhouettes inspired by sci-fi aesthetics.\n\n8. **Comfort Meets Style:**  \n   Elevated loungewear, tailored knit sets, and relaxed yet polished looks continuing to dominate.\n\n**What\u2019s Out for 2025:**\n\n1. **Fast Fashion Overconsumption:**  \n   Increased consumer awareness is leading away from disposable, low-quality trends.\n\n2. **Overly Minimalist Draped Styles:**  \n   While minimalism isn\u2019t gone, extremely sparse and shapeless garments are losing ground to more expressive looks.\n\n3. **Ultra-Skinny Jeans:**  \n   The era of ultra-tight denim is fading; wider legs and more comfortable fits are preferred.\n\n4. **Excessive Logos and Branding:**  \n   Subtlety is favored over loud, logo-heavy designs.\n\n5. **Neutral Monochromes:**  \n   Beige and gray monotone outfits are less in favor compared to colorful and dynamic palettes.\n\n6. **Extremely High Heels:**  \n   Practicality wins with lower heels and comfortable footwear taking precedence.\n\n7. **Overly Synthetic and Non-Breathable Fabrics:**  \n   With sustainability\u2019s rise, synthetic-only materials are viewed less favorably unless recycled or organic.\n\nIf you have a specific category or style in mind, I can provide tailored trend insights too!",

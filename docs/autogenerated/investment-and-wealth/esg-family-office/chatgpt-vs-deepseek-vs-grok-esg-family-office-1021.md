@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Grok: ESG Family Office"
+title: "esg reporting family office"
 description: "AI model comparison: esg reporting family office..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Grok: ESG Family Office"
+  title="esg reporting family office"
   prompt="esg reporting family office"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

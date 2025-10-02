@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Merchant Services"
+title: "reducing credit card processing fees"
 description: "AI model comparison: reducing credit card processing fees..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Merchant Services"
+  title="reducing credit card processing fees"
   prompt="reducing credit card processing fees"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

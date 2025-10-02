@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: Quantum Computing Finance"
+title: "post quantum cryptography banking"
 description: "AI model comparison: post quantum cryptography banking..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: Quantum Computing Finance"
+  title="post quantum cryptography banking"
   prompt="post quantum cryptography banking"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

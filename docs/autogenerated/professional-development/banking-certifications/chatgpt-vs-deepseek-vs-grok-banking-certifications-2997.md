@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Grok: Banking Certifications"
+title: "certified regulatory compliance manager"
 description: "AI model comparison: certified regulatory compliance manager..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Grok: Banking Certifications"
+  title="certified regulatory compliance manager"
   prompt="certified regulatory compliance manager"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

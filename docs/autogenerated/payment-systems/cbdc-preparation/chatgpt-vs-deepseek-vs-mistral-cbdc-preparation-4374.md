@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Mistral: CBDC Preparation"
+title: "retail cbdc implications"
 description: "AI model comparison: retail cbdc implications..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Mistral: CBDC Preparation"
+  title="retail cbdc implications"
   prompt="retail cbdc implications"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

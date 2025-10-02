@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Mistral: Behavioral Analytics"
+title: "customer behavior insights"
 description: "AI model comparison: customer behavior insights..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Mistral: Behavioral Analytics"
+  title="customer behavior insights"
   prompt="customer behavior insights"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

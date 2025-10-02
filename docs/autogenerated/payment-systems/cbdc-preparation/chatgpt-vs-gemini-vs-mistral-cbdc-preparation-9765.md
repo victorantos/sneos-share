@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: CBDC Preparation"
+title: "digital dollar impact banking"
 description: "AI model comparison: digital dollar impact banking..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: CBDC Preparation"
+  title="digital dollar impact banking"
   prompt="digital dollar impact banking"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

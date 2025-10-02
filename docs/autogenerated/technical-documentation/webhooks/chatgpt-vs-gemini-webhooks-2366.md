@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini: Webhooks"
+title: "webhook explained for beginners"
 description: "AI model comparison: webhook explained for beginners..."
 date: 2025-10-01
 category: comparison
@@ -16,7 +16,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini: Webhooks"
+  title="webhook explained for beginners"
   prompt="webhook explained for beginners"
   :responses='{
     "ChatGPT": "Sure! Here\u2019s a simple explanation of **webhooks** for beginners:\n\n### What is a Webhook?\n\nA **webhook** is a way for one computer system to send real-time information to another system automatically. Think of it as a way for apps to \u0022talk\u0022 to each other instantly when something happens.\n\n---\n\n### How Does a Webhook Work?\n\n1. **Sign Up for Notifications:** You tell one service (like GitHub, Stripe, or Slack) where to send information by giving it a special URL called a **webhook URL**.\n   \n2. **Something Happens:** When an event happens in that service (like someone making a payment, pushing code, or receiving a message), it sends the details to the webhook URL.\n\n3. **Receive Data:** Your server or app at that URL gets the data right away and can do something with it \u2014 like updating a database, sending you a notification, or starting another task.\n\n---\n\n### Example to Understand\n\nImagine you have an online store, and you want to get notified instantly when someone places an order:\n\n- You create a webhook URL on your server.\n- You tell your payment gateway to send order details to that URL whenever a payment is successful.\n- When a customer buys something, the payment gateway sends the order details to your webhook URL.\n- Your server gets the data immediately and can confirm the order, send a thank-you email, or update your inventory.\n\n---\n\n### Why Use Webhooks?\n\n- **Real-time Updates:** You get data instantly without having to keep checking (polling) for changes.\n- **Automation:** They help automate workflows between different applications.\n- **Efficiency:** Saves resources because you only get notified when something happens instead of continuously asking for updates.\n\n---\n\n### Key Points to Remember:\n\n- A webhook is a **user-defined callback URL**.\n- It is triggered by **events**.\n- It delivers data via an **HTTP POST request**.\n- Your application needs to have a server endpoint ready to **receive** and **handle** the webhook data.\n\n---\n\nIf you want, I can also help with a simple example of how to set up a webhook or how to receive data using a programming language like Python or JavaScript!",

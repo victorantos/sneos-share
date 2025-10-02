@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Grok vs Mistral: Work-Life Balance"
+title: "lawyer mental health resources"
 description: "AI model comparison: lawyer mental health resources..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Grok vs Mistral: Work-Life Balance"
+  title="lawyer mental health resources"
   prompt="lawyer mental health resources"
   :responses='{
     "ChatGPT": "Certainly! Here are some mental health resources specifically tailored for lawyers:\n\n### National and International Resources\n1. **American Bar Association (ABA) \u2013 Commission on Lawyer Assistance Programs (CoLAP)**  \n   - Website: [americanbar.org/groups/lawyer_assistance](https://www.americanbar.org/groups/lawyer_assistance/)  \n   - Provides resources, articles, and referrals for lawyer wellness and mental health.\n\n2. **National Suicide Prevention Lifeline (USA)**  \n   - Phone: 988 or 1-800-273-TALK (8255)  \n   - 24/7 confidential support for anyone in distress.\n\n3. **Lawyers Concerned for Lawyers (LCL)**  \n   - Website: [lclny.org](https://www.lclny.org) (New York example, many states have their own LCL)  \n   - Confidential assistance for lawyers dealing with mental health, substance abuse, and related issues.\n\n4. **The Inns of Court \u2013 Mental Wellbeing Resources**  \n   - Provides resources and events promoting mental wellness within the legal community.\n\n### State and Local Resources\n- Many states have their own Lawyer Assistance Programs (LAPs) or Lawyer Referral Services that provide confidential counseling and support.\n- Check your state or local bar association\u2019s website for tailored mental health resources.\n\n### Online and Peer Support\n1. **Mindfulness and Stress Management Apps**  \n   - Apps like Headspace, Calm, or Insight Timer offer meditation and stress-relief tools.  \n\n2. **Peer Support Groups**  \n   - Some bar associations facilitate peer support or affinity groups focused on wellness.\n\n### Crisis and Immediate Help\n- **Emergency Services:** If you or someone is in immediate danger, call 911 or go to the nearest emergency room.\n- **Crisis Text Line:** Text HOME to 741741 (USA) for free, 24/7 crisis support.\n\n---\n\nIf you specify your location or particular needs, I can help find more localized resources. Please take care!",

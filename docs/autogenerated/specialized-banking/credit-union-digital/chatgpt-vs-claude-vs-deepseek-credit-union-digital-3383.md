@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs DeepSeek: Credit Union Digital"
+title: "member experience improvement"
 description: "AI model comparison: member experience improvement..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs DeepSeek: Credit Union Digital"
+  title="member experience improvement"
   prompt="member experience improvement"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

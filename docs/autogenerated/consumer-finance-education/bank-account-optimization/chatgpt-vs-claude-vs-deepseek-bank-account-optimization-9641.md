@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs DeepSeek: Bank Account Optimization"
+title: "money market account comparison"
 description: "AI model comparison: money market account comparison..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs DeepSeek: Bank Account Optimization"
+  title="money market account comparison"
   prompt="money market account comparison"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

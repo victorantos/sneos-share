@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: Darwin Evolution"
+title: "Charles Darwin and evolution - Origin of Species impact"
 description: "AI model comparison: Charles Darwin and evolution - Origin of Species impact..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: Darwin Evolution"
+  title="Charles Darwin and evolution - Origin of Species impact"
   prompt="Charles Darwin and evolution - Origin of Species impact"
   :responses='{
     "ChatGPT": "Charles Darwin\u0027s *On the Origin of Species*, published in 1859, had a profound and lasting impact on science, society, and our understanding of life. Here are some key points about its impact:\n\n1. **Scientific Revolution in Biology**:  \n   Darwin\u2019s theory of natural selection provided a unifying explanation for the diversity of life. It shifted biology from a static view of species as unchanging creations to a dynamic one where species evolve over time through natural processes.\n\n2. **Foundation of Evolutionary Biology**:  \n   The book laid the groundwork for the field of evolutionary biology. It introduced the concept that species evolve through \u0022descent with modification,\u0022 driven by natural selection\u2014a mechanism where organisms better adapted to their environment tend to survive and reproduce.\n\n3. **Challenge to Traditional Views**:  \n   Darwin\u2019s work challenged the prevailing scientific and religious views of the time, which held that species were individually created and immutable. This sparked significant controversy, particularly regarding the age of the Earth and the role of divine intervention.\n\n4. **Influence on Other Disciplines**:  \n   The concept of evolution influenced many fields beyond biology, including psychology, anthropology, sociology, and even economics. It introduced a framework for understanding change and adaptation in complex systems.\n\n5. **Advancement of Genetics and Modern Synthesis**:  \n   Although Darwin did not know about genetics, his theory paved the way for later discoveries. The integration of Mendelian genetics with Darwinian natural selection in the 20th century led to the modern synthesis, greatly enhancing our understanding of evolutionary mechanisms.\n\n6. **Cultural and Philosophical Impacts**:  \n   Darwin\u2019s ideas influenced philosophical thought regarding humanity\u2019s place in nature and prompted debates about morality, ethics, and human origins.\n\nIn summary, *On the Origin of Species* transformed our understanding of life by explaining how evolution occurs, fundamentally altering scientific thought and cultural perspectives worldwide.",

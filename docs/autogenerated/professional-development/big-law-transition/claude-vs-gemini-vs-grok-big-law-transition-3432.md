@@ -1,5 +1,5 @@
 ---
-title: "Claude vs Gemini vs Grok: Big Law Transition"
+title: "joining boutique firm from big law"
 description: "AI model comparison: joining boutique firm from big law..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs Gemini vs Grok: Big Law Transition"
+  title="joining boutique firm from big law"
   prompt="joining boutique firm from big law"
   :responses='{
     "Claude": "That\u0027s an exciting transition! Moving from big law to a boutique can be really rewarding. Here are some key considerations:\n\n**Potential Benefits:**\n- More direct client contact and responsibility\n- Better work-life balance (often)\n- Specialized expertise development\n- Less bureaucracy, faster decision-making\n- Potentially higher bonus/profit-sharing upside\n- Clearer path to partnership\n\n**Things to Evaluate:**\n- **Compensation structure** - base vs. bonus/profit-sharing mix\n- **Business development expectations** - often higher at boutiques\n- **Benefits package** - may be less comprehensive than big law\n- **Exit opportunities** - consider how this affects future moves\n- **Firm stability** - financial health, client concentration risk\n- **Platform/resources** - technology, support staff, marketing\n\n**Questions to Ask:**\n- What\u0027s the partnership track timeline and criteria?\n- How is origination credit allocated?\n- What\u0027s the firm\u0027s growth strategy?\n- Who are the key clients and how stable are those relationships?\n\nWhat type of boutique are you considering (practice area)? And what\u0027s driving your interest in making the move? That would help me give more targeted advice.\n\nAlso, what specific aspects of the transition are you most concerned about?",

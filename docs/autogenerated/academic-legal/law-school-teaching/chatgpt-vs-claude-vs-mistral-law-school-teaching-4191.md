@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Mistral: Law School Teaching"
+title: "practice-based legal education"
 description: "AI model comparison: practice-based legal education..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Mistral: Law School Teaching"
+  title="practice-based legal education"
   prompt="practice-based legal education"
   :responses='{
     "ChatGPT": "Practice-based legal education (PBLE) is an approach to teaching law that emphasizes practical skills and real-world experience alongside traditional theoretical study. The goal of PBLE is to prepare law students for the actual practice of law by engaging them in activities that closely simulate or involve real legal work.\n\nKey features of practice-based legal education include:\n\n1. **Clinical Programs:** Legal clinics offer students the chance to work on real cases under faculty supervision, representing clients, drafting documents, and appearing in court.\n\n2. **Externships and Internships:** Students gain experience by working with law firms, government agencies, non-profits, or corporate legal departments.\n\n3. **Simulation Courses:** These involve role-playing exercises such as mock trials, negotiations, client interviewing, and drafting legal pleadings.\n\n4. **Skills Workshops:** Focused sessions on specific legal skills like legal research, writing, advocacy, and counseling.\n\n5. **Reflective Learning:** Encouraging students to reflect on their practical experiences to link theory with practice and develop professional responsibility.\n\nBenefits of Practice-Based Legal Education:\n- Enhances practical skills needed for legal practice.\n- Builds confidence and professionalism in students.\n- Helps students understand ethical responsibilities.\n- Bridges the gap between academic knowledge and legal practice.\n- Improves employability by providing relevant experience.\n\nOverall, practice-based legal education is designed to produce practice-ready lawyers equipped with both doctrinal knowledge and the practical capabilities necessary to serve clients effectively from day one.",

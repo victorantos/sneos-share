@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: ESG Family Office"
+title: "values based investing"
 description: "AI model comparison: values based investing..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: ESG Family Office"
+  title="values based investing"
   prompt="values based investing"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

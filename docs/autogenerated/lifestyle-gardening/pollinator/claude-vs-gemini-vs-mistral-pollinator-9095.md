@@ -1,5 +1,5 @@
 ---
-title: "Claude vs Gemini vs Mistral: Pollinator"
+title: "pollinator friendly chaos garden"
 description: "AI model comparison: pollinator friendly chaos garden..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs Gemini vs Mistral: Pollinator"
+  title="pollinator friendly chaos garden"
   prompt="pollinator friendly chaos garden"
   :responses='{
     "Claude": "A pollinator-friendly chaos garden sounds absolutely magical! Here\u0027s how to create a beautiful, wild space that supports bees, butterflies, and other pollinators:\n\n## Core Philosophy\n- **Let nature lead** - minimal intervention, maximum biodiversity\n- **Embrace the \u0022mess\u0022** - seed heads, fallen leaves, and wild growth provide habitat\n- **No chemicals** - avoid pesticides, herbicides, and synthetic fertilizers\n\n## Plant Selection\n\n**Native Wildflowers** (the backbone):\n- Purple coneflower (Echinacea)\n- Black-eyed Susan\n- Wild bergamot\n- Native asters and goldenrod\n- Milkweed species (essential for monarchs)\n\n**Self-Seeding Annuals**:\n- Cosmos\n- Zinnias\n- Calendula\n- Borage\n- Sunflowers\n\n**Pollinator Shrubs**:\n- Native elderberry\n- Spicebush\n- Buttonbush\n- Wild roses\n\n## Chaos Garden Techniques\n- **Scatter seed mixes** in fall and spring\n- **Leave seed heads** standing through winter\n- **Create microclimates** with rocks, logs, or brush piles\n- **Vary heights** naturally - no formal pruning\n- **Allow volunteers** to establish where they want\n\n## Special Features\n- Small water source (shallow dish or puddle)\n- Bare soil patches for ground-nesting bees\n- Dead wood or hollow stems for cavity-nesting insects\n\nWould you like specific plant recommendations for your region or climate zone?",

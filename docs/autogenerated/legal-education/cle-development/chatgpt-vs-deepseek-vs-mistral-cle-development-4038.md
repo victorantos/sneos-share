@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Mistral: CLE Development"
+title: "cle video production"
 description: "AI model comparison: cle video production..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Mistral: CLE Development"
+  title="cle video production"
   prompt="cle video production"
   :responses='{
     "ChatGPT": "Could you please clarify what you mean by \u0022cle video production\u0022? Are you referring to \u0022CLE\u0022 as in Continuing Legal Education video production, or is \u0022cle\u0022 an acronym or term related to something else? Any additional details will help me assist you better!",

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: Cross-Border KYC"
+title: "document verification international"
 description: "AI model comparison: document verification international..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: Cross-Border KYC"
+  title="document verification international"
   prompt="document verification international"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: BNPL Integration"
+title: "bnpl portfolio management"
 description: "AI model comparison: bnpl portfolio management..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: BNPL Integration"
+  title="bnpl portfolio management"
   prompt="bnpl portfolio management"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

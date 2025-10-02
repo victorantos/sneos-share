@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Remote Work Finance"
+title: "remote banking regulations"
 description: "AI model comparison: remote banking regulations..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Remote Work Finance"
+  title="remote banking regulations"
   prompt="remote banking regulations"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

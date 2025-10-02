@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: Synthetic Data Finance"
+title: "regulatory approval synthetic data"
 description: "AI model comparison: regulatory approval synthetic data..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: Synthetic Data Finance"
+  title="regulatory approval synthetic data"
   prompt="regulatory approval synthetic data"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Grok: Legal Content"
+title: "youtube channel for lawyers"
 description: "AI model comparison: youtube channel for lawyers..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Grok: Legal Content"
+  title="youtube channel for lawyers"
   prompt="youtube channel for lawyers"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

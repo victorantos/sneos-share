@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: Fraud Prevention Mobile"
+title: "biometric authentication banking"
 description: "AI model comparison: biometric authentication banking..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: Fraud Prevention Mobile"
+  title="biometric authentication banking"
   prompt="biometric authentication banking"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

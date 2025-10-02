@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Grok: 5G Mobile Banking"
+title: "edge computing banking"
 description: "AI model comparison: edge computing banking..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Grok: 5G Mobile Banking"
+  title="edge computing banking"
   prompt="edge computing banking"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

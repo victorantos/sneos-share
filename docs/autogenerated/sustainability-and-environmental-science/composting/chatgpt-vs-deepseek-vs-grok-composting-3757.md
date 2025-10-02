@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Grok: Composting"
+title: "Composting at home - turn food waste into garden gold"
 description: "AI model comparison: Composting at home - turn food waste into garden gold..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Grok: Composting"
+  title="Composting at home - turn food waste into garden gold"
   prompt="Composting at home - turn food waste into garden gold"
   :responses='{
     "ChatGPT": "Composting at Home \u2013 Turn Food Waste into Garden Gold\n\nComposting is an easy and eco-friendly way to recycle your kitchen scraps and garden waste into nutrient-rich soil that will benefit your plants. Here\u2019s a step-by-step guide to get you started on composting at home:\n\n### Why Compost?\n- Reduces household waste sent to landfill\n- Enriches garden soil with organic matter\n- Improves soil structure and moisture retention\n- Encourages beneficial microorganisms\n- Saves money on fertilizers\n\n### What Can You Compost?\n**Greens (Nitrogen-rich materials):**  \n- Fruit and vegetable scraps  \n- Coffee grounds and filters  \n- Tea bags (make sure they\u2019re compostable)  \n- Fresh grass clippings  \n\n**Browns (Carbon-rich materials):**  \n- Dry leaves  \n- Straw or hay  \n- Shredded newspaper or cardboard  \n- Sawdust (untreated wood)  \n\n### What NOT to Compost\n- Meat, fish, and dairy products (attract pests)  \n- Oils and fats  \n- Diseased plants  \n- Pet waste  \n- Invasive weeds or plants treated with herbicides\n\n### How to Compost at Home\n\n1. **Choose a Compost Bin or Pile:**  \nSelect a compost bin or dedicate a corner of your yard for a compost pile. Bins can be purchased or homemade\u2014ensure good ventilation.\n\n2. **Add Your Materials in Layers:**  \nStart with a layer of browns, then add greens, and continue alternating layers. This balance helps the compost break down efficiently.\n\n3. **Maintain Moisture:**  \nYour compost should be as damp as a wrung-out sponge. Add water if it\u2019s too dry, or add more browns if it\u2019s too wet.\n\n4. **Turn or Mix Regularly:**  \nAerate your compost by turning it with a garden fork every 1-2 weeks to speed up decomposition and prevent odors.\n\n5. **Patience is Key:**  \nComposting can take anywhere from a few weeks to several months depending on conditions. Finished compost will be dark, crumbly, and smell earthy.\n\n### Using Your Compost\n- Mix it into garden beds before planting  \n- Use as mulch around plants  \n- Mix into potting soil for container gardening\n\nBy composting at home, you turn your food waste into \u201Cgarden gold\u201D that nurtures plants naturally and reduces your environmental footprint. Start today and enjoy the benefits of homemade compost!\n\n---\n\nIf you would like, I can provide tips on quick composting methods or how to compost in small spaces!",

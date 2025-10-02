@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Grok: Basel IV Implementation"
+title: "internal models basel iv"
 description: "AI model comparison: internal models basel iv..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Grok: Basel IV Implementation"
+  title="internal models basel iv"
   prompt="internal models basel iv"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

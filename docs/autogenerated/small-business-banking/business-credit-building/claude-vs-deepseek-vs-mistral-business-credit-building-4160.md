@@ -1,5 +1,5 @@
 ---
-title: "Claude vs DeepSeek vs Mistral: Business Credit Building"
+title: "duns number application"
 description: "AI model comparison: duns number application..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs DeepSeek vs Mistral: Business Credit Building"
+  title="duns number application"
   prompt="duns number application"
   :responses='{
     "Claude": "A DUNS (Data Universal Numbering System) number is a unique 9-digit identifier for businesses. Here\u0027s how to apply for one:\n\n## How to Get a DUNS Number\n\n### **Free Application Process:**\n1. **Visit the Official Site**: Go to dnb.com (Dun \u0026 Bradstreet\u0027s website)\n2. **Click \u0022Get a D-U-N-S Number\u0022**\n3. **Fill out the application** with:\n   - Business name and address\n   - Business type/structure\n   - Contact information\n   - Number of employees\n   - Annual revenue (if applicable)\n\n### **Required Information:**\n- Legal business name\n- Business address (not a PO Box)\n- Mailing address (if different)\n- Phone number\n- Business owner/contact person details\n- Nature of business\n\n### **Timeline:**\n- **Free service**: 30 business days\n- **Expedited service**: 1-3 business days (fee required)\n\n## When You Need a DUNS Number\n\n- Government contracting\n- Federal grants applications\n- Working with large corporations\n- International business\n- Building business credit\n\n## Important Notes\n\n- The DUNS number itself is **free**\n- Avoid third-party sites that charge fees\n- Only apply through dnb.com or authorized partners\n- Keep your information updated\n\nWould you like help with any specific part of the application process?",

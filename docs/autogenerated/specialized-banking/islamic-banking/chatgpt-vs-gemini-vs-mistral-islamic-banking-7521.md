@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: Islamic Banking"
+title: "halal mortgage alternatives"
 description: "AI model comparison: halal mortgage alternatives..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: Islamic Banking"
+  title="halal mortgage alternatives"
   prompt="halal mortgage alternatives"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

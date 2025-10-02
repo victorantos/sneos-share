@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Password Security"
+title: "Password security best practices - protect accounts from hackers"
 description: "AI model comparison: Password security best practices - protect accounts from hackers..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Password Security"
+  title="Password security best practices - protect accounts from hackers"
   prompt="Password security best practices - protect accounts from hackers"
   :responses='{
     "ChatGPT": "Certainly! Here are some password security best practices to protect your accounts from hackers:\n\n1. **Use Strong, Unique Passwords**\n   - Create passwords that are long (at least 12 characters) and include a mix of uppercase letters, lowercase letters, numbers, and special characters.\n   - Avoid using common words, phrases, or easily guessable information such as birthdays, names, or \u0022password123\u0022.\n   - Use a unique password for every account to prevent a breach on one account from compromising others.\n\n2. **Use a Password Manager**\n   - Use a reputable password manager to generate, store, and manage your passwords securely.\n   - This helps you maintain unique, complex passwords without having to remember each one.\n\n3. **Enable Multi-Factor Authentication (MFA)**\n   - Activate MFA wherever possible. This adds an extra layer of security by requiring a second verification step (e.g., a code sent to your phone).\n   - MFA significantly reduces the risk of unauthorized access even if your password is compromised.\n\n4. **Change Passwords Regularly**\n   - Update your passwords periodically, especially for sensitive accounts like email, banking, and work-related services.\n   - If you learn of a data breach involving a service you use, change that password immediately.\n\n5. **Avoid Password Reuse**\n   - Do not reuse passwords across multiple sites or services.\n   - If one site is compromised, hackers can try the same password on other sites to gain access.\n\n6. **Beware of Phishing Attempts**\n   - Be cautious about emails or messages asking for your password or personal information.\n   - Verify the legitimacy of requests before clicking on links or entering credentials.\n\n7. **Keep Your Devices Secure**\n   - Ensure your operating system, browsers, and security software are up to date.\n   - Use antivirus software and avoid downloading unknown attachments or software.\n\n8. **Monitor Your Accounts**\n   - Regularly check account activity for any suspicious behavior.\n   - Set up alerts for login attempts and password changes when available.\n\n9. **Use Secure Password Recovery Options**\n   - Make sure your recovery email and phone number are secure.\n   - Avoid security questions with answers that can be easily found on social media.\n\nBy following these practices, you can greatly reduce the risk of your accounts being compromised by hackers.",

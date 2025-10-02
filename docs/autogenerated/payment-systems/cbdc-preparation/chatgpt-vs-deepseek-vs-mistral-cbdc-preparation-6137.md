@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Mistral: CBDC Preparation"
+title: "central bank digital currency preparation"
 description: "AI model comparison: central bank digital currency preparation..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Mistral: CBDC Preparation"
+  title="central bank digital currency preparation"
   prompt="central bank digital currency preparation"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

@@ -1,5 +1,5 @@
 ---
-title: "Claude vs DeepSeek vs Grok: Car Detailing"
+title: "Car detailing at home - professional results on budget"
 description: "AI model comparison: Car detailing at home - professional results on budget..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs DeepSeek vs Grok: Car Detailing"
+  title="Car detailing at home - professional results on budget"
   prompt="Car detailing at home - professional results on budget"
   :responses='{
     "Claude": "# Car Detailing at Home: Professional Results on Budget\n\nHere\u0027s how to achieve showroom-quality results without breaking the bank:\n\n## Essential Supplies (Budget-Friendly)\n\n### Basic Kit ($50-75):\n- **Microfiber cloths** (buy in bulk)\n- **Two-bucket wash system** (one soap, one rinse)\n- **Car wash soap** (concentrate lasts longer)\n- **Clay bar** (removes embedded dirt)\n- **Spray wax or sealant**\n- **Glass cleaner**\n- **Tire cleaner/protectant**\n\n### DIY Alternatives:\n- **Dawn dish soap** for deep cleaning (use sparingly)\n- **White vinegar \u002B water** for windows\n- **Baking soda paste** for stubborn stains\n\n## Step-by-Step Process\n\n### 1. Pre-Wash (5 min)\n- Rinse car thoroughly\n- Spray wheels and tires first\n\n### 2. Two-Bucket Wash (20 min)\n- Fill one bucket with soapy water, one with clean rinse water\n- Work top to bottom, front to back\n- Rinse mitt frequently in clean water\n\n### 3. Clay Bar Treatment (15 min)\n- Use on wet, clean surface\n- Glides smoothly when surface is clean\n- Removes contaminants soap can\u0027t\n\n### 4. Dry Properly (10 min)\n- Use clean microfiber towels\n- Pat, don\u0027t drag across paint\n\n### 5. Polish/Wax (30 min)\n- Apply thin, even coats\n- Work in shade, cool surface\n- Remove before it hazes completely\n\n## Money-Saving Tips\n\n- **Buy concentrates** - better value than ready-to-use\n- **Microfiber cloths in bulk** from wholesale stores\n- **Make your own detail spray**: 1 cup water \u002B 1 tbsp car wax\n- **Use household items**: Old t-shirts for interior, toothbrush for crevices\n\n## Pro Results Secrets\n\n1. **Work in shade** when surface is cool\n2. **Less is more** with products\n3. **Proper technique** beats expensive products\n4. **Regular maintenance** easier than deep cleans\n5. **Invest time in prep work**\n\n## Interior on Budget\n- **Vacuum first**, use crevice tools\n- **Damp microfiber** for most surfaces\n- **Diluted all-purpose cleaner** works on most materials\n- **Protectant spray** for dashboard/trim\n\n**Total time**: 1.5-2 hours\n**Cost per wash**: $5-10 vs $50-100 professional\n\nWould you like specific product recommendations or help with any particular problem areas?",

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Grok: Estate Planning"
+title: "Estate planning essentials - wills, trusts, and beneficiaries"
 description: "AI model comparison: Estate planning essentials - wills, trusts, and beneficiaries..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Grok: Estate Planning"
+  title="Estate planning essentials - wills, trusts, and beneficiaries"
   prompt="Estate planning essentials - wills, trusts, and beneficiaries"
   :responses='{
     "ChatGPT": "Certainly! Here\u0027s an overview of estate planning essentials, including wills, trusts, and beneficiaries:\n\n### 1. Wills\nA will is a legal document that outlines how your assets and properties will be distributed after your death. It can also name guardians for minor children and specify other wishes.\n\n**Key Points:**\n- **Purpose:** Distribute assets, name executors, appoint guardians.\n- **Advantages:** Clear instructions, relatively simple and inexpensive.\n- **Limitations:** Must go through probate (court-supervised process), which can be time-consuming and public.\n\n### 2. Trusts\nA trust is a legal arrangement where one party (the trustee) holds and manages assets for the benefit of another (the beneficiary). Trusts can be established during your lifetime or upon death.\n\n**Types:**\n- **Revocable Living Trust:** Can be altered or revoked during your lifetime. Helps avoid probate.\n- **Irrevocable Trust:** Cannot be changed once established. Often used for tax benefits and asset protection.\n\n**Benefits:**\n- Avoid probate\n- Maintain privacy\n- Provide ongoing management of assets\n- Protect assets from creditors\n\n### 3. Beneficiaries\nBeneficiary designations are instructions on who will receive certain assets, such as life insurance proceeds, retirement accounts, or payable-on-death bank accounts.\n\n**Key Points:**\n- **Direct transfer:** Avoids probate.\n- **Important to keep updated:** Changes in relationships (marriage, divorce) should prompt updating beneficiary designations.\n- **Overrides Wills:** Beneficiary designations generally take precedence over your will regarding those specific assets.\n\n---\n\n### Additional Tips for Estate Planning:\n- **Power of Attorney:** Assign someone to make financial or medical decisions if you become incapacitated.\n- **Healthcare Directive:** Specify your preferences for medical treatment and end-of-life care.\n- **Regular Reviews:** Update your estate plan regularly, especially after major life changes.\n- **Consult Professionals:** Estate laws can be complex and vary by jurisdiction; consult an estate planning attorney.\n\n---\n\nWould you like more detailed information on any of these topics or assistance creating an estate plan?",

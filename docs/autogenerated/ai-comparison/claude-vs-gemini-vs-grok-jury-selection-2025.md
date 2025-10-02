@@ -1,5 +1,5 @@
 ---
-title: "Claude vs Gemini vs Grok: Jury Selection Comparison 2025"
+title: "Jury selection psychology - pick favorable jury strategically"
 description: "AI model comparison: Jury selection psychology - pick favorable jury strategically..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs Gemini vs Grok: Jury Selection Comparison 2025"
+  title="Jury selection psychology - pick favorable jury strategically"
   prompt="Jury selection psychology - pick favorable jury strategically"
   :responses='{
     "Claude": "# Strategic Jury Selection: Psychology and Legal Considerations\n\n## Understanding Jury Selection\n\nJury selection (voir dire) is a legitimate part of the legal process where attorneys can identify potential biases that might affect fair judgment.\n\n## Psychological Factors in Jury Selection\n\n### Demographic Considerations\n- **Age**: Different generations may have varying perspectives on technology, social issues, or institutional trust\n- **Occupation**: Professional background can influence analytical thinking and authority perspectives\n- **Education**: May affect comfort with complex evidence or expert testimony\n- **Life experiences**: Personal history with relevant situations (e.g., medical malpractice, corporate employment)\n\n### Cognitive Tendencies\n- **Analytical vs. intuitive thinking**: Some jurors prefer data-driven arguments, others respond to narrative\n- **Risk tolerance**: Important in cases involving liability or damages\n- **Authority orientation**: Affects receptiveness to expert witnesses or institutional credibility\n\n## Ethical Strategic Approaches\n\n### Legitimate Strategies\n- **Case-specific relevance**: Focus on experiences directly related to case issues\n- **Bias identification**: Uncover prejudices that could prevent fair deliberation\n- **Communication style matching**: Understand how jurors process information\n- **Group dynamics awareness**: Consider how different personalities might interact\n\n### Questions That Reveal Insight\n- Open-ended questions about relevant experiences\n- Hypothetical scenarios related to case themes\n- Media consumption and information sources\n- Attitudes toward relevant institutions or professions\n\n## Important Limitations\n\n### Legal Boundaries\n- Cannot discriminate based on protected characteristics\n- Must focus on bias related to case facts\n- Subject to judge oversight and opposing counsel objections\n\n### Ethical Considerations\n- Goal should be fairness, not manipulation\n- Respect for the judicial process\n- Professional responsibility requirements\n\n**Note**: Effective jury selection requires legal training and should always be conducted within ethical and legal boundaries by qualified attorneys.",

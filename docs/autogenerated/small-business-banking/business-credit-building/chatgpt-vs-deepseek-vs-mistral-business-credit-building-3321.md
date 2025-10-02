@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Mistral: Business Credit Building"
+title: "business credit score improvement"
 description: "AI model comparison: business credit score improvement..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Mistral: Business Credit Building"
+  title="business credit score improvement"
   prompt="business credit score improvement"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

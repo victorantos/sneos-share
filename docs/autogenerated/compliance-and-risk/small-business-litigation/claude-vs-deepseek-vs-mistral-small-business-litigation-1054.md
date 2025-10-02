@@ -1,5 +1,5 @@
 ---
-title: "Claude vs DeepSeek vs Mistral: Small Business Litigation"
+title: "risk management under 5m revenue"
 description: "AI model comparison: risk management under 5m revenue..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs DeepSeek vs Mistral: Small Business Litigation"
+  title="risk management under 5m revenue"
   prompt="risk management under 5m revenue"
   :responses='{
     "Claude": "# Risk Management for Companies Under $5M Revenue\n\n## Key Risk Categories to Address\n\n### **Financial Risks**\n- **Cash flow volatility** - Limited revenue diversification\n- **Customer concentration** - Heavy reliance on few key clients\n- **Credit/collection risks** - Bad debt can be devastating at this scale\n- **Capital constraints** - Limited access to funding\n\n### **Operational Risks**\n- **Key person dependency** - Loss of founder/key employee\n- **Supply chain disruption** - Single vendor dependencies\n- **Technology failures** - System outages, data breaches\n- **Quality control** - Reputation damage from defects\n\n### **Strategic Risks**\n- **Market changes** - Economic downturns, competition\n- **Regulatory compliance** - Industry-specific requirements\n- **Growth management** - Scaling too fast/slow\n\n## Practical Risk Management Framework\n\n### **1. Risk Assessment (Quarterly)**\n\u0060\u0060\u0060\nRisk Matrix: Impact \u00D7 Likelihood\n- High/High = Immediate action required\n- High/Medium = Develop contingency plans  \n- Medium/Medium = Monitor closely\n- Low risks = Accept or transfer\n\u0060\u0060\u0060\n\n### **2. Essential Controls**\n- **Financial controls**: Monthly cash flow forecasting, customer credit checks\n- **Insurance coverage**: General liability, professional liability, cyber insurance\n- **Legal protection**: Proper contracts, IP protection, employment agreements\n- **Business continuity**: Data backups, alternative suppliers, cross-training\n\n### **3. Cost-Effective Solutions**\n- **Insurance**: Bundle policies, work with brokers for SMB packages\n- **Legal**: Use templates, fractional general counsel services\n- **Technology**: Cloud-based solutions, automated backups\n- **Financial**: Factor receivables if needed, maintain 3-6 months cash reserves\n\n### **4. Key Metrics to Monitor**\n- Customer concentration (% of revenue from top 3 customers)\n- Days sales outstanding (DSO)\n- Cash runway (months of expenses covered)\n- Employee turnover in critical roles\n\nWould you like me to elaborate on any specific risk area or discuss implementation strategies for your particular industry/situation?",

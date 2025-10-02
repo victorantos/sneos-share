@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini: Genetics"
+title: "CRISPR gene editing breakthroughs in 2025 - what diseases can we cure now?"
 description: "AI model comparison: CRISPR gene editing breakthroughs in 2025 - what diseases can we cure now?..."
 date: 2025-09-29
 category: comparison
@@ -16,7 +16,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini: Genetics"
+  title="CRISPR gene editing breakthroughs in 2025 - what diseases can we cure now?"
   prompt="CRISPR gene editing breakthroughs in 2025 - what diseases can we cure now?"
   :responses='{
     "ChatGPT": "As of 2025, CRISPR gene editing technology has made significant breakthroughs, enabling potential cures or effective treatments for several diseases. Here are some of the major areas where CRISPR has shown promising results:\n\n1. **Sickle Cell Disease and Beta-Thalassemia**  \n   - CRISPR has been successfully used to edit the genes of patients with these inherited blood disorders, leading to the production of healthy hemoglobin. Several clinical trials have demonstrated high cure rates or significant symptom relief.\n\n2. **Certain Cancers**  \n   - CRISPR-based therapies are being used to engineer immune cells (like CAR-T cells) to better target cancers such as leukemia and lymphoma. Such gene-edited immunotherapies have improved remission durations and reduced relapse rates.\n\n3. **Inherited Retinal Diseases**  \n   - Diseases like Leber congenital amaurosis and certain forms of inherited blindness are now treatable by direct in vivo CRISPR gene editing in retinal cells, restoring vision or preventing blindness progression.\n\n4. **HIV/AIDS**  \n   - CRISPR has been explored to excise or deactivate the HIV genome from infected cells. Experimental treatments have shown promising results in reducing the viral reservoir, potentially moving towards a functional cure.\n\n5. **Cystic Fibrosis**  \n   - Gene editing techniques have started to correct mutations in the CFTR gene in lung epithelial cells, which could halt or reverse lung damage caused by cystic fibrosis.\n\n6. **Muscular Dystrophies**  \n   - Duchenne muscular dystrophy (DMD) is being targeted by CRISPR therapies that restore dystrophin production in muscle tissue, improving muscle function.\n\n7. **Rare Genetic Disorders**  \n   - Several rare single-gene disorders like hereditary tyrosinemia and certain immunodeficiencies have seen advances with CRISPR treatments correcting the underlying mutations.\n\nOverall, the clinical application of CRISPR has moved from experimental stages to early routine treatment for some genetic and infectious diseases, while ongoing trials continue to expand its impact. Regulatory approvals for CRISPR-based therapies have increased globally, enhancing access.\n\nIf you want, I can provide more details on any specific disease or therapy!",

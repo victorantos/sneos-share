@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: Game Strategy"
+title: "Master [game name] - advanced strategies and tips"
 description: "AI model comparison: Master [game name] - advanced strategies and tips..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: Game Strategy"
+  title="Master [game name] - advanced strategies and tips"
   prompt="Master [game name] - advanced strategies and tips"
   :responses='{
     "ChatGPT": "Sure! Could you please specify the name of the game you\u0027d like advanced strategies and tips for?",

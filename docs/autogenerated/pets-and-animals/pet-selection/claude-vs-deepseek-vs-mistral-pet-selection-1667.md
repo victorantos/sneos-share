@@ -1,5 +1,5 @@
 ---
-title: "Claude vs DeepSeek vs Mistral: Pet Selection"
+title: "apartment friendly exotic pets"
 description: "AI model comparison: apartment friendly exotic pets..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs DeepSeek vs Mistral: Pet Selection"
+  title="apartment friendly exotic pets"
   prompt="apartment friendly exotic pets"
   :responses='{
     "Claude": "Here are some apartment-friendly exotic pets to consider:\n\n## Small Mammals\n- **Hedgehogs** - Quiet, nocturnal, require minimal space\n- **Sugar gliders** - Social and bonding, but need pairs\n- **Chinchillas** - Soft, clean, relatively quiet\n- **Ferrets** - Playful and social (check local laws)\n\n## Reptiles\n- **Leopard geckos** - Low maintenance, docile\n- **Ball pythons** - Calm temperament, manageable size\n- **Bearded dragons** - Friendly, moderate care needs\n- **Blue-tongue skinks** - Dog-like personality, easy care\n\n## Birds\n- **Cockatiels** - Affectionate, moderate noise level\n- **Green-cheeked conures** - Playful, smaller than many parrots\n- **Budgerigars** - Social, relatively quiet in pairs\n\n## Aquatic/Amphibian\n- **Axolotls** - Unique, aquatic, cool-water tanks\n- **Fire-bellied toads** - Colorful, small habitat needs\n\n## Important Considerations\n- Check your lease agreement and local laws\n- Research care requirements thoroughly\n- Consider noise levels and neighbors\n- Factor in veterinary costs (exotic vets are pricier)\n- Plan for long-term commitment\n- Ensure proper temperature/humidity control\n\nWould you like more details about any of these options?",

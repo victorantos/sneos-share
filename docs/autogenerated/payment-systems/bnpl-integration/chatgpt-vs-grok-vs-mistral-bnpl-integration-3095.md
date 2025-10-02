@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Grok vs Mistral: BNPL Integration"
+title: "bnpl white label solutions"
 description: "AI model comparison: bnpl white label solutions..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Grok vs Mistral: BNPL Integration"
+  title="bnpl white label solutions"
   prompt="bnpl white label solutions"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

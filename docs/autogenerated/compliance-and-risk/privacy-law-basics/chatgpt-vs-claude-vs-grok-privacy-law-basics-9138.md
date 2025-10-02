@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Grok: Privacy Law Basics"
+title: "consumer rights requests"
 description: "AI model comparison: consumer rights requests..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Grok: Privacy Law Basics"
+  title="consumer rights requests"
   prompt="consumer rights requests"
   :responses='{
     "ChatGPT": "Consumer rights requests typically involve inquiries or demands made by consumers to businesses or service providers regarding their rights under consumer protection laws. These requests can include issues related to product quality, refunds, warranties, safety, unfair practices, and more.\n\nHere are some common types of consumer rights requests:\n\n1. **Request for Refund or Replacement**  \n   - When a purchased product is defective, damaged, or not as described.  \n   - Example: \u0022I would like a refund for the faulty blender I purchased last week.\u0022\n\n2. **Request for Warranty Service**  \n   - Claiming repairs or replacements under the product\u0027s warranty.  \n   - Example: \u0022My laptop stopped working within the warranty period; please arrange for repair.\u0022\n\n3. **Request for Information**  \n   - Asking for clear details about a product, service, or contract terms.  \n   - Example: \u0022Could you provide the full terms and conditions for the subscription service?\u0022\n\n4. **Complaint About Unsafe or Hazardous Products**  \n   - Reporting products that may pose a safety risk.  \n   - Example: \u0022The children\u2019s toy I bought has sharp edges that could cause injury.\u0022\n\n5. **Request to Cancel a Contract or Service**  \n   - Exercising the right to cancel within a cooling-off period or due to breach.  \n   - Example: \u0022I want to cancel my gym membership as per the 14-day cooling-off period.\u0022\n\n6. **Request for Compensation for Damages**  \n   - Seeking compensation for losses caused by defective goods or poor services.  \n   - Example: \u0022I am requesting compensation for the damaged goods that caused water leakage.\u0022\n\n7. **Request to Stop Unfair or Deceptive Practices**  \n   - Asking a business to cease misleading advertising or other unfair practices.  \n   - Example: \u0022Please stop sending me misleading promotional messages.\u0022\n\nIf you have a particular situation or need a sample letter/request for a consumer rights issue, please provide details!",

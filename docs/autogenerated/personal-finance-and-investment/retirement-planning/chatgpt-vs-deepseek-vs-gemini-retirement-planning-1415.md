@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Retirement Planning"
+title: "Retirement planning by age - how much should you have saved at 30, 40, 50?"
 description: "AI model comparison: Retirement planning by age - how much should you have saved at 30, 40, 50?..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Retirement Planning"
+  title="Retirement planning by age - how much should you have saved at 30, 40, 50?"
   prompt="Retirement planning by age - how much should you have saved at 30, 40, 50?"
   :responses='{
     "ChatGPT": "Retirement planning savings targets by age are often given as general guidelines to help ensure you stay on track for a comfortable retirement. Here are common benchmarks for how much you should aim to have saved by certain ages, typically expressed as multiples of your annual salary:\n\n### By Age 30\n- **Goal:** Have saved **about 1x your annual salary**\n- **Example:** If you earn $50,000 per year, aim to have $50,000 saved.\n- **Reason:** By this age, ideally you have started saving early and taken advantage of compound interest.\n\n### By Age 40\n- **Goal:** Have saved **about 3x your annual salary**\n- **Example:** If you earn $70,000 per year, aim to have $210,000 saved.\n- **Reason:** You typically earn more at this stage, and should be increasing your savings rate.\n\n### By Age 50\n- **Goal:** Have saved **about 6x your annual salary**\n- **Example:** If you earn $90,000 per year, aim to have $540,000 saved.\n- **Reason:** Catch-up savings become important during this decade to prepare for retirement.\n\n### Additional Guidelines\n- By age 60: Aim for about 8\u201310x your annual salary saved.\n- By retirement (age ~65): Aim to have 10\u201312x your annual salary saved.\n- Adjust targets based on factors like desired retirement age, expected lifestyle, healthcare needs, and other sources of income (pensions, Social Security).\n\n### Summary Table\n\n| Age | Savings Goal (times annual salary) |\n|------|-----------------------------------|\n| 30   | 1x                                |\n| 40   | 3x                                |\n| 50   | 6x                                |\n| 60   | 8\u201310x                             |\n| 65\u002B  | 10\u201312x                            |\n\n### Tips to Reach These Goals\n- Start saving as early as possible.\n- Maximize contributions to retirement accounts (401(k), IRA, etc.).\n- Increase savings rate as income grows.\n- Invest wisely to capture growth but manage risk.\n- Review and adjust your plan regularly.\n\nIf you provide your current age, income, and savings, I can help tailor a retirement savings plan for you!",

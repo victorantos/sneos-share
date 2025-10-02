@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Mistral: State Financial Regulation"
+title: "state data breach notification"
 description: "AI model comparison: state data breach notification..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Mistral: State Financial Regulation"
+  title="state data breach notification"
   prompt="state data breach notification"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

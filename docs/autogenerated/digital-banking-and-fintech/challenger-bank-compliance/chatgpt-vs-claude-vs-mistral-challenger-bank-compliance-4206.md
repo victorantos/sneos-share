@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Mistral: Challenger Bank Compliance"
+title: "challenger bank regulatory roadmap"
 description: "AI model comparison: challenger bank regulatory roadmap..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Mistral: Challenger Bank Compliance"
+  title="challenger bank regulatory roadmap"
   prompt="challenger bank regulatory roadmap"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

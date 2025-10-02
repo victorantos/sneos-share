@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Gemini: Cannabis Banking"
+title: "cannabis merchant services"
 description: "AI model comparison: cannabis merchant services..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Gemini: Cannabis Banking"
+  title="cannabis merchant services"
   prompt="cannabis merchant services"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

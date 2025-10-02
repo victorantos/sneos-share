@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Grok vs Mistral: Basel IV Implementation"
+title: "operational risk capital"
 description: "AI model comparison: operational risk capital..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Grok vs Mistral: Basel IV Implementation"
+  title="operational risk capital"
   prompt="operational risk capital"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

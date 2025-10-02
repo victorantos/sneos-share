@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Mistral: Embedded Finance SMB"
+title: "expense management embedded"
 description: "AI model comparison: expense management embedded..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Mistral: Embedded Finance SMB"
+  title="expense management embedded"
   prompt="expense management embedded"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

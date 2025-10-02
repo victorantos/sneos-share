@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Homeopathy"
+title: "Homeopathy explained - natural healing or placebo?"
 description: "AI model comparison: Homeopathy explained - natural healing or placebo?..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Homeopathy"
+  title="Homeopathy explained - natural healing or placebo?"
   prompt="Homeopathy explained - natural healing or placebo?"
   :responses='{
     "ChatGPT": "Homeopathy is a system of alternative medicine developed in the late 18th century by Samuel Hahnemann. It is based on two main principles:\n\n1. **\u0022Like cures like\u0022**: The idea that a substance causing symptoms in a healthy person can, when highly diluted, treat similar symptoms in a sick person.\n2. **\u0022Law of minimum dose\u0022**: The more a substance is diluted, the more potent its effect is thought to be.\n\n### How Homeopathy Works\nHomeopathic remedies are made by repeatedly diluting a substance in water or alcohol and then vigorously shaking it, a process called succussion. Remedies often become so diluted that no molecules of the original substance remain.\n\n### Natural Healing or Placebo?\n- **Scientific Evidence:** Numerous scientific studies and systematic reviews have shown that homeopathic remedies perform no better than placebos. The extreme dilutions mean there is unlikely to be any active ingredient left to cause a physiological effect.\n- **Placebo Effect:** Many patients report feeling better after taking homeopathic remedies, but this is widely attributed to the placebo effect\u2014the benefit arising from the patient\u0027s belief in the treatment rather than the treatment itself.\n- **Safety:** Homeopathic remedies are generally considered safe because they contain little or no active substance. However, relying on homeopathy instead of proven medical treatments can be dangerous, especially for serious conditions.\n\n### Conclusion\nHomeopathy lacks scientific plausibility and clinical evidence supporting its efficacy beyond placebo. It is best regarded as a pseudoscience. For health concerns, evidence-based medical treatments should be prioritized, while acknowledging that the placebo effect can be a powerful contributor to perceived improvements in well-being.",

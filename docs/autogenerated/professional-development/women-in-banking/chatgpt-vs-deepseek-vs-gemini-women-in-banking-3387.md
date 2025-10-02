@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Women in Banking"
+title: "gender equity financial services"
 description: "AI model comparison: gender equity financial services..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Women in Banking"
+  title="gender equity financial services"
   prompt="gender equity financial services"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

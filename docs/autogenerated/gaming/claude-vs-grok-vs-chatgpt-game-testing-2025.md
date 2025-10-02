@@ -1,5 +1,5 @@
 ---
-title: "Claude vs Grok vs ChatGPT: Game Testing Comparison 2025"
+title: "Video game tester to game designer career progression"
 description: "AI model comparison: Video game tester to game designer career progression..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs Grok vs ChatGPT: Game Testing Comparison 2025"
+  title="Video game tester to game designer career progression"
   prompt="Video game tester to game designer career progression"
   :responses='{
     "Claude": "Here\u0027s a typical career progression path from video game tester to game designer:\n\n## Starting Point: Game Tester/QA Tester\n**Focus areas:**\n- Master bug reporting and documentation\n- Learn game development terminology\n- Understand different game genres and mechanics\n- Build relationships with developers and designers\n\n## Intermediate Roles (2-4 years)\n\n**Senior QA Tester/Lead Tester**\n- Mentor junior testers\n- Coordinate testing schedules\n- Communicate directly with design teams\n\n**QA Analyst**\n- Focus on gameplay balance and user experience\n- Provide design feedback and suggestions\n- Analyze player behavior and game metrics\n\n## Bridge Roles (3-5 years)\n\n**Associate Game Designer**\n- Create and document game features\n- Balance game mechanics and systems\n- Work closely with senior designers\n\n**Level Designer**\n- Design and implement game levels/environments\n- Script gameplay sequences\n- Iterate based on playtesting feedback\n\n## Target Role: Game Designer (5-8\u002B years)\n\n## Skills to Develop Along the Way:\n- **Technical:** Scripting languages, game engines (Unity, Unreal)\n- **Design:** Game theory, player psychology, monetization\n- **Communication:** Writing design documents, presenting ideas\n- **Tools:** Prototyping software, analytics platforms\n\n## Tips for Success:\n- Build a portfolio of game mods or indie projects\n- Network within your company and the broader industry\n- Seek mentorship from current designers\n- Take on design-adjacent tasks whenever possible\n- Consider formal education in game design or related fields\n\nThe transition typically takes 5-10 years, depending on company size, opportunities, and individual initiative.",

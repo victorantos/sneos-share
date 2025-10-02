@@ -1,5 +1,5 @@
 ---
-title: "DeepSeek vs Grok vs Mistral: Gen Alpha Banking"
+title: "teen banking apps comparison"
 description: "AI model comparison: teen banking apps comparison..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="DeepSeek vs Grok vs Mistral: Gen Alpha Banking"
+  title="teen banking apps comparison"
   prompt="teen banking apps comparison"
   :responses='{
     "DeepSeek": "Error calling DeepSeek API.",

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Cross-Border Payments"
+title: "ripple for financial institutions"
 description: "AI model comparison: ripple for financial institutions..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Cross-Border Payments"
+  title="ripple for financial institutions"
   prompt="ripple for financial institutions"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

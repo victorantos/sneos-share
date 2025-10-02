@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Grok vs Mistral: Legal Content"
+title: "legal content compliance ethics"
 description: "AI model comparison: legal content compliance ethics..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Grok vs Mistral: Legal Content"
+  title="legal content compliance ethics"
   prompt="legal content compliance ethics"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

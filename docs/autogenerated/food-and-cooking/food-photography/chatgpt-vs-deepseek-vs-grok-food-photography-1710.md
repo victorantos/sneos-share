@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Grok: Food Photography"
+title: "Food photography tips - make dishes look delicious on Instagram"
 description: "AI model comparison: Food photography tips - make dishes look delicious on Instagram..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Grok: Food Photography"
+  title="Food photography tips - make dishes look delicious on Instagram"
   prompt="Food photography tips - make dishes look delicious on Instagram"
   :responses='{
     "ChatGPT": "Absolutely! Here are some tips to make your food photos look delicious and eye-catching on Instagram:\n\n### 1. **Lighting is Key**\n- Use natural light whenever possible. Shoot near a window with soft, diffused light to avoid harsh shadows.\n- Avoid using your phone\u2019s flash as it creates unappetizing reflections and harsh shadows.\n- If shooting indoors, consider using a reflector or white board to bounce light and fill shadows.\n\n### 2. **Choose the Right Angle**\n- Overhead shots (flat lays) work great for plates with multiple elements or flat dishes like pizzas and salads.\n- A 45-degree angle mimics how we normally see our food and works well for stacked foods like burgers or layered desserts.\n- Side shots are perfect for capturing layers in cakes, sandwiches, or drinks.\n\n### 3. **Use a Clean, Simple Background**\n- Keep the background uncluttered to let the food stand out.\n- Use neutral colors or natural textures like wooden tables, marble slabs, or rustic boards.\n- Avoid overly busy or bright patterns that draw attention away from the dish.\n\n### 4. **Focus on Texture and Detail**\n- Highlight textures like gooey cheese, crispy edges, steam rising, or glossy sauces.\n- Use a macro or close-up shot to capture intricate details that make the food look mouthwatering.\n- You can even lightly dust powdered sugar, sprinkle herbs, or drizzle sauces to add texture.\n\n### 5. **Styling Matters**\n- Arrange food neatly but naturally. Avoid perfectly symmetrical or overly staged setups.\n- Use garnishes like fresh herbs, lemon wedges, or colorful spices to add pops of color.\n- Use props such as utensils, napkins, or rustic bowls to tell a story but keep them minimal.\n\n### 6. **Edit Thoughtfully**\n- Adjust brightness, contrast, and saturation but keep colors true to life.\n- Avoid over-editing or heavy filters that make food look unrealistic.\n- Use apps like Lightroom, Snapseed, or VSCO for fine-tuning.\n\n### 7. **Show Action or Context**\n- Include hands holding the dish, a bite taken, or drizzling sauce to add life and relatability.\n- Show a bit of the surrounding context like a cup of coffee next to breakfast or drinks alongside a meal.\n\n### 8. **Keep It Fresh**\n- Photograph food soon after plating to capture it at its freshest.\n- Avoid soggy or wilted ingredients which don\u2019t photograph well.\n\n---\n\nBy combining good lighting, thoughtful composition, and careful styling, you\u2019ll make your dishes look absolutely delicious and perfect for Instagram! Would you like tips specific to any cuisine or dish?",

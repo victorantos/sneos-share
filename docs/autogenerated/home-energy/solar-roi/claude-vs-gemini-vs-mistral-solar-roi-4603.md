@@ -1,5 +1,5 @@
 ---
-title: "Claude vs Gemini vs Mistral: Solar ROI"
+title: "solar panel roi calculator residential"
 description: "AI model comparison: solar panel roi calculator residential..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs Gemini vs Mistral: Solar ROI"
+  title="solar panel roi calculator residential"
   prompt="solar panel roi calculator residential"
   :responses='{
     "Claude": "I\u0027ll help you create a solar panel ROI calculator for residential use. Here\u0027s a comprehensive calculator with the key factors:\n\n## Solar Panel ROI Calculator\n\n### Basic Information Needed:\n- **System Size** (kW)\n- **Total System Cost** ($)\n- **Annual Energy Production** (kWh)\n- **Current Electricity Rate** ($/kWh)\n- **Annual Rate Increase** (%)\n- **Federal Tax Credit** (currently 30%)\n- **State/Local Incentives** ($)\n\n### Simple ROI Formula:\n\u0060\u0060\u0060\nAnnual Savings = (Annual Production \u00D7 Electricity Rate)\nNet System Cost = (Total Cost - Tax Credits - Incentives)\nSimple Payback = Net System Cost \u00F7 Annual Savings\nROI % = (Annual Savings \u00F7 Net System Cost) \u00D7 100\n\u0060\u0060\u0060\n\n### Sample Calculation:\n**Example System:**\n- 8 kW system\n- $24,000 total cost\n- 10,000 kWh annual production\n- $0.12/kWh electricity rate\n\n**Calculation:**\n- Annual savings: 10,000 \u00D7 $0.12 = $1,200\n- Net cost: $24,000 - $7,200 (30% tax credit) = $16,800\n- Payback period: $16,800 \u00F7 $1,200 = 14 years\n- Annual ROI: ($1,200 \u00F7 $16,800) \u00D7 100 = 7.1%\n\n### Key Factors Affecting ROI:\n1. **Location/Sun Hours**\n2. **Roof Orientation**\n3. **Local Electricity Rates**\n4. **Available Incentives**\n5. **System Quality/Warranty**\n\nWould you like me to help you calculate ROI for your specific situation? Please share your system details!",

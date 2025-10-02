@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Gemini: Operational Resilience"
+title: "business continuity community banks"
 description: "AI model comparison: business continuity community banks..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Gemini: Operational Resilience"
+  title="business continuity community banks"
   prompt="business continuity community banks"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

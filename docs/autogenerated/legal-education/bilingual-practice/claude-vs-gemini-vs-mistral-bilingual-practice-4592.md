@@ -1,5 +1,5 @@
 ---
-title: "Claude vs Gemini vs Mistral: Bilingual Practice"
+title: "marketing to ethnic communities"
 description: "AI model comparison: marketing to ethnic communities..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs Gemini vs Mistral: Bilingual Practice"
+  title="marketing to ethnic communities"
   prompt="marketing to ethnic communities"
   :responses='{
     "Claude": "Marketing to ethnic communities requires cultural sensitivity, authenticity, and genuine understanding. Here are key strategies:\n\n## Research \u0026 Understanding\n- **Deep cultural research** - Go beyond demographics to understand values, traditions, and communication styles\n- **Community engagement** - Build relationships within communities before marketing\n- **Language preferences** - Determine if messaging should be in native languages or culturally-adapted English\n\n## Authentic Representation\n- **Diverse creative teams** - Include people from target communities in campaign development\n- **Avoid stereotypes** - Focus on authentic portrayals rather than clich\u00E9d representations\n- **Cultural relevance** - Reference appropriate holidays, traditions, and cultural moments\n\n## Channel Strategy\n- **Community media** - Partner with ethnic newspapers, radio stations, and digital platforms\n- **Social platforms** - Identify where communities are most active (WeChat, WhatsApp, specific Facebook groups)\n- **Influencer partnerships** - Work with respected community leaders and micro-influencers\n\n## Message Adaptation\n- **Value alignment** - Connect products/services to community values (family, tradition, success)\n- **Cultural context** - Adapt messaging for cultural nuances and sensitivities\n- **Localized content** - Create region-specific content for different community concentrations\n\n## Best Practices\n- Build long-term relationships, not just transactional campaigns\n- Measure success through community engagement, not just sales metrics\n- Invest in cultural competency training for marketing teams\n- Support community causes and events authentically\n\nWould you like me to elaborate on any specific aspect or community?",

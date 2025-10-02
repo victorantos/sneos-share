@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Section 1071 Compliance"
+title: "women owned business data"
 description: "AI model comparison: women owned business data..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Section 1071 Compliance"
+  title="women owned business data"
   prompt="women owned business data"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

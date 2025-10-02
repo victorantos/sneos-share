@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Grok vs Mistral: BNPL Integration"
+title: "bnpl credit decisioning"
 description: "AI model comparison: bnpl credit decisioning..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Grok vs Mistral: BNPL Integration"
+  title="bnpl credit decisioning"
   prompt="bnpl credit decisioning"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

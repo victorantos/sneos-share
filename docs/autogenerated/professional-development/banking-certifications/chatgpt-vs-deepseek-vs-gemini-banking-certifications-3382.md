@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Banking Certifications"
+title: "fintech certifications worth it"
 description: "AI model comparison: fintech certifications worth it..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Banking Certifications"
+  title="fintech certifications worth it"
   prompt="fintech certifications worth it"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

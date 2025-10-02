@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Grok: Rules"
+title: "pickleball rules explained simply"
 description: "AI model comparison: pickleball rules explained simply..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Grok: Rules"
+  title="pickleball rules explained simply"
   prompt="pickleball rules explained simply"
   :responses='{
     "ChatGPT": "Sure! Here are the basic pickleball rules explained simply:\n\n1. **The Court:**  \n   - Pickleball is played on a court similar in size to a badminton court (20 feet wide by 44 feet long).  \n   - The net is 36 inches high at the sidelines and 34 inches high in the middle.\n\n2. **Teams:**  \n   - You can play singles (1 player each side) or doubles (2 players each side).\n\n3. **Starting the Game:**  \n   - The game begins with a serve from behind the baseline, diagonally to the opponent\u2019s service court.  \n   - The serve must be underhand and the paddle must contact the ball below the waist.\n\n4. **Serving Rules:**  \n   - The serve must clear the non-volley zone (also called the kitchen), which is the 7-foot area closest to the net on both sides.  \n   - Only one serve attempt is allowed (except in the case of a let, where the ball touches the net but lands in the correct service court).\n\n5. **Double Bounce Rule:**  \n   - After the serve, each side must let the ball bounce once before volleying (hitting the ball before it bounces).  \n   - So, the receiving team allows the serve to bounce, then the serving team lets the return bounce, and after that, the ball can be volleyed or played off the bounce.\n\n6. **Non-Volley Zone (Kitchen):**  \n   - You cannot volley the ball while standing inside the non-volley zone.  \n   - You can only enter the kitchen to play a ball that has bounced.\n\n7. **Scoring:**  \n   - Only the serving side can score points.  \n   - Games are usually played to 11 points, and a team must win by 2 points.  \n   - In doubles, each player on the serving team gets a chance to serve before the serve switches to the opponents (except at the start of the game when only one player serves).\n\n8. **Faults (Errors):**  \n   - Hitting the ball out of bounds.  \n   - Not clearing the net.  \n   - Volleying the ball in the non-volley zone.  \n   - Violating the double bounce rule.\n\nThat\u2019s the simple overview! Pickleball is easy to learn but takes practice to master. Have fun playing!",

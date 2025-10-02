@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: Academic Publishing"
+title: "interdisciplinary legal research"
 description: "AI model comparison: interdisciplinary legal research..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: Academic Publishing"
+  title="interdisciplinary legal research"
   prompt="interdisciplinary legal research"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

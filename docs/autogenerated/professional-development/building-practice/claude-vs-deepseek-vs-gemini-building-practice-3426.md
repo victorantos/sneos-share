@@ -1,5 +1,5 @@
 ---
-title: "Claude vs DeepSeek vs Gemini: Building Practice"
+title: "bar association leadership"
 description: "AI model comparison: bar association leadership..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs DeepSeek vs Gemini: Building Practice"
+  title="bar association leadership"
   prompt="bar association leadership"
   :responses='{
     "Claude": "Bar association leadership typically consists of several key positions and structures:\n\n## Executive Leadership\n- **President** - Chief executive officer, sets strategic direction\n- **President-Elect** - Successor in training, often chairs major committees\n- **Vice President** - Supports executive functions\n- **Secretary-Treasurer** - Manages finances and records\n- **Immediate Past President** - Provides continuity and institutional knowledge\n\n## Governing Bodies\n- **Board of Directors/Governors** - Sets policy and oversees operations\n- **House of Delegates** - Legislative body for larger associations\n- **Executive Committee** - Handles urgent matters between board meetings\n\n## Key Staff Positions\n- **Executive Director/CEO** - Day-to-day operations management\n- **Deputy Directors** - Oversee specific divisions (legal services, communications, etc.)\n- **Program Directors** - Manage continuing education, member services, advocacy\n\n## Committee Leadership\n- **Standing Committee Chairs** - Lead ongoing committees (ethics, legislation, judiciary)\n- **Special Committee Chairs** - Handle specific initiatives or issues\n- **Section Chairs** - Lead practice area groups\n\n## Regional Structure\n- **State Bar Presidents** - Lead state-level associations\n- **Local Bar Presidents** - Lead city/county associations\n- **Specialty Bar Leaders** - Lead organizations for specific groups (women lawyers, minority bar associations, etc.)\n\nAre you interested in information about a specific bar association or aspect of bar leadership?",

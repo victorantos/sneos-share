@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Mistral: Legal Writing ESL"
+title: "international lawyers writing english"
 description: "AI model comparison: international lawyers writing english..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Mistral: Legal Writing ESL"
+  title="international lawyers writing english"
   prompt="international lawyers writing english"
   :responses='{
     "ChatGPT": "If you are an international lawyer looking to write effectively in English, here are some tips and guidelines that can help you produce clear, professional, and precise legal documents:\n\n### Key Tips for International Lawyers Writing in English\n\n1. **Use Clear and Precise Language**  \n   - Avoid ambiguous terms.  \n   - Use simple and direct sentences.  \n   - Be consistent with terminology.\n\n2. **Legal Terminology**  \n   - Familiarize yourself with standard English legal terms.  \n   - Use terms appropriately based on the jurisdiction if relevant.  \n   - Avoid unnecessary jargon.\n\n3. **Formal Tone and Style**  \n   - Maintain a formal and respectful tone.  \n   - Avoid contractions (use \u201Cdo not\u201D instead of \u201Cdon\u2019t\u201D).  \n   - Use passive voice appropriately but prefer active voice for clarity.\n\n4. **Structure and Organization**  \n   - Use headings and subheadings for longer texts.  \n   - Present information logically: background, arguments, conclusions.  \n   - Use paragraphs to separate ideas clearly.\n\n5. **Citations and References**  \n   - Follow the citation format required (e.g., Bluebook, OSCOLA).  \n   - Cite statutes, cases, treaties, and scholarly sources appropriately.\n\n6. **Proofread and Edit**  \n   - Check grammar, punctuation, and spelling.  \n   - Verify legal accuracy and consistency.  \n   - Consider professional legal proofreading or peer review.\n\n### Common Documents Written by International Lawyers in English  \n- Contracts and Agreements  \n- Legal Opinions  \n- Memoranda  \n- Pleadings and Court Filings  \n- International Treaties and Agreements  \n- Arbitration Documents  \n- Compliance and Regulatory Documents  \n\n### Sample Phrase Examples  \n- \u201CPursuant to Article 5 of the Convention\u2026\u201D  \n- \u201CThe parties hereby agree to\u2026\u201D  \n- \u201CIt is submitted that\u2026\u201D  \n- \u201CAccording to the provisions set forth in\u2026\u201D  \n- \u201CThis agreement shall be governed by the laws of\u2026\u201D\n\n---\n\nIf you need help with a specific document type or want examples, feel free to ask!",

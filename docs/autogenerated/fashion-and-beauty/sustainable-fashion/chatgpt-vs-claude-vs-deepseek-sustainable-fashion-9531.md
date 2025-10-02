@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs DeepSeek: Sustainable Fashion"
+title: "Sustainable fashion brands - ethical and eco-friendly clothing"
 description: "AI model comparison: Sustainable fashion brands - ethical and eco-friendly clothing..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs DeepSeek: Sustainable Fashion"
+  title="Sustainable fashion brands - ethical and eco-friendly clothing"
   prompt="Sustainable fashion brands - ethical and eco-friendly clothing"
   :responses='{
     "ChatGPT": "Here are some well-known sustainable fashion brands that focus on ethical practices and eco-friendly clothing:\n\n1. **Patagonia**  \n   - Known for its commitment to environmental activism, fair labor practices, and using recycled and organic materials.  \n   - Offers outdoor clothing and gear.\n\n2. **Everlane**  \n   - Transparency in pricing and sourcing.  \n   - Uses sustainable materials like organic cotton and recycled fabrics.  \n   - Ethically produced in factories with fair wages.\n\n3. **Reformation**  \n   - Focuses on minimizing waste and water usage.  \n   - Uses sustainable fabrics like Tencel, organic cotton, and deadstock fabrics.  \n   - Stylish and trendy women\u2019s clothing.\n\n4. **People Tree**  \n   - Pioneers in Fair Trade fashion.  \n   - Uses organic cotton and natural dyes.  \n   - Supports artisans and reduces environmental impact.\n\n5. **Nudie Jeans**  \n   - Offers 100% organic cotton denim.  \n   - Free repairs and recycling program for jeans.  \n   - Transparent about production and labor standards.\n\n6. **Outerknown**  \n   - Founded by surfer Kelly Slater.  \n   - Emphasizes sustainable materials and fair labor.  \n   - Uses organic cotton, recycled polyester, and hemp.\n\n7. **Thought Clothing**  \n   - Uses natural, sustainable fabrics like bamboo, hemp, and organic cotton.  \n   - Focuses on ethical production and simple, timeless designs.\n\n8. **Allbirds**  \n   - Known for sustainable footwear made from materials like merino wool and eucalyptus tree fiber.  \n   - Carbon-neutral certified.\n\n9. **Tentree**  \n   - For every product sold, ten trees are planted.  \n   - Uses sustainable fabrics such as organic cotton, recycled polyester, and Tencel.  \n   - Focus on environmental impact.\n\n10. **Stella McCartney**  \n    - Luxury brand with a strong commitment to sustainability.  \n    - Uses innovative materials like vegan leather and recycled fabrics.  \n    - Ethical production practices.\n\nWhen shopping sustainable fashion, consider brands that are transparent about their supply chain, use eco-friendly materials, promote fair labor practices, and have initiatives to reduce waste and carbon footprint.",

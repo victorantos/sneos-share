@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: Real-Time Payments"
+title: "instant payment rails"
 description: "AI model comparison: instant payment rails..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: Real-Time Payments"
+  title="instant payment rails"
   prompt="instant payment rails"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

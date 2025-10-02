@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Grok: Audit"
+title: "accessibility audit tools free"
 description: "AI model comparison: accessibility audit tools free..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Grok: Audit"
+  title="accessibility audit tools free"
   prompt="accessibility audit tools free"
   :responses='{
     "ChatGPT": "Here are some popular free accessibility audit tools you can use to evaluate websites and digital content for accessibility compliance:\n\n1. **axe by Deque**  \n   - Browser Extensions: Available for Chrome and Firefox  \n   - Features: Automated accessibility testing, detailed issue descriptions, and guidance on how to fix problems.  \n   - Website: https://www.deque.com/axe/\n\n2. **Lighthouse (by Google)**  \n   - Built into Chrome DevTools or available as a Chrome extension  \n   - Features: Audits accessibility, performance, SEO, and best practices. Provides scores and specific recommendations.  \n   - More info: https://developers.google.com/web/tools/lighthouse\n\n3. **WAVE (Web Accessibility Evaluation Tool)**  \n   - Browser Extensions: Chrome and Firefox  \n   - Website Version: https://wave.webaim.org/  \n   - Features: Visual feedback about accessibility issues directly on the page, explanations, and resources.\n\n4. **Accessibility Insights**  \n   - Browser Extensions: Chrome and Edge  \n   - Features: Automated and guided tests, including fast-pass for quick checks and assessment for detailed analysis.  \n   - Website: https://accessibilityinsights.io/\n\n5. **Tenon.io (Free tier available)**  \n   - Web-based API and online tool  \n   - Features: Customizable accessibility testing via API; also offers an online checker.  \n   - Website: https://tenon.io/\n\n6. **Pa11y**  \n   - Open-source command line tool  \n   - Features: Runs accessibility tests on web pages and can be integrated into development workflows.  \n   - Website: http://pa11y.org/\n\n7. **Siteimprove Accessibility Checker**  \n   - Browser Extension: Chrome  \n   - Features: Scans web pages for WCAG compliance with detailed issue descriptions.  \n   - Website: https://siteimprove.com/accessibility/accessibility-checker/\n\n8. **NaturalReader Accessibility Checker**  \n   - Browser based tool mainly for text-to-speech and readability validation, sometimes helpful for accessibility.\n\n---\n\n**Tips for Using These Tools Effectively:**  \n- Automated tools can catch about 20-50% of accessibility issues. Manual testing and involving users with disabilities are essential for comprehensive audits.  \n- Combine multiple tools for better coverage since each may detect different issues.  \n- Use these tools early and often during development to fix issues proactively.\n\nIf you want recommendations tailored to specific platforms (like mobile apps or PDFs), let me know!",

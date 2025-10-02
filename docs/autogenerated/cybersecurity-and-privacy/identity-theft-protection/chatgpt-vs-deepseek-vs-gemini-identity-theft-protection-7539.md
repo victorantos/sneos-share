@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Identity Theft Protection"
+title: "Prevent identity theft - protect personal information"
 description: "AI model comparison: Prevent identity theft - protect personal information..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Identity Theft Protection"
+  title="Prevent identity theft - protect personal information"
   prompt="Prevent identity theft - protect personal information"
   :responses='{
     "ChatGPT": "Preventing identity theft involves safeguarding your personal information both online and offline. Here are some important tips to help protect yourself:\n\n1. **Protect Personal Information:**\n   - Avoid sharing sensitive information such as your Social Security number, full birthdate, and financial details unless absolutely necessary.\n   - Shred documents containing personal data before disposing of them.\n\n2. **Use Strong Passwords:**\n   - Create complex passwords with a mix of letters, numbers, and symbols.\n   - Use different passwords for different accounts.\n   - Consider using a reputable password manager.\n\n3. **Secure Your Devices:**\n   - Keep your computer, smartphone, and other devices updated with the latest security patches.\n   - Use antivirus and anti-malware software.\n   - Enable firewalls.\n\n4. **Be Cautious Online:**\n   - Avoid clicking on suspicious links or downloading attachments from unknown sources.\n   - Verify website URLs before entering personal information.\n   - Use secure networks, avoid public Wi-Fi when accessing sensitive accounts.\n\n5. **Monitor Financial Statements and Credit Reports:**\n   - Regularly review bank and credit card statements for unauthorized transactions.\n   - Check your credit reports at least once a year for any unfamiliar accounts or activity.\n\n6. **Limit Sharing on Social Media:**\n   - Avoid posting personal details like your address, phone number, or vacation plans.\n   - Adjust privacy settings to control who can see your information.\n\n7. **Be Alert to Phishing Attempts:**\n   - Be skeptical of unsolicited calls, emails, or texts asking for personal information.\n   - Verify the identity of the requester through official channels before responding.\n\n8. **Use Two-Factor Authentication (2FA):**\n   - Enable 2FA on accounts that offer it for an added layer of security.\n\nBy following these practices, you can significantly reduce the risk of identity theft and protect your personal information.",

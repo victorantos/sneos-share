@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Mistral: Drought Tolerant"
+title: "drought tolerant native plants"
 description: "AI model comparison: drought tolerant native plants..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Mistral: Drought Tolerant"
+  title="drought tolerant native plants"
   prompt="drought tolerant native plants"
   :responses='{
     "ChatGPT": "Here are some drought-tolerant native plants that are well-suited for dry conditions. The best choices can depend on your specific region, but here are examples from various parts of the United States:\n\n### Drought-Tolerant Native Plants (U.S.)\n\n#### Wildflowers\n- **Purple Coneflower (Echinacea purpurea)** \u2013 Native to the central and eastern U.S., attracts pollinators.\n- **Black-eyed Susan (Rudbeckia hirta)** \u2013 Tolerant of dry soil, common in prairies.\n- **Blanket Flower (Gaillardia pulchella)** \u2013 Thrives in hot, dry conditions.\n\n#### Shrubs\n- **California Sagebrush (Artemisia californica)** \u2013 Native to California coastal areas.\n- **Manzanita (Arctostaphylos spp.)** \u2013 Evergreen with reddish bark, drought-tolerant.\n- **Rabbitbrush (Ericameria nauseosa)** \u2013 Found in western deserts.\n\n#### Grasses and Groundcovers\n- **Blue Grama Grass (Bouteloua gracilis)** \u2013 A native prairie grass.\n- **Buffalo Grass (Bouteloua dactyloides)** \u2013 Low-water lawn alternative.\n- **Ice Plant (Delosperma spp.)** \u2013 Succulent groundcover.\n\n#### Succulents and Cacti\n- **Prickly Pear Cactus (Opuntia spp.)** \u2013 Suited for very dry climates.\n- **Agave (Agave spp.)** \u2013 Drought-tolerant, dramatic architectural plants.\n\n### Tips for Using Drought-Tolerant Native Plants\n- Plant in well-draining soil to prevent root rot.\n- Group plants with similar water needs together.\n- Mulch to retain soil moisture.\n- Water deeply but infrequently.\n\nIf you tell me your location or climate zone, I can provide a more tailored list of native drought-tolerant plants!",

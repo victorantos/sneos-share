@@ -1,5 +1,5 @@
 ---
-title: "Claude vs Gemini vs Grok: Makeup Tutorial"
+title: "Makeup tutorial for beginners - natural everyday look"
 description: "AI model comparison: Makeup tutorial for beginners - natural everyday look..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs Gemini vs Grok: Makeup Tutorial"
+  title="Makeup tutorial for beginners - natural everyday look"
   prompt="Makeup tutorial for beginners - natural everyday look"
   :responses='{
     "Claude": "# Natural Everyday Makeup Tutorial for Beginners\n\n## Prep Your Canvas\n**1. Cleanse \u0026 Moisturize**\n- Start with clean, moisturized skin\n- Apply a lightweight moisturizer and let it absorb (2-3 minutes)\n- Use primer if you have one (helps makeup last longer)\n\n## Base Makeup\n**2. Foundation/Tinted Moisturizer**\n- Choose a shade that matches your neck\n- Apply with fingers, brush, or beauty sponge\n- Start with thin layers - you can always build up\n- Blend well, especially around hairline and jawline\n\n**3. Concealer (Optional)**\n- Use only where needed: under eyes, blemishes, redness\n- Choose a shade slightly lighter than your skin tone for under eyes\n- Gently pat and blend with finger or brush\n\n## Add Warmth \u0026 Definition\n**4. Blush**\n- Smile and apply to the \u0022apples\u0022 of your cheeks\n- Use a fluffy brush and tap off excess\n- Build color gradually - start light!\n\n**5. Eyebrows**\n- Brush brows upward with a spoolie\n- Fill in sparse areas with light strokes using brow pencil/powder\n- Keep it natural - follow your natural brow shape\n\n## Simple Eye Look\n**6. Eyes**\n- Apply neutral eyeshadow close to your skin tone across the lid\n- Add thin line of brown eyeliner close to upper lashes (optional)\n- Finish with one coat of brown or black mascara\n\n## Final Touches\n**7. Lips**\n- Apply lip balm first\n- Use a tinted lip balm, lip gloss, or nude lipstick\n- Choose something close to your natural lip color\n\n## Beginner Tips\n- **Less is more** - start light and build up\n- **Blend everything** well for a natural finish\n- **Practice makes perfect** - don\u0027t expect perfection immediately\n- **Good lighting** is essential - use natural light when possible\n- **Clean your brushes** regularly for better application\n\n## Essential Beginner Products\n- Tinted moisturizer or light foundation\n- Concealer\n- Cream or powder blush\n- Brow pencil\n- Neutral eyeshadow palette\n- Mascara\n- Tinted lip balm\n\nThis look should take 5-10 minutes once you\u0027re comfortable with the routine!",

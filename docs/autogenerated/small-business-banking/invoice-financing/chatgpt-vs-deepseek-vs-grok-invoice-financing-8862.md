@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Grok: Invoice Financing"
+title: "early payment programs"
 description: "AI model comparison: early payment programs..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Grok: Invoice Financing"
+  title="early payment programs"
   prompt="early payment programs"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

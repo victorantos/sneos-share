@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Real-Time Payments"
+title: "fednow implementation guide"
 description: "AI model comparison: fednow implementation guide..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Real-Time Payments"
+  title="fednow implementation guide"
   prompt="fednow implementation guide"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

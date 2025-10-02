@@ -1,5 +1,5 @@
 ---
-title: "Claude vs DeepSeek vs Grok: Cross-Border KYC"
+title: "beneficial ownership verification"
 description: "AI model comparison: beneficial ownership verification..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs DeepSeek vs Grok: Cross-Border KYC"
+  title="beneficial ownership verification"
   prompt="beneficial ownership verification"
   :responses='{
     "Claude": "Beneficial ownership verification is a critical compliance process used to identify the real people who ultimately own or control a business entity. Here\u0027s an overview:\n\n## What is Beneficial Ownership?\n\n**Beneficial owners** are individuals who:\n- Own 25% or more of a company\u0027s equity interests\n- Exercise substantial control over the company\n- Receive substantial economic benefits from the company\n\n## Key Requirements\n\n### Corporate Transparency Act (CTA) - US\n- Effective January 1, 2024\n- Companies must report beneficial ownership information to FinCEN\n- Applies to most corporations, LLCs, and similar entities\n- Penalties for non-compliance can be severe\n\n### Information Required\n- Full legal name\n- Date of birth\n- Current residential address\n- Unique identifying number (driver\u0027s license, passport, etc.)\n- Copy of identifying document\n\n## Verification Methods\n\n1. **Documentation Review**\n   - Corporate documents\n   - Ownership agreements\n   - Trust documents\n   - Tax records\n\n2. **Identity Verification**\n   - Government-issued ID verification\n   - Address confirmation\n   - Database checks\n\n3. **Ongoing Monitoring**\n   - Regular updates when ownership changes\n   - Annual certifications\n   - Transaction monitoring\n\n## Who Must Comply?\n\n- **Financial institutions** (banks, credit unions, etc.)\n- **Reporting companies** under CTA\n- **Money service businesses**\n- **Certain investment advisers**\n\n## Exemptions\n\nCommon exemptions include:\n- Publicly traded companies\n- Banks and credit unions\n- Government entities\n- Certain large operating companies\n\nWould you like me to elaborate on any specific aspect of beneficial ownership verification?",

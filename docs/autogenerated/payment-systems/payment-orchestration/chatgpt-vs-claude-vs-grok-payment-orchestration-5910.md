@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Grok: Payment Orchestration"
+title: "payment failover strategy"
 description: "AI model comparison: payment failover strategy..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Grok: Payment Orchestration"
+  title="payment failover strategy"
   prompt="payment failover strategy"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

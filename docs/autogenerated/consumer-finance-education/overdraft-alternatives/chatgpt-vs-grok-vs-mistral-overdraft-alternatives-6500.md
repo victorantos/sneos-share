@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Grok vs Mistral: Overdraft Alternatives"
+title: "eliminating bank overdraft fees"
 description: "AI model comparison: eliminating bank overdraft fees..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Grok vs Mistral: Overdraft Alternatives"
+  title="eliminating bank overdraft fees"
   prompt="eliminating bank overdraft fees"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: Banking Certifications"
+title: "treasury management certification"
 description: "AI model comparison: treasury management certification..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: Banking Certifications"
+  title="treasury management certification"
   prompt="treasury management certification"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

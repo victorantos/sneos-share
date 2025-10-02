@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: Climate Risk Banking"
+title: "green lending portfolios"
 description: "AI model comparison: green lending portfolios..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: Climate Risk Banking"
+  title="green lending portfolios"
   prompt="green lending portfolios"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: Credit Repair Specific"
+title: "credit report dispute process"
 description: "AI model comparison: credit report dispute process..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: Credit Repair Specific"
+  title="credit report dispute process"
   prompt="credit report dispute process"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Grok: Quantum Computing Finance"
+title: "quantum ready infrastructure"
 description: "AI model comparison: quantum ready infrastructure..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Grok: Quantum Computing Finance"
+  title="quantum ready infrastructure"
   prompt="quantum ready infrastructure"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

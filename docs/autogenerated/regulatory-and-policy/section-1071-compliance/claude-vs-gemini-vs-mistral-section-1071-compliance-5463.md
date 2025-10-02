@@ -1,5 +1,5 @@
 ---
-title: "Claude vs Gemini vs Mistral: Section 1071 Compliance"
+title: "small business lending data collection"
 description: "AI model comparison: small business lending data collection..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs Gemini vs Mistral: Section 1071 Compliance"
+  title="small business lending data collection"
   prompt="small business lending data collection"
   :responses='{
     "Claude": "I\u0027d be happy to help you with small business lending data collection. Here are the key aspects to consider:\n\n## **Types of Small Business Lending Data**\n\n### **Application Data**\n- Business demographics (industry, size, location, age)\n- Loan amount requested\n- Purpose of loan\n- Business financial metrics (revenue, cash flow, credit score)\n- Owner demographics and credit history\n\n### **Decision Data**\n- Approval/denial rates\n- Loan terms offered (interest rates, repayment periods)\n- Collateral requirements\n- Credit conditions\n\n### **Performance Data**\n- Default rates\n- Prepayment rates\n- Loan modifications\n- Recovery rates\n\n## **Primary Data Sources**\n\n### **Regulatory Sources**\n- **Community Reinvestment Act (CRA)** data\n- **Small Business Administration (SBA)** loan data\n- **Call Report** data from banks\n- **FDIC** summary of deposits\n\n### **Commercial Sources**\n- Credit bureaus (Experian, Equifax, TransUnion)\n- Financial data providers (Dun \u0026 Bradstreet, Bloomberg)\n- Industry research firms\n\n### **Survey Data**\n- Federal Reserve\u0027s Small Business Credit Survey\n- NFIB Research Foundation studies\n- Industry association surveys\n\n## **Collection Methods**\n\n### **Direct Collection**\n- Customer applications and documentation\n- Internal bank systems\n- Partnership agreements with lenders\n\n### **Third-Party Data**\n- Data aggregators\n- Credit reporting agencies\n- Government databases\n\n### **Survey Research**\n- Primary market research\n- Industry benchmarking studies\n- Customer experience surveys\n\n## **Key Compliance Considerations**\n\n### **Regulatory Requirements**\n- **Fair Credit Reporting Act (FCRA)**\n- **Equal Credit Opportunity Act (ECOA)**\n- **Dodd-Frank Act** requirements\n- State privacy laws\n\n### **Data Privacy**\n- Customer consent and disclosure\n- Data security and storage\n- Right to access/correction\n- Data retention policies\n\n## **Data Quality Best Practices**\n\n### **Standardization**\n- Consistent data formats\n- Industry classification codes (NAICS)\n- Geographic standardization\n- Currency and date formatting\n\n### **Validation**\n- Data accuracy checks\n- Completeness verification\n- Consistency across sources\n- Regular data audits\n\n## **Specific Use Cases**\n\nWhat\u0027s your primary goal for collecting this data?\n- **Credit risk modeling**\n- **Market research**\n- **Regulatory compliance**\n- **Portfolio management**\n- **Academic research**\n\nWould you like me to elaborate on any of these areas or help you develop a specific data collection strategy?",

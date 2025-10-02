@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Grok vs Mistral: Banking M&A Prep"
+title: "post merger integration banking"
 description: "AI model comparison: post merger integration banking..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Grok vs Mistral: Banking M&amp;A Prep"
+  title="post merger integration banking"
   prompt="post merger integration banking"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

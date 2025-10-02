@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Grok: Business Credit Building"
+title: "llc credit building"
 description: "AI model comparison: llc credit building..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Grok: Business Credit Building"
+  title="llc credit building"
   prompt="llc credit building"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Mistral: Credit Union Digital"
+title: "credit union cloud migration"
 description: "AI model comparison: credit union cloud migration..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Mistral: Credit Union Digital"
+  title="credit union cloud migration"
   prompt="credit union cloud migration"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Grok: Invoice Financing"
+title: "ai powered factoring"
 description: "AI model comparison: ai powered factoring..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Grok: Invoice Financing"
+  title="ai powered factoring"
   prompt="ai powered factoring"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

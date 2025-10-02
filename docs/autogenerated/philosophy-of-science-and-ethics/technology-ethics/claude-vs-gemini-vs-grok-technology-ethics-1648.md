@@ -1,5 +1,5 @@
 ---
-title: "Claude vs Gemini vs Grok: Technology Ethics"
+title: "Technology ethics - social media, surveillance, digital rights"
 description: "AI model comparison: Technology ethics - social media, surveillance, digital rights..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs Gemini vs Grok: Technology Ethics"
+  title="Technology ethics - social media, surveillance, digital rights"
   prompt="Technology ethics - social media, surveillance, digital rights"
   :responses='{
     "Claude": "# Technology Ethics: Key Issues and Considerations\n\n## Social Media Ethics\n\n### **Platform Responsibility**\n- **Content moderation**: Balancing free speech with harm prevention\n- **Algorithmic transparency**: How feeds and recommendations are curated\n- **Data collection practices**: What information is gathered and how it\u0027s used\n- **Mental health impacts**: Addressing addiction, comparison culture, and well-being\n\n### **User Rights vs. Platform Control**\n- Who decides what content is acceptable?\n- Should platforms be treated as publishers or neutral forums?\n- How to handle misinformation while preserving open dialogue\n- Cross-border content regulation challenges\n\n## Surveillance and Privacy\n\n### **Types of Surveillance**\n- **Government surveillance**: National security vs. civil liberties\n- **Corporate surveillance**: Data collection for advertising and analytics\n- **Workplace monitoring**: Employee privacy vs. productivity/security\n- **Public space monitoring**: Safety vs. anonymity in daily life\n\n### **Key Ethical Questions**\n- What level of privacy should individuals expect?\n- When is surveillance justified for collective benefit?\n- How can oversight and accountability be ensured?\n- What are the long-term societal effects of pervasive monitoring?\n\n## Digital Rights Framework\n\n### **Fundamental Digital Rights**\n- **Access**: Internet connectivity as a human right\n- **Privacy**: Control over personal data and communications\n- **Expression**: Freedom of speech in digital spaces\n- **Due process**: Fair treatment in content moderation and account actions\n\n### **Emerging Considerations**\n- **Algorithmic fairness**: Preventing bias in automated decision-making\n- **Digital dignity**: Protecting human agency in AI-mediated interactions\n- **Data ownership**: Who controls and benefits from personal information\n- **Right to be forgotten**: Ability to remove personal information online\n\n## Balancing Competing Interests\n\n### **Common Tensions**\n- Security vs. Privacy\n- Innovation vs. Regulation\n- Global connectivity vs. Local sovereignty\n- Individual rights vs. Collective benefit\n\n### **Approaches to Resolution**\n- Multi-stakeholder governance involving users, companies, and governments\n- Transparent policies and regular audits\n- Technical solutions (privacy-preserving technologies)\n- International cooperation on standards and norms\n\nWhat specific aspects of technology ethics are you most interested in exploring further?",

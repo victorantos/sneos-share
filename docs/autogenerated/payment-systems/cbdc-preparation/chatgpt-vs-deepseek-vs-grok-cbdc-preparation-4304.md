@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Grok: CBDC Preparation"
+title: "cross border cbdc"
 description: "AI model comparison: cross border cbdc..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Grok: CBDC Preparation"
+  title="cross border cbdc"
   prompt="cross border cbdc"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

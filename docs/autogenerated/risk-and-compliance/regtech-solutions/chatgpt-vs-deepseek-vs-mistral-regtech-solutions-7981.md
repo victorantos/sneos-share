@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Mistral: RegTech Solutions"
+title: "aml automation under 1b assets"
 description: "AI model comparison: aml automation under 1b assets..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Mistral: RegTech Solutions"
+  title="aml automation under 1b assets"
   prompt="aml automation under 1b assets"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

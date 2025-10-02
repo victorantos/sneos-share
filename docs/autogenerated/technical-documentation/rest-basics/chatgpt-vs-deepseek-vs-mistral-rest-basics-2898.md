@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Mistral: REST Basics"
+title: "rest api explained simply"
 description: "AI model comparison: rest api explained simply..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Mistral: REST Basics"
+  title="rest api explained simply"
   prompt="rest api explained simply"
   :responses='{
     "ChatGPT": "Sure! Here\u2019s a simple explanation of REST API:\n\n**REST API** stands for **Representational State Transfer Application Programming Interface**.\n\n- **API** is a way for different software programs to talk to each other.\n- **REST** is a set of rules for how these programs should communicate over the internet.\n\n### How REST API works simply:\n\n1. **Client and Server**:  \n   There\u2019s a client (like your web browser or a mobile app) and a server (where the data lives).\n\n2. **Requests and Responses**:  \n   The client sends a request to the server asking for some data or telling it to do something. The server processes this request and sends back a response.\n\n3. **HTTP Methods**:  \n   REST uses standard HTTP methods to perform actions:\n   - **GET**: Retrieve data (like asking for a list of users).\n   - **POST**: Send new data to the server (like creating a new user).\n   - **PUT**: Update existing data.\n   - **DELETE**: Remove data.\n\n4. **Resources and URLs**:  \n   Everything in REST is considered a resource (like users, posts, products). These resources are accessed via URLs.  \n   Example: \u0060https://example.com/users\u0060 to get all users.\n\n5. **Stateless**:  \n   Each request from client to server contains all the information needed. The server doesn\u2019t remember previous requests.\n\n### Example:\n\nIf you want to get information about a user with ID 1, you might send a GET request to:  \n\u0060https://example.com/users/1\u0060\n\nIf you want to add a new user, you send a POST request with the user\u0027s info to:  \n\u0060https://example.com/users\u0060\n\n---\n\n**In short:**\n\nA REST API lets programs talk to each other using simple, standard web methods to get, create, update, or delete data on a server. It\u2019s like ordering from a menu where you pick what you want (resource), how you want it (action/method), and the kitchen (server) serves it back.",

@@ -1,5 +1,5 @@
 ---
-title: "Claude vs Gemini vs Grok: Flooring"
+title: "golf simulator flooring options"
 description: "AI model comparison: golf simulator flooring options..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs Gemini vs Grok: Flooring"
+  title="golf simulator flooring options"
   prompt="golf simulator flooring options"
   :responses='{
     "Claude": "Here are the main flooring options for golf simulators, each with their pros and cons:\n\n## **Artificial Turf**\n- **Best for:** Realistic feel and shot feedback\n- **Pros:** Most authentic experience, good ball lies, durable\n- **Cons:** Higher cost, requires regular maintenance\n- **Cost:** $3-8 per sq ft\n\n## **Rubber Mats**\n- **Best for:** Budget-conscious setups\n- **Pros:** Affordable, easy to clean, shock-absorbing\n- **Cons:** Less realistic feel, can affect ball flight readings\n- **Cost:** $1-3 per sq ft\n\n## **Foam Tiles**\n- **Best for:** Joint protection and comfort\n- **Pros:** Excellent cushioning, modular/replaceable, easy installation\n- **Cons:** Less durable, can compress over time\n- **Cost:** $2-5 per sq ft\n\n## **Commercial Carpet**\n- **Best for:** Multi-purpose rooms\n- **Pros:** Versatile, comfortable, various textures available\n- **Cons:** Can interfere with ball tracking, wear patterns\n- **Cost:** $2-6 per sq ft\n\n## **Hybrid Systems**\n- **Best for:** Optimal performance\n- **Pros:** Combines hitting mat with surrounding cushioning\n- **Cons:** More complex installation, higher cost\n- **Cost:** $5-12 per sq ft\n\n## **Key Considerations:**\n- **Launch monitor compatibility** (some require specific surfaces)\n- **Ceiling height** and swing clearance\n- **Shock absorption** for joint health\n- **Durability** for heavy use\n- **Maintenance requirements**\n\nWould you like specific product recommendations for any of these options?",

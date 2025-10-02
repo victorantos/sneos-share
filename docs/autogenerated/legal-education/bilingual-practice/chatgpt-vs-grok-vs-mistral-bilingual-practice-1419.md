@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Grok vs Mistral: Bilingual Practice"
+title: "immigration law practice building"
 description: "AI model comparison: immigration law practice building..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Grok vs Mistral: Bilingual Practice"
+  title="immigration law practice building"
   prompt="immigration law practice building"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

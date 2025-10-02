@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Mistral: Fair Lending Algorithm"
+title: "algorithmic fairness banking"
 description: "AI model comparison: algorithmic fairness banking..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Mistral: Fair Lending Algorithm"
+  title="algorithmic fairness banking"
   prompt="algorithmic fairness banking"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

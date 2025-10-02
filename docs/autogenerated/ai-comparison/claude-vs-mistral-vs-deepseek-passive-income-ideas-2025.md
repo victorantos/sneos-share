@@ -1,5 +1,5 @@
 ---
-title: "Claude vs Mistral vs DeepSeek: Passive Income Ideas Comparison 2025"
+title: "20 passive income streams you can start with Claude vs Mistral vs DeepSeek: Passive Income Ideas Comparison 202500"
 description: "AI model comparison: 20 passive income streams you can start with $100..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs Mistral vs DeepSeek: Passive Income Ideas Comparison 2025"
+  title="20 passive income streams you can start with Claude vs Mistral vs DeepSeek: Passive Income Ideas Comparison 202500"
   prompt="20 passive income streams you can start with $100"
   :responses='{
     "Claude": "Here are 20 passive income streams you can start with $100:\n\n## **Digital Products \u0026 Content**\n1. **Stock Photography** - Upload photos to Shutterstock, Getty Images, or Adobe Stock\n2. **Print-on-Demand Products** - Create designs for t-shirts, mugs, phone cases on Printful/Printify\n3. **Digital Templates** - Sell Canva templates, spreadsheets, or planners on Etsy\n4. **E-book Publishing** - Write and self-publish on Amazon Kindle Direct Publishing\n5. **Online Course Creation** - Use free platforms like Teachable or Udemy to sell expertise\n\n## **Affiliate Marketing \u0026 Referrals**\n6. **Niche Blog with Affiliate Links** - Start a WordPress blog focused on specific topics\n7. **YouTube Channel** - Create content with affiliate marketing and ad revenue\n8. **Social Media Affiliate Marketing** - Promote products on Instagram/TikTok\n9. **App Referral Programs** - Share referral codes for banking, investing, or shopping apps\n\n## **Micro-Investing \u0026 Finance**\n10. **Dividend ETFs** - Invest in dividend-focused exchange-traded funds\n11. **High-Yield Savings Accounts** - Park money in accounts earning 4-5% APY\n12. **Peer-to-Peer Lending** - Platforms like Prosper or LendingClub\n13. **REITs (Real Estate Investment Trusts)** - Invest in real estate without buying property\n\n## **Digital Businesses**\n14. **Dropshipping Store** - Sell products without holding inventory using Shopify\n15. **Mobile App Development** - Create simple apps or games (if you have coding skills)\n16. **Domain Flipping** - Buy and resell valuable domain names\n17. **Subscription Newsletter** - Monetize expertise through paid newsletters (Substack)\n\n## **Creative \u0026 Skill-Based**\n18. **License Your Music** - Upload original music to licensing platforms\n19. **Sell Digital Art/NFTs** - Create and sell digital artwork\n20. **Rental Marketplace** - Rent out items you own (tools, equipment) on apps like Fat Llama\n\n## **\uD83D\uDCA1 Quick Start Tips:**\n- Start with 1-2 streams that match your skills\n- Reinvest early profits to scale faster\n- Most require initial work before becoming truly \u0022passive\u0022\n- Diversify once you find what works\n\nWhich of these interests you most? I can provide more specific guidance on getting started.",

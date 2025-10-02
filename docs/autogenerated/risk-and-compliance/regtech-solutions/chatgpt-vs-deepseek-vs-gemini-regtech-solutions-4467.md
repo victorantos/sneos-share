@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: RegTech Solutions"
+title: "compliance workflow automation"
 description: "AI model comparison: compliance workflow automation..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: RegTech Solutions"
+  title="compliance workflow automation"
   prompt="compliance workflow automation"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

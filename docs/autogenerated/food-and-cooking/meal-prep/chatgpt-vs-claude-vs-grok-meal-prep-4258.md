@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Grok: Meal Prep"
+title: "Meal prep ideas - save hours and eat healthy all week"
 description: "AI model comparison: Meal prep ideas - save hours and eat healthy all week..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Grok: Meal Prep"
+  title="Meal prep ideas - save hours and eat healthy all week"
   prompt="Meal prep ideas - save hours and eat healthy all week"
   :responses='{
     "ChatGPT": "Sure! Here are some meal prep ideas designed to save you hours each week and keep your meals healthy:\n\n### 1. **Batch Cooking Proteins**\n- **Grilled chicken breasts:** Season and bake or grill a large batch. Use for salads, wraps, stir-fries.\n- **Ground turkey or beef:** Cook with taco seasoning or Italian herbs for various meals.\n- **Baked tofu or tempeh:** Marinate and bake to add to bowls or salads.\n- **Hard-boiled eggs:** Cook a dozen at once for quick snacks or breakfast additions.\n\n### 2. **Grain Prep**\n- Cook large batches of quinoa, brown rice, or whole wheat pasta.\n- Store in the fridge or freezer in portioned containers.\n- Use as a base for bowls or side dishes during the week.\n\n### 3. **Roasted Vegetables**\n- Chop a variety of veggies (broccoli, bell peppers, sweet potatoes, carrots).\n- Toss with olive oil, salt, and your favorite herbs/spices.\n- Roast at 400\u00B0F (200\u00B0C) for about 25-30 minutes.\n- Use for sides, in wraps, or mixed into salads and grain bowls.\n\n### 4. **Salad Jars**\n- Layer ingredients in mason jars starting with dressing at the bottom, then harder veggies, grains/proteins, and leafy greens at the top.\n- When ready to eat, shake and enjoy a fresh salad that lasts 4-5 days in the fridge.\n\n### 5. **Overnight Oats or Chia Pudding**\n- Prep 4-5 jars with oats or chia seeds soaked in milk or yogurt.\n- Add fruits, nuts, and seeds for a quick, nutritious breakfast.\n\n### 6. **Soup or Stew**\n- Prepare a big pot of vegetable soup, chili, or lentil stew.\n- Portion into containers for easy lunches or dinners throughout the week.\n\n### 7. **Snack Packs**\n- Portion nuts, sliced veggies, hummus, or fruit into snack-sized containers or bags.\n- Helps avoid unhealthy snacking and saves prep time when hunger strikes.\n\n---\n\n### Sample Weekly Prep Plan (2\u20133 hours total)\n\n| Task                      | Time Estimate |\n|---------------------------|---------------|\n| Cook proteins             | 30-40 mins    |\n| Cook grains               | 20 mins       |\n| Roast vegetables          | 25-30 mins    |\n| Assemble salad jars       | 15 mins       |\n| Portion snacks            | 10 mins       |\n| Prepare breakfast jars    | 10 mins       |\n| Make soup or stew         | 40-60 mins    |\n\nStagger tasks so some are cooking while prepping others to maximize efficiency.\n\n---\n\nWould you like me to provide specific recipes or grocery lists based on your dietary preferences?",

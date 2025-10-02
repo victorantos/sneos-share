@@ -1,5 +1,5 @@
 ---
-title: "Claude vs Mistral vs Grok: Personal Training Comparison 2025"
+title: "Personal training business - online and in-person client acquisition"
 description: "AI model comparison: Personal training business - online and in-person client acquisition..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs Mistral vs Grok: Personal Training Comparison 2025"
+  title="Personal training business - online and in-person client acquisition"
   prompt="Personal training business - online and in-person client acquisition"
   :responses='{
     "Claude": "Here\u0027s a comprehensive client acquisition strategy for your personal training business:\n\n## **Online Client Acquisition**\n\n### Digital Marketing Foundation\n- **Professional website** with booking system, testimonials, and before/after photos\n- **SEO optimization** for local searches (\u0022personal trainer near me\u0022)\n- **Google My Business** profile with reviews and local visibility\n- **Social media presence** (Instagram, Facebook, TikTok) showcasing workouts and results\n\n### Content Marketing\n- **Free workout videos** and fitness tips\n- **Blog posts** about nutrition, exercise form, and fitness goals\n- **Email newsletter** with weekly tips and client spotlights\n- **Live Q\u0026A sessions** on social platforms\n\n### Online Lead Generation\n- **Free consultation calls** or fitness assessments\n- **Lead magnets** (workout plans, nutrition guides)\n- **Referral program** with existing clients\n- **Partnership with complementary businesses** (nutritionists, physiotherapists)\n\n## **In-Person Client Acquisition**\n\n### Local Networking\n- **Gym partnerships** - offer services at local gyms\n- **Community events** - health fairs, fitness challenges\n- **Corporate wellness programs**\n- **Local business partnerships** (doctors, chiropractors)\n\n### Direct Outreach\n- **Free introductory sessions**\n- **Group fitness classes** to showcase your style\n- **Outdoor boot camps** in parks\n- **Lunch-and-learn** sessions at offices\n\n## **Client Retention Strategies**\n- **Progress tracking** and regular check-ins\n- **Flexible scheduling** and package options\n- **Community building** through client groups\n- **Continuing education** to offer new services\n\nWhat\u0027s your current situation? Are you just starting out or looking to scale an existing business?",

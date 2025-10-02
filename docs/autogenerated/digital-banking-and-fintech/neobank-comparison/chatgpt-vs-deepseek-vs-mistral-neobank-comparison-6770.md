@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Mistral: Neobank Comparison"
+title: "challenger bank vs traditional"
 description: "AI model comparison: challenger bank vs traditional..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Mistral: Neobank Comparison"
+  title="challenger bank vs traditional"
   prompt="challenger bank vs traditional"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

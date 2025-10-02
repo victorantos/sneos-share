@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Grok: CBDC Preparation"
+title: "wholesale cbdc use cases"
 description: "AI model comparison: wholesale cbdc use cases..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Grok: CBDC Preparation"
+  title="wholesale cbdc use cases"
   prompt="wholesale cbdc use cases"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

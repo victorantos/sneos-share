@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: Fair Lending Algorithm"
+title: "adverse action notices ai"
 description: "AI model comparison: adverse action notices ai..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: Fair Lending Algorithm"
+  title="adverse action notices ai"
   prompt="adverse action notices ai"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

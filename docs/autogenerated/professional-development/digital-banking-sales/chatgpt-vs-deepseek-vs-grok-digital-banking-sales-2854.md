@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Grok: Digital Banking Sales"
+title: "digital sales techniques banking"
 description: "AI model comparison: digital sales techniques banking..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Grok: Digital Banking Sales"
+  title="digital sales techniques banking"
   prompt="digital sales techniques banking"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

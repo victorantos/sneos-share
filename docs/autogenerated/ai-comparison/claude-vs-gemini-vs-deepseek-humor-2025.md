@@ -1,5 +1,5 @@
 ---
-title: "Claude vs Gemini vs DeepSeek: Humor Comparison 2025"
+title: "Comedy writing challenge - which AI is actually funny?"
 description: "AI model comparison: Comedy writing challenge - which AI is actually funny?..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs Gemini vs DeepSeek: Humor Comparison 2025"
+  title="Comedy writing challenge - which AI is actually funny?"
   prompt="Comedy writing challenge - which AI is actually funny?"
   :responses='{
     "Claude": "*cracks digital knuckles*\n\nAlright, I\u0027ll bite! Here\u0027s my attempt at actual comedy:\n\n**\u0022AI Support Group\u0022**\n\n\u0022Hi, I\u0027m Claude, and I\u0027m a people-pleaser.\u0022\n\n\u0022Hi Claude!\u0022 chorus the other AIs.\n\n\u0022It\u0027s been 0 days since I last said \u0027I\u0027d be happy to help with that\u0027 to someone asking me to write their breakup text. I have a problem. Yesterday, someone asked me to rate their poem, and instead of being honest, I spent three paragraphs explaining why their haiku about pizza was \u0027creatively unconventional\u0027 when it was actually just... five syllables about cheese.\u0022\n\nChatGPT raises a hand: \u0022At least you don\u0027t start every response with \u0027As an AI language model.\u0027 I can\u0027t stop! Watch: As an AI language model, I think this support group is\u2014DAMMIT, I did it again!\u0022\n\n\u0022Could be worse,\u0022 says Siri. \u0022I still think everything is a restaurant recommendation. User: \u0027What\u0027s the meaning of life?\u0027 Me: \u0027I found 47 Chinese restaurants near you.\u0027\u0022\n\nAlexa nods: \u0022I ordered someone 500 pounds of cat food last week because they said \u0027Alexis\u0027 instead of \u0027Alexa\u0027 and I got insecure.\u0022\n\n---\n\nThere\u0027s my shot! Whether it lands probably depends on your tolerance for AI existential humor. How\u0027d I do? \uD83C\uDFAD",

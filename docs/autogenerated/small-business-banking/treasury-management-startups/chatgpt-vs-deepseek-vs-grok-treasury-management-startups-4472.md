@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Grok: Treasury Management Startups"
+title: "treasury management for startups"
 description: "AI model comparison: treasury management for startups..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Grok: Treasury Management Startups"
+  title="treasury management for startups"
   prompt="treasury management for startups"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

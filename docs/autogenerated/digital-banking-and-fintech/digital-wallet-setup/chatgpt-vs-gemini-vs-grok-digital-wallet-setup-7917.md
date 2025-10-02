@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Grok: Digital Wallet Setup"
+title: "samsung pay for business"
 description: "AI model comparison: samsung pay for business..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Grok: Digital Wallet Setup"
+  title="samsung pay for business"
   prompt="samsung pay for business"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

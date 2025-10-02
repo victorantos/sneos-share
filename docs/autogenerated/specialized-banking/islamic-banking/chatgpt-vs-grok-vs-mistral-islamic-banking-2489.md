@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Grok vs Mistral: Islamic Banking"
+title: "takaful insurance alternatives"
 description: "AI model comparison: takaful insurance alternatives..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Grok vs Mistral: Islamic Banking"
+  title="takaful insurance alternatives"
   prompt="takaful insurance alternatives"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

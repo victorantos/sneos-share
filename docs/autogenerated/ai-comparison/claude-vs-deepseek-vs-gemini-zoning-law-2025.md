@@ -1,5 +1,5 @@
 ---
-title: "Claude vs DeepSeek vs Gemini: Zoning Law Comparison 2025"
+title: "Fight zoning restrictions - property rights advocacy"
 description: "AI model comparison: Fight zoning restrictions - property rights advocacy..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs DeepSeek vs Gemini: Zoning Law Comparison 2025"
+  title="Fight zoning restrictions - property rights advocacy"
   prompt="Fight zoning restrictions - property rights advocacy"
   :responses='{
     "Claude": "# Property Rights \u0026 Zoning Reform Advocacy\n\n## Understanding Zoning Issues\n\n**Common problematic restrictions:**\n- Excessive minimum lot sizes\n- Single-family-only zoning\n- Height and density limits\n- Setback requirements\n- Parking mandates\n- Use restrictions\n\n## Strategic Approaches\n\n### Legal Channels\n- **Administrative appeals** - Challenge specific decisions\n- **Variance applications** - Seek relief from restrictions\n- **Constitutional challenges** - Due process, equal protection, takings claims\n- **State law preemption** - Use higher-level regulations\n\n### Policy Reform\n- **Local government engagement**\n  - Attend city council/planning meetings\n  - Build coalitions with like-minded residents\n  - Present economic and social benefits of reform\n\n- **Ballot initiatives** - Direct democracy where available\n\n### Effective Arguments\n- **Economic development** - Job creation, tax base expansion\n- **Housing affordability** - Increase supply to reduce costs\n- **Property value protection** - Allow market-driven improvements\n- **Individual liberty** - Right to use property peacefully\n\n## Resources\n- Institute for Justice (legal support)\n- Strong Towns (policy research)\n- Local property rights organizations\n- Zoning attorneys\n\nWould you like me to elaborate on any specific aspect of zoning reform advocacy?",

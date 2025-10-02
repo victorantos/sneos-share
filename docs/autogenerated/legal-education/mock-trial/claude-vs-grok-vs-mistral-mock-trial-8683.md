@@ -1,5 +1,5 @@
 ---
-title: "Claude vs Grok vs Mistral: Mock Trial"
+title: "closing argument techniques"
 description: "AI model comparison: closing argument techniques..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs Grok vs Mistral: Mock Trial"
+  title="closing argument techniques"
   prompt="closing argument techniques"
   :responses='{
     "Claude": "Here are key closing argument techniques used by effective trial attorneys:\n\n## Structure and Organization\n\n**The Story Arc**\n- Present a clear, compelling narrative that ties all evidence together\n- Use chronological order or cause-and-effect structure\n- Create memorable themes that resonate throughout\n\n**Three-Part Framework**\n- Tell them what you\u0027re going to tell them (preview)\n- Tell them (main argument)\n- Tell them what you told them (summary)\n\n## Persuasion Techniques\n\n**Emotional Connection**\n- Use vivid, concrete language over abstract concepts\n- Appeal to shared values and common sense\n- Paint pictures with words to help jurors visualize events\n\n**Logical Reasoning**\n- Present evidence systematically\n- Address counterarguments proactively\n- Use analogies and metaphors to clarify complex issues\n\n**Credibility Building**\n- Acknowledge weaknesses honestly\n- Stay consistent with opening statements\n- Use precise, confident language\n\n## Delivery Methods\n\n**Rhetorical Devices**\n- Rule of three (grouping points in threes)\n- Repetition for emphasis\n- Rhetorical questions to engage thinking\n\n**Visual and Physical Techniques**\n- Strategic movement and gestures\n- Eye contact with individual jurors\n- Use of exhibits and demonstrative aids\n\n**Timing and Pacing**\n- Vary speech rhythm for emphasis\n- Use strategic pauses\n- Build to climactic moments\n\n## Psychological Strategies\n\n**Burden of Proof**\n- Clearly explain what must be proven\n- Demonstrate how evidence meets that burden\n- Address reasonable doubt appropriately\n\n**Call to Action**\n- End with specific, clear requests\n- Appeal to justice and duty\n- Make the desired verdict feel inevitable\n\nWould you like me to elaborate on any particular aspect of closing arguments?",

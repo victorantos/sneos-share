@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Grok vs Mistral: Fair Lending Algorithm"
+title: "credit model validation"
 description: "AI model comparison: credit model validation..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Grok vs Mistral: Fair Lending Algorithm"
+  title="credit model validation"
   prompt="credit model validation"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

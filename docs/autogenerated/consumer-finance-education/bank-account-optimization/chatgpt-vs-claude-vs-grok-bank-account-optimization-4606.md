@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Grok: Bank Account Optimization"
+title: "maximizing bank account yields"
 description: "AI model comparison: maximizing bank account yields..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Grok: Bank Account Optimization"
+  title="maximizing bank account yields"
   prompt="maximizing bank account yields"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

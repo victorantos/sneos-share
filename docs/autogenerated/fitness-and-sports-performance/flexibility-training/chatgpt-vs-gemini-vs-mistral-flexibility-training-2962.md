@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: Flexibility Training"
+title: "Flexibility and mobility routine - improve range of motion"
 description: "AI model comparison: Flexibility and mobility routine - improve range of motion..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: Flexibility Training"
+  title="Flexibility and mobility routine - improve range of motion"
   prompt="Flexibility and mobility routine - improve range of motion"
   :responses='{
     "ChatGPT": "Certainly! Here\u0027s a flexibility and mobility routine designed to improve your range of motion. This routine targets major joints and muscle groups and can be done daily or at least 3-4 times a week.\n\n### Warm-Up (5-10 minutes)\n- Gentle cardio: brisk walking, jogging, or cycling to increase blood flow and prepare muscles.\n\n---\n\n### Flexibility and Mobility Routine\n\n#### 1. Neck Circles\n- Slowly rotate your head in a full circle.\n- 5 circles clockwise, 5 circles counterclockwise.\n- Keep movements slow and controlled.\n\n#### 2. Shoulder Rolls\n- Roll shoulders forward in a circular motion 10 times.\n- Then roll shoulders backward 10 times.\n\n#### 3. Arm Cross-Body Stretch\n- Extend right arm straight across your chest.\n- Use left hand to press arm toward chest.\n- Hold 20-30 seconds, switch arms.\n\n#### 4. Cat-Cow Stretch (Spine Mobility)\n- Start on hands and knees.\n- Inhale: arch your back, lift head and tailbone (Cow).\n- Exhale: round your spine, tuck chin and tailbone (Cat).\n- Repeat for 10 rounds.\n\n#### 5. Thread the Needle (Thoracic Spine Mobility)\n- From hands and knees, slide right arm under left arm, lowering shoulder and head toward floor.\n- Hold 20-30 seconds, then switch sides.\n\n#### 6. Hip Flexor Stretch\n- In a lunge position with right foot forward.\n- Lower left knee to floor.\n- Push hips forward gently.\n- Hold 30 seconds, switch sides.\n\n#### 7. Seated Hamstring Stretch\n- Sit with one leg extended, other foot against inner thigh.\n- Reach toward toes of extended leg.\n- Hold 30 seconds per leg.\n\n#### 8. Butterfly Stretch (Inner Thigh \u0026 Hips)\n- Sit with soles of feet together.\n- Gently press knees toward floor.\n- Hold for 30 seconds.\n\n#### 9. Ankle Circles\n- Sit or lie down, lift one foot off the ground.\n- Rotate ankle clockwise 10 times, then counterclockwise 10 times.\n- Repeat with the other ankle.\n\n#### 10. Downward Dog (Full Body Mobility)\n- From hands and feet on floor, lift hips toward ceiling.\n- Keep heels reaching toward floor, stretch hamstrings, calves, and back.\n- Hold for 30 seconds.\n\n---\n\n### Tips:\n- Breathe deeply and evenly throughout each stretch.\n- Never force a movement into pain; mild discomfort is okay.\n- Consistency is key for improving mobility.\n- Consider adding foam rolling for muscle relaxation before stretching.\n\nWould you like a printable version or a video recommendation?",

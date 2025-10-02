@@ -1,5 +1,5 @@
 ---
-title: "Claude vs DeepSeek vs Grok: Digital Nomad Banking"
+title: "banking while traveling"
 description: "AI model comparison: banking while traveling..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs DeepSeek vs Grok: Digital Nomad Banking"
+  title="banking while traveling"
   prompt="banking while traveling"
   :responses='{
     "Claude": "Here are key tips for banking while traveling:\n\n## Before You Leave\n- **Notify your bank** of travel dates and destinations to prevent card blocks\n- **Check foreign transaction fees** and ATM partner networks\n- **Get contact info** for your bank\u0027s international customer service\n- **Download banking apps** and set up mobile notifications\n\n## Cards \u0026 Cash\n- **Bring multiple cards** (credit and debit from different networks)\n- **Carry some local currency** for arrival, but don\u0027t over-exchange\n- **Use ATMs** for better exchange rates than currency exchanges\n- **Consider travel-friendly cards** with no foreign transaction fees\n\n## Safety Tips\n- **Use bank ATMs** rather than standalone machines when possible\n- **Cover your PIN** and be aware of your surroundings\n- **Keep cards separate** - don\u0027t carry all in one wallet\n- **Have backup access** - leave card info with trusted person at home\n\n## Digital Banking\n- **Mobile banking apps** work internationally with internet/data\n- **Enable notifications** for all transactions\n- **Use secure WiFi** or mobile data for banking\n- **Consider VPN** for added security on public networks\n\n## Emergency Preparedness\n- **Keep emergency cash** hidden separately\n- **Know how to contact your bank** internationally\n- **Have backup payment methods** (different card networks)\n- **Document card numbers** (stored securely, separately from cards)\n\nWould you like specific advice for a particular destination or banking situation?",

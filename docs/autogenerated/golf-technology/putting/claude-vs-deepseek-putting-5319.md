@@ -1,5 +1,5 @@
 ---
-title: "Claude vs DeepSeek: Putting"
+title: "putting simulator small space"
 description: "AI model comparison: putting simulator small space..."
 date: 2025-10-01
 category: comparison
@@ -16,7 +16,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs DeepSeek: Putting"
+  title="putting simulator small space"
   prompt="putting simulator small space"
   :responses='{
     "Claude": "Here are some ideas for setting up a simulator in a small space:\n\n## **Compact Simulator Options**\n\n**Racing/Flight Sims:**\n- Foldable wheel/HOTAS mounts that attach to existing chairs\n- Compact racing seats that fold against walls\n- Single-monitor setups vs. triple monitors\n- VR headsets (eliminate need for multiple screens)\n\n**Flight Training:**\n- Tablet-based flight simulators\n- Yoke attachments for desks\n- Rudder pedals that slide under furniture\n\n## **Space-Saving Solutions**\n\n**Furniture:**\n- Wall-mounted fold-down desks\n- Rolling carts for equipment storage\n- Multi-purpose furniture (ottoman storage, etc.)\n- Murphy bed-style setups that fold into wall\n\n**Equipment:**\n- Wireless controllers to reduce cable clutter\n- Compact force feedback wheels\n- Adjustable monitor arms\n- Stackable/nestable components\n\n**Room Layout:**\n- Corner setups to maximize floor space\n- Vertical storage solutions\n- Ceiling-mounted equipment when possible\n\n## **Quick Setup/Breakdown**\n- Modular systems you can assemble quickly\n- Equipment that stores in closets/under beds\n- Magnetic or clamp-on attachments\n\nWhat type of simulator are you most interested in? I can provide more specific recommendations based on your needs and available space.",

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Teaching Assistant"
+title: "TA responsibilities - balance teaching duties with research progress"
 description: "AI model comparison: TA responsibilities - balance teaching duties with research progress..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Teaching Assistant"
+  title="TA responsibilities - balance teaching duties with research progress"
   prompt="TA responsibilities - balance teaching duties with research progress"
   :responses='{
     "ChatGPT": "Balancing teaching responsibilities with research progress is a common challenge for graduate teaching assistants (TAs). Here are some strategies to help manage both effectively:\n\n### Time Management\n- **Create a Weekly Schedule:** Allocate specific blocks of time for teaching duties (grading, office hours, preparation) and research activities.\n- **Prioritize Tasks:** Use tools like to-do lists or digital planners to prioritize urgent and important tasks in both teaching and research.\n- **Set Boundaries:** Avoid letting teaching responsibilities spill over into your dedicated research time.\n\n### Efficient Teaching Practices\n- **Prepare in Advance:** Plan lectures, tutorials, and grading rubrics ahead of time to reduce last-minute stress.\n- **Use Technology:** Leverage learning management systems (LMS), grading software, and online resources to streamline teaching tasks.\n- **Delegate When Possible:** If you have a team, divide grading or administrative tasks fairly.\n\n### Communication\n- **Set Expectations:** Communicate clearly with your supervisor and instructors about your availability and workload.\n- **Seek Feedback:** Discuss your progress and challenges regularly with your advisor to get guidance.\n\n### Self-Care and Flexibility\n- **Take Breaks:** Schedule short breaks to maintain focus and avoid burnout.\n- **Be Flexible:** Sometimes research or teaching will demand more attention\u2014adjust your schedule accordingly but keep a long-term balance in mind.\n\n### Leverage Support Resources\n- **Use University Resources:** Attend workshops on time management and teaching skills.\n- **Peer Support:** Collaborate with fellow TAs to share strategies and support.\n\nBy implementing these strategies, you can maintain a productive balance between your teaching duties and research progress.",

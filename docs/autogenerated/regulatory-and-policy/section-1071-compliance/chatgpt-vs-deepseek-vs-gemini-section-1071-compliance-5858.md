@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Section 1071 Compliance"
+title: "section 1071 penalties"
 description: "AI model comparison: section 1071 penalties..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Section 1071 Compliance"
+  title="section 1071 penalties"
   prompt="section 1071 penalties"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

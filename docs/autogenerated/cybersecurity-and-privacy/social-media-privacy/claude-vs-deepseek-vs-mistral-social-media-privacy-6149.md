@@ -1,5 +1,5 @@
 ---
-title: "Claude vs DeepSeek vs Mistral: Social Media Privacy"
+title: "Social media privacy settings - control who sees your data"
 description: "AI model comparison: Social media privacy settings - control who sees your data..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs DeepSeek vs Mistral: Social Media Privacy"
+  title="Social media privacy settings - control who sees your data"
   prompt="Social media privacy settings - control who sees your data"
   :responses='{
     "Claude": "# Social Media Privacy Settings Guide\n\n## \uD83D\uDD12 Key Privacy Controls\n\n### **Profile Visibility**\n- Set profile to private/friends-only\n- Control who can find you via search\n- Limit contact information visibility\n- Review tagged photos before they appear\n\n### **Post \u0026 Content Settings**\n- Default audience for new posts\n- Limit past posts visibility\n- Control who can tag you\n- Manage story/highlights viewers\n\n### **Data \u0026 Advertising**\n- Opt out of targeted advertising\n- Limit data collection for ads\n- Review connected apps/websites\n- Download your data to see what\u0027s stored\n\n## \uD83D\uDCF1 Platform-Specific Quick Settings\n\n### **Facebook/Meta**\n- Settings \u2192 Privacy \u2192 Profile and Tagging\n- Ad Preferences \u2192 Data about your activity\n- Apps and Websites \u2192 Remove unused connections\n\n### **Instagram**\n- Settings \u2192 Privacy \u2192 Account Privacy\n- Settings \u2192 Ads \u2192 Ad Topics/Data\n- Close Friends lists for stories\n\n### **Twitter/X**\n- Settings \u2192 Privacy and Safety\n- Personalization \u2192 Limit ad targeting\n- Direct Messages \u2192 Filter requests\n\n### **TikTok**\n- Privacy \u2192 Account Privacy\n- Safety \u2192 Comments/Duets/Messages\n- Ads \u2192 Advertising Settings\n\n## \u26A1 Quick Privacy Checklist\n\n- [ ] Enable two-factor authentication\n- [ ] Review and remove unused apps\n- [ ] Check location sharing settings\n- [ ] Audit follower/friend lists\n- [ ] Turn off activity status when possible\n- [ ] Limit personal information in bio/profile\n\n**Pro tip**: Review privacy settings every few months, as platforms frequently update their policies and options.\n\nWould you like specific guidance for any particular platform?",

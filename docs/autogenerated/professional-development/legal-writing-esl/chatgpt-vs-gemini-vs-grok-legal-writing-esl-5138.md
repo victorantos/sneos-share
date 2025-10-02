@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Grok: Legal Writing ESL"
+title: "legal idioms english"
 description: "AI model comparison: legal idioms english..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Grok: Legal Writing ESL"
+  title="legal idioms english"
   prompt="legal idioms english"
   :responses='{
     "ChatGPT": "Certainly! Here are some common legal idioms in English along with their meanings:\n\n1. **Above the law**  \n   Meaning: Exempt from the law or not subject to legal rules.\n\n2. **Black letter law**  \n   Meaning: The well-established, clear, and unambiguous rules of law.\n\n3. **Blind justice**  \n   Meaning: The principle that justice should be impartial and fair, without bias.\n\n4. **Caught red-handed**  \n   Meaning: Caught in the act of committing a crime.\n\n5. **Case in point**  \n   Meaning: An example that clearly illustrates a situation or argument.\n\n6. **Cross the line**  \n   Meaning: To act in an unacceptable or illegal manner.\n\n7. **Day in court**  \n   Meaning: An opportunity to present one\u0027s case or defend oneself legally.\n\n8. **Get off scot-free**  \n   Meaning: To escape punishment despite wrongdoing.\n\n9. **In the dock**  \n   Meaning: Being on trial or under suspicion.\n\n10. **Plea bargain**  \n    Meaning: An agreement in a criminal case where the defendant agrees to plead guilty to a lesser charge.\n\n11. **Throw the book at someone**  \n    Meaning: To punish someone as severely as possible.\n\n12. **Double jeopardy**  \n    Meaning: Being tried twice for the same crime, which is prohibited in many legal systems.\n\n13. **On the stand**  \n    Meaning: Giving testimony in court as a witness.\n\n14. **Bury the hatchet**  \n    Meaning: To make peace and end a dispute (often used in legal settlements).\n\n15. **Take the law into one\u0027s own hands**  \n    Meaning: To attempt to enforce the law or punish someone without legal authority.\n\nIf you want more examples or explanations, feel free to ask!",

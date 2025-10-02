@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Grok: Challenger Bank Compliance"
+title: "banking sponsor bank relationships"
 description: "AI model comparison: banking sponsor bank relationships..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Grok: Challenger Bank Compliance"
+  title="banking sponsor bank relationships"
   prompt="banking sponsor bank relationships"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

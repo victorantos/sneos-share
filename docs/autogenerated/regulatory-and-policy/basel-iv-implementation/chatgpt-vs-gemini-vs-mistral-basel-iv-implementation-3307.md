@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: Basel IV Implementation"
+title: "basel iv implementation mid-size banks"
 description: "AI model comparison: basel iv implementation mid-size banks..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: Basel IV Implementation"
+  title="basel iv implementation mid-size banks"
   prompt="basel iv implementation mid-size banks"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

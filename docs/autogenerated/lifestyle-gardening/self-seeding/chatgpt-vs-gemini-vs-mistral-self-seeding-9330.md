@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: Self-Seeding"
+title: "self seeding plants list"
 description: "AI model comparison: self seeding plants list..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: Self-Seeding"
+  title="self seeding plants list"
   prompt="self seeding plants list"
   :responses='{
     "ChatGPT": "Self-seeding plants are those that readily drop seeds which then germinate and grow the following season, often resulting in new plants without additional planting effort. Here is a list of common self-seeding plants, including flowers, herbs, and vegetables:\n\n### Self-Seeding Flowers:\n1. **Calendula (Pot Marigold)**\n2. **Cosmos**\n3. **Nigella (Love-in-a-Mist)**\n4. **Larkspur**\n5. **Sweet Peas**\n6. **Poppies**\n7. **Cornflowers (Bachelor\u2019s Button)**\n8. **Snapdragons**\n9. **Dill**\n10. **Love Lies Bleeding (Amaranth)**\n11. **Forget-Me-Not**\n12. **California Poppy**\n13. **Sunflowers**\n14. **Foxglove**\n15. **Wallflower**\n\n### Self-Seeding Herbs:\n1. **Basil** (some varieties)\n2. **Cilantro (Coriander)**\n3. **Chives**\n4. **Dill**\n5. **Parsley**\n6. **Thyme** (can self-seed in ideal conditions)\n7. **Fennel**\n\n### Self-Seeding Vegetables:\n1. **Lettuce**\n2. **Radish**\n3. **Peas**\n4. **Spinach**\n5. **Swiss Chard**\n\n### Tips for Managing Self-Seeding Plants:\n- Allow some seed heads to dry on the plant before collecting seeds or letting them drop naturally.\n- Thin seedlings in the next season to avoid overcrowding.\n- Some plants might spread aggressively, so monitor their growth.\n\nIf you have specific plants in mind or want recommendations for certain garden conditions, let me know!",

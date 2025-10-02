@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs DeepSeek: Fraud Prevention Mobile"
+title: "behavioral biometrics banking"
 description: "AI model comparison: behavioral biometrics banking..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs DeepSeek: Fraud Prevention Mobile"
+  title="behavioral biometrics banking"
   prompt="behavioral biometrics banking"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

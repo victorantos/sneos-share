@@ -1,5 +1,5 @@
 ---
-title: "Claude vs Grok vs Mistral: Picky Eater"
+title: "Get picky eater to try new foods - proven strategies"
 description: "AI model comparison: Get picky eater to try new foods - proven strategies..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs Grok vs Mistral: Picky Eater"
+  title="Get picky eater to try new foods - proven strategies"
   prompt="Get picky eater to try new foods - proven strategies"
   :responses='{
     "Claude": "# Proven Strategies to Help Picky Eaters Try New Foods\n\n## **Start Small \u0026 Build Gradually**\n- **Tiny tastes**: Start with micro-portions (just a lick or small bite)\n- **Food bridging**: Introduce new foods similar to ones they already like\n- **Mix familiar with new**: Combine small amounts of new foods with favorites\n\n## **Reduce Pressure**\n- **No-pressure exposure**: Put new foods on the plate without requiring them to eat it\n- **Try the \u0022one bite rule\u0022**: Just one taste, no more required\n- **Avoid bribes/rewards**: These can backfire and create negative associations\n\n## **Make It Fun \u0026 Interactive**\n- **Involve them in cooking**: Let them help prepare meals\n- **Food exploration**: Touch, smell, and play with food before eating\n- **Creative presentations**: Fun shapes, colorful arrangements, or themed meals\n- **Family-style serving**: Let them serve themselves\n\n## **Use Social Influence**\n- **Model eating**: Eat the foods yourself enthusiastically\n- **Peer influence**: Eat with other children who enjoy varied foods\n- **Avoid becoming a short-order cook**: Serve one meal for the family\n\n## **Repeated Exposure**\n- **10\u002B exposures rule**: It often takes 10-15 exposures before acceptance\n- **Stay consistent**: Keep offering rejected foods periodically\n- **Different preparations**: Try the same food cooked different ways\n\n## **Address Sensory Issues**\n- **Texture modifications**: Adjust textures gradually (puree \u2192 chopped \u2192 whole)\n- **Temperature preferences**: Offer foods at different temperatures\n- **Separate foods**: Keep foods from touching if that\u0027s an issue\n\n## **Create Positive Food Environments**\n- **Regular meal times**: Establish consistent eating schedules\n- **Minimize distractions**: Turn off screens during meals\n- **Pleasant atmosphere**: Keep mealtimes relaxed and enjoyable\n\n## **When to Seek Professional Help**\n- Growth concerns or significant weight loss\n- Extreme food aversions affecting nutrition\n- Mealtimes causing severe family stress\n- Sensory processing issues\n\n**Remember**: Progress is often slow, and temporary setbacks are normal. Stay patient and consistent!",

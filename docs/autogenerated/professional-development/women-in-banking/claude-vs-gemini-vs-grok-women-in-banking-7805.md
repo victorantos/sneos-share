@@ -1,5 +1,5 @@
 ---
-title: "Claude vs Gemini vs Grok: Women in Banking"
+title: "female banking executives"
 description: "AI model comparison: female banking executives..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs Gemini vs Grok: Women in Banking"
+  title="female banking executives"
   prompt="female banking executives"
   :responses='{
     "Claude": "Female banking executives have made significant strides in an industry that was historically male-dominated. Here are some key points about women in banking leadership:\n\n## Notable Current and Recent Leaders\n\n**Current Executives:**\n- **Jane Fraser** - CEO of Citigroup (first woman to lead a major U.S. bank)\n- **Marianne Lake** - CEO of Consumer \u0026 Community Banking at JPMorgan Chase\n- **Jennifer Piepszak** - Co-CEO of Commercial \u0026 Investment Bank at JPMorgan Chase\n- **Alison Rose** - CEO of NatWest Group (UK)\n\n**Notable Past Leaders:**\n- **Abigail Johnson** - CEO of Fidelity Investments\n- **Ellen Costello** - Former CEO of BNY Mellon Wealth Management\n- **Ruth Porat** - CFO of Alphabet (formerly Goldman Sachs CFO)\n\n## Progress and Challenges\n\n**Positive Trends:**\n- Increasing representation in C-suite and board positions\n- More women in senior risk, compliance, and operational roles\n- Growing pipeline of female talent in mid-level management\n\n**Ongoing Challenges:**\n- Still underrepresented at the CEO level of major banks\n- Pay gaps persist in some institutions\n- Work-life balance pressures in demanding roles\n\n## Industry Impact\n\nFemale executives have often been credited with:\n- Bringing diverse perspectives to risk management\n- Emphasizing stakeholder capitalism and ESG initiatives\n- Improving corporate governance and compliance cultures\n\nWould you like me to focus on any particular aspect, such as specific leaders, career paths, or industry trends?",

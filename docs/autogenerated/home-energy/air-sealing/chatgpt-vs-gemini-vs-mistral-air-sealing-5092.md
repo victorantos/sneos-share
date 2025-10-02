@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: Air Sealing"
+title: "air sealing home energy savings"
 description: "AI model comparison: air sealing home energy savings..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: Air Sealing"
+  title="air sealing home energy savings"
   prompt="air sealing home energy savings"
   :responses='{
     "ChatGPT": "Air sealing your home can lead to significant energy savings by reducing the amount of air that leaks in and out of your house. This improves the efficiency of your heating and cooling systems, leading to lower energy bills and increased comfort. Here\u2019s a breakdown of how air sealing saves energy and some tips to get started:\n\n### How Air Sealing Saves Energy\n1. **Reduces Heat Loss in Winter:** Sealing leaks prevents warm air from escaping through gaps around windows, doors, attics, and foundations.\n2. **Keeps Cool Air Inside During Summer:** Stops conditioned air from leaking out, reducing the workload on air conditioners.\n3. **Improves HVAC Efficiency:** When the home is properly sealed, your heating and cooling systems operate more efficiently and cycle less frequently.\n4. **Enhances Comfort:** Eliminates drafts and cold spots, creating a more consistent indoor temperature.\n5. **Improves Indoor Air Quality:** Controlling where outside air enters can prevent dust, pollutants, and moisture from infiltrating the home.\n\n### Potential Energy Savings\n- Air sealing can reduce energy bills by **10-20%** or more depending on the initial condition of your home.\n- Savings vary based on climate, home size, and current efficiency.\n\n### Common Areas to Air Seal\n- Around window and door frames\n- Attic hatches and access doors\n- Electrical outlets and switch plates on exterior walls\n- Baseboards and molding gaps\n- Plumbing and wiring penetrations\n- Recessed lighting fixtures\n- Fireplace dampers\n- Vent pipes and dryer vents\n\n### Materials for Air Sealing\n- Caulk (for small gaps)\n- Weatherstripping (around doors/windows)\n- Expanding spray foam (for larger gaps and cavities)\n- Gaskets and foam sealants\n\n### Tips for Effective Air Sealing\n- Conduct a blower door test (professional service) to identify leaks.\n- Seal from the attic down to ensure the building envelope is tight.\n- Combine air sealing with insulation improvements for maximum efficiency.\n- Pay attention to ventilation to maintain good indoor air quality (consider controlled ventilation systems).\n\n### Summary\nBy carefully sealing leaks in your home\u2019s building envelope, you reduce energy waste, lower utility bills, and increase indoor comfort. Air sealing is often one of the most cost-effective home energy upgrade measures homeowners can undertake.",

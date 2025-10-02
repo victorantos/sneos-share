@@ -1,5 +1,5 @@
 ---
-title: "Claude vs DeepSeek vs Gemini: Embedded Finance SMB"
+title: "embedded lending platforms"
 description: "AI model comparison: embedded lending platforms..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs DeepSeek vs Gemini: Embedded Finance SMB"
+  title="embedded lending platforms"
   prompt="embedded lending platforms"
   :responses='{
     "Claude": "Embedded lending platforms are financial technology solutions that integrate loan and credit services directly into non-financial businesses\u0027 existing products, services, or customer experiences. Here\u0027s an overview:\n\n## What is Embedded Lending?\n\nEmbedded lending allows businesses to offer financing options seamlessly within their platforms without customers needing to visit separate financial institutions. The lending functionality becomes part of the core user experience.\n\n## Key Players\n\n**Major Embedded Lending Platforms:**\n- **Stripe Capital** - Integrated business loans\n- **Square Capital** - Small business advances\n- **PayPal Working Capital** - Merchant cash advances\n- **Shopify Capital** - E-commerce merchant financing\n- **Affirm** - Buy-now-pay-later integration\n- **Klarna** - Point-of-sale financing\n- **Sezzle** - Installment payment solutions\n- **Lending Club** - API-driven lending solutions\n\n## Common Use Cases\n\n**E-commerce \u0026 Retail:**\n- Point-of-sale financing\n- Buy-now-pay-later options\n- Inventory financing for merchants\n\n**B2B Platforms:**\n- Working capital loans\n- Invoice financing\n- Equipment financing\n- Supply chain financing\n\n**Marketplaces:**\n- Seller financing\n- Buyer credit options\n- Cash flow solutions\n\n## Benefits\n\n**For Businesses:**\n- Additional revenue streams\n- Improved customer retention\n- Higher conversion rates\n- Better customer experience\n- No need to build lending infrastructure\n\n**For Customers:**\n- Seamless application process\n- Faster approval decisions\n- Context-aware lending options\n- Integrated payment experiences\n\n## Technology Components\n\n- **APIs** for loan origination\n- **Risk assessment** algorithms\n- **Compliance** management tools\n- **Payment processing** integration\n- **Data analytics** capabilities\n- **Regulatory** reporting features\n\nWould you like me to elaborate on any specific aspect of embedded lending platforms?",

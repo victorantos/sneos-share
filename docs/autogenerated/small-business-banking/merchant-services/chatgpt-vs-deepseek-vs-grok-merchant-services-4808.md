@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Grok: Merchant Services"
+title: "payment processor comparison"
 description: "AI model comparison: payment processor comparison..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Grok: Merchant Services"
+  title="payment processor comparison"
   prompt="payment processor comparison"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

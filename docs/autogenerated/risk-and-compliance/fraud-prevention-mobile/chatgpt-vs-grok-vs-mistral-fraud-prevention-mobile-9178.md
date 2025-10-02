@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Grok vs Mistral: Fraud Prevention Mobile"
+title: "mobile payment security"
 description: "AI model comparison: mobile payment security..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Grok vs Mistral: Fraud Prevention Mobile"
+  title="mobile payment security"
   prompt="mobile payment security"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

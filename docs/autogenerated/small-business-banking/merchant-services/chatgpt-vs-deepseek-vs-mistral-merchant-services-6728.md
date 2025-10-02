@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Mistral: Merchant Services"
+title: "merchant cash advance alternatives"
 description: "AI model comparison: merchant cash advance alternatives..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Mistral: Merchant Services"
+  title="merchant cash advance alternatives"
   prompt="merchant cash advance alternatives"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

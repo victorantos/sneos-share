@@ -1,5 +1,5 @@
 ---
-title: "Claude vs DeepSeek vs Grok: Remote Work Finance"
+title: "work from home banking security"
 description: "AI model comparison: work from home banking security..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs DeepSeek vs Grok: Remote Work Finance"
+  title="work from home banking security"
   prompt="work from home banking security"
   :responses='{
     "Claude": "# Work From Home Banking Security Best Practices\n\n## Network Security\n- **Use secure connections**: Connect via VPN when accessing banking systems\n- **Avoid public Wi-Fi**: Never access banking platforms on public networks\n- **Router security**: Ensure home router has WPA3 encryption and updated firmware\n- **Dedicated network**: Consider separate network/VLAN for work activities\n\n## Device Security\n- **Company-issued devices**: Use bank-provided equipment when possible\n- **Updated software**: Keep OS, browsers, and security software current\n- **Endpoint protection**: Install approved antivirus/anti-malware solutions\n- **Screen locks**: Enable automatic screen locks with strong passwords\n- **Webcam/microphone**: Cover when not in use; be aware of surroundings during calls\n\n## Access Controls\n- **Multi-factor authentication (MFA)**: Always enable for all banking systems\n- **Strong passwords**: Use unique, complex passwords with password managers\n- **Principle of least privilege**: Only access systems necessary for your role\n- **Session management**: Log out completely when stepping away\n\n## Physical Security\n- **Private workspace**: Work in areas where screens aren\u0027t visible to others\n- **Secure storage**: Lock away sensitive documents and devices\n- **Clean desk policy**: Remove/secure confidential materials when not working\n- **Visitor awareness**: Ensure household members can\u0027t overhear confidential calls\n\n## Data Protection\n- **Encryption**: Ensure all sensitive data is encrypted in transit and at rest\n- **No personal storage**: Don\u0027t save work files on personal devices/cloud storage\n- **Secure printing**: Use approved printers; properly dispose of printed materials\n- **Email security**: Use encrypted email for sensitive communications\n\n## Compliance Considerations\n- **Regulatory requirements**: Follow SOX, PCI DSS, GLBA, and other applicable regulations\n- **Documentation**: Maintain logs of security measures and incidents\n- **Regular training**: Stay updated on security policies and threat awareness\n- **Incident reporting**: Know procedures for reporting security concerns immediately\n\nWould you like me to elaborate on any specific aspect of banking security for remote work?",

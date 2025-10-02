@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Grok: Climate Risk Banking"
+title: "esg reporting requirements banks"
 description: "AI model comparison: esg reporting requirements banks..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Grok: Climate Risk Banking"
+  title="esg reporting requirements banks"
   prompt="esg reporting requirements banks"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

@@ -1,5 +1,5 @@
 ---
-title: "Claude vs Mistral vs ChatGPT: White Collar Defense Comparison 2025"
+title: "White collar criminal defense - protect business executives"
 description: "AI model comparison: White collar criminal defense - protect business executives..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs Mistral vs ChatGPT: White Collar Defense Comparison 2025"
+  title="White collar criminal defense - protect business executives"
   prompt="White collar criminal defense - protect business executives"
   :responses='{
     "Claude": "Here\u0027s an overview of white collar criminal defense strategies for business executives:\n\n## Key Focus Areas\n\n**Pre-Investigation Preparation**\n- Implement robust compliance programs\n- Establish attorney-client privilege protocols\n- Train executives on document retention policies\n- Create internal investigation procedures\n\n**Common White Collar Charges**\n- Securities fraud and insider trading\n- Tax evasion and financial reporting violations\n- Bribery and corruption (including FCPA violations)\n- Antitrust violations\n- Money laundering and RICO charges\n\n## Defense Strategies\n\n**Early Intervention**\n- Engage experienced white collar defense counsel immediately\n- Conduct internal investigations before government involvement\n- Consider voluntary disclosure when appropriate\n- Negotiate cooperation agreements strategically\n\n**Evidence and Documentation**\n- Preserve relevant documents and communications\n- Challenge search warrants and subpoenas when appropriate\n- Assert applicable privileges (attorney-client, work product)\n- Control narrative through selective document production\n\n**Trial Defense Tactics**\n- Challenge intent elements (lack of criminal intent)\n- Argue good faith reliance on counsel or compliance programs\n- Attack government\u0027s theory of the case\n- Present character evidence and mitigation\n\n## Practical Considerations\n\n- **Parallel proceedings**: Managing civil, criminal, and regulatory matters simultaneously\n- **Sentencing mitigation**: Cooperation credit, acceptance of responsibility\n- **Reputational management**: Coordinating with PR professionals\n- **Asset protection**: Preventing forfeiture and freezing orders\n\nWould you like me to elaborate on any specific aspect of white collar defense strategy?",

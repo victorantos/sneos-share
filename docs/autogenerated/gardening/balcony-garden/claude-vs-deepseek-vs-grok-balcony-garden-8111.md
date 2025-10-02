@@ -1,5 +1,5 @@
 ---
-title: "Claude vs DeepSeek vs Grok: Balcony Garden"
+title: "balcony garden ideas small space"
 description: "AI model comparison: balcony garden ideas small space..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs DeepSeek vs Grok: Balcony Garden"
+  title="balcony garden ideas small space"
   prompt="balcony garden ideas small space"
   :responses='{
     "Claude": "Here are creative ideas to maximize your small balcony garden:\n\n## **Vertical Growing Solutions**\n- **Wall planters** and pocket gardens\n- **Hanging baskets** at different heights\n- **Ladder shelves** or tiered plant stands\n- **Trellises** for climbing plants like beans, peas, or morning glories\n- **Rail planters** that hook onto balcony railings\n\n## **Space-Efficient Containers**\n- **Stackable planters** for herbs and small vegetables\n- **Window boxes** along the railing\n- **Corner planters** to utilize awkward spaces\n- **Rolling carts** you can move for optimal sun exposure\n\n## **Best Plants for Small Balconies**\n**Edibles:**\n- Cherry tomatoes, lettuce, herbs (basil, mint, parsley)\n- Strawberries, peppers, microgreens\n\n**Flowers:**\n- Petunias, marigolds, nasturtiums\n- Succulents for low maintenance\n\n**Foliage:**\n- Small ferns, pothos, snake plants\n\n## **Design Tips**\n- Use **mirrors** to create illusion of space\n- Choose a **cohesive color scheme** for pots\n- Add **string lights** for ambiance\n- Include a **small seating area** with folding furniture\n- Use **lightweight containers** to avoid weight issues\n\n## **Practical Considerations**\n- Check weight limits and building rules\n- Ensure proper drainage\n- Consider wind exposure when selecting plants\n- Install shade cloth if needed\n\nWould you like specific advice based on your balcony\u0027s size, sunlight, or climate?",

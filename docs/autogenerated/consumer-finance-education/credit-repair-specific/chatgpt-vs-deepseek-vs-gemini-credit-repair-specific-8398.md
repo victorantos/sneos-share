@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Credit Repair Specific"
+title: "credit repair after divorce"
 description: "AI model comparison: credit repair after divorce..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Credit Repair Specific"
+  title="credit repair after divorce"
   prompt="credit repair after divorce"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

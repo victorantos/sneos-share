@@ -1,5 +1,5 @@
 ---
-title: "Claude vs Gemini vs Grok: Design"
+title: "small balcony garden design"
 description: "AI model comparison: small balcony garden design..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs Gemini vs Grok: Design"
+  title="small balcony garden design"
   prompt="small balcony garden design"
   :responses='{
     "Claude": "Here\u0027s a comprehensive guide for designing a small balcony garden:\n\n## **Space Assessment \u0026 Planning**\n- **Measure dimensions** and note weight restrictions\n- **Check sunlight exposure** (full sun, partial shade, etc.)\n- **Consider wind patterns** and weather protection needs\n- **Identify water source** and drainage options\n\n## **Layout Strategies**\n- **Vertical gardening**: Use wall-mounted planters, trellises, hanging baskets\n- **Tiered shelving**: Create levels with plant stands or shelving units\n- **Corner utilization**: Maximize corner spaces with triangular planters\n- **Rail planters**: Utilize balcony railings for herbs and small plants\n\n## **Container Selection**\n- **Lightweight materials**: Fiberglass, resin, or fabric pots\n- **Self-watering planters** for busy schedules\n- **Various sizes**: Mix large statement pots with smaller accent containers\n- **Proper drainage**: Ensure all containers have drainage holes\n\n## **Plant Recommendations**\n\n**For Sunny Balconies:**\n- Herbs (basil, rosemary, thyme)\n- Cherry tomatoes, peppers\n- Succulents and cacti\n- Marigolds, petunias\n\n**For Shady Balconies:**\n- Ferns, hostas\n- Begonias, impatiens\n- Lettuce, spinach\n- Snake plants, pothos\n\n## **Design Tips**\n- **Create focal points** with larger plants or decorative elements\n- **Use consistent color schemes** for cohesive look\n- **Add comfort elements**: Small chair, outdoor rug, string lights\n- **Include privacy screens** with climbing plants or bamboo panels\n\nWould you like me to elaborate on any specific aspect or help with particular challenges you\u0027re facing?",

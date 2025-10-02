@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Mistral: Cannabis Banking"
+title: "cannabis business lending"
 description: "AI model comparison: cannabis business lending..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Mistral: Cannabis Banking"
+  title="cannabis business lending"
   prompt="cannabis business lending"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

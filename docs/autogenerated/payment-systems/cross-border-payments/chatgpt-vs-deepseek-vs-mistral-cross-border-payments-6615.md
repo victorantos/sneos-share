@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Mistral: Cross-Border Payments"
+title: "settlement time reduction"
 description: "AI model comparison: settlement time reduction..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Mistral: Cross-Border Payments"
+  title="settlement time reduction"
   prompt="settlement time reduction"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

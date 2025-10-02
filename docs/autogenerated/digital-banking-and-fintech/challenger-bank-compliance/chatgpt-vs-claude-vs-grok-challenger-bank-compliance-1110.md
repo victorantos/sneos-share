@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Grok: Challenger Bank Compliance"
+title: "money transmitter license guide"
 description: "AI model comparison: money transmitter license guide..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Grok: Challenger Bank Compliance"
+  title="money transmitter license guide"
   prompt="money transmitter license guide"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

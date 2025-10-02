@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Mistral: Insulation"
+title: "window insulation diy solutions"
 description: "AI model comparison: window insulation diy solutions..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Mistral: Insulation"
+  title="window insulation diy solutions"
   prompt="window insulation diy solutions"
   :responses='{
     "ChatGPT": "Here are several effective DIY window insulation solutions to help keep your home warmer in winter and cooler in summer:\n\n### 1. Window Insulation Film\n- **Materials needed:** Plastic shrink film kit (clear plastic), double-sided tape, hair dryer.\n- **How to install:** Clean the window frame, apply double-sided tape around the inside edge of the window frame, attach the plastic film to the tape, and use a hair dryer to shrink the film tight. This creates an airtight barrier that reduces drafts.\n\n### 2. Weatherstripping\n- **Materials needed:** Foam tape, V-strip, or felt weatherstripping.\n- **How to install:** Measure window sashes or frames where drafts are noticeable. Peel and apply the weatherstripping to seal gaps around the window. This helps prevent air leaks.\n\n### 3. Caulking\n- **Materials needed:** Exterior or interior caulk appropriate for windows, caulking gun.\n- **How to install:** Clean cracks and gaps around window frames. Apply caulk smoothly along seams to seal leaks. Let it dry fully.\n\n### 4. Thermal Curtains or Window Coverings\n- **Materials needed:** Thick, insulated curtains or thermal blinds.\n- **How to install:** Hang curtains close to the window frame. Close them at night or during very cold days to add an insulating layer that reduces heat loss.\n\n### 5. Bubble Wrap Insulation\n- **Materials needed:** Bubble wrap, spray bottle with water.\n- **How to install:** Spray a fine layer of water on the window glass, press the bubble wrap (bubbles facing the glass) onto the damp surface. This sticks without adhesive and adds a layer of insulation.\n\n### 6. DIY Draft Stoppers\n- **Materials needed:** Fabric tube, rice or sand filler.\n- **How to make:** Sew a fabric cylinder and fill it with rice or sand. Place it on the windowsill or along the bottom edge of the window to block drafts.\n\n### 7. DIY Window Inserts\n- **Materials needed:** Plexiglass or acrylic cut to window size, weatherstripping.\n- **How to install:** Create a removable insert sealed with weatherstripping to fit inside the window frame. This adds an insulating air space similar to double glazing.\n\n---\n\nIf you\u0027d like detailed instructions for any specific method or need materials lists, just let me know!",

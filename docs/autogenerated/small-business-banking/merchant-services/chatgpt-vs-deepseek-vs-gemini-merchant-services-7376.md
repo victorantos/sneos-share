@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Merchant Services"
+title: "recurring billing platforms"
 description: "AI model comparison: recurring billing platforms..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Merchant Services"
+  title="recurring billing platforms"
   prompt="recurring billing platforms"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

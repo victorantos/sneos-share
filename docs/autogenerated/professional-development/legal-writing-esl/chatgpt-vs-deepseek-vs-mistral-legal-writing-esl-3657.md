@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Mistral: Legal Writing ESL"
+title: "international bar admission"
 description: "AI model comparison: international bar admission..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Mistral: Legal Writing ESL"
+  title="international bar admission"
   prompt="international bar admission"
   :responses='{
     "ChatGPT": "\u0022International bar admission\u0022 typically refers to the process or status by which a lawyer or legal professional is admitted to practice law in a jurisdiction outside of their home country. This can involve passing another country\u2019s bar exam, fulfilling specific legal education requirements, or meeting other criteria established by that jurisdiction\u0027s bar association or regulatory body.\n\nIf you have a specific question about international bar admission, such as requirements for a particular country, eligibility, or procedures, please let me know, and I can provide more detailed information!",

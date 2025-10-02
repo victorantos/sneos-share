@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Mistral: Banking Career Transition"
+title: "legacy banking to innovation"
 description: "AI model comparison: legacy banking to innovation..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Mistral: Banking Career Transition"
+  title="legacy banking to innovation"
   prompt="legacy banking to innovation"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

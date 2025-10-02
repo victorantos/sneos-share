@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Grok: Digital Wallet Setup"
+title: "nfc payment terminal setup"
 description: "AI model comparison: nfc payment terminal setup..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Grok: Digital Wallet Setup"
+  title="nfc payment terminal setup"
   prompt="nfc payment terminal setup"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Grok vs Mistral: Employment Compliance"
+title: "employee handbook essentials"
 description: "AI model comparison: employee handbook essentials..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Grok vs Mistral: Employment Compliance"
+  title="employee handbook essentials"
   prompt="employee handbook essentials"
   :responses='{
     "ChatGPT": "Certainly! Here are some essential components to include in an employee handbook:\n\n1. **Welcome Message**\n   - Introduction to the company\u2019s mission, vision, and values.\n   - A warm welcome from the leadership team.\n\n2. **Company Overview**\n   - History and background.\n   - Organizational structure.\n   - Key products or services.\n\n3. **Employment Policies**\n   - Equal employment opportunity statement.\n   - Hiring policies.\n   - Employment classifications (full-time, part-time, contract).\n   - Background checks and probation periods.\n\n4. **Code of Conduct**\n   - Workplace behavior expectations.\n   - Dress code.\n   - Anti-harassment and anti-discrimination policies.\n   - Conflict of interest.\n   - Use of company property and technology.\n\n5. **Compensation and Benefits**\n   - Pay periods and salary information.\n   - Overtime policies.\n   - Benefits overview (health insurance, retirement plans, etc.).\n   - Leave policies (vacation, sick leave, parental leave).\n\n6. **Work Hours and Attendance**\n   - Work schedules.\n   - Attendance and punctuality expectations.\n   - Timekeeping procedures.\n   - Breaks and meal periods.\n\n7. **Health and Safety**\n   - Workplace safety rules.\n   - Reporting injuries or unsafe conditions.\n   - Emergency procedures.\n   - Drug and alcohol policies.\n\n8. **Performance and Discipline**\n   - Performance reviews.\n   - Disciplinary procedures.\n   - Termination policies.\n\n9. **Confidentiality and Privacy**\n   - Handling of confidential information.\n   - Employee privacy rights.\n   - Data protection policies.\n\n10. **Use of Technology and Social Media**\n    - Acceptable use of computers and internet.\n    - Social media guidelines.\n    - Email and communication policies.\n\n11. **Complaint and Grievance Procedures**\n    - How to report concerns or complaints.\n    - Investigation process.\n\n12. **Acknowledgment of Receipt**\n    - A form for employees to acknowledge they have read and understood the handbook.\n\nIncluding these sections helps ensure clear communication of company policies and creates a transparent work environment. Would you like a template or more detailed guidance on any particular section?",

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Mistral: Legal Writing ESL"
+title: "brief writing for non native speakers"
 description: "AI model comparison: brief writing for non native speakers..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Mistral: Legal Writing ESL"
+  title="brief writing for non native speakers"
   prompt="brief writing for non native speakers"
   :responses='{
     "ChatGPT": "Sure! Here is a brief guide for writing for non-native English speakers:\n\n1. Use Simple Words and Sentences  \n- Choose common, easy words.  \n- Keep sentences short and clear.  \n\n2. Be Clear and Direct  \n- Say what you mean without extra words.  \n- Use active voice (e.g., \u201CShe writes\u201D instead of \u201CIt is written by her\u201D).  \n\n3. Use Examples  \n- Provide examples to explain ideas.  \n- This helps understanding.  \n\n4. Avoid Idioms and Slang  \n- Idioms may confuse readers not familiar with them.  \n- Use literal language.  \n\n5. Check Grammar and Spelling  \n- Use tools like spell check.  \n- Review your writing to avoid mistakes.  \n\n6. Organize Your Writing  \n- Use headings and paragraphs.  \n- Present one idea per paragraph.  \n\n7. Use Visual Aids  \n- When possible, add pictures, charts, or lists for clarity.  \n\nFollowing these tips will make your writing easier for non-native speakers to understand.",

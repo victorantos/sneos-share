@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Grok: BNPL Integration"
+title: "point of sale financing"
 description: "AI model comparison: point of sale financing..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Grok: BNPL Integration"
+  title="point of sale financing"
   prompt="point of sale financing"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

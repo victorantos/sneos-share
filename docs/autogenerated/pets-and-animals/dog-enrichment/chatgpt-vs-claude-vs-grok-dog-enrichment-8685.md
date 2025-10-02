@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Grok: Dog Enrichment"
+title: "dog enrichment activities indoors"
 description: "AI model comparison: dog enrichment activities indoors..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Grok: Dog Enrichment"
+  title="dog enrichment activities indoors"
   prompt="dog enrichment activities indoors"
   :responses='{
     "ChatGPT": "Here are some fun and engaging indoor enrichment activities for your dog:\n\n1. **Interactive Puzzle Toys**  \n   Use puzzle feeders or treat-dispensing toys that require your dog to figure out how to get the treats. These stimulate their mind and provide rewards.\n\n2. **Hide and Seek**  \n   Hide somewhere in your home and call your dog to find you. This encourages problem-solving and reinforces your bond.\n\n3. **Training Sessions**  \n   Teach new tricks or practice obedience commands. Short, frequent sessions stimulate your dog mentally and strengthen communication.\n\n4. **Scent Games**  \n   Hide treats around a room and encourage your dog to sniff them out. This taps into their natural scenting abilities.\n\n5. **DIY Obstacle Course**  \n   Set up a mini agility course using household items like chairs, cushions, and boxes. Teach your dog to jump over, crawl under, or weave through obstacles.\n\n6. **Interactive Play with Toys**  \n   Play tug-of-war or fetch in a hallway or open room using soft toys.\n\n7. **Frozen Treats or Kongs**  \n   Stuff a Kong with peanut butter, yogurt, or treats and freeze it. This keeps your dog busy and mentally engaged.\n\n8. **Rotate Toys**  \n   Keep a variety of toys and rotate them to maintain interest and novelty.\n\n9. **Massage and Grooming**  \n   Some dogs enjoy gentle massages or brushing, which can be mentally calming.\n\n10. **Watch Dog TV or Videos**  \n    Some dogs enjoy watching videos designed for dogs, featuring nature scenes or animals.\n\nRemember to supervise your dog during enrichment activities and tailor the difficulty level to their age and skill.",

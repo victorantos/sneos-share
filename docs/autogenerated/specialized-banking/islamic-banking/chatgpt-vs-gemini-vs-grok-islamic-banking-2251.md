@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Grok: Islamic Banking"
+title: "zakat calculation banking"
 description: "AI model comparison: zakat calculation banking..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Grok: Islamic Banking"
+  title="zakat calculation banking"
   prompt="zakat calculation banking"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

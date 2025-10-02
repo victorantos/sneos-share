@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Grok vs Mistral: Open Banking API"
+title: "data sharing consent management"
 description: "AI model comparison: data sharing consent management..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Grok vs Mistral: Open Banking API"
+  title="data sharing consent management"
   prompt="data sharing consent management"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

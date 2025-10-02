@@ -1,5 +1,5 @@
 ---
-title: "Claude vs DeepSeek vs Gemini: Treasury Management Startups"
+title: "short term investment options startups"
 description: "AI model comparison: short term investment options startups..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs DeepSeek vs Gemini: Treasury Management Startups"
+  title="short term investment options startups"
   prompt="short term investment options startups"
   :responses='{
     "Claude": "Here are the best short-term investment options for startups to manage their cash flow:\n\n## **High-Liquidity Options (0-3 months)**\n\n**Money Market Accounts**\n- 4-5% APY currently\n- FDIC insured up to $250K\n- Easy access to funds\n\n**High-Yield Savings Accounts**\n- 4-5% APY from online banks\n- No minimum investment\n- Instant liquidity\n\n**Treasury Bills (T-Bills)**\n- 4-5% yields on 3-6 month terms\n- Backed by US government\n- Can sell before maturity\n\n## **Medium-Term Options (3-12 months)**\n\n**Certificates of Deposit (CDs)**\n- 4-5.5% APY for 6-12 month terms\n- FDIC insured\n- Penalty for early withdrawal\n\n**Treasury Notes**\n- 1-year notes yielding ~4.5%\n- Highly liquid secondary market\n- Low risk\n\n**Corporate Bond Funds (Short-term)**\n- Slightly higher yields than Treasuries\n- Professional management\n- Some credit risk\n\n## **Startup-Specific Considerations**\n\n\u2705 **Prioritize liquidity** - Keep 3-6 months operating expenses easily accessible\n\n\u2705 **Ladder investments** - Stagger maturity dates for regular cash flow\n\n\u2705 **FDIC limits** - Spread deposits across banks if over $250K\n\n\u274C **Avoid** stocks, crypto, or anything volatile with money needed for operations\n\n**Pro tip:** Many startups use a combination of high-yield savings (for immediate needs) and short-term CDs or T-Bills (for planned expenses 3-6 months out).\n\nWould you like specific recommendations based on your startup\u0027s cash position and timeline?",

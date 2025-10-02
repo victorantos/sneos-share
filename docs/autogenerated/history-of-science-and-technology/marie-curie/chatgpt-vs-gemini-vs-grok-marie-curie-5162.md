@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Grok: Marie Curie"
+title: "Marie Curie biography - pioneering radioactivity research"
 description: "AI model comparison: Marie Curie biography - pioneering radioactivity research..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Grok: Marie Curie"
+  title="Marie Curie biography - pioneering radioactivity research"
   prompt="Marie Curie biography - pioneering radioactivity research"
   :responses='{
     "ChatGPT": "Marie Curie Biography - Pioneering Radioactivity Research\n\nMarie Curie was a renowned physicist and chemist best known for her groundbreaking work in radioactivity, a term she coined. Her pioneering research laid the foundation for significant advances in medical treatments and atomic physics.\n\nEarly Life and Education:\nMarie Curie was born Maria Sk\u0142odowska on November 7, 1867, in Warsaw, Poland. Despite the challenges of pursuing education as a woman under Russian rule, she excelled academically. In 1891, she moved to Paris to study physics and mathematics at the University of Paris (Sorbonne).\n\nScientific Achievements:\n- Discovery of Radioactivity: In 1896, following the discovery of X-rays and uranium\u2019s unexpected emissions, Curie began investigating these unknown rays. She discovered that uranium salts emitted rays that could fog photographic plates and coined the phenomenon \u0022radioactivity.\u0022\n- Discovery of Polonium and Radium: With her husband Pierre Curie, she isolated two new radioactive elements. In 1898, they discovered polonium (named after Poland) and shortly after, radium. These discoveries were crucial in understanding radioactive decay.\n- Nobel Prizes: Marie Curie became the first woman to win a Nobel Prize and the only person to win Nobel Prizes in two different scientific fields:\n   - Physics (1903): Shared with her husband Pierre Curie and Henri Becquerel for their work on radioactivity.\n   - Chemistry (1911): For the discovery of radium and polonium, and for her investigation of their properties.\n\nImpact and Legacy:\nMarie Curie\u0027s research revolutionized science and medicine. Radioactivity led to advances in cancer treatment through radiotherapy and significantly contributed to the development of atomic physics and nuclear energy. During World War I, Curie developed mobile radiography units to assist battlefield surgeons.\n\nDespite facing significant gender biases, Curie broke barriers for women in science and remains a symbol of perseverance and dedication. She died on July 4, 1934, from aplastic anemia, attributed to prolonged exposure to radiation.\n\nMarie Curie\u0027s life and work continue to inspire generations of scientists worldwide, cementing her status as one of the most important figures in the history of science.",

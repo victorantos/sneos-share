@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: Digital Wallet Setup"
+title: "digital wallet comparison merchants"
 description: "AI model comparison: digital wallet comparison merchants..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: Digital Wallet Setup"
+  title="digital wallet comparison merchants"
   prompt="digital wallet comparison merchants"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

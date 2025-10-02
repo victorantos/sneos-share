@@ -1,5 +1,5 @@
 ---
-title: "Claude vs Gemini vs DeepSeek: Confidence Building Comparison 2025"
+title: "Destroy social anxiety and become fearlessly confident"
 description: "AI model comparison: Destroy social anxiety and become fearlessly confident..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs Gemini vs DeepSeek: Confidence Building Comparison 2025"
+  title="Destroy social anxiety and become fearlessly confident"
   prompt="Destroy social anxiety and become fearlessly confident"
   :responses='{
     "Claude": "# Breaking Free from Social Anxiety: A Path to Genuine Confidence\n\nSocial anxiety can feel overwhelming, but with the right strategies, you can build authentic confidence. Here\u0027s a practical roadmap:\n\n## Understanding the Root\n- **Reframe your inner critic**: That voice predicting disaster is often wrong\n- **Challenge catastrophic thinking**: Ask \u0022What\u0027s the worst that could realistically happen?\u0022\n- **Recognize that most people are focused on themselves**, not judging you\n\n## Building Confidence Gradually\n\n### Start Small\n- Make eye contact with cashiers\n- Say \u0022good morning\u0022 to neighbors  \n- Ask one question in meetings\n- Compliment someone genuinely\n\n### Practice Self-Compassion\n- Treat yourself like you would a good friend\n- Celebrate small wins\n- Learn from setbacks without harsh self-judgment\n\n## Practical Daily Strategies\n\n**Before Social Situations:**\n- Deep breathing exercises\n- Positive self-talk: \u0022I belong here\u0022\n- Prepare a few conversation topics\n\n**During Interactions:**\n- Focus outward - be genuinely curious about others\n- Ask open-ended questions\n- Share something authentic about yourself\n\n**After Social Events:**\n- Note what went well (however small)\n- Learn from any awkward moments without dwelling\n\n## Long-term Confidence Building\n- Develop skills/hobbies that make you feel competent\n- Surround yourself with supportive people\n- Consider therapy if anxiety significantly impacts your life\n- Practice mindfulness to stay present\n\nRemember: Confidence isn\u0027t about being perfect - it\u0027s about being comfortable with being human.\n\nWhat specific social situations challenge you most?",

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Mistral: Synthetic Data Finance"
+title: "bias reduction synthetic data"
 description: "AI model comparison: bias reduction synthetic data..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Mistral: Synthetic Data Finance"
+  title="bias reduction synthetic data"
   prompt="bias reduction synthetic data"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

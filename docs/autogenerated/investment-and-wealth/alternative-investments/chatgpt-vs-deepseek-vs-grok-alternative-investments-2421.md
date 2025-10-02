@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Grok: Alternative Investments"
+title: "alternative investment platforms"
 description: "AI model comparison: alternative investment platforms..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Grok: Alternative Investments"
+  title="alternative investment platforms"
   prompt="alternative investment platforms"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

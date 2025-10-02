@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Overdraft Alternatives"
+title: "linked savings overdraft protection"
 description: "AI model comparison: linked savings overdraft protection..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Overdraft Alternatives"
+  title="linked savings overdraft protection"
   prompt="linked savings overdraft protection"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

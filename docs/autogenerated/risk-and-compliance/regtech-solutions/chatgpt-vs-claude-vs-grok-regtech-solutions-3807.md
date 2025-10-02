@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Grok: RegTech Solutions"
+title: "regulatory reporting automation"
 description: "AI model comparison: regulatory reporting automation..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Grok: RegTech Solutions"
+  title="regulatory reporting automation"
   prompt="regulatory reporting automation"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

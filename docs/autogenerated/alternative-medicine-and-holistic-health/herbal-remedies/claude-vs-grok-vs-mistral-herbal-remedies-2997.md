@@ -1,5 +1,5 @@
 ---
-title: "Claude vs Grok vs Mistral: Herbal Remedies"
+title: "Herbal remedies that work - natural medicine for common ailments"
 description: "AI model comparison: Herbal remedies that work - natural medicine for common ailments..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs Grok vs Mistral: Herbal Remedies"
+  title="Herbal remedies that work - natural medicine for common ailments"
   prompt="Herbal remedies that work - natural medicine for common ailments"
   :responses='{
     "Claude": "# Evidence-Based Herbal Remedies for Common Ailments\n\nHere are some herbal remedies with scientific support for common health issues:\n\n## **Digestive Issues**\n- **Ginger**: Nausea, motion sickness, morning sickness\n- **Peppermint**: IBS symptoms, indigestion\n- **Chamomile**: Stomach upset, mild digestive discomfort\n- **Fennel**: Bloating, gas\n\n## **Sleep \u0026 Stress**\n- **Valerian root**: Mild insomnia, sleep quality\n- **Passionflower**: Anxiety, restlessness\n- **Lavender**: Relaxation, mild anxiety\n- **Lemon balm**: Stress, mild sleep issues\n\n## **Immune Support**\n- **Echinacea**: May reduce cold duration/severity\n- **Elderberry**: Upper respiratory symptoms\n- **Astragalus**: Immune system support\n\n## **Pain \u0026 Inflammation**\n- **Turmeric/Curcumin**: Inflammation, joint discomfort\n- **Willow bark**: Mild pain (contains natural salicin)\n- **Arnica**: Topical use for bruises, muscle soreness\n\n## **Cognitive Support**\n- **Ginkgo biloba**: Memory, circulation\n- **Ginseng**: Mental fatigue, stress adaptation\n\n## **Important Safety Notes**\n- Consult healthcare providers before use, especially with medications\n- Quality varies significantly between products\n- Start with small doses to test tolerance\n- Pregnant/nursing women should avoid most herbs\n- Some herbs interact with prescription medications\n\n**Remember**: Herbal doesn\u0027t mean risk-free. Always research interactions and choose reputable brands with third-party testing.",

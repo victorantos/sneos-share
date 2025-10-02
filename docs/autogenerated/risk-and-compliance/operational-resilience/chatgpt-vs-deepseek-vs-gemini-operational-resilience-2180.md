@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Operational Resilience"
+title: "cyber resilience banking"
 description: "AI model comparison: cyber resilience banking..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Operational Resilience"
+  title="cyber resilience banking"
   prompt="cyber resilience banking"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

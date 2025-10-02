@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Mock Trial"
+title: "objection practice mock trial"
 description: "AI model comparison: objection practice mock trial..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Mock Trial"
+  title="objection practice mock trial"
   prompt="objection practice mock trial"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: Embedded Finance SMB"
+title: "smb platform monetization"
 description: "AI model comparison: smb platform monetization..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: Embedded Finance SMB"
+  title="smb platform monetization"
   prompt="smb platform monetization"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

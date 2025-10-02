@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: Employment Law"
+title: "Company wants to fire me for using AI at work. What are my legal rights?"
 description: "AI model comparison: Company wants to fire me for using AI at work. What are my legal rights?..."
 date: 2025-09-29
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: Employment Law"
+  title="Company wants to fire me for using AI at work. What are my legal rights?"
   prompt="Company wants to fire me for using AI at work. What are my legal rights?"
   :responses='{
     "ChatGPT": "I\u0027m sorry to hear about your situation. Your legal rights regarding being potentially fired for using AI at work can depend on several factors, including your location, your employment contract, company policies, and the specific circumstances of how you used AI. Here are some general considerations:\n\n1. **Employment At-Will vs. Contract**:  \n   - In many places, especially in the United States, employment is \u0022at-will,\u0022 meaning your employer can terminate you for any reason that is not illegal (or for no reason at all), unless you have a contract specifying otherwise.  \n   - If you have an employment contract or union agreement, it may provide more protections.\n\n2. **Company Policies**:  \n   - Check your employee handbook or any company policies regarding the use of technology, software, or AI tools. If using AI is explicitly prohibited or restricted, the company may have grounds for termination.  \n   - If there were unclear or no rules about using AI, you might argue the firing is unfair, though this can be difficult in at-will employment jurisdictions.\n\n3. **Nature of AI Use**:  \n   - Were you using AI tools to improve your productivity or complete tasks as part of your job?  \n   - Were you using AI in a way that violated confidentiality, intellectual property rights, or produced inaccurate or harmful work?\n\n4. **Discrimination or Retaliation**:  \n   - If you believe the firing is actually due to discrimination (e.g., race, gender, age) or retaliation (e.g., for reporting unethical practices), this could be illegal.\n\n5. **Privacy and Monitoring**:  \n   - Employers often have the right to monitor work activities on company devices. Using AI tools on company time or equipment might be subject to monitoring and policies about acceptable use.\n\n**What You Can Do**:  \n- **Review your employment agreement and company policies.**  \n- **Request a clear explanation from HR or management about the reasons for termination.**  \n- **Document all communications and any relevant evidence.**  \n- **Consider consulting an employment attorney who can advise based on your jurisdiction and specifics.**\n\nIf you provide your location or more details, I may be able to offer more tailored information.",

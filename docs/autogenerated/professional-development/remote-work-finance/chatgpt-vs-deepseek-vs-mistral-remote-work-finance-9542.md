@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Mistral: Remote Work Finance"
+title: "customer service remote banking"
 description: "AI model comparison: customer service remote banking..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Mistral: Remote Work Finance"
+  title="customer service remote banking"
   prompt="customer service remote banking"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

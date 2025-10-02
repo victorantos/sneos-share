@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Gemini: Operational Resilience"
+title: "disaster recovery testing"
 description: "AI model comparison: disaster recovery testing..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Gemini: Operational Resilience"
+  title="disaster recovery testing"
   prompt="disaster recovery testing"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

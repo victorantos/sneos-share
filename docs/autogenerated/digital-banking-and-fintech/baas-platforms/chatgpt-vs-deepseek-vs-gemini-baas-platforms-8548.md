@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs DeepSeek vs Gemini: BaaS Platforms"
+title: "baas implementation guide"
 description: "AI model comparison: baas implementation guide..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs DeepSeek vs Gemini: BaaS Platforms"
+  title="baas implementation guide"
   prompt="baas implementation guide"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

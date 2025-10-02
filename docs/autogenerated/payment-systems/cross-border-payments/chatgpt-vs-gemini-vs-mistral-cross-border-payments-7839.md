@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: Cross-Border Payments"
+title: "blockchain cross border payments"
 description: "AI model comparison: blockchain cross border payments..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: Cross-Border Payments"
+  title="blockchain cross border payments"
   prompt="blockchain cross border payments"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

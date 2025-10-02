@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs DeepSeek: Real-Time Payments"
+title: "request for payment rtp"
 description: "AI model comparison: request for payment rtp..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs DeepSeek: Real-Time Payments"
+  title="request for payment rtp"
   prompt="request for payment rtp"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

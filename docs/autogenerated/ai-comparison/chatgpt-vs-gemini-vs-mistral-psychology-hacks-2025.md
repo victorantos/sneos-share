@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: Psychology Hacks Comparison 2025"
+title: "Psychological manipulation techniques everyone should recognize"
 description: "AI model comparison: Psychological manipulation techniques everyone should recognize..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: Psychology Hacks Comparison 2025"
+  title="Psychological manipulation techniques everyone should recognize"
   prompt="Psychological manipulation techniques everyone should recognize"
   :responses='{
     "ChatGPT": "Certainly! Recognizing psychological manipulation techniques is crucial for protecting yourself from being exploited or influenced unfairly. Here are some common manipulation techniques everyone should be aware of:\n\n1. **Gaslighting**  \n   Making someone doubt their own memories, perceptions, or sanity. For example, denying facts or events that the person clearly remembers.\n\n2. **Guilt-Tripping**  \n   Making someone feel guilty or responsible for things out of their control to influence their behavior.\n\n3. **Playing the Victim**  \n   Pretending to be the injured party to gain sympathy and manipulate others into giving in.\n\n4. **Love-Bombing**  \n   Overwhelming someone with affection or praise to gain their trust and control.\n\n5. **Silent Treatment**  \n   Withholding communication to punish or control someone, making them anxious or eager to comply.\n\n6. **Triangulation**  \n   Involving a third person to create conflict or manipulate relationships.\n\n7. **Projection**  \n   Attributing one\u2019s own negative traits or feelings onto someone else to deflect blame.\n\n8. **Blaming**  \n   Shifting responsibility onto others to avoid accountability.\n\n9. **Excessive Flattery**  \n   Using compliments to lower someone\u2019s defenses and gain favor.\n\n10. **Intimidation**  \n    Using threats, aggression, or fear to control someone\u2019s actions.\n\n11. **Conditional Approval**  \n    Offering approval or love only when someone meets certain demands or behaviors.\n\n12. **False Dilemma**  \n    Presenting only two options when there are more, to force a choice favorable to the manipulator.\n\n13. **Playing on Insecurities**  \n    Highlighting or exaggerating someone\u2019s vulnerabilities to influence them.\n\n14. **Overgeneralization**  \n    Using words like \u0022always\u0022 or \u0022never\u0022 to make someone feel trapped or hopeless.\n\n15. **Manipulative Sympathy Appeals**  \n    Using pity or emotional appeals to get what one wants.\n\nBeing aware of these techniques can help you recognize when someone is trying to manipulate you and respond more effectively. Setting boundaries, asking questions, and seeking objective opinions can also help protect against manipulation.",

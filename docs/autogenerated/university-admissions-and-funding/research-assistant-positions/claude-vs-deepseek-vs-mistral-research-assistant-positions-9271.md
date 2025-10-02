@@ -1,5 +1,5 @@
 ---
-title: "Claude vs DeepSeek vs Mistral: Research Assistant Positions"
+title: "Find research assistant positions - paid RA opportunities"
 description: "AI model comparison: Find research assistant positions - paid RA opportunities..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs DeepSeek vs Mistral: Research Assistant Positions"
+  title="Find research assistant positions - paid RA opportunities"
   prompt="Find research assistant positions - paid RA opportunities"
   :responses='{
     "Claude": "Here are the best places to find paid research assistant positions:\n\n## Academic Job Boards\n- **HigherEdJobs.com** - Extensive university research positions\n- **ChronicleOfHigherEducation.com/jobs** - Academic jobs including RA roles\n- **AcademicJobsOnline.org** - Research-focused positions\n- **Jobs.ac.uk** (UK) - International academic opportunities\n\n## General Job Sites\n- **Indeed.com** - Search \u0022Research Assistant\u0022 \u002B your location\n- **LinkedIn Jobs** - Use filters for research positions\n- **Glassdoor** - Includes salary information\n- **ZipRecruiter** - Good for entry-level RA positions\n\n## Government \u0026 Think Tank Opportunities\n- **USAJobs.gov** - Federal research positions\n- **Idealist.org** - Non-profit research roles\n- **Individual think tank websites** (Brookings, RAND, etc.)\n\n## University-Specific Resources\n- Check career pages of universities in your area\n- Contact department administrators directly\n- Look for \u0022Student Employment\u0022 or \u0022Graduate Assistantships\u0022 pages\n\n## Research-Specific Platforms\n- **ResearchGate Jobs**\n- **Nature Careers**\n- **Science Careers (AAAS)**\n\n## Tips for Success:\n- Highlight relevant coursework and technical skills\n- Emphasize attention to detail and data analysis abilities\n- Consider both full-time positions and graduate assistantships\n- Network with professors and researchers in your field\n\nWould you like help tailoring your search to a specific field or location?",

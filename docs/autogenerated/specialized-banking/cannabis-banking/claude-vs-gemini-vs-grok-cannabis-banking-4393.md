@@ -1,5 +1,5 @@
 ---
-title: "Claude vs Gemini vs Grok: Cannabis Banking"
+title: "compliance banking marijuana"
 description: "AI model comparison: compliance banking marijuana..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="Claude vs Gemini vs Grok: Cannabis Banking"
+  title="compliance banking marijuana"
   prompt="compliance banking marijuana"
   :responses='{
     "Claude": "Banking compliance for marijuana businesses is complex due to the conflict between state and federal laws. Here are the key considerations:\n\n## Federal vs. State Law Conflict\n- **Federal level**: Marijuana remains federally illegal under the Controlled Substances Act\n- **State level**: Many states have legalized medical and/or recreational marijuana\n- Banks are federally regulated, creating compliance challenges\n\n## Current Banking Guidelines\n\n### FinCEN Guidance (2014)\n- Provides framework for banks serving state-legal marijuana businesses\n- Requires enhanced due diligence and monitoring\n- Mandates specific reporting requirements (SARs - Suspicious Activity Reports)\n\n### SAFE Banking Act\n- Proposed federal legislation to protect banks serving compliant marijuana businesses\n- Has passed the House multiple times but not yet enacted into law\n\n## Compliance Requirements\n\n**Enhanced Due Diligence:**\n- Verify state licensing and compliance\n- Ongoing monitoring of business operations\n- Documentation of compliance efforts\n\n**Reporting Obligations:**\n- File SARs for all marijuana-related activities\n- Three categories: compliant, non-compliant, or criminal activity\n\n**Risk Assessment:**\n- Evaluate state regulatory framework\n- Assess customer compliance history\n- Monitor for federal enforcement priorities\n\n## Current Challenges\n- Limited banking options for marijuana businesses\n- High compliance costs\n- Regulatory uncertainty\n- Cash-heavy operations creating security risks\n\nWould you like me to elaborate on any specific aspect of marijuana banking compliance?",

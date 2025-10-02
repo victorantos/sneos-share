@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Grok: Mental Health"
+title: "Anxiety relief techniques that work immediately - science-backed methods"
 description: "AI model comparison: Anxiety relief techniques that work immediately - science-backed methods..."
 date: 2025-09-30
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Grok: Mental Health"
+  title="Anxiety relief techniques that work immediately - science-backed methods"
   prompt="Anxiety relief techniques that work immediately - science-backed methods"
   :responses='{
     "ChatGPT": "Here are several science-backed anxiety relief techniques that can provide immediate relief:\n\n1. **Deep Breathing (Diaphragmatic Breathing)**  \n   - How: Breathe in slowly through your nose for a count of 4, hold for 4, and exhale slowly through your mouth for 6-8 seconds.  \n   - Why it works: Deep breathing stimulates the parasympathetic nervous system, which slows the heart rate and promotes calmness.\n\n2. **Progressive Muscle Relaxation (PMR)**  \n   - How: Tense a muscle group (e.g., fists) for 5 seconds, then slowly release. Work your way through different muscle groups.  \n   - Why it works: It helps reduce muscle tension that often accompanies anxiety, promoting physical and mental relaxation.\n\n3. **Grounding Techniques (5-4-3-2-1 Method)**  \n   - How: Identify 5 things you can see, 4 you can touch, 3 you can hear, 2 you can smell, and 1 you can taste.  \n   - Why it works: Grounding distracts your mind from anxious thoughts and brings your focus back to the present moment.\n\n4. **Mindfulness Meditation**  \n   - How: Focus your attention on the present moment, noticing your breath or bodily sensations without judgment. Even a few minutes can help.  \n   - Why it works: Mindfulness reduces rumination and helps you become less reactive to anxiety-provoking thoughts.\n\n5. **Cold Water Face Splash or Cold Pack**  \n   - How: Splash your face with cold water or apply a cold pack to your face or wrists.  \n   - Why it works: Activates the vagus nerve and triggers the dive reflex, which slows the heart rate and calms your nervous system.\n\n6. **Box Breathing**  \n   - How: Inhale for 4 seconds, hold breath for 4 seconds, exhale for 4 seconds, hold for 4 seconds, then repeat.  \n   - Why it works: Regulates breath and heart rate, promoting relaxation.\n\n7. **Controlled Movement or Light Exercise**  \n   - How: Gentle stretching, walking, or yoga for a few minutes.  \n   - Why it works: Physical movement releases tension and stimulates endorphin production.\n\nThese techniques can help reduce acute anxiety symptoms quickly. For persistent anxiety, consider consulting a mental health professional.",

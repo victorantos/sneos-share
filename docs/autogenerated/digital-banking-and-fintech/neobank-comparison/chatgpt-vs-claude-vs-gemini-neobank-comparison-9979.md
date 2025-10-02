@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Gemini: Neobank Comparison"
+title: "neobank for small business"
 description: "AI model comparison: neobank for small business..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Gemini: Neobank Comparison"
+  title="neobank for small business"
   prompt="neobank for small business"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

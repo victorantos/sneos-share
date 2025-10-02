@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Claude vs Gemini: Bank Account Optimization"
+title: "high yield savings account comparison"
 description: "AI model comparison: high yield savings account comparison..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Claude vs Gemini: Bank Account Optimization"
+  title="high yield savings account comparison"
   prompt="high yield savings account comparison"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: Carbon Accounting"
+title: "scope 1 2 3 emissions explained"
 description: "AI model comparison: scope 1 2 3 emissions explained..."
 date: 2025-10-01
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: Carbon Accounting"
+  title="scope 1 2 3 emissions explained"
   prompt="scope 1 2 3 emissions explained"
   :responses='{
     "ChatGPT": "Certainly! Here\u2019s an explanation of Scope 1, 2, and 3 emissions, which are categories used to classify greenhouse gas (GHG) emissions associated with a company or organization\u0027s activities:\n\n### Scope 1 Emissions (Direct Emissions)\n- **Definition:** These are direct GHG emissions from sources that are owned or controlled by the company.\n- **Examples:**\n  - Emissions from fuel combustion in company-owned vehicles or boilers.\n  - Emissions from manufacturing processes.\n  - Fugitive emissions from equipment leaks (e.g., refrigerants, methane leaks).\n\n### Scope 2 Emissions (Indirect Emissions from Purchased Energy)\n- **Definition:** These are indirect emissions from the generation of purchased electricity, steam, heating, and cooling consumed by the company.\n- **Examples:**\n  - Emissions produced by the power plants that generate the electricity a company uses.\n  - Emissions from district heating or cooling systems.\n\n### Scope 3 Emissions (Other Indirect Emissions)\n- **Definition:** These include all other indirect emissions that occur in the value chain of the reporting company, both upstream and downstream.\n- **Examples:**\n  - Emissions from the production of purchased goods and services.\n  - Employee business travel and commuting.\n  - Waste disposal and treatment.\n  - Transportation and distribution of products.\n  - Use of sold products.\n  - Investments.\n\n### Summary:\n| Scope  | Emissions Type                  | Source Examples                           |\n|--------|--------------------------------|------------------------------------------|\n| 1      | Direct emissions                | On-site fuel combustion, company vehicles |\n| 2      | Indirect emissions (energy)    | Purchased electricity, heating, cooling |\n| 3      | Other indirect emissions        | Supply chain, product use, waste, travel |\n\nThese categorizations help organizations measure, manage, and reduce their overall carbon footprint comprehensively.",

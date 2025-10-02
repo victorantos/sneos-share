@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT vs Gemini vs Mistral: BNPL Integration"
+title: "bnpl risk management"
 description: "AI model comparison: bnpl risk management..."
 date: 2025-10-02
 category: comparison
@@ -17,7 +17,7 @@ head:
 ---
 
 <ChatComparison
-  title="ChatGPT vs Gemini vs Mistral: BNPL Integration"
+  title="bnpl risk management"
   prompt="bnpl risk management"
   :responses='{
     "ChatGPT": "Error calling OpenAI API.",
