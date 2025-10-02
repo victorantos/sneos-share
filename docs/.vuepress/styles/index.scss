@@ -1,0 +1,207 @@
+// Custom tree-like sidebar styling for VuePress Hope theme
+
+.vp-sidebar {
+  // Main folder/category groups
+  .vp-sidebar-group {
+    position: relative;
+    margin: 0.35rem 0;
+
+    // Vertical connecting line for tree structure
+    &::after {
+      content: '';
+      position: absolute;
+      left: 1.1rem;
+      top: 2.8rem;
+      bottom: 0;
+      width: 2px;
+      background: var(--border-color, #999);
+      opacity: 0.6;
+    }
+
+    // Folder header styling
+    .vp-sidebar-header {
+      position: relative;
+      padding-left: 2.5rem !important;
+      transition: all 0.2s ease;
+
+      // Folder emoji (closed by default)
+      &::before {
+        content: '📁';
+        position: absolute;
+        left: 0.5rem;
+        top: 50%;
+        transform: translateY(-50%);
+        font-size: 1em;
+      }
+
+      // Open folder state - the .open class is on the header itself
+      &.open::before {
+        content: '📂';
+      }
+
+      &:hover {
+        background: var(--bg-color-secondary, #f6f6f7) !important;
+      }
+    }
+
+    // Nested items container
+    .vp-sidebar-links {
+      position: relative;
+      padding-left: 0.75rem;
+
+      // Individual file links
+      .vp-sidebar-link {
+        position: relative;
+        transition: all 0.15s ease;
+        padding-left: 3rem !important;
+
+        // Tree branch character
+        &::before {
+          content: '├─';
+          position: absolute;
+          left: 0.5rem;
+          top: 50%;
+          transform: translateY(-50%);
+          color: #888;
+          font-family: 'Courier New', Courier, monospace;
+          font-size: 0.75em;
+          opacity: 0.75;
+          line-height: 1;
+        }
+
+        // File emoji
+        &::after {
+          content: '📄';
+          position: absolute;
+          left: 1.5rem;
+          top: 50%;
+          transform: translateY(-50%);
+          font-size: 0.85em;
+          opacity: 0.7;
+        }
+
+        // Last file in folder
+        &:last-child::before {
+          content: '└─';
+        }
+
+        &:hover {
+          background: var(--bg-color-secondary, #f6f6f7);
+          transform: translateX(3px);
+
+          &::before {
+            color: var(--theme-color, #3eaf7c);
+            opacity: 1;
+          }
+
+          &::after {
+            opacity: 1;
+          }
+        }
+
+        &.active {
+          background: var(--theme-color-mask, #e6f7ff);
+          color: var(--theme-color, #3eaf7c);
+          font-weight: 500;
+
+          &::before {
+            color: var(--theme-color, #3eaf7c);
+            opacity: 1;
+          }
+
+          &::after {
+            opacity: 1;
+          }
+        }
+      }
+
+      // Nested groups (subcategories)
+      .vp-sidebar-group {
+        &::after {
+          left: 0.6rem;
+        }
+
+        .vp-sidebar-header::before {
+          left: 0.25rem;
+        }
+
+        .vp-sidebar-link {
+          padding-left: 3.5rem !important;
+
+          &::before {
+            left: 1rem;
+          }
+
+          &::after {
+            left: 2rem;
+          }
+        }
+      }
+    }
+
+    // Last child in group - remove vertical line
+    &:last-child::after {
+      display: none;
+    }
+  }
+
+  // Enhanced scrollbar
+  scrollbar-width: thin;
+  scrollbar-color: var(--theme-color-light, #95d8c7) transparent;
+
+  &::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  &::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background: var(--border-color, #ddd);
+    border-radius: 3px;
+
+    &:hover {
+      background: var(--theme-color, #3eaf7c);
+    }
+  }
+}
+
+// Dark mode support
+[data-theme="dark"] {
+  .vp-sidebar {
+    .vp-sidebar-group {
+      &::after {
+        background: rgba(255, 255, 255, 0.2);
+      }
+
+      .vp-sidebar-header:hover {
+        background: rgba(255, 255, 255, 0.05) !important;
+      }
+
+      .vp-sidebar-links {
+        .vp-sidebar-link {
+          &::before {
+            color: rgba(255, 255, 255, 0.3);
+          }
+
+          &:hover {
+            background: rgba(255, 255, 255, 0.05);
+
+            &::before {
+              color: var(--theme-color, #3eaf7c);
+            }
+          }
+
+          &.active {
+            background: rgba(62, 175, 124, 0.15);
+
+            &::before {
+              color: var(--theme-color, #3eaf7c);
+            }
+          }
+        }
+      }
+    }
+  }
+}
