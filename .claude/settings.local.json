@@ -47,7 +47,15 @@
       "Bash(do if [ -f \"$dirREADME.md\" ])",
       "Bash(then rm \"$dirREADME.md\")",
       "Bash(echo:*)",
-      "Bash(lsof:*)"
+      "Bash(lsof:*)",
+      "Bash([ \"$dir\" != \"ai-comparison/\" ])",
+      "Bash([ \"$dir\" != \"education/\" ])",
+      "Bash([ \"$dir\" != \"finance/\" ])",
+      "Bash([ \"$dir\" != \"lawyers/\" ])",
+      "Bash([ \"$dir\" != \"legal/\" ])",
+      "Bash([ \"$dir\" != \"research/\" ])",
+      "Bash([ \"$dir\" != \"universities/\" ])",
+      "Bash([ \"$dir\" != \"viral-content/\" ])"
     ],
     "deny": [],
     "ask": []
