@@ -1,5 +1,7 @@
 ---
 title: Sustainability And Environment
+dir:
+  link: true
 ---
 
 # Sustainability And Environment

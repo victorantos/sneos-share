@@ -1,5 +1,7 @@
 ---
 title: Parenting
+dir:
+  link: true
 ---
 
 # Parenting Posts

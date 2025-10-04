@@ -1,5 +1,7 @@
 ---
 title: Sustainability And Environmental Science
+dir:
+  link: true
 ---
 
 # Sustainability And Environmental Science

@@ -1,5 +1,7 @@
 ---
 title: Gaming And Esports
+dir:
+  link: true
 ---
 
 # Gaming And Esports

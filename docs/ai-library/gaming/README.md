@@ -1,5 +1,7 @@
 ---
 title: Gaming
+dir:
+  link: true
 ---
 
 # Gaming Posts

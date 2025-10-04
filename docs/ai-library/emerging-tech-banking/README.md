@@ -1,5 +1,7 @@
 ---
 title: Emerging Tech Banking
+dir:
+  link: true
 ---
 
 # Emerging Tech Banking

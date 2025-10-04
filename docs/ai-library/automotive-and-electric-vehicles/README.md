@@ -1,5 +1,7 @@
 ---
 title: Automotive And Electric Vehicles
+dir:
+  link: true
 ---
 
 # Automotive And Electric Vehicles

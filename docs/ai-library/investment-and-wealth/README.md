@@ -1,5 +1,7 @@
 ---
 title: Investment And Wealth
+dir:
+  link: true
 ---
 
 # Investment And Wealth

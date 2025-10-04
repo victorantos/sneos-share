@@ -1,5 +1,7 @@
 ---
 title: Human Resources And Workplace Culture
+dir:
+  link: true
 ---
 
 # Human Resources And Workplace Culture

@@ -1,5 +1,7 @@
 ---
 title: Software Tutorials
+dir:
+  link: true
 ---
 
 # Software Tutorials

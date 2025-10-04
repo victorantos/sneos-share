@@ -1,5 +1,7 @@
 ---
 title: Ai And Productivity
+dir:
+  link: true
 ---
 
 # Ai And Productivity

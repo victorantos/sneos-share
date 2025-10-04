@@ -1,5 +1,7 @@
 ---
 title: Product Management
+dir:
+  link: true
 ---
 
 # Product Management Posts

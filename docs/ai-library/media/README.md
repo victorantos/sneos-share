@@ -1,5 +1,7 @@
 ---
 title: Media
+dir:
+  link: true
 ---
 
 # Media Posts

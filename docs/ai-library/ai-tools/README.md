@@ -1,5 +1,7 @@
 ---
 title: Ai Tools
+dir:
+  link: true
 ---
 
 # Ai Tools

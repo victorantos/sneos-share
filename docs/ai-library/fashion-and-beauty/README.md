@@ -1,5 +1,7 @@
 ---
 title: Fashion And Beauty
+dir:
+  link: true
 ---
 
 # Fashion And Beauty

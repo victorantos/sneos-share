@@ -1,5 +1,7 @@
 ---
 title: Sales
+dir:
+  link: true
 ---
 
 # Sales Posts

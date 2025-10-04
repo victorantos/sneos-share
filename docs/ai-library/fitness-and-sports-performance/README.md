@@ -1,5 +1,7 @@
 ---
 title: Fitness And Sports Performance
+dir:
+  link: true
 ---
 
 # Fitness And Sports Performance

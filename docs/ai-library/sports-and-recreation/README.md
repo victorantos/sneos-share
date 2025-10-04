@@ -1,5 +1,7 @@
 ---
 title: Sports And Recreation
+dir:
+  link: true
 ---
 
 # Sports And Recreation

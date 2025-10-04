@@ -1,5 +1,7 @@
 ---
 title: Photography And Videography
+dir:
+  link: true
 ---
 
 # Photography And Videography

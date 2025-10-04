@@ -1,5 +1,7 @@
 ---
 title: Golf Technology
+dir:
+  link: true
 ---
 
 # Golf Technology

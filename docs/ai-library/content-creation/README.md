@@ -1,5 +1,7 @@
 ---
 title: Content Creation
+dir:
+  link: true
 ---
 
 # Content Creation Posts

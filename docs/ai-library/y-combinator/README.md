@@ -1,5 +1,7 @@
 ---
 title: Y Combinator
+dir:
+  link: true
 ---
 
 # Y Combinator

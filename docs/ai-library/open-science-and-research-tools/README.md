@@ -1,5 +1,7 @@
 ---
 title: Open Science And Research Tools
+dir:
+  link: true
 ---
 
 # Open Science And Research Tools

@@ -1,5 +1,7 @@
 ---
 title: Technology
+dir:
+  link: true
 ---
 
 # Technology Posts

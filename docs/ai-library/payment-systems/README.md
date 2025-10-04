@@ -1,5 +1,7 @@
 ---
 title: Payment Systems
+dir:
+  link: true
 ---
 
 # Payment Systems

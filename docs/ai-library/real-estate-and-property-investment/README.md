@@ -1,5 +1,7 @@
 ---
 title: Real Estate And Property Investment
+dir:
+  link: true
 ---
 
 # Real Estate And Property Investment

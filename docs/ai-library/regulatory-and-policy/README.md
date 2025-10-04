@@ -1,5 +1,7 @@
 ---
 title: Regulatory And Policy
+dir:
+  link: true
 ---
 
 # Regulatory And Policy

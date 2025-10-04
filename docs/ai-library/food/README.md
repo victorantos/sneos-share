@@ -1,5 +1,7 @@
 ---
 title: Food
+dir:
+  link: true
 ---
 
 # Food Posts

@@ -1,5 +1,7 @@
 ---
 title: History Of Science And Technology
+dir:
+  link: true
 ---
 
 # History Of Science And Technology

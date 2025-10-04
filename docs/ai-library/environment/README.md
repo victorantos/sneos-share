@@ -1,5 +1,7 @@
 ---
 title: Environment
+dir:
+  link: true
 ---
 
 # Environment Posts

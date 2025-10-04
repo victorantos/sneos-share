@@ -1,5 +1,7 @@
 ---
 title: Consumer Finance Education
+dir:
+  link: true
 ---
 
 # Consumer Finance Education

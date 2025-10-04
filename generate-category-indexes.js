@@ -79,6 +79,8 @@ function generateCategoryReadme(categoryPath, categoryName) {
     let totalPosts = 0;
     let readmeContent = `---
 title: ${formattedCategoryName}
+dir:
+  link: true
 ---
 
 # ${formattedCategoryName}
@@ -153,6 +155,8 @@ ${description}
 
     let readmeContent = `---
 title: ${formattedCategoryName}
+dir:
+  link: true
 ---
 
 # ${formattedCategoryName} Posts

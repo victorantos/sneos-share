@@ -1,5 +1,7 @@
 ---
 title: Technical Documentation
+dir:
+  link: true
 ---
 
 # Technical Documentation

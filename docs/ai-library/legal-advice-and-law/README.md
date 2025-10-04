@@ -1,5 +1,7 @@
 ---
 title: Legal Advice And Law
+dir:
+  link: true
 ---
 
 # Legal Advice And Law

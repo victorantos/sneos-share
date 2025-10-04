@@ -1,5 +1,7 @@
 ---
 title: Specialized Litigation
+dir:
+  link: true
 ---
 
 # Specialized Litigation

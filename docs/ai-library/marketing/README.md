@@ -1,5 +1,7 @@
 ---
 title: Marketing
+dir:
+  link: true
 ---
 
 # Marketing Posts

@@ -1,5 +1,7 @@
 ---
 title: Supply Chain And Logistics
+dir:
+  link: true
 ---
 
 # Supply Chain And Logistics

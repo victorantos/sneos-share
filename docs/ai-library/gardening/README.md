@@ -1,5 +1,7 @@
 ---
 title: Gardening
+dir:
+  link: true
 ---
 
 # Gardening

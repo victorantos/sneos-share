@@ -1,5 +1,7 @@
 ---
 title: Alternative Medicine And Holistic Health
+dir:
+  link: true
 ---
 
 # Alternative Medicine And Holistic Health

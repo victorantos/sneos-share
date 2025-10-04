@@ -1,5 +1,7 @@
 ---
 title: Academic Career Development
+dir:
+  link: true
 ---
 
 # Academic Career Development

@@ -1,5 +1,7 @@
 ---
 title: B2b Marketing
+dir:
+  link: true
 ---
 
 # B2b Marketing

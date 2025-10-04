@@ -1,5 +1,7 @@
 ---
 title: Academic Legal
+dir:
+  link: true
 ---
 
 # Academic Legal

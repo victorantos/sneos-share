@@ -1,5 +1,7 @@
 ---
 title: Sports
+dir:
+  link: true
 ---
 
 # Sports Posts

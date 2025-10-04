@@ -1,5 +1,7 @@
 ---
 title: Home Energy
+dir:
+  link: true
 ---
 
 # Home Energy

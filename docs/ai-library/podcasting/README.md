@@ -1,5 +1,7 @@
 ---
 title: Podcasting
+dir:
+  link: true
 ---
 
 # Podcasting Posts

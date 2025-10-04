@@ -1,5 +1,7 @@
 ---
 title: University Admissions And Funding
+dir:
+  link: true
 ---
 
 # University Admissions And Funding

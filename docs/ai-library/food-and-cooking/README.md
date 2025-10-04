@@ -1,5 +1,7 @@
 ---
 title: Food And Cooking
+dir:
+  link: true
 ---
 
 # Food And Cooking

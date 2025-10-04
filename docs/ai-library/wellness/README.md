@@ -1,5 +1,7 @@
 ---
 title: Wellness
+dir:
+  link: true
 ---
 
 # Wellness Posts

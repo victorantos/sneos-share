@@ -1,5 +1,7 @@
 ---
 title: Personal Finance And Investment
+dir:
+  link: true
 ---
 
 # Personal Finance And Investment

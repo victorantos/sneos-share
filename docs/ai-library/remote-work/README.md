@@ -1,5 +1,7 @@
 ---
 title: Remote Work
+dir:
+  link: true
 ---
 
 # Remote Work

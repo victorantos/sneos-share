@@ -1,5 +1,7 @@
 ---
 title: Legal Education
+dir:
+  link: true
 ---
 
 # Legal Education

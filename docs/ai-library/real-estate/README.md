@@ -1,5 +1,7 @@
 ---
 title: Real Estate
+dir:
+  link: true
 ---
 
 # Real Estate Posts

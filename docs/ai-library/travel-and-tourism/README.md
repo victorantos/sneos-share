@@ -1,5 +1,7 @@
 ---
 title: Travel And Tourism
+dir:
+  link: true
 ---
 
 # Travel And Tourism

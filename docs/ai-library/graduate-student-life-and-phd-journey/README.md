@@ -1,5 +1,7 @@
 ---
 title: Graduate Student Life And Phd Journey
+dir:
+  link: true
 ---
 
 # Graduate Student Life And Phd Journey

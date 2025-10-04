@@ -1,5 +1,7 @@
 ---
 title: Science And Research
+dir:
+  link: true
 ---
 
 # Science And Research

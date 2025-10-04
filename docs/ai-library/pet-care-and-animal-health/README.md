@@ -1,5 +1,7 @@
 ---
 title: Pet Care And Animal Health
+dir:
+  link: true
 ---
 
 # Pet Care And Animal Health

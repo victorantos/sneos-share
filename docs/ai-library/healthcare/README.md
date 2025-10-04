@@ -1,5 +1,7 @@
 ---
 title: Healthcare
+dir:
+  link: true
 ---
 
 # Healthcare Posts

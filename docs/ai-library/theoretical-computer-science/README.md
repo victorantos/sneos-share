@@ -1,5 +1,7 @@
 ---
 title: Theoretical Computer Science
+dir:
+  link: true
 ---
 
 # Theoretical Computer Science

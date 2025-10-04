@@ -1,5 +1,7 @@
 ---
 title: Diy And Home Improvement
+dir:
+  link: true
 ---
 
 # Diy And Home Improvement

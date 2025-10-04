@@ -1,5 +1,7 @@
 ---
 title: Computational Biology And Bioinformatics
+dir:
+  link: true
 ---
 
 # Computational Biology And Bioinformatics

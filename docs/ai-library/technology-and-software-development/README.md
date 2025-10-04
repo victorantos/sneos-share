@@ -1,5 +1,7 @@
 ---
 title: Technology And Software Development
+dir:
+  link: true
 ---
 
 # Technology And Software Development

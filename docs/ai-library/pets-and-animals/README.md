@@ -1,5 +1,7 @@
 ---
 title: Pets And Animals
+dir:
+  link: true
 ---
 
 # Pets And Animals

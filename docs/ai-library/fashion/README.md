@@ -1,5 +1,7 @@
 ---
 title: Fashion
+dir:
+  link: true
 ---
 
 # Fashion Posts

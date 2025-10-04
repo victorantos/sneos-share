@@ -1,5 +1,7 @@
 ---
 title: Parenting And Child Development
+dir:
+  link: true
 ---
 
 # Parenting And Child Development

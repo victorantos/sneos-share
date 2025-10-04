@@ -1,5 +1,7 @@
 ---
 title: Technology And Devices
+dir:
+  link: true
 ---
 
 # Technology And Devices

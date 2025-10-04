@@ -1,5 +1,7 @@
 ---
 title: Business And Sales
+dir:
+  link: true
 ---
 
 # Business And Sales

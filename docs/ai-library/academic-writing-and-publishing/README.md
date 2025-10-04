@@ -1,5 +1,7 @@
 ---
 title: Academic Writing And Publishing
+dir:
+  link: true
 ---
 
 # Academic Writing And Publishing

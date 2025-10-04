@@ -1,5 +1,7 @@
 ---
 title: Agriculture And Farming
+dir:
+  link: true
 ---
 
 # Agriculture And Farming

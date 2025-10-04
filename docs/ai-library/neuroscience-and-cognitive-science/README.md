@@ -1,5 +1,7 @@
 ---
 title: Neuroscience And Cognitive Science
+dir:
+  link: true
 ---
 
 # Neuroscience And Cognitive Science

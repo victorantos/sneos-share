@@ -1,5 +1,7 @@
 ---
 title: Education Technology (edtech)
+dir:
+  link: true
 ---
 
 # Education Technology (edtech)

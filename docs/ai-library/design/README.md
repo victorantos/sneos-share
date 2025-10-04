@@ -1,5 +1,7 @@
 ---
 title: Design
+dir:
+  link: true
 ---
 
 # Design Posts

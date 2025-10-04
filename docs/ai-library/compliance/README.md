@@ -1,5 +1,7 @@
 ---
 title: Compliance
+dir:
+  link: true
 ---
 
 # Compliance

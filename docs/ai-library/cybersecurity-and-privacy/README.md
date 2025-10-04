@@ -1,5 +1,7 @@
 ---
 title: Cybersecurity And Privacy
+dir:
+  link: true
 ---
 
 # Cybersecurity And Privacy

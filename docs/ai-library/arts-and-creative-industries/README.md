@@ -1,5 +1,7 @@
 ---
 title: Arts And Creative Industries
+dir:
+  link: true
 ---
 
 # Arts And Creative Industries

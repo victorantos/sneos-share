@@ -1,5 +1,7 @@
 ---
 title: Relationships
+dir:
+  link: true
 ---
 
 # Relationships Posts

@@ -1,5 +1,7 @@
 ---
 title: Specialized Banking
+dir:
+  link: true
 ---
 
 # Specialized Banking

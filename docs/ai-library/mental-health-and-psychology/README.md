@@ -1,5 +1,7 @@
 ---
 title: Mental Health And Psychology
+dir:
+  link: true
 ---
 
 # Mental Health And Psychology

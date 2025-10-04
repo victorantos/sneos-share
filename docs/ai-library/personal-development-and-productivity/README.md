@@ -1,5 +1,7 @@
 ---
 title: Personal Development And Productivity
+dir:
+  link: true
 ---
 
 # Personal Development And Productivity

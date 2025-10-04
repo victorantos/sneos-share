@@ -1,5 +1,7 @@
 ---
 title: Data Science And Analytics
+dir:
+  link: true
 ---
 
 # Data Science And Analytics

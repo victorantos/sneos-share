@@ -1,5 +1,7 @@
 ---
 title: Digital Marketing And Seo
+dir:
+  link: true
 ---
 
 # Digital Marketing And Seo

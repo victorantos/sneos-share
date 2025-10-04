@@ -1,5 +1,7 @@
 ---
 title: Philosophy Of Science And Ethics
+dir:
+  link: true
 ---
 
 # Philosophy Of Science And Ethics

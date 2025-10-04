@@ -1,5 +1,7 @@
 ---
 title: Photography
+dir:
+  link: true
 ---
 
 # Photography Posts

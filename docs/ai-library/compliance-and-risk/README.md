@@ -1,5 +1,7 @@
 ---
 title: Compliance And Risk
+dir:
+  link: true
 ---
 
 # Compliance And Risk

@@ -1,5 +1,7 @@
 ---
 title: Cryptocurrency And Blockchain
+dir:
+  link: true
 ---
 
 # Cryptocurrency And Blockchain

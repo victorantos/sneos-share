@@ -1,5 +1,7 @@
 ---
 title: Health And Wellness
+dir:
+  link: true
 ---
 
 # Health And Wellness

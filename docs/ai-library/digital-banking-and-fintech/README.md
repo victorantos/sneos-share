@@ -1,5 +1,7 @@
 ---
 title: Digital Banking And Fintech
+dir:
+  link: true
 ---
 
 # Digital Banking And Fintech

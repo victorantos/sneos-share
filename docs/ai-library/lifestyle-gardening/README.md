@@ -1,5 +1,7 @@
 ---
 title: Lifestyle Gardening
+dir:
+  link: true
 ---
 
 # Lifestyle Gardening

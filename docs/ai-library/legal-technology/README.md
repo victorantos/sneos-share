@@ -1,5 +1,7 @@
 ---
 title: Legal Technology
+dir:
+  link: true
 ---
 
 # Legal Technology

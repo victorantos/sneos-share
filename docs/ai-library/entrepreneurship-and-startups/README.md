@@ -1,5 +1,7 @@
 ---
 title: Entrepreneurship And Startups
+dir:
+  link: true
 ---
 
 # Entrepreneurship And Startups

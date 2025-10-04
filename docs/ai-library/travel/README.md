@@ -1,5 +1,7 @@
 ---
 title: Travel
+dir:
+  link: true
 ---
 
 # Travel Posts
