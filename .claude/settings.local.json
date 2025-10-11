@@ -59,7 +59,10 @@
       "Bash(for:*)",
       "Bash(do sed -i '' 's/\"\"ChatGPT\"\": \"\"Error calling OpenAI API\\.\"\"/$0/g' \"$file\")",
       "WebFetch(domain:share.sneos.com)",
-      "Bash({} ;)"
+      "Bash({} ;)",
+      "Bash(do)",
+      "Bash(sed:*)",
+      "Bash(\"$file\")"
     ],
     "deny": [],
     "ask": []
