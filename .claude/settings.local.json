@@ -63,7 +63,8 @@
       "Bash(do)",
       "Bash(sed:*)",
       "Bash(\"$file\")",
-      "Bash(wait $!)"
+      "Bash(wait $!)",
+      "Bash(cat:*)"
     ],
     "deny": [],
     "ask": []
