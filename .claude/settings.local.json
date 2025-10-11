@@ -55,7 +55,11 @@
       "Bash([ \"$dir\" != \"legal/\" ])",
       "Bash([ \"$dir\" != \"research/\" ])",
       "Bash([ \"$dir\" != \"universities/\" ])",
-      "Bash([ \"$dir\" != \"viral-content/\" ])"
+      "Bash([ \"$dir\" != \"viral-content/\" ])",
+      "Bash(for:*)",
+      "Bash(do sed -i '' 's/\"\"ChatGPT\"\": \"\"Error calling OpenAI API\\.\"\"/$0/g' \"$file\")",
+      "WebFetch(domain:share.sneos.com)",
+      "Bash({} ;)"
     ],
     "deny": [],
     "ask": []
