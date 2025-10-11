@@ -76,7 +76,7 @@ head:
 
 4. **Security**: Look for wallets with strong security features to protect your business and your customers (e.g., encryption, fraud detection).
 
-5. **Support**: Reliable customer support can help resolve issues quickly and is important for maintaining your business's reputation.
+5. **Support**: Reliable customer support can help resolve issues quickly and is important for maintaining your business&#x27;s reputation.
 
 ### Conclusion
 
