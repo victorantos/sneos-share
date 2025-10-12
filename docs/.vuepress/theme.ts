@@ -42,8 +42,11 @@ export default hopeTheme({
   plugins: {
     sitemap: {
       excludePaths: ["/404.html"],
-      // TEST: Using static value to see if sitemap plugin respects configuration
-      // If this works, the issue is that getter functions aren't supported
+      // Global default for all pages - individual posts rarely change after creation
+      // Override this in frontmatter for specific pages:
+      // - Homepage: sitemap.changefreq: daily
+      // - Index pages (/compare/, /ai-library/): sitemap.changefreq: weekly
+      // Note: vuepress-theme-hope sitemap plugin doesn't support getter functions
       changefreq: "monthly",
     },
     seo: {
