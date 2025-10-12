@@ -4,7 +4,7 @@ description: "Comprehensive index of 2119 AI comparison posts across 100 categor
 date: 2025-09-29
 category: comparison
 sitemap:
-  changefreq: weekly
+  changefreq: daily
 tags:
   - AI Comparison
   - Index

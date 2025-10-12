@@ -1,7 +1,7 @@
 ---
 title: AI Model Comparisons
 sitemap:
-  changefreq: weekly
+  changefreq: daily
 ---
 
 # AI Model Comparisons

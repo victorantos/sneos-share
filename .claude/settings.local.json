@@ -65,7 +65,9 @@
       "Bash(\"$file\")",
       "Bash(wait $!)",
       "Bash(cat:*)",
-      "Bash(rm:*)"
+      "Bash(rm:*)",
+      "Bash(gh run view:*)",
+      "WebFetch(domain:ecosystem.vuejs.press)"
     ],
     "deny": [],
     "ask": []
