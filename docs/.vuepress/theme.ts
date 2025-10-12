@@ -52,20 +52,42 @@ export default hopeTheme({
         return page.git?.updatedTime || page.frontmatter?.date || new Date('2025-01-01').toISOString();
       },
       changefreqGetter: (page) => {
-        // Homepage and compare index change frequently
-        if (page.path === '/' || page.path === '/compare/' || page.path === '/compare/index.html') {
+        // Homepage changes frequently
+        if (page.path === '/') {
           return 'daily';
         }
-        // Individual comparison pages rarely change after creation
+        // Index pages change when new content is added
+        if (page.path === '/compare/' || page.path === '/compare/index.html' ||
+            page.path === '/ai-library/' || page.path === '/ai-library/index.html' ||
+            page.path.match(/\/ai-library\/[^/]+\/$/)) {
+          return 'weekly';
+        }
+        // Individual comparison and ai-library posts rarely change after creation
+        // Only regenerated if AI model times out or throws errors
+        if (page.path.includes('/compare/') || page.path.includes('/ai-library/')) {
+          return 'monthly';
+        }
+        // Other pages
         return 'yearly';
       },
       priorityGetter: (page) => {
         // Homepage has highest priority
         if (page.path === '/') return 1.0;
-        // Compare index is important for discovering new content
-        if (page.path === '/compare/' || page.path === '/compare/index.html') return 0.9;
-        // Individual comparisons have standard priority
-        return 0.6;
+        // Main index pages are important for discovering new content
+        if (page.path === '/compare/' || page.path === '/compare/index.html' ||
+            page.path === '/ai-library/' || page.path === '/ai-library/index.html') {
+          return 0.9;
+        }
+        // Category index pages in ai-library
+        if (page.path.match(/\/ai-library\/[^/]+\/$/) || page.path.match(/\/ai-library\/[^/]+\/index\.html$/)) {
+          return 0.7;
+        }
+        // Individual comparison and ai-library posts
+        if (page.path.includes('/compare/') || page.path.includes('/ai-library/')) {
+          return 0.6;
+        }
+        // Other pages
+        return 0.5;
       },
     },
     seo: {
