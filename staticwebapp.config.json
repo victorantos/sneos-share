@@ -14,7 +14,6 @@
       "/*.ico",
       "/*.txt",
       "/*.xml",
-      "/*.html",
       "/blog-redirect.html",
       "/ai-library*"
     ]
