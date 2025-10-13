@@ -15,11 +15,12 @@ export default defineClientConfig({
     // Fix for mobile navigation buttons not working on iOS
     if (typeof window !== 'undefined') {
       const fixMobileNav = () => {
-        // Target the sidebar button and dark mode toggle
+        // Target all the mobile nav buttons
         const sidebarButton = document.querySelector('.vp-toggle-sidebar-button');
+        const navbarButton = document.querySelector('.vp-toggle-navbar-button');
         const darkModeButton = document.querySelector('.vp-color-mode-switch');
 
-        const buttons = [sidebarButton, darkModeButton].filter(Boolean);
+        const buttons = [sidebarButton, navbarButton, darkModeButton].filter(Boolean);
 
         buttons.forEach(button => {
           if (button instanceof HTMLElement && !button.dataset.touchFixed) {

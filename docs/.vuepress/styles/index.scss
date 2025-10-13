@@ -206,8 +206,27 @@
   }
 }
 
-// Mobile navigation fix for iOS
+// Mobile navigation improvements
 @media (max-width: 768px) {
+  // Fix horizontal scrolling - make navbar fit properly
+  .vp-navbar {
+    position: relative;
+    z-index: 999 !important;
+    max-width: 100vw;
+    overflow-x: hidden;
+
+    .vp-navbar-start,
+    .vp-navbar-end {
+      position: relative;
+      z-index: 1000 !important;
+    }
+
+    // Hide nav items in header on mobile (they'll be in burger menu)
+    .vp-navbar-center {
+      display: none !important;
+    }
+  }
+
   // Fix for sidebar toggle button
   .vp-toggle-sidebar-button {
     cursor: pointer !important;
@@ -223,17 +242,32 @@
     padding: 8px !important;
   }
 
-  // Hide the useless right burger menu button on mobile
+  // Show the right burger menu and make it work properly
   .vp-toggle-navbar-button {
-    display: none !important;
+    display: flex !important;
+    cursor: pointer !important;
+    pointer-events: auto !important;
+    touch-action: manipulation !important;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0.15);
+    position: relative !important;
+    z-index: 1000 !important;
+    min-width: 44px !important;
+    min-height: 44px !important;
+    padding: 8px !important;
+
+    // Don't interfere with the burger icon spans
+    span {
+      pointer-events: none !important;
+    }
   }
 
-  // Show dark mode toggle on mobile instead
-  .vp-nav-item.hide-in-mobile {
-    display: block !important;
+  // Make sure dark mode button appears in the mobile menu
+  #nav-screen {
+    .vp-nav-item.hide-in-mobile {
+      display: block !important;
+    }
 
     .vp-color-mode-switch {
-      display: block !important;
       cursor: pointer !important;
       pointer-events: auto !important;
       touch-action: manipulation !important;
@@ -244,15 +278,17 @@
     }
   }
 
-  // Ensure navbar containers have proper z-index
-  .vp-navbar {
-    position: relative;
-    z-index: 999 !important;
+  // Hide GitHub repo link from desktop header but show in mobile menu
+  .vp-navbar-end {
+    .vp-action:has(.github-icon) {
+      display: none !important;
+    }
+  }
 
-    .vp-navbar-start,
-    .vp-navbar-end {
-      position: relative;
-      z-index: 1000 !important;
+  // Show GitHub in mobile nav screen
+  #nav-screen {
+    .vp-action:has(.github-icon) {
+      display: block !important;
     }
   }
 }

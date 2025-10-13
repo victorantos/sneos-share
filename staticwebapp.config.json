@@ -1,17 +1,6 @@
 {
   "trailingSlash": "auto",
-  "routes": [
-    {
-      "route": "/ai-library",
-      "redirect": "/ai-library/",
-      "statusCode": 301
-    },
-    {
-      "route": "/compare",
-      "redirect": "/compare/",
-      "statusCode": 301
-    }
-  ],
+  "routes": [],
   "navigationFallback": {
     "rewrite": "/blog-redirect.html",
     "exclude": [
@@ -25,9 +14,10 @@
       "/*.ico",
       "/*.txt",
       "/*.xml",
+      "/*.html",
       "/blog-redirect.html",
-      "/ai-library/*",
-      "/compare/*"
+      "/ai-library*",
+      "/compare*"
     ]
   },
   "mimeTypes": {

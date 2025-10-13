@@ -15,7 +15,7 @@ export default hopeTheme({
 
   docsDir: "docs",
 
-  // navbar
+  // navbar - simplified for mobile
   navbar: [
     {
       text: "AI Comparisons",
@@ -26,6 +26,11 @@ export default hopeTheme({
       text: "AI Library",
       icon: "book",
       link: "/ai-library/",
+    },
+    {
+      text: "GitHub",
+      icon: "fab fa-github",
+      link: "https://github.com/victorantos/sneos-share",
     },
   ],
 
