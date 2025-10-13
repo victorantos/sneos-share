@@ -1,6 +1,11 @@
 {
   "trailingSlash": "auto",
-  "routes": [],
+  "routes": [
+    {
+      "route": "/compare/*/*",
+      "rewrite": "/blog-redirect.html"
+    }
+  ],
   "navigationFallback": {
     "rewrite": "/blog-redirect.html",
     "exclude": [
@@ -16,7 +21,8 @@
       "/*.xml",
       "/*.html",
       "/blog-redirect.html",
-      "/ai-library*"
+      "/ai-library*",
+      "/compare*"
     ]
   },
   "mimeTypes": {
