@@ -221,9 +221,30 @@
       z-index: 1000 !important;
     }
 
-    // Hide nav items in header on mobile (they'll be in burger menu)
+    // Keep navbar center visible but simplify
     .vp-navbar-center {
-      display: none !important;
+      display: flex !important;
+      flex: 1;
+      justify-content: center;
+      overflow: hidden;
+
+      .vp-nav-links {
+        display: flex;
+        gap: 0.5rem;
+
+        .vp-nav-item {
+          // Hide AI Comparisons on mobile (accessible via burger menu)
+          &:first-child {
+            display: none !important;
+          }
+
+          // Show AI Library
+          a {
+            font-size: 0.9rem;
+            padding: 0.25rem 0.5rem;
+          }
+        }
+      }
     }
   }
 
@@ -259,6 +280,16 @@
     span {
       pointer-events: none !important;
     }
+  }
+
+  // Remove unnecessary space between header and content
+  .vp-page {
+    padding-top: 0 !important;
+  }
+
+  // Reduce breadcrumb margin
+  .vp-breadcrumb {
+    margin-top: 0.5rem !important;
   }
 
   // Make sure dark mode button appears in the mobile menu
