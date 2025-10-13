@@ -1,15 +1,6 @@
 {
+  "trailingSlash": "always",
   "routes": [
-    {
-      "route": "/ai-library.html",
-      "redirect": "/ai-library/",
-      "statusCode": 301
-    },
-    {
-      "route": "/compare.html",
-      "redirect": "/compare/",
-      "statusCode": 301
-    },
     {
       "route": "/ai-library",
       "redirect": "/ai-library/",
