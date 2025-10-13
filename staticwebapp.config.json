@@ -1,5 +1,5 @@
 {
-  "trailingSlash": "always",
+  "trailingSlash": "auto",
   "routes": [
     {
       "route": "/ai-library",
@@ -13,11 +13,30 @@
     }
   ],
   "navigationFallback": {
-    "rewrite": "/blog-redirect.html",
-    "exclude": ["/assets/*", "/css/*", "/js/*", "/*.png", "/*.jpg", "/*.svg", "/blog-redirect.html", "/ai-library/*", "/compare/*"]
+    "rewrite": "/404.html",
+    "exclude": [
+      "/assets/*",
+      "/*.js",
+      "/*.css",
+      "/*.json",
+      "/*.png",
+      "/*.jpg",
+      "/*.svg",
+      "/*.ico",
+      "/*.txt",
+      "/*.xml",
+      "/blog-redirect.html"
+    ]
   },
   "mimeTypes": {
     ".json": "application/json",
-    ".md": "text/markdown"
+    ".js": "text/javascript",
+    ".mjs": "text/javascript",
+    ".css": "text/css"
+  },
+  "responseOverrides": {
+    "404": {
+      "rewrite": "/404.html"
+    }
   }
 }
