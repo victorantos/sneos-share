@@ -13,7 +13,7 @@
     }
   ],
   "navigationFallback": {
-    "rewrite": "/404.html",
+    "rewrite": "/blog-redirect.html",
     "exclude": [
       "/assets/*",
       "/*.js",
@@ -25,7 +25,9 @@
       "/*.ico",
       "/*.txt",
       "/*.xml",
-      "/blog-redirect.html"
+      "/blog-redirect.html",
+      "/ai-library/*",
+      "/compare/*"
     ]
   },
   "mimeTypes": {
@@ -33,10 +35,5 @@
     ".js": "text/javascript",
     ".mjs": "text/javascript",
     ".css": "text/css"
-  },
-  "responseOverrides": {
-    "404": {
-      "rewrite": "/404.html"
-    }
   }
 }
