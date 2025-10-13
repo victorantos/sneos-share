@@ -1,6 +1,16 @@
 {
   "routes": [
     {
+      "route": "/ai-library.html",
+      "redirect": "/ai-library/",
+      "statusCode": 301
+    },
+    {
+      "route": "/compare.html",
+      "redirect": "/compare/",
+      "statusCode": 301
+    },
+    {
       "route": "/ai-library",
       "redirect": "/ai-library/",
       "statusCode": 301
@@ -13,7 +23,7 @@
   ],
   "navigationFallback": {
     "rewrite": "/blog-redirect.html",
-    "exclude": ["/assets/*", "/css/*", "/js/*", "/*.png", "/*.jpg", "/*.svg", "/blog-redirect.html"]
+    "exclude": ["/assets/*", "/css/*", "/js/*", "/*.png", "/*.jpg", "/*.svg", "/blog-redirect.html", "/ai-library/*", "/compare/*"]
   },
   "mimeTypes": {
     ".json": "application/json",
