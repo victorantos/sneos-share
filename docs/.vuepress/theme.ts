@@ -28,6 +28,11 @@ export default hopeTheme({
       link: "/ai-library/",
     },
     {
+      text: "Try SNEOS",
+      icon: "rocket",
+      link: "https://sneos.com",
+    },
+    {
       text: "GitHub",
       icon: "fab fa-github",
       link: "https://github.com/victorantos/sneos-share",
