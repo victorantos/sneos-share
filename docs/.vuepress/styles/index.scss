@@ -208,46 +208,51 @@
 
 // Mobile navigation fix for iOS
 @media (max-width: 768px) {
-  // Ensure burger buttons are always clickable
-  .sidebar-button,
-  .navbar-toggle-button,
-  [class*="toggle-sidebar"],
-  [class*="toggle-navbar"],
-  .vp-navbar-start > .vp-nav-item:first-child button,
-  .vp-navbar-end > .vp-nav-item:last-child button {
+  // Fix for sidebar toggle button
+  .vp-toggle-sidebar-button {
     cursor: pointer !important;
     pointer-events: auto !important;
     touch-action: manipulation !important;
-    user-select: none !important;
-    -webkit-tap-highlight-color: rgba(0, 0, 0, 0.1);
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0.15);
     position: relative !important;
-    z-index: 100 !important;
+    z-index: 1000 !important;
 
-    // Ensure adequate touch target size
-    min-width: 44px;
-    min-height: 44px;
-    display: flex !important;
-    align-items: center;
-    justify-content: center;
+    // Ensure touch target size
+    min-width: 44px !important;
+    min-height: 44px !important;
+    padding: 8px !important;
+  }
 
-    // Prevent any overlay from blocking
-    &::before,
-    &::after {
-      pointer-events: none !important;
+  // Hide the useless right burger menu button on mobile
+  .vp-toggle-navbar-button {
+    display: none !important;
+  }
+
+  // Show dark mode toggle on mobile instead
+  .vp-nav-item.hide-in-mobile {
+    display: block !important;
+
+    .vp-color-mode-switch {
+      display: block !important;
+      cursor: pointer !important;
+      pointer-events: auto !important;
+      touch-action: manipulation !important;
+      -webkit-tap-highlight-color: rgba(0, 0, 0, 0.15);
+      min-width: 44px !important;
+      min-height: 44px !important;
+      padding: 8px !important;
     }
   }
 
-  // Ensure navbar buttons are above everything
+  // Ensure navbar containers have proper z-index
   .vp-navbar {
+    position: relative;
+    z-index: 999 !important;
+
     .vp-navbar-start,
     .vp-navbar-end {
       position: relative;
-      z-index: 101 !important;
+      z-index: 1000 !important;
     }
-  }
-
-  // Fix sidebar mask z-index
-  .sidebar-mask {
-    z-index: 99 !important;
   }
 }
