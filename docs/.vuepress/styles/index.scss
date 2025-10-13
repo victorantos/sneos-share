@@ -205,3 +205,49 @@
     }
   }
 }
+
+// Mobile navigation fix for iOS
+@media (max-width: 768px) {
+  // Ensure burger buttons are always clickable
+  .sidebar-button,
+  .navbar-toggle-button,
+  [class*="toggle-sidebar"],
+  [class*="toggle-navbar"],
+  .vp-navbar-start > .vp-nav-item:first-child button,
+  .vp-navbar-end > .vp-nav-item:last-child button {
+    cursor: pointer !important;
+    pointer-events: auto !important;
+    touch-action: manipulation !important;
+    user-select: none !important;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0.1);
+    position: relative !important;
+    z-index: 100 !important;
+
+    // Ensure adequate touch target size
+    min-width: 44px;
+    min-height: 44px;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+
+    // Prevent any overlay from blocking
+    &::before,
+    &::after {
+      pointer-events: none !important;
+    }
+  }
+
+  // Ensure navbar buttons are above everything
+  .vp-navbar {
+    .vp-navbar-start,
+    .vp-navbar-end {
+      position: relative;
+      z-index: 101 !important;
+    }
+  }
+
+  // Fix sidebar mask z-index
+  .sidebar-mask {
+    z-index: 99 !important;
+  }
+}
