@@ -1,4 +1,16 @@
 {
+  "routes": [
+    {
+      "route": "/ai-library",
+      "redirect": "/ai-library/",
+      "statusCode": 301
+    },
+    {
+      "route": "/compare",
+      "redirect": "/compare/",
+      "statusCode": 301
+    }
+  ],
   "navigationFallback": {
     "rewrite": "/blog-redirect.html",
     "exclude": ["/assets/*", "/css/*", "/js/*", "/*.png", "/*.jpg", "/*.svg", "/blog-redirect.html"]
