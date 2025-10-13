@@ -35,6 +35,27 @@ export default defineClientConfig({
             }, { passive: false });
           }
         });
+
+        // Close mobile nav menu when clicking links inside it
+        const navScreen = document.getElementById('nav-screen');
+        if (navScreen && !navScreen.dataset.closeFixed) {
+          navScreen.dataset.closeFixed = 'true';
+
+          // Find all links in the nav screen
+          const navLinks = navScreen.querySelectorAll('a.route-link, a.auto-link');
+          navLinks.forEach(link => {
+            link.addEventListener('click', () => {
+              // Close the nav screen by toggling the button
+              const navbarToggle = document.querySelector('.vp-toggle-navbar-button');
+              if (navbarToggle) {
+                // Small delay to let navigation start
+                setTimeout(() => {
+                  navbarToggle.click();
+                }, 50);
+              }
+            });
+          });
+        }
       };
 
       // Run on mount

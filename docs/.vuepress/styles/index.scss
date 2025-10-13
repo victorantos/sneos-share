@@ -221,16 +221,18 @@
       z-index: 1000 !important;
     }
 
-    // Keep navbar center visible but simplify
+    // Keep AI Library link visible in header
     .vp-navbar-center {
       display: flex !important;
       flex: 1;
       justify-content: center;
-      overflow: hidden;
+      overflow: visible;
+      padding: 0 0.5rem;
 
       .vp-nav-links {
         display: flex;
-        gap: 0.5rem;
+        gap: 0.25rem;
+        align-items: center;
 
         .vp-nav-item {
           // Hide AI Comparisons on mobile (accessible via burger menu)
@@ -238,10 +240,15 @@
             display: none !important;
           }
 
-          // Show AI Library
+          // Show AI Library with proper sizing
+          &:nth-child(2) {
+            display: flex !important;
+          }
+
           a {
-            font-size: 0.9rem;
-            padding: 0.25rem 0.5rem;
+            font-size: 0.85rem;
+            padding: 0.375rem 0.75rem;
+            white-space: nowrap;
           }
         }
       }
