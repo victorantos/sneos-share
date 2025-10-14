@@ -4,6 +4,7 @@ import theme from "./theme.js";
 export default defineUserConfig({
   base: "/",
   dest: "dist",
+  cleanUrls: true,
 
   lang: "en-US",
   title: "Share Sneos",
