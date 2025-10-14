@@ -5,11 +5,6 @@
       "route": "/compare/:post",
       "redirect": "/compare/:post.html",
       "statusCode": 301
-    },
-    {
-      "route": "/ai-library/*/:post",
-      "redirect": "/ai-library/*/:post.html",
-      "statusCode": 301
     }
   ],
   "navigationFallback": {
