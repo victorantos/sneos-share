@@ -55,7 +55,9 @@
       "Bash([ \"$dir\" != \"legal/\" ])",
       "Bash([ \"$dir\" != \"research/\" ])",
       "Bash([ \"$dir\" != \"universities/\" ])",
-      "Bash([ \"$dir\" != \"viral-content/\" ])"
+      "Bash([ \"$dir\" != \"viral-content/\" ])",
+      "Bash(python3:*)",
+      "Bash(timeout 300 npm run docs:build)"
     ],
     "deny": [],
     "ask": []

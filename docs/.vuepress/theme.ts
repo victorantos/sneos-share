@@ -27,6 +27,21 @@ export default hopeTheme({
       icon: "book",
       link: "/ai-library/",
     },
+    {
+      text: "For Researchers",
+      icon: "graduation-cap",
+      link: "/ai-library/researchers/",
+    },
+    {
+      text: "Try SNEOS",
+      icon: "rocket",
+      link: "https://sneos.com",
+    },
+    {
+      text: "GitHub",
+      icon: "fab fa-github",
+      link: "https://github.com/victorantos/sneos-share",
+    },
   ],
 
   // sidebar
