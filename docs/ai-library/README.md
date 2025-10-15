@@ -3,6 +3,8 @@ title: "Index"
 description: "Comprehensive index of 2119 AI comparison posts across 100 categories"
 date: 2025-09-29
 category: comparison
+sitemap:
+  changefreq: daily
 tags:
   - AI Comparison
   - Index

@@ -1,10 +1,33 @@
 {
+  "trailingSlash": "auto",
+  "routes": [
+    {
+      "route": "/compare/:post",
+      "redirect": "/compare/:post.html",
+      "statusCode": 301
+    }
+  ],
   "navigationFallback": {
     "rewrite": "/blog-redirect.html",
-    "exclude": ["/assets/*", "/css/*", "/js/*", "/*.png", "/*.jpg", "/*.svg", "/blog-redirect.html"]
+    "exclude": [
+      "/assets/*",
+      "/*.js",
+      "/*.css",
+      "/*.json",
+      "/*.png",
+      "/*.jpg",
+      "/*.svg",
+      "/*.ico",
+      "/*.txt",
+      "/*.xml",
+      "/blog-redirect.html",
+      "/ai-library*"
+    ]
   },
   "mimeTypes": {
     ".json": "application/json",
-    ".md": "text/markdown"
+    ".js": "text/javascript",
+    ".mjs": "text/javascript",
+    ".css": "text/css"
   }
 }

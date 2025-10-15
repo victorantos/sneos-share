@@ -10,10 +10,6 @@ Browse AI comparison posts in the Consumer Finance Education category, organized
 
 ## Bank Account Optimization
 
-### [money market account comparison](bank-account-optimization/chatgpt-vs-claude-vs-deepseek-bank-account-optimization-9641.md)
-
-AI model comparison: money market account comparison...
-
 ### [high yield savings account comparison](bank-account-optimization/chatgpt-vs-claude-vs-gemini-bank-account-optimization-6607.md)
 
 AI model comparison: high yield savings account comparison...

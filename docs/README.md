@@ -3,6 +3,8 @@ home: true
 title: SNEOS Share
 heroText: AI Model Comparisons
 tagline: Share and compare how different AI models respond to the same prompts
+sitemap:
+  changefreq: daily
 actions:
   - text: View Comparisons
     link: /compare/

@@ -13,6 +13,11 @@ export default defineUserConfig({
   shouldPrefetch: false,
 
   head: [
+    // Favicon
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
+    ['link', { rel: 'alternate icon', type: 'image/png', href: '/apple-touch-icon.png' }],
+    ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' }],
+
     // Open Graph meta tags
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:title', content: 'Share Sneos' }],
