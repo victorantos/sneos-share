@@ -28,6 +28,11 @@ export default hopeTheme({
       link: "/ai-library/",
     },
     {
+      text: "For Researchers",
+      icon: "graduation-cap",
+      link: "/ai-library/researchers/",
+    },
+    {
       text: "Try SNEOS",
       icon: "rocket",
       link: "https://sneos.com",

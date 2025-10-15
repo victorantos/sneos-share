@@ -56,18 +56,8 @@
       "Bash([ \"$dir\" != \"research/\" ])",
       "Bash([ \"$dir\" != \"universities/\" ])",
       "Bash([ \"$dir\" != \"viral-content/\" ])",
-      "Bash(for:*)",
-      "Bash(do sed -i '' 's/\"\"ChatGPT\"\": \"\"Error calling OpenAI API\\.\"\"/$0/g' \"$file\")",
-      "WebFetch(domain:share.sneos.com)",
-      "Bash({} ;)",
-      "Bash(do)",
-      "Bash(sed:*)",
-      "Bash(\"$file\")",
-      "Bash(wait $!)",
-      "Bash(cat:*)",
-      "Bash(rm:*)",
-      "Bash(gh run view:*)",
-      "WebFetch(domain:ecosystem.vuejs.press)"
+      "Bash(python3:*)",
+      "Bash(timeout 300 npm run docs:build)"
     ],
     "deny": [],
     "ask": []
