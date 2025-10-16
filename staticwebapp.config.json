@@ -2,8 +2,8 @@
   "trailingSlash": "auto",
   "routes": [
     {
-      "route": "/compare/:post",
-      "redirect": "/compare/:post.html",
+      "route": "/compare/:post.html",
+      "redirect": "/compare/:post",
       "statusCode": 301
     }
   ],
