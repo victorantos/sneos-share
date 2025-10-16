@@ -1,4 +1,5 @@
 import { defineUserConfig } from "vuepress";
+import { removeHtmlExtensionPlugin } from "vuepress-plugin-remove-html-extension";
 import theme from "./theme.js";
 
 export default defineUserConfig({
@@ -11,6 +12,11 @@ export default defineUserConfig({
 
   // Disable excessive prefetching to reduce initial page load
   shouldPrefetch: false,
+
+  // Remove .html extensions from URLs
+  plugins: [
+    removeHtmlExtensionPlugin(),
+  ],
 
   head: [
     // Favicon
