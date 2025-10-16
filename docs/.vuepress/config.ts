@@ -13,7 +13,7 @@ export default defineUserConfig({
   // Disable excessive prefetching to reduce initial page load
   shouldPrefetch: false,
 
-  // Remove .html extensions from URLs
+  // Remove .html extensions from URLs (works now that special chars are removed)
   plugins: [
     removeHtmlExtensionPlugin(),
   ],

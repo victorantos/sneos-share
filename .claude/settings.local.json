@@ -59,7 +59,9 @@
       "Bash(python3:*)",
       "Bash(timeout 300 npm run docs:build)",
       "Read(//Users/victora/Downloads/**)",
-      "Bash(npm install:*)"
+      "Bash(npm install:*)",
+      "Bash(test:*)",
+      "Bash(git mv:*)"
     ],
     "deny": [],
     "ask": []
