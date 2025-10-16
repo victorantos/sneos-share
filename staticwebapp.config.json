@@ -5,6 +5,16 @@
       "route": "/compare/:post.html",
       "redirect": "/compare/:post",
       "statusCode": 301
+    },
+    {
+      "route": "/ai-library/:category/:file.html",
+      "redirect": "/ai-library/:category/:file",
+      "statusCode": 301
+    },
+    {
+      "route": "/ai-library/:category/:subcategory/:file.html",
+      "redirect": "/ai-library/:category/:subcategory/:file",
+      "statusCode": 301
     }
   ],
   "navigationFallback": {
