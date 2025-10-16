@@ -31,7 +31,8 @@
       "/*.txt",
       "/*.xml",
       "/blog-redirect.html",
-      "/ai-library*"
+      "/compare/*",
+      "/ai-library/*"
     ]
   },
   "mimeTypes": {
