@@ -7,6 +7,19 @@
       "statusCode": 301
     },
     {
+      "route": "/compare/:subfolder/:post.html",
+      "redirect": "/compare/:subfolder/:post",
+      "statusCode": 301
+    },
+    {
+      "route": "/compare/:post",
+      "rewrite": "/compare/:post.html"
+    },
+    {
+      "route": "/compare/:subfolder/:post",
+      "rewrite": "/compare/:subfolder/:post.html"
+    },
+    {
       "route": "/ai-library/:category/:file.html",
       "redirect": "/ai-library/:category/:file",
       "statusCode": 301
@@ -31,7 +44,6 @@
       "/*.txt",
       "/*.xml",
       "/blog-redirect.html",
-      "/compare/*",
       "/ai-library/*"
     ]
   },
