@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Redirecting...</title>
+    <script>
+        (function() {
+            var path = window.location.pathname;
+            var newUrl = 'https://sneos.com';
+
+            if (path.startsWith('/compare/')) {
+                // /compare/xxx -> /share/xxx
+                newUrl = 'https://sneos.com/share/' + path.substring('/compare/'.length);
+            } else if (path.startsWith('/ai-library/')) {
+                // /ai-library/xxx -> /ai-library/xxx
+                newUrl = 'https://sneos.com' + path;
+            } else if (path === '/' || path === '') {
+                newUrl = 'https://sneos.com/ai-library';
+            } else {
+                // Fallback: treat as share ID
+                newUrl = 'https://sneos.com/share' + path;
+            }
+
+            window.location.replace(newUrl);
+        })();
+    </script>
+</head>
+<body>
+    <p>Redirecting to <a href="https://sneos.com">sneos.com</a>...</p>
+</body>
+</html>

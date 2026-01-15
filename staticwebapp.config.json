@@ -1,24 +1,11 @@
 {
   "routes": [
     {
-      "route": "/compare/*",
-      "redirect": "https://sneos.com/share/{*}",
-      "statusCode": 301
-    },
-    {
-      "route": "/ai-library/*",
-      "redirect": "https://sneos.com/ai-library/{*}",
-      "statusCode": 301
-    },
-    {
-      "route": "/",
-      "redirect": "https://sneos.com/ai-library",
-      "statusCode": 301
-    },
-    {
       "route": "/*",
-      "redirect": "https://sneos.com/share/{*}",
-      "statusCode": 301
+      "rewrite": "/redirect.html"
     }
-  ]
+  ],
+  "navigationFallback": {
+    "rewrite": "/redirect.html"
+  }
 }
